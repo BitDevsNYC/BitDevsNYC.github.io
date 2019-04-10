@@ -1,7 +1,7 @@
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: none
+permalink: /:year-:month-:day-:title
 plugins: [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 sass:
@@ -14,3 +14,4 @@ description: "BitDevs is community for those interested in discussing and partic
 
 # Leave out some files
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache']
+
