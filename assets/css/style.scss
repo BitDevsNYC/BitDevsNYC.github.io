@@ -1,0 +1,23 @@
+---
+---
+
+// Typography
+$body-font: 'Source Code Pro', monospace;
+$base-font-size: 16px;
+
+// Colors
+$primary-color: #FF9900;
+$background-color: #FFF;
+$font-color: #333;
+
+// Screen size for responsiveness
+$small-screen: 360px;
+$mid-screen: 768px;
+$large-screen: 1024px;
+
+@import './reset';
+@import './global';
+@import './header';
+@import './footer';
+@import './home';
+@import './post';

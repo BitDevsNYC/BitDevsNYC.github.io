@@ -1,0 +1,16 @@
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: none
+plugins: [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+
+sass:
+  sass_dir: assets/css
+  style: :compressed
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title: "BitDevs NYC"
+description: "BitDevs is community for those interested in discussing and participating in the research and development of Bitcoin and related protocols."
+
+# Leave out some files
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache']

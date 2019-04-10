@@ -1,0 +1,14 @@
+{
+  "name": "bitdevs-scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "scrape-events": "node scrape-events.js"
+  },
+  "dependencies": {
+    "fs-extra": "7.0.1",
+    "node-fetch": "2.3.0",
+    "turndown": "5.0.3"
+  }
+}

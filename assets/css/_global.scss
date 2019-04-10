@@ -1,0 +1,65 @@
+html, body {
+  font-family: $body-font;
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: $background-color;
+  color: $font-color;
+
+  @media (max-width: $large-screen) {
+    font-size: 14px;
+  }
+
+  @media (max-width: $mid-screen) {
+    font-size: 13px;
+  }
+
+  @media (max-width: $small-screen) {
+    font-size: 12px;
+  }
+}
+
+.Site {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+a {
+  color: $primary-color;
+  text-decoration: none;
+
+  &:hover {
+    color: rgba($primary-color, 0.8);
+  }
+}
+
+p {
+  margin-bottom: 2rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 1.6rem;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-top: 3rem;
+  margin-bottom: 1.25rem;
+}
+
+h3 {
+  font-size: 1.4rem;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+
+h4 {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}

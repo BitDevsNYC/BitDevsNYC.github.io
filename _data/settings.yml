@@ -1,0 +1,6 @@
+title: 'BitDevs NYC'
+tagline: 'BitDevs is community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.'
+
+menu:
+  - {name: 'About', url: '/about'}
+  - {name: 'Meetup', url: 'https://www.meetup.com/BitDevsNYC/', external: true}

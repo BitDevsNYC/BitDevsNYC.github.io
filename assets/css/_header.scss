@@ -1,0 +1,36 @@
+.Header {
+  margin-bottom: 1.5rem;
+
+  &-border {
+    opacity: 0.4;
+    margin-top: 0.5rem;
+    overflow: hidden;
+    user-select: none;
+  }
+
+  &-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  &-logo {
+    font-size: 2.2rem;
+  }
+
+  &-nav {
+    display: flex;
+    font-size: 1.3rem;
+
+    a {
+      color: #333;
+      opacity: 0.4;
+      margin-left: 1.5rem;
+
+      &:hover {
+        color: $primary-color;
+        opacity: 1;
+      }
+    }
+  }
+}

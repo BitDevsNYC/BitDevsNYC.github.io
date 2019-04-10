@@ -1,0 +1,36 @@
+---
+layout: default
+title: Home
+---
+
+<div class="Home">
+  <p class="Home-about">
+    BitDevs is community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.
+  </p>
+
+  <div class="Home-posts">
+    <h2 class="Home-posts-title">Socratic Seminars</h2>
+    {% for post in site.posts %}
+      {% if post.type == "socratic" %}
+        <div class="Home-posts-post">
+          <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
+          <span class="Home-posts-post-arrow">&raquo;</span>
+          <a class="Home-posts-post-title" href="{{ post.url }}">{{ post.title }}</a>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <div class="Home-posts">
+    <h2 class="Home-posts-title">Whitepaper Series</h2>
+    {% for post in site.posts %}
+      {% if post.type == "whitepaper" %}
+        <div class="Home-posts-post">
+          <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
+          &raquo;
+          <a class="Home-posts-post-title" href="{{ post.url }}">{{ post.title }}</a>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>

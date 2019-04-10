@@ -1,0 +1,21 @@
+<header class="Header">
+  <div class="Header-inner">
+    <div class="Header-logo">
+      <a href="{{ site.github.url }}/">{{ site.data.settings.title }}</a>
+    </div>
+    <nav class="Header-nav">
+      {% for item in site.data.settings.menu %}
+        {% if item.external %}
+        <a href="{{ item.url }}" target="_blank" rel="noopener nofollow">
+            {{ item.name }}
+        </a>
+        {% else %}
+          <a href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a>
+        {% endif %}
+      {% endfor %}
+    </nav>
+  </div>
+  <div class="Header-border">
+    ==============================================================================================================================================================
+  </div>
+</header>

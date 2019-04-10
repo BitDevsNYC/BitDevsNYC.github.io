@@ -1,0 +1,25 @@
+.Footer {
+  margin-top: 3rem;
+
+  &-border {
+    opacity: 0.4;
+    margin-bottom: 0.5rem;
+    overflow: hidden;
+    user-select: none;
+  }
+
+  &-inner {
+    display: flex;
+    justify-content: space-between;
+
+    a {
+      color: #333;
+      opacity: 0.4;
+
+      &:hover {
+        color: $primary-color;
+        opacity: 1;
+      }
+    }
+  }
+}
