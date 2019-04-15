@@ -1,7 +1,7 @@
 ---
 layout: post
 type: whitepaper
-title: "Whitepaper Wednesday 6: Rootstock"
+title: "Whitepaper Series 6: Rootstock"
 meetup: https://www.meetup.com/BitDevsNYC/events/234098435/
 ---
 

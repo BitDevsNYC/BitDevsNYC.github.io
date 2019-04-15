@@ -1,7 +1,7 @@
 ---
 layout: post
 type: whitepaper
-title: "Whitepaper Wednesday 7: Blockchain-Free Cryptocurrencies"
+title: "Whitepaper Series 7: Blockchain-Free Cryptocurrencies"
 meetup: https://www.meetup.com/BitDevsNYC/events/235329901/
 ---
 

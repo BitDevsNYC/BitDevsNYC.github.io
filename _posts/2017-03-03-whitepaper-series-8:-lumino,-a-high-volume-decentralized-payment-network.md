@@ -1,7 +1,7 @@
 ---
 layout: post
 type: whitepaper
-title: "Whitepaper 8: Lumino, a High-volume Decentralized Payment Network"
+title: "Whitepaper Series 8: Lumino, a High-volume Decentralized Payment Network"
 meetup: https://www.meetup.com/BitDevsNYC/events/238042213/
 ---
 

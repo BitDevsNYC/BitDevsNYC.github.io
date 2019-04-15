@@ -1,7 +1,7 @@
 ---
 layout: post
 type: whitepaper
-title: "Whitepaper: Zerocash and Zcash"
+title: "Whitepaper Series 4: Zerocash and Zcash"
 meetup: https://www.meetup.com/BitDevsNYC/events/230051095/
 ---
 

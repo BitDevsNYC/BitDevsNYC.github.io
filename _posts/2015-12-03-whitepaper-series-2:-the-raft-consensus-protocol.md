@@ -1,7 +1,7 @@
 ---
 layout: post
 type: whitepaper
-title: "Whitepaper Wednesday: The RAFT Consensus Protocol"
+title: "Whitepaper Series 2: The RAFT Consensus Protocol"
 meetup: https://www.meetup.com/BitDevsNYC/events/226757250/
 ---
 

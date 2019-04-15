@@ -1,7 +1,7 @@
 ---
 layout: post
 type: whitepaper
-title: "Whitepaper Wednesday: MIT's Enigma"
+title: "Whitepaper Series 1: MIT's Enigma"
 meetup: https://www.meetup.com/BitDevsNYC/events/225374509/
 ---
 
