@@ -1,7 +1,7 @@
 ---
 layout: post
 type: whitepaper
-title: "Whitepaper Tuesday 5: Ethereum Isn't Turing Complete, and It Doesn't Matter"
+title: "Whitepaper Series 5: Ethereum Isn't Turing Complete, and It Doesn't Matter"
 meetup: https://www.meetup.com/BitDevsNYC/events/232929523/
 ---
 

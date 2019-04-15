@@ -1,7 +1,7 @@
 ---
 layout: post
 type: whitepaper
-title: "Whitepaper Wednesday 9: Anonymous Mixing Networks and Loopix"
+title: "Whitepaper Series 9: Anonymous Mixing Networks and Loopix"
 meetup: https://www.meetup.com/BitDevsNYC/events/239675422/
 ---
 

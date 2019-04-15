@@ -1,7 +1,7 @@
 ---
 layout: post
 type: whitepaper
-title: "Whitepaper Wednesday: Elliptic Curve Cryptography"
+title: "Whitepaper Series 3: Elliptic Curve Cryptography"
 meetup: https://www.meetup.com/BitDevsNYC/events/228728729/
 ---
 
