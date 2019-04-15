@@ -1,6 +1,6 @@
 ---
 layout: post
-type: socratic
+type: ethereum_socratic
 title: "Ethereum Socratic Seminar 1"
 meetup: https://www.meetup.com/BitDevsNYC/events/227921068/
 ---
