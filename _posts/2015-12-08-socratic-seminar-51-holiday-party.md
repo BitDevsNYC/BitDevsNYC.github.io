@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar 51 + Holiday Party"
+title: "Socratic Seminar 51: Holiday Party"
 meetup: https://www.meetup.com/BitDevsNYC/events/226735385/
 ---
 

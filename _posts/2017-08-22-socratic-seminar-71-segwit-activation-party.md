@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar 71 + Segwit Activation Party"
+title: "Socratic Seminar 71: Segwit Activation Party"
 meetup: https://www.meetup.com/BitDevsNYC/events/242383995/
 ---
 
