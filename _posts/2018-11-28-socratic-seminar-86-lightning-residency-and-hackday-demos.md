@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar 86 + Lightning Residency and HackDay Demos"
+title: "Socratic Seminar 86: Lightning Residency and HackDay Demos"
 meetup: https://www.meetup.com/BitDevsNYC/events/255980044/
 ---
 
