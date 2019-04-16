@@ -19,10 +19,7 @@ title: Home
         </div>
       {% endif %}
     {% endfor %}
-  </div>
-
-  <div class="Home-posts">
-    <h2 class="Home-posts-title">Ethereum Socratic Seminars</h2>
+    <h4 class="Home-posts-subtitle">Ethereum Socratic Seminars</h4>
     {% for post in site.posts %}
       {% if post.type == "ethereum_socratic" %}
         <div class="Home-posts-post">
