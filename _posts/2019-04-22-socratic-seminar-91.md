@@ -5,13 +5,13 @@ title: "Socratic Seminar 91"
 meetup: https://www.meetup.com/BitDevsNYC/events/260383251/
 ---
 
-# Discussion item
+## Discussion item
 
-# CVEs, blog posts, papers, network stats
+## CVEs, blog posts, papers, network stats
 
-# Pull Requests
+## Pull Requests
 
-# The month in Lapps
+## The month in Lapps
 
 * Block Clock - [https://blockclock.live/](https://blockclock.live/)
 * Paywall any link - [https://paywall.link/](https://paywall.link/)
