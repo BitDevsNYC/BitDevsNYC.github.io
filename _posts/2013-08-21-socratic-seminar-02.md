@@ -5,11 +5,29 @@ title: "Socratic Seminar 2"
 meetup: https://www.meetup.com/BitDevsNYC/events/133848062/
 ---
 
-Topics: TBD, let's see how these next two weeks play out. Lot's of exciting
-stuff on the horizon.
+BitWeav <br>
+http://bitweav.org/ <br>
 
-This time around we will have plenty of material to work with, lots of cool
-stuff to throw up on the projector, etc...
+Rangzen (Circumventing Government Blackouts) <br>
+http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-128.html<br>
 
-If you RSVP and can't make it please don't forget to cancel your spot. Much
-appreciated.
+Propagation delay/double spending: <br>
+http://people.cs.georgetown.edu/~cnewport/teaching/cosc841-spring19/papers/new/fast-payments.pdf <br>
+
+Bitcoin-development mailing list: <br>
+https://lists.sourceforge.net/lists/listinfo/bitcoin-development <br>
+
+Micropayments in Node.js: <br>
+https://bitcointalk.org/index.php?topic=276883.0 <br>
+
+BIP 32.5 <br>
+http://comments.gmane.org/gmane.comp.bitcoin.devel/2734 <br>
+
+Deterministic DSA <br>
+https://tools.ietf.org/html/rfc6979 <br>
+
+Cryptopocalypse <br>
+http://ritter.vg/blog-cryptopocalypse_followup.html <br>
+
+How this affects Bitcoin <br>
+https://plus.google.com/109997184684711486490/posts/5xAYhHFsBAC <br>
