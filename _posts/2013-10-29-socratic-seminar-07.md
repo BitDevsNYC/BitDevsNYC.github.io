@@ -7,14 +7,26 @@ meetup: https://www.meetup.com/BitDevsNYC/events/145819432/
 
 Core dev
 --------
+Core Development Update 5 <br>
+[https://bitcoinfoundation.org/blog/?p=290](https://bitcoinfoundation.org/blog/?p=290) <br>
 
-- Core Development Update #5
-- "Reject" transaction error message implementation
-- Compact Fraud Proofs
-- Pay to contract with forgeability (chameleon hash)
-- Spying Nodes?
-- Confidence Chains
-- BIP 70-72 for Onion URLs
+"Reject" transaction error message proposal <br>
+[https://gist.github.com/gavinandresen/7079034](https://gist.github.com/gavinandresen/7079034) <br>
+
+Compact Fraud Proofs <br>
+[https://bitcointalk.org/index.php?topic=314506.0](https://bitcointalk.org/index.php?topic=314506.0) <br>
+
+Pay to contract with forgeability / chameleon hash <br>
+[https://bitcointalk.org/index.php?topic=318279.0](https://bitcointalk.org/index.php?topic=318279.0) <br>
+
+Spying nodes? <br>
+[https://bitcointalk.org/index.php?topic=319465.0](https://bitcointalk.org/index.php?topic=319465.0)
+
+Confidence Chains <br>
+
+Merged Mining vs. Side Chains <br>
+
+BIP 70-72 for Onion URLs <br>
 
 Tools
 -----
