@@ -48,12 +48,12 @@ Thanks to our friends at Chaincode Labs for food and refreshments. If you can’
 ## ML and Bitcoin Optech
 - [[bitcoin-dev] assumeutxo and UTXO snapshots](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-April/016825.html)
 - [[bitcoin-dev] Payjoin2swap: Enabling Payjoin Without Merchant Purchases](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-April/016888.html)
-- Bitcoin Optech \
-[https://bitcoinops.org/en/newsletters/2019/03/19/](https://bitcoinops.org/en/newsletters/2019/03/19/) \
-[https://bitcoinops.org/en/newsletters/2019/03/26/](https://bitcoinops.org/en/newsletters/2019/03/26/) \
-[https://bitcoinops.org/en/newsletters/2019/04/02/](https://bitcoinops.org/en/newsletters/2019/04/02/) \
-[https://bitcoinops.org/en/newsletters/2019/04/09/](https://bitcoinops.org/en/newsletters/2019/04/09/) \
-[https://bitcoinops.org/en/newsletters/2019/04/16/](https://bitcoinops.org/en/newsletters/2019/04/16/) 
+- Bitcoin Optech <br>
+[https://bitcoinops.org/en/newsletters/2019/03/19/](https://bitcoinops.org/en/newsletters/2019/03/19/) <br>
+[https://bitcoinops.org/en/newsletters/2019/03/26/](https://bitcoinops.org/en/newsletters/2019/03/26/) <br>
+[https://bitcoinops.org/en/newsletters/2019/04/02/](https://bitcoinops.org/en/newsletters/2019/04/02/) <br>
+[https://bitcoinops.org/en/newsletters/2019/04/09/](https://bitcoinops.org/en/newsletters/2019/04/09/) <br>
+[https://bitcoinops.org/en/newsletters/2019/04/16/](https://bitcoinops.org/en/newsletters/2019/04/16/) <br>
 
 ## CVEs and Research
 
