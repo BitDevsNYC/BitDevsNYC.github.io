@@ -52,6 +52,7 @@ Thanks to our friends at Chaincode Labs for food and refreshments. If you can’
 * Edit Satoshi's whitepaper - [https://www.toshi.vision/](https://www.toshi.vision/)
 * Pay-per-hour Docker instance - [https://lnsh.pw/](https://lnsh.pw/)
 * Sats for Likes (or follows, or retweets) - [https://kriptode.com/satsforlikes/index.html](https://kriptode.com/satsforlikes/index.html)
+* RUN LND shirts - [http://runlnd.wbobeirne.com](http://runlnd.wbobeirne.com)
 * Lightning Loop Alpha - [https://blog.lightning.engineering/posts/2019/03/20/loop.html](https://blog.lightning.engineering/posts/2019/03/20/loop.html)
 
 ## CVEs and Research
