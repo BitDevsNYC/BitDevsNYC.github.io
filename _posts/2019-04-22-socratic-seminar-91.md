@@ -25,16 +25,6 @@ Thanks to our friends at Chaincode Labs for food and refreshments. If you can’
 
 - [BIP 127: Simple Proof-of-Reserves Transactions #756](https://github.com/bitcoin/bips/pull/756).
 
-#### ML and Bitcoin Optech
-- [[bitcoin-dev] assumeutxo and UTXO snapshots](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-April/016825.html)
-- [[bitcoin-dev] Payjoin2swap: Enabling Payjoin Without Merchant Purchases](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-April/016888.html)
-- Bitcoin Optech \
-[https://bitcoinops.org/en/newsletters/2019/03/19/](https://bitcoinops.org/en/newsletters/2019/03/19/) \
-[https://bitcoinops.org/en/newsletters/2019/03/26/](https://bitcoinops.org/en/newsletters/2019/03/26/) \
-[https://bitcoinops.org/en/newsletters/2019/04/02/](https://bitcoinops.org/en/newsletters/2019/04/02/) \
-[https://bitcoinops.org/en/newsletters/2019/04/09/](https://bitcoinops.org/en/newsletters/2019/04/09/) \
-[https://bitcoinops.org/en/newsletters/2019/04/16/](https://bitcoinops.org/en/newsletters/2019/04/16/) 
-
 #### LND
 - [lnd 0.6 Release](https://blog.lightning.engineering/announcement/2019/04/16/lnd-v0.6.html)
 - [breacharbiter: watch for spends on all inputs until reaching terminal states #2765](https://github.com/lightningnetwork/lnd/pull/2765).
@@ -54,6 +44,16 @@ Thanks to our friends at Chaincode Labs for food and refreshments. If you can’
 * Sats for Likes (or follows, or retweets) - [https://kriptode.com/satsforlikes/index.html](https://kriptode.com/satsforlikes/index.html)
 * RUN LND shirts - [http://runlnd.wbobeirne.com](http://runlnd.wbobeirne.com)
 * Lightning Loop Alpha - [https://blog.lightning.engineering/posts/2019/03/20/loop.html](https://blog.lightning.engineering/posts/2019/03/20/loop.html)
+
+## ML and Bitcoin Optech
+- [[bitcoin-dev] assumeutxo and UTXO snapshots](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-April/016825.html)
+- [[bitcoin-dev] Payjoin2swap: Enabling Payjoin Without Merchant Purchases](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-April/016888.html)
+- Bitcoin Optech \
+[https://bitcoinops.org/en/newsletters/2019/03/19/](https://bitcoinops.org/en/newsletters/2019/03/19/) \
+[https://bitcoinops.org/en/newsletters/2019/03/26/](https://bitcoinops.org/en/newsletters/2019/03/26/) \
+[https://bitcoinops.org/en/newsletters/2019/04/02/](https://bitcoinops.org/en/newsletters/2019/04/02/) \
+[https://bitcoinops.org/en/newsletters/2019/04/09/](https://bitcoinops.org/en/newsletters/2019/04/09/) \
+[https://bitcoinops.org/en/newsletters/2019/04/16/](https://bitcoinops.org/en/newsletters/2019/04/16/) 
 
 ## CVEs and Research
 
