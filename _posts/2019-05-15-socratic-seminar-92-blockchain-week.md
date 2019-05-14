@@ -59,10 +59,13 @@ For all those in town for Consensus 2019, welcome! Please join us for our 92nd S
 ## The month in Lapps
 
 #### Tools/Wallets
-- [c-lightning plugins](https://github.com/lngamesnet/c-lightning-plugins)
 - [Lightning Labs desktop app released on mainnet](https://blog.lightning.engineering/announcement/2019/04/23/mainnet-app.html)
+- [c-lightning plugins](https://github.com/lightningd/plugins)
 
 #### Apps
+- [Final Message, a dead man's switch powered by lightning payments](https://finalmessage.io/)
+- [TipHub - non custodial tipping for open source](https://tiphub.io/)
+- [Lightning Agar - Eat players to earn sats](https://agar.satoshis.games/)
 
 ## Misc.
 - [Magical Crypto Conference Transcripts](http://diyhpl.us/wiki/transcripts/magicalcryptoconference/2019/)
