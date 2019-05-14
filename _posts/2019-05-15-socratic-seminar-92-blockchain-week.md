@@ -9,6 +9,9 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 
 For all those in town for Consensus 2019, welcome! Please join us for our 92nd Socratic Seminar.
 
+## Presentations
+- Anthony Towns - SIGHASH_ANYPREVOUT
+
 ## ML and Bitcoin Optech
 
 - [Taproot proposal mailing list post](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-May/016914.html).
@@ -33,7 +36,7 @@ For all those in town for Consensus 2019, welcome! Please join us for our 92nd S
 #### Research
 - [The multiparty symmetrical Schnorr signature scriptless script shuffle](https://joinmarket.me/blog/blog/multiparty-s6/)
 - [Scriptless script shuffle variation](https://old.reddit.com/r/Bitcoin/comments/biruxq/multiparty_s6_the_multiparty_symmetrical_schnorr/em3zilr/)
-- [Russel Oconnor on Simplicity](https://player.fm/series/hashing-it-out/hashing-it-out-44-blockstream-russell-oconnor)
+- [Russel O'Connor on Simplicity](https://player.fm/series/hashing-it-out/hashing-it-out-44-blockstream-russell-oconnor)
 - [Christian Decker on future of LN](https://www.whatbitcoindid.com/wbd092-christian-decker)
 
 #### InfoSec
