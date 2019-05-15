@@ -40,6 +40,7 @@ For all those in town for Consensus 2019, welcome! Please join us for our 92nd S
 - [Christian Decker on future of LN](https://www.whatbitcoindid.com/wbd092-christian-decker)
 
 #### InfoSec
+- [cpu.fail](https://cpu.fail/)
 - [A Timeline of the most infamous 51% attacks in crypto history](https://blog.honeyminer.com/timeline-of-51-attacks/)
 - [Electrum botnet steals $4.6 million in Bitcoin, cryptocurrencies](https://bitcoinist.com/electrum-botnet-steals-4-6-million-bitcoin-cryptocurrencies/)
 - [7000 BTC Binance hack](https://www.coindesk.com/hackers-steal-40-7-million-in-bitcoin-from-crypto-exchange-binance)
@@ -64,6 +65,7 @@ For all those in town for Consensus 2019, welcome! Please join us for our 92nd S
 #### Tools/Wallets
 - [Lightning Labs desktop app released on mainnet](https://blog.lightning.engineering/announcement/2019/04/23/mainnet-app.html)
 - [c-lightning plugins](https://github.com/lightningd/plugins)
+- [lnd 0.6.1](https://github.com/lightningnetwork/lnd/releases/tag/v0.6.1-beta)
 
 #### Apps
 - [Final Message, a dead man's switch powered by lightning payments](https://finalmessage.io/)
@@ -74,4 +76,6 @@ For all those in town for Consensus 2019, welcome! Please join us for our 92nd S
 - [Magical Crypto Conference Transcripts](http://diyhpl.us/wiki/transcripts/magicalcryptoconference/2019/)
 - [Programmers solve MIT’s 20-year-old cryptographic puzzle](https://www.csail.mit.edu/news/programmers-solve-mits-20-year-old-cryptographic-puzzle)
 - [Gotenna w/ Blockstream Satellite](https://blockstream.com/2019/05/11/gotenna-satellite-api-integration/)
+- [Elements Alpha 0.17.0](https://github.com/ElementsProject/elements/releases/tag/elements-0.17.0
+)
 
