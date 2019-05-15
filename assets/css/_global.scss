@@ -67,3 +67,12 @@ h4 {
   font-size: 1.2rem;
   margin-bottom: 1rem;
 }
+
+ul {
+  padding-left: 1.5rem;
+  list-style: disc;
+}
+
+ul ul {
+  list-style: circle;
+}
