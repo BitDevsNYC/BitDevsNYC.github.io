@@ -33,6 +33,10 @@ body {
 }
 ol, ul {
 	list-style: none;
+	padding-left: 2ch;
+}
+li:before {
+    content: "* ";
 }
 blockquote, q {
 	quotes: none;
