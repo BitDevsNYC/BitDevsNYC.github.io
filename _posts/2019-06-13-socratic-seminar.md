@@ -23,6 +23,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [0.18.x adoption](https://luke.dashjr.org/programs/bitcoin/files/charts/branches.html)
 - [P2SH outputs store 34% of all BTC](https://p2sh.info/dashboard/db/p2sh-statistics?orgId=1)
 - [New ATH in addresses holding at least .1 BTC](https://twitter.com/nic__carter/status/1132809159383166976)
+- [Largest equal-sized output coinjoin](https://www.coindesk.com/bitcoin-users-perform-what-might-be-the-largest-coinjoin-ever) 
     
 ## CVEs and Research
 
@@ -50,6 +51,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [The Most Expensive Lesson of My Life: Details of SIM port hack](https://medium.com/coinmonks/the-most-expensive-lesson-of-my-life-details-of-sim-port-hack-35de11517124)
 - [MakerDAO Critical Vulnerability Notice](https://blog.zeppelin.solutions/makerdao-critical-vulnerability-notice-d581b30c9b39)
 - [The Bitcoin Cash Hardfork – Three Interrelated Incidents](https://blog.bitmex.com/the-bitcoin-cash-hardfork-three-interrelated-incidents/)
+-[Inside Monero’s ‘Last Ditch Effort’ to Block Crypto Mining ASICs](https://www.coindesk.com/inside-moneros-last-ditch-effort-to-block-crypto-mining-asics)
 
 ## Pull Requests
 
