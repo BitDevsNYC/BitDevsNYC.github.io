@@ -63,11 +63,12 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
   - [#14047: Add HKDF_HMAC256_L32 and method to negate a private key](https://github.com/bitcoin/bitcoin/pull/14047)
   - [#15512: Add ChaCha20 encryption option (XOR)](https://github.com/bitcoin/bitcoin/pull/15512)
   - [#15649: Add ChaCha20Poly1305@Bitcoin AEAD](https://github.com/bitcoin/bitcoin/pull/15649)
+  - [Jonas Schnelli's presentation at Breaking Bitcoin](https://www.youtube.com/watch?v=DKOG0BQMmmg)
 
 #### lnd
 - [#3098: fundingmanager: bump max non-initiator funding timeout to 2 weeks](https://github.com/lightningnetwork/lnd/pull/3098)
 - [#2985: Broadcast gossip announcements in sub batches](https://github.com/lightningnetwork/lnd/pull/2985)
-- [#2802: routing: probability based path finding](https://github.com/lightningnetwork/lnd/pull/2802)
+- [#2802: routing: probability based path finding](https://github.com/lightningnetwork/lnd/pull/2802). See [Joost's presentation at Breaking Bitcoin](https://www.youtube.com/watch?v=DqhxPWsJFZE)
 - [#3140: sweep+rpc: add support to bump fee of inputs/transactions](https://github.com/lightningnetwork/lnd/pull/3140)
 - [#2455: [WIP] multi: add new draft key send mode for spontaneous payments](https://github.com/lightningnetwork/lnd/pull/2455)
 - [#2926: routing: tracking visited nodes in findPath](https://github.com/lightningnetwork/lnd/pull/2926#issuecomment-501158130)
@@ -76,7 +77,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [#2650: Channel fund hook](https://github.com/ElementsProject/lightning/pull/2650)
 - [#2644: Final gossip store optimization](https://github.com/ElementsProject/lightning/pull/2644)
 
-#### ACINQ
+#### eclair
 - [#965: API: optionally use a user supplied preimage when creating invoices](https://github.com/ACINQ/eclair/pull/965)
 
 ## The month in Lapps
