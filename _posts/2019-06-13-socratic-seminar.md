@@ -16,6 +16,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [Newsletter 47](https://bitcoinops.org/en/newsletters/2019/05/21/)
 - [Newsletter 48](https://bitcoinops.org/en/newsletters/2019/05/29/)
 - [Newsletter 49](https://bitcoinops.org/en/newsletters/2019/06/05/)
+- [Newsletter 50](https://bitcoinops.org/en/newsletters/2019/06/12/)
 
 ## Network Data
 - [Mempool Space](https://mempool.space/)
@@ -42,7 +43,6 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [Timed Signatures and Zero-Knowledge Proofs–Timestamping in the Blockchain Era–](https://eprint.iacr.org/2019/644.pdf)
 - [Homomorphic Time-Lock Puzzlesand Applications](https://eprint.iacr.org/2019/635.pdf)
 
-
 #### InfoSec
 - [RAMBLEED](https://rambleed.com/)
 - [iPhone Use-after-free in IMAP NAMESPACE processing - project-zero ](https://bugs.chromium.org/p/project-zero/issues/detail?id=1801)
@@ -52,12 +52,32 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [The Bitcoin Cash Hardfork – Three Interrelated Incidents](https://blog.bitmex.com/the-bitcoin-cash-hardfork-three-interrelated-incidents/)
 
 ## Pull Requests
+
+[Bitcoin Core review club](https://bitcoin-core-review-club.github.io/)
+
 #### Bitcoin Core
+- [#15930: Add getbalances RPC](https://github.com/bitcoin/bitcoin/pull/15930)
+- [#15939: Remove build target for win32](https://github.com/bitcoin/bitcoin/issues/15939)
+- [#14802: Speed up getblockstats RPC](https://github.com/bitcoin/bitcoin/pull/14802)
+- Version 2 P2P:
+  - [#14047: Add HKDF_HMAC256_L32 and method to negate a private key](https://github.com/bitcoin/bitcoin/pull/14047)
+  - [#15512: Add ChaCha20 encryption option (XOR)](https://github.com/bitcoin/bitcoin/pull/15512)
+  - [#15649: Add ChaCha20Poly1305@Bitcoin AEAD](https://github.com/bitcoin/bitcoin/pull/15649)
 
 #### lnd
-- [sweep+rpc: add support to bump fee of inputs/transactions](https://github.com/lightningnetwork/lnd/pull/3140)
-- [[WIP] multi: add new draft key send mode for spontaneous payments](https://github.com/lightningnetwork/lnd/pull/2455)
-- [routing: tracking visited nodes in findPath](https://github.com/lightningnetwork/lnd/pull/2926#issuecomment-501158130)
+- [#3098: fundingmanager: bump max non-initiator funding timeout to 2 weeks](https://github.com/lightningnetwork/lnd/pull/3098)
+- [#2985: Broadcast gossip announcements in sub batches](https://github.com/lightningnetwork/lnd/pull/2985)
+- [#2802: routing: probability based path finding](https://github.com/lightningnetwork/lnd/pull/2802)
+- [#3140: sweep+rpc: add support to bump fee of inputs/transactions](https://github.com/lightningnetwork/lnd/pull/3140)
+- [#2455: [WIP] multi: add new draft key send mode for spontaneous payments](https://github.com/lightningnetwork/lnd/pull/2455)
+- [#2926: routing: tracking visited nodes in findPath](https://github.com/lightningnetwork/lnd/pull/2926#issuecomment-501158130)
+
+#### c-lightning
+- [#2650: Channel fund hook](https://github.com/ElementsProject/lightning/pull/2650)
+- [#2644: Final gossip store optimization](https://github.com/ElementsProject/lightning/pull/2644)
+
+#### ACINQ
+- [#965: API: optionally use a user supplied preimage when creating invoices](https://github.com/ACINQ/eclair/pull/965)
 
 ## The month in Lapps
 - [bitcoin-qt for lightningd](https://github.com/darosior/pylightning-qt)
