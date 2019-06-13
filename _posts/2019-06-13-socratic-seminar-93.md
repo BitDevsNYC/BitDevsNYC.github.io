@@ -83,7 +83,9 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [#965: API: optionally use a user supplied preimage when creating invoices](https://github.com/ACINQ/eclair/pull/965)
 
 ## The month in Lapps
-- [bitcoin-qt for lightningd](https://github.com/darosior/pylightning-qt)
+- [watchtower example demo](https://github.com/wbobeirne/watchtower-example)
+- [loop](https://github.com/lightninglabs/loop)
+- [Joule allowances](https://medium.com/@wbobeirne/introducing-joule-allowances-2b08bec75e3a)
 
 ## Events
 - [Breaking Bitcoin 2019 Transcripts](http://diyhpl.us/wiki/transcripts/breaking-bitcoin/2019/)
