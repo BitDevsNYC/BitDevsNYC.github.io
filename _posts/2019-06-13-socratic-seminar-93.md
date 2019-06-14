@@ -82,6 +82,14 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 #### eclair
 - [#965: API: optionally use a user supplied preimage when creating invoices](https://github.com/ACINQ/eclair/pull/965)
 
+## Breaking Bitcoin talks
+
+- Chris Belcher - Breaking Bitcoin Privacy: [video](https://youtu.be/DKOG0BQMmmg?t=8266), [transacript](http://diyhpl.us/wiki/transcripts/breaking-bitcoin/2019/breaking-bitcoin-privacy/)
+- Carl Dong - Bitcoin Build System Security: [video](https://youtu.be/DKOG0BQMmmg?t=19828), [transacript](http://diyhpl.us/wiki/transcripts/breaking-bitcoin/2019/bitcoin-build-system/)
+- Jonas Nick - Secure Protocols on bip-taproot [video](https://youtu.be/DKOG0BQMmmg?t=21860), [transcript](http://diyhpl.us/wiki/transcripts/breaking-bitcoin/2019/secure-protocols-bip-taproot/)
+- Charles Guillemet - Extracting Seeds from Hardware Wallets: [video](https://youtu.be/DqhxPWsJFZE?t=9534), [transcript](http://diyhpl.us/wiki/transcripts/breaking-bitcoin/2019/extracting-seeds-from-hardware-wallets/)
+- Omer Shlomovits - Cryptographic Vulnerabilities in Threshold Wallets: [video](https://youtu.be/DqhxPWsJFZE?t=15879)
+
 ## The month in Lapps
 - [watchtower example demo](https://github.com/wbobeirne/watchtower-example)
 - [loop](https://github.com/lightninglabs/loop)
