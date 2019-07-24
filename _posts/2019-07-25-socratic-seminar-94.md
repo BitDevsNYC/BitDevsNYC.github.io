@@ -46,6 +46,9 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 
 - [#3133: watchtower: integrate altruist watchtower and watchtower client](https://github.com/lightningnetwork/lnd/pull/3133)
 - [#3134: Add gRPC performance Prometheus exporter](https://github.com/lightningnetwork/lnd/pull/3134)
+- [#3143: htlcswitch: pipeline settles to switch](https://github.com/lightningnetwork/lnd/pull/3143)
+- [#3197: Optimize prune zombie channels](https://github.com/lightningnetwork/lnd/pull/3197)
+- [#3314: peer: don't reply to requests for `initial_graph_sync`](https://github.com/lightningnetwork/lnd/pull/3314)
 
 #### c-lightning
 
@@ -57,5 +60,9 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [#607: BOLT01: TLV proposal](https://github.com/lightningnetwork/lightning-rfc/pull/607)
 
 ## The month in Lapps
+
+- [Zap 0.5.0 Release](https://medium.com/@JimmyMow/announcing-zap-desktop-0-5-0-beta-7622672ce582)
+- [Zap 0.5.1 Release removes 0 amount invoices](https://twitter.com/ln_zap/status/1150817272212131841)
+- [Casa SatsApp](https://blog.keys.casa/announcing-sats-app-with-satsback/)
 
 ## Events
