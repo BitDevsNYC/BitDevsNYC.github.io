@@ -86,11 +86,14 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 
 ## The month in Lapps
 
+- [lnd v0.7-beta](https://blog.lightning.engineering/announcement/2019/07/01/lnd-v0.7.html)
+- [lnd v0.7.1-beta-rc1](https://github.com/lightningnetwork/lnd/releases/tag/v0.7.1-beta-rc1)
+- [clightning 0.7.1](https://github.com/ElementsProject/lightning/releases/tag/v0.7.1)
 - [Zap 0.5.0 Release](https://medium.com/@JimmyMow/announcing-zap-desktop-0-5-0-beta-7622672ce582)
 - [Zap 0.5.1 Release removes 0 amount invoices](https://twitter.com/ln_zap/status/1150817272212131841)
-- [Casa SatsApp](https://blog.keys.casa/announcing-sats-app-with-satsback/)
 - [Lightning Labs mobile app now on mainnet](https://blog.lightning.engineering/announcement/2019/06/19/mobile-app.html)
-- [lnd v0.7-beta](https://blog.lightning.engineering/announcement/2019/07/01/lnd-v0.7.html)
+- [Casa SatsApp](https://blog.keys.casa/announcing-sats-app-with-satsback/)
+- [lndmon](https://github.com/lightninglabs/lndmon)
 
 ## Misc.
 - [Bitcoin mining on an Apollo Guidance Computer: 10.3 seconds per hash](http://www.righto.com/2019/07/bitcoin-mining-on-apollo-guidance.html)
