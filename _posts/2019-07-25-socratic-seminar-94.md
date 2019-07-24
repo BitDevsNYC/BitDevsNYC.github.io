@@ -7,6 +7,9 @@ meetup: https://www.meetup.com/BitDevsNYC/events/262766537/
 
 Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food, refreshments and event space.
 
+## Presentation
+- Jeff Vandrew Jr -  Modular BTCPay Server
+
 ## ML and Bitcoin Optech
 
 #### Optech
@@ -98,6 +101,6 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [What It’s Like to Review Bitcoin’s Code](https://www.coindesk.com/what-its-like-to-review-bitcoins-code)
 - [Brief History of Payment Channels](https://www.reddit.com/r/Bitcoin/comments/cc9psl/technical_a_brief_history_of_payment_channels/)
 - [Fanquake receives funding grant](https://twitter.com/bitmexresearch/status/1149513210669588487?s=12)
-- [Chaincode 2019 Lightning Curriculum](https://github.com/chaincodelabs/lightning-curriculum)
-- [Chaincode 2019 Bitcoin Curriculum](https://github.com/chaincodelabs/bitcoin-curriculum)
-- [Chaincode 2019 Study Groups](https://github.com/chaincodelabs/study-groups)
+- [Chaincode Lightning Curriculum](https://github.com/chaincodelabs/lightning-curriculum)
+- [Chaincode Bitcoin Curriculum](https://github.com/chaincodelabs/bitcoin-curriculum)
+- [Chaincode Study Groups](https://github.com/chaincodelabs/study-groups)
