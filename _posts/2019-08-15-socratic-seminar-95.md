@@ -24,6 +24,8 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 
 #### Research
 
+- [Modeling a Steady-State Lightning Network Economy](https://github.com/gr-g/ln-steady-state-model)
+
 #### InfoSec
 
 
