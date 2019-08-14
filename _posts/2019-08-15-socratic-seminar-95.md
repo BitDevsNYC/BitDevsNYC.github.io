@@ -9,11 +9,14 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 
 
 ## Presentation
-- Tadge Dryja - Utreexo
+- Tadge Dryja - [Utreexo](https://eprint.iacr.org/2019/611.pdf)
 
 ## ML and Bitcoin Optech
 
 #### Optech
+- [Newsletter 57](https://bitcoinops.org/en/newsletters/2019/07/31/)
+- [Newsletter 58](https://bitcoinops.org/en/newsletters/2019/08/07/)
+- [Newsletter 59](https://bitcoinops.org/en/newsletters/2019/08/14/)
 
 #### ML
 - [Bitcoin vaults with anti-theft recovery/clawback mechanisms](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-August/017229.html)
@@ -45,29 +48,36 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [Address reuse in Wasabi](https://medium.com/@nopara73/address-reuse-in-wasabi-ef9e308c9175)
 - [Who Spent My EOS? On the (In)Security of Resource](https://www.usenix.org/system/files/woot19-paper_lee.pdf)
 
-## Pull Requests
+## Pull Requests and repo updates
 
 #### Bitcoin Core
 
+- [0.18.1 is released](https://bitcoincore.org/en/releases/0.18.1/)
+
 #### BIPs
+
+- [BIP 155: addrv2 BIP proposal](https://github.com/bitcoin/bips/pull/766)
 
 #### lnd
 
 - [multi: add watchtower client RPC subserver](https://github.com/lightningnetwork/lnd/pull/3184)
+- [routing: persistent mission control](https://github.com/lightningnetwork/lnd/pull/3164)
 
 #### c-lightning
 
+- [Be more forgiving with lnd](https://github.com/ElementsProject/lightning/pull/2842)
 - [lightningd: avoid thundering herd on restart](https://github.com/ElementsProject/lightning/pull/2885)
-
 
 #### BOLTs
 
+- [bolt04: Variable `hop_payload` for the sphinx onion](https://github.com/lightningnetwork/lightning-rfc/pull/619)
 - [Trampoline payments](https://github.com/lightningnetwork/lightning-rfc/pull/654)
 
 ## The month in Lapps
 
 - [SuredBits playground](https://suredbits.com/ws-playground/)
 - [Balance of Satoshis CLI](https://github.com/alexbosworth/balanceofsatoshis)
+- [Lightning Labs v0.2.2-alpha iOS app](https://twitter.com/lightning_help/status/1161524314203709445)
 
 
 ## Misc.
