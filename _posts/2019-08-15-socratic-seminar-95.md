@@ -44,5 +44,8 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 
 ## The month in Lapps
 
+- [SuredBits playground](https://suredbits.com/ws-playground/)
+- [Balance of Satoshis CLI](https://github.com/alexbosworth/balanceofsatoshis)
+
 
 ## Misc.
