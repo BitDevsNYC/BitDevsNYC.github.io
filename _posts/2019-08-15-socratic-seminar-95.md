@@ -25,7 +25,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 ## Network Data
 - [BitMex outflow](https://twitter.com/coinmetrics/status/1156183016655511553?s=20)
 - [85% of Bitcoins mined](https://www.blockchain.com/charts/total-bitcoins)
-- [Increase in P2PK usage](https://p2sh.info/dashboard/db/pay-to-pubkey-hash-statistics?orgId=1&from=1552365620811&to=1565838757627)
+- [Increase in P2PKH usage](https://p2sh.info/dashboard/db/pay-to-pubkey-hash-statistics?orgId=1&from=1552365620811&to=1565838757627)
  
 ## CVEs and Research
 
