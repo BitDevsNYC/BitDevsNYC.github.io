@@ -42,6 +42,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [Ring signatures for de-linked fidelity bonds](https://gist.github.com/AdamISZ/52aa2e4e48240dfbadebb316507d0749)
 - [Securing DNSSEC Keys via Threshold ECDSA From Generic MPC](https://eprint.iacr.org/2019/889.pdf)
 - [Greedy but Cautious: Conditions for Miner Convergence to Resource Allocation Equilibrium](https://arxiv.org/pdf/1907.09883.pdf)   
+- [The Node Operator's Guide to the Lightning Galaxy, Part 1](https://blog.lightning.engineering/posts/2019/08/15/routing-quide-1.html)
 
 #### InfoSec
 - [Trail of Bits Smart Contract Audits](https://github.com/trailofbits/publications#security-reviews)
