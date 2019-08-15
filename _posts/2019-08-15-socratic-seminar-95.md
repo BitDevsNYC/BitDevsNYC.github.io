@@ -53,7 +53,12 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 
 #### lnd
 
+- [multi: add watchtower client RPC subserver](https://github.com/lightningnetwork/lnd/pull/3184)
+
 #### c-lightning
+
+- [lightningd: avoid thundering herd on restart](https://github.com/ElementsProject/lightning/pull/2885)
+
 
 #### BOLTs
 
