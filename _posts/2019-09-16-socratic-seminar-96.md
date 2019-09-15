@@ -61,24 +61,33 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 ## Pull Requests and repo updates
 
 #### Bitcoin Core
-- [SNICKER BIP draft](https://gist.github.com/AdamISZ/2c13fb5819bd469ca318156e2cf25d79)
+
+- [p2p: Add 2 outbound block-relay-only connections](https://github.com/bitcoin/bitcoin/pull/15759)
+- [gui: Create wallet menu option](https://github.com/bitcoin/bitcoin/pull/15450)
+- [Conservatively accept RBF bumps bumping one tx at the package limits](https://github.com/bitcoin/bitcoin/pull/16421)
+- [Bury bip9 deployments](https://github.com/bitcoin/bitcoin/pull/16060)
+- [gui: add prune to intro screen with smart default](https://github.com/bitcoin/bitcoin/pull/16714)
+- [build: disable BIP70 support by default](https://github.com/bitcoin/bitcoin/pull/15584)
 
 #### BIPs
 
+- [SNICKER BIP draft](https://gist.github.com/AdamISZ/2c13fb5819bd469ca318156e2cf25d79)
+- [BIP 155: addrv2 BIP proposal](https://github.com/bitcoin/bips/blob/master/bip-0155.mediawiki)
 
 #### lnd
 
+- [add `rejecthtlc` configuration option](https://github.com/lightningnetwork/lnd/pull/2203)
+- [mobile: Mobile RPCs](https://github.com/lightningnetwork/lnd/pull/3282)
 
 #### c-lightning
-- [0.7.2 Release](https://github.com/ElementsProject/lightning/releases/tag/v0.7.2.1)
-https://github.com/ElementsProject/lightning/pull/2223
 
+- [0.7.2 Release](https://github.com/ElementsProject/lightning/releases/tag/v0.7.2.1)
+- [EXPERIMENTAL: simplified commitment support](https://github.com/ElementsProject/lightning/pull/3010)
 
 #### BOLTs
+
 - [BOLT04: Atomic Multi-path Payments](https://github.com/lightningnetwork/lightning-rfc/pull/658)
-
-## The month in Lapps
-
+- [Merge final_expiry_too_soon into incorrect_or_unknown_payment](https://github.com/lightningnetwork/lightning-rfc/pull/608)
 
 ## Misc.
 - [KeyDerivationTechnicalOverview.png](https://raw.githubusercontent.com/Septem151/Bitcoin-Merchants-Toolbox/master/Images/KeyDerivationTechnicalOverview.png)
