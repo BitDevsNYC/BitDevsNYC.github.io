@@ -7,6 +7,10 @@ meetup: https://www.meetup.com/BitDevsNYC/events/264604145/
 
 Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food, refreshments and event space.
 
+## Presentation
+
+- [Suheb](https://twitter.com/Suheb__) - [Ride The Lightning](https://github.com/ShahanaFarooqui/RTL)
+
 ## Mailing Lists and Bitcoin Optech
 
 #### Mailing Lists
