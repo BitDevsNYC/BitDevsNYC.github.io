@@ -7,29 +7,32 @@ meetup: https://www.meetup.com/BitDevsNYC/events/264604145/
 
 Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food, refreshments and event space.
 
+## Mailing Lists and Bitcoin Optech
 
-## ML and Bitcoin Optech
+#### Mailing Lists
 
-#### Optech
-- [Newsletter 60](https://bitcoinops.org/en/newsletters/2019/08/21/)
-- [Newsletter 61](https://bitcoinops.org/en/newsletters/2019/08/28/)
-- [Newsletter 62](https://bitcoinops.org/en/newsletters/2019/09/04/)
-- [Newsletter 63](https://bitcoinops.org/en/newsletters/2019/09/11/)
-- [Compatability Matrix](https://bitcoinops.org/en/2019-compatibility-matrix/)
+##### bitcoin-dev
 
-
-#### ML
-#### bitcoin-dev
 - [Burying CSV and segwit soft fork activations](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-August/017266.html)
 - [Miniscript](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-August/017270.html) [(more)](https://medium.com/blockstream/miniscript-bitcoin-scripting-3aeff3853620)
 - [PoW fraud proofs without a soft fork](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-September/017287.html)
 
-#### lightning-dev
+##### lightning-dev
+
 - [Reconciling the off-chain and on-chain models with eltoo](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-September/002136.html)
 [eltoo implementation in Bitcoin functional test framework](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-September/002131.html)
 - [Avoiding gossip spam: how many updates do you need?](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-September/002134.html)
 
+#### Optech
+
+- [Newsletter 60](https://bitcoinops.org/en/newsletters/2019/08/21/)
+- [Newsletter 61](https://bitcoinops.org/en/newsletters/2019/08/28/)
+- [Newsletter 62](https://bitcoinops.org/en/newsletters/2019/09/04/)
+- [Newsletter 63](https://bitcoinops.org/en/newsletters/2019/09/11/)
+- [Compatibility Matrix](https://bitcoinops.org/en/2019-compatibility-matrix/)
+
 ## Network Data
+
 - [Orphan Block 591,848](https://twitter.com/BitMEXResearch/status/1166010048046358529)
 - [Bitcoin Testnet Forkmonitor](https://twitter.com/BitMEXResearch/status/1168888369432211459)
 - [Create pie charts to see the most dominant miners over the history of Bitcoin](https://github.com/in3rsha/bitcoin-mining-distribution)
@@ -39,6 +42,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 ## CVEs and Research
 
 #### Research
+
 - [Miniscript](https://medium.com/blockstream/miniscript-bitcoin-scripting-3aeff3853620)
 - [(Some of) the math behind Bech32 addresses](https://medium.com/@MeshCollider/some-of-the-math-behind-bech32-addresses-cf03c7496285)
 - [Bitcoin Codebase Deep Dive](https://blog.coincodecap.com/bitcoin-development-stats/)
@@ -46,6 +50,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [Payment Points – Part 4: Selling Signatures](https://suredbits.com/payment-points-part-4-selling-signatures/)
 
 #### InfoSec
+
 - [A very deep dive into iOS Exploit chains found in the wild](https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html)
 - [Details of the OLED Vulnerability and its Mitigation](https://blog.trezor.io/details-of-the-oled-vulnerability-and-its-mitigation-d331c4e2001a)
 - [CVEs assigned for lightning projects](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-August/002130.html)
@@ -89,7 +94,8 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [BOLT04: Atomic Multi-path Payments](https://github.com/lightningnetwork/lightning-rfc/pull/658)
 - [Merge final_expiry_too_soon into incorrect_or_unknown_payment](https://github.com/lightningnetwork/lightning-rfc/pull/608)
 
-## Misc.
+## Miscellaneous
+
 - [KeyDerivationTechnicalOverview.png](https://raw.githubusercontent.com/Septem151/Bitcoin-Merchants-Toolbox/master/Images/KeyDerivationTechnicalOverview.png)
 - [Lost $136,000 in Bitcoin? This Mining Pool is Looking for You](https://www.coindesk.com/accidental-136000-bitcoin-mining-pool)
 - [Mines lost to flood](https://twitter.com/redtheminer/status/1164006953292484608)
@@ -99,7 +105,8 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [Rusty Russell - BOLT 2b: HTLCs](https://twitter.com/i/broadcasts/1DXGypBzOANKM)
 - [Rusty Russell - BOLT 3: Bitcoin Transactions](https://twitter.com/rusty_twit/status/1171884459001434112)
 
-#### Events
+## Events
+
 - [Debugging Bitcoin Core with Fabian Jahr](https://www.youtube.com/watch?v=6aPSCDAiqVI)
 - [Taproot and Policy with James Chiang](https://www.youtube.com/watch?v=EdRm_mnoCWc)
 - [Scaling Bitcoin 2019](https://www.youtube.com/watch?v=-gdfxNalDIc) [transcripts](http://diyhpl.us/wiki/transcripts/scalingbitcoin/tel-aviv-2019/)
