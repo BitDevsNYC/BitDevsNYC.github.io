@@ -24,7 +24,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 ##### lightning-dev
 
 - [Reconciling the off-chain and on-chain models with eltoo](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-September/002136.html)
-[eltoo implementation in Bitcoin functional test framework](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-September/002131.html)
+- [eltoo implementation in Bitcoin functional test framework](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-September/002131.html)
 - [Avoiding gossip spam: how many updates do you need?](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-September/002134.html)
 
 #### Optech
