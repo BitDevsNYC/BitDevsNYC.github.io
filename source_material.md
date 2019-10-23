@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+Stats
+- https://jochen-hoenicke.de
+- https://mempool.observer/
+- https://mempool.space/
+- https://oxt.me/
+- https://statoshi.info/
+- https://p2sh.info
+- https://dashboard.bitcoinops.org/
+- http://bitcoin.sipa.be
+- http://utxo-stats.com/
+- https://anduck.net/bitcoin/fees/
+- https://bitcoinfees.github.io/
+- https://www.blockchain.com/charts
+- https://btc.com/stats
+- http://luke.dashjr.org/programs/bitcoin/files/charts/
+- https://fork.lol/pow/hashrate
+- http://bitcoinfibre.org/stats.html
+- https://forkmonitor.info
+- https://asicboost.dance
+- https://bitcoinvisuals.com/
+- https://segwit.space/
+- https://dsn.tm.kit.edu/bitcoin/
+- https://outputs.today/
+- https://coinmetrics.io/charts/
+- https://bitcoin.electronrelocation.com/
+- http://bc.daniel.net.nz/
+- https://opreturn.org/
+- https://transactionfee.info/charts/payments/perDay
+- https://hodlwave.com/
+- https://bitnodes.earn.com/
+- https://bitcoinperf.com
+- https://www.crypto51.app/
+- https://1ml.com/
