@@ -16,6 +16,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 #### Mailing Lists
 
 ##### bitcoin-dev
+
 - [Taproot updates](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-October/017378.html)
 - [Removal of reject network messages from Bitcoin Core (BIP61)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-October/017400.html)
 
@@ -28,6 +29,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [Newsletter #66](https://bitcoinops.org/en/newsletters/2019/10/02/)
 - [Newsletter #67](https://bitcoinops.org/en/newsletters/2019/10/09/)
 - [Newsletter #68](https://bitcoinops.org/en/newsletters/2019/10/16/)
+- [Newsletter #69](https://bitcoinops.org/en/newsletters/2019/10/23/)
 
 ## Network Data
 
@@ -55,7 +57,8 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 
 #### InfoSec
 
-- [lnd, c-lightning, eclair CVE-2019-12998 / CVE-2019-12999 /	CVE-2019-13000](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-September/002174.html) [Rusty broadcast](https://twitter.com/i/broadcasts/1yqkdnryandjv)
+- [lnd, c-lightning, eclair CVE-2019-12998 / CVE-2019-12999 / CVE-2019-13000](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-September/002174.html)
+  - [Rusty broadcast](https://twitter.com/i/broadcasts/1yqkdnryandjv)
 - [MakerDAO - Steal ALL collateral during liquidation by exploiting lack of validation in `flip.kick`](https://hackerone.com/reports/684092)
 - [Android: Use-After-Free in Binder driver](https://bugs.chromium.org/p/project-zero/issues/detail?id=1942#c7)
 - [ipwndfu - open-source jailbreaking tool for many iOS devices](https://github.com/axi0mX/ipwndfu)
@@ -68,19 +71,35 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 
 #### Bitcoin Core
 
+- New release candidate! [v0.19.0rc1](https://github.com/bitcoin/bitcoin/releases/tag/v0.19.0rc1)
+- [gui: add prune to intro screen with smart default](https://github.com/bitcoin/bitcoin/pull/16714)
+- [build: disable BIP70 support by default](https://github.com/bitcoin/bitcoin/pull/15584)
+- [refactor: Rewrite AcceptToMemoryPoolWorker() using smaller parts](https://github.com/bitcoin/bitcoin/pull/16400)
+- [Don't query all DNS seeds at once](https://github.com/bitcoin/bitcoin/pull/15558)
+- [wallet: Change default address type to bech32](https://github.com/bitcoin/bitcoin/pull/16884)
+- [p2p: Remove BIP61 reject messages](https://github.com/bitcoin/bitcoin/pull/15437)
+
+#### c-lightning
+
+- New release candidate! [v0.7.3rc3](https://github.com/ElementsProject/lightning/releases/tag/v0.7.3rc3)
+- [Gossip far less in steady state](https://github.com/ElementsProject/lightning/pull/3064)
+
+#### lnd
+
+- New release! [0.8.0-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.8.0-beta)
+- [[mobile] Mobile RPCs](https://github.com/lightningnetwork/lnd/pull/3282)
+- [channeldb: remove older migrations](https://github.com/lightningnetwork/lnd/pull/3485)
+- [build/release: create new release package for reproducible builds](https://github.com/lightningnetwork/lnd/pull/3545)
+- [channeldb: revert to prior migration policy](https://github.com/lightningnetwork/lnd/pull/3597)
+
 #### BIPs
 
 - [Transaction announcements reconciliation](https://github.com/naumenkogs/bips/blob/bip-reconcil/bip-reconcil.mediawiki)
 - [Taproot Review](https://github.com/ajtowns/taproot-review)
 
-#### lnd
-
-- [0.8.0-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.8.0-beta)
-
-#### c-lightning
-
 #### BOLTs
 
+- [BOLT 2: specify that you can't send `funding_locked` until you've checked the txout](https://github.com/lightningnetwork/lightning-rfc/pull/676)
 - Rusty Russell BOLT Broadcasts:
   - [BOLT 4](https://twitter.com/i/broadcasts/1drkzlvmoldjb)
   - [BOLT 5](https://twitter.com/i/broadcasts/1jmkgwzbrwjkl)
