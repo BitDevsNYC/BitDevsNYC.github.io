@@ -33,7 +33,6 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 
 ## Network Data
 
-- [Six Addresses Are Dominating Ethereum (ETH) Usage Right Now](https://bitcoinist.com/six-addresses-are-dominating-ethereum-eth-usage-right-now/)
 - [Today's block statistics](https://bitaps.com/blocks)
 - [Veriblock to use segwit](https://medium.com/@veriblock/veriblock-adopts-segwit-and-will-now-take-more-space-on-bitcoin-edf11fbb6678)
 - [600,000th block](https://twitter.com/pwuille/status/1185346625897517056)
@@ -58,7 +57,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 #### InfoSec
 
 - [lnd, c-lightning, eclair CVE-2019-12998 / CVE-2019-12999 / CVE-2019-13000](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-September/002174.html)
-  - [Rusty broadcast](https://twitter.com/i/broadcasts/1yqkdnryandjv)
+  - [Rusty broadcast](https://twitter.com/rusty_twit/status/1179131794538414080)
 - [MakerDAO - Steal ALL collateral during liquidation by exploiting lack of validation in `flip.kick`](https://hackerone.com/reports/684092)
 - [Android: Use-After-Free in Binder driver](https://bugs.chromium.org/p/project-zero/issues/detail?id=1942#c7)
 - [ipwndfu - open-source jailbreaking tool for many iOS devices](https://github.com/axi0mX/ipwndfu)
@@ -101,12 +100,12 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 
 - [BOLT 2: specify that you can't send `funding_locked` until you've checked the txout](https://github.com/lightningnetwork/lightning-rfc/pull/676)
 - Rusty Russell BOLT Broadcasts:
-  - [BOLT 4](https://twitter.com/i/broadcasts/1drkzlvmoldjb)
-  - [BOLT 5](https://twitter.com/i/broadcasts/1jmkgwzbrwjkl)
-  - [BOLT 7 part 1](https://twitter.com/i/broadcasts/1YqJDnaaVBaKV)
-  - [BOLT 7 part 2](https://twitter.com/i/broadcasts/1rdglnbolmmxl)
-  - [BOLT 8](https://twitter.com/i/broadcasts/1yqjdnlldmekv)
-  - [BOLT 9](https://twitter.com/i/broadcasts/1drkzlvmoldjb) 
+  - [BOLT 4](https://twitter.com/rusty_twit/status/1174058046600777728)
+  - [BOLT 5](https://twitter.com/rusty_twit/status/1174421524024971264)
+  - [BOLT 7 part 1](https://twitter.com/rusty_twit/status/1176594892459397120)
+  - [BOLT 7 part 2](https://twitter.com/rusty_twit/status/1176958199078907906)
+  - [BOLT 8](https://twitter.com/rusty_twit/status/1182023405228265472)
+  - [BOLT 9](https://twitter.com/rusty_twit/status/1184194359350059008) 
 
 ## Miscellaneous
 
