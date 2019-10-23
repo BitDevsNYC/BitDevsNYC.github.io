@@ -15,6 +15,8 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 #### Mailing Lists
 
 ##### bitcoin-dev
+- [Taproot updates](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-October/017378.html)
+- [Removal of reject network messages from Bitcoin Core (BIP61)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-October/017400.html)
 
 ##### lightning-dev
 
@@ -45,6 +47,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [Simplicity's first transaction](https://lists.ozlabs.org/pipermail/simplicity/2019/000018.html)
 - [Transparent SNARKs from DARK Compilers](https://eprint.iacr.org/2019/1229.pdf)
 - [Binary quadtratic forms](http://diyhpl.us/%7Ebryan/papers2/bitcoin/vdf-competition-classgroups-binary-quadratic-form.pdf)
+- [Bitcoin Chain Width ExpansionDenial-of-Service Attacks](https://bcoin.io/papers/bitcoin-chain-expansion.pdf)
 
 
 #### InfoSec
@@ -64,6 +67,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 
 #### BIPs
 - [Transaction announcements reconciliation](https://github.com/naumenkogs/bips/blob/bip-reconcil/bip-reconcil.mediawiki)
+- [Taproot Review](https://github.com/ajtowns/taproot-review)
 
 #### lnd
 - [0.8.0-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.8.0-beta)
