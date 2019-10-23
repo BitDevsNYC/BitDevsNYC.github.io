@@ -55,6 +55,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [Sudo Flaw](https://thehackernews.com/2019/10/linux-sudo-run-as-root-flaw.html)
 - [Broken Metre: Attacking Resource Metering in EVM](http://arxiv.org/abs/1909.07220)
 - [China’s Maxim – Leave No Access PointUnexploited: The Hidden Story of China Telecom’sBGP Hijacking](https://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=1050&context=mca)
+- [Tracking the PlusToken Whale: Attempted Bitcoin Laundering and Its Impact on Wasabi Wallet](https://medium.com/@ErgoBTC/tracking-the-plustoken-whale-attempted-bitcoin-laundering-and-its-impact-on-wasabi-wallet-787c0d240192)
 
 
 ## Pull Requests and repo updates
