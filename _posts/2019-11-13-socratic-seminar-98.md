@@ -71,18 +71,18 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 #### c-lightning
 
 - [Release: v0.7.3: Bitcoin's Proof of Stake](https://github.com/ElementsProject/lightning/releases/tag/v0.7.3)
-- [PR: Multiple DB support for C-Lightning](https://github.com/ElementsProject/lightning/pull/2924)
-- [PR: Postgres driver for backend DB](https://github.com/ElementsProject/lightning/pull/2924)
+- [Multiple DB support for C-Lightning](https://github.com/ElementsProject/lightning/pull/2924)
+- [Postgres driver for backend DB](https://github.com/ElementsProject/lightning/pull/2924)
 - [JRPCLightning: Java Wrapper for C-Lightning RPC API](https://github.com/vincenzopalazzo/JRPClightning)
-- [PR: Fix potential Sphinx privacy data leak](https://github.com/ElementsProject/lightning/pull/3246)
+- [Fix potential Sphinx privacy data leak](https://github.com/ElementsProject/lightning/pull/3246)
 
 #### lnd
 
-- [PR: Add ability to create new Macaroons](https://github.com/lightningnetwork/lnd/pull/1160)
-- [Source: Macaroon Entities and Actions](https://github.com/lightningnetwork/lnd/blob/13b56d5849a9495ed11d6928665115e88cd1d9b0/rpcserver.go#L209)
-- [PR: Improve the probabilistic estimation for untried connections](https://github.com/lightningnetwork/lnd/pull/3462)
-- [PR: (pending) Allow custom data fields in the htlc payload](https://github.com/lightningnetwork/lnd/issues/3670)
-- PR: (pending) Addressing Bitcoin Core 0.19 compatibility ([#3625](https://github.com/lightningnetwork/lnd/pull/3462), [#3649](https://github.com/lightningnetwork/lnd/pull/3462))
+- [Add ability to create new Macaroons](https://github.com/lightningnetwork/lnd/pull/1160)
+- [Macaroon Entities and Actions](https://github.com/lightningnetwork/lnd/blob/13b56d5849a9495ed11d6928665115e88cd1d9b0/rpcserver.go#L209)
+- [Improve the probabilistic estimation for untried connections](https://github.com/lightningnetwork/lnd/pull/3462)
+- [(pending) Allow custom data fields in the htlc payload](https://github.com/lightningnetwork/lnd/issues/3670)
+- (pending) Addressing Bitcoin Core 0.19 compatibility ([#3625](https://github.com/lightningnetwork/lnd/pull/3462), [#3649](https://github.com/lightningnetwork/lnd/pull/3462))
 
 #### BIPs
 
@@ -95,7 +95,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 
 - [PR: Adding a new optional `vendor` property to BOLT 11 payment requests](https://github.com/lightningnetwork/lightning-rfc/pull/694)
 - [PR: Variable `hop_payload` for the sphinx onion](https://github.com/lightningnetwork/lightning-rfc/pull/694)
-- PR: (pending) Addressing Minor Sphinx privacy leak ([#40](https://github.com/lightningnetwork/lightning-onion/pull/40), [#697](https://github.com/lightningnetwork/lightning-rfc/pull/697))
+- (pending) Addressing Minor Sphinx privacy leak ([#40](https://github.com/lightningnetwork/lightning-onion/pull/40), [#697](https://github.com/lightningnetwork/lightning-rfc/pull/697))
 - [Bolt 11 Diagram](https://lightning.money/spec/bolts/11.html#FMID_454719845FM)
 
 ## Miscellaneous
