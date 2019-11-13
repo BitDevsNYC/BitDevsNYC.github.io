@@ -51,7 +51,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 
 - [Bitcoin Cash Hashrate Volatiility](https://blog.bitmex.com/bitcoin-cashs-october-2019-hashrate-volatility-increase/)
 - [Bitcoin’s Block Timestamp Protection Rules](https://blog.bitmex.com/bitcoins-block-timestamp-protection-rules/)
-- [How Coinbase views proof of work security](https://medium.com/@lukedashjr/cve-2017-18350-disclosure-fe6d695f45d5)
+- [How Coinbase views proof of work security](https://blog.coinbase.com/how-coinbase-views-proof-of-work-security-f4ba1a139da0)
 - [0-day for popular Android phones](https://arstechnica.com/information-technology/2019/10/attackers-exploit-0day-vulnerability-that-gives-full-control-of-android-phones/)
 
 ## Pull Requests and repo updates
