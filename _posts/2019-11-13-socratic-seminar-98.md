@@ -7,6 +7,10 @@ meetup: https://www.meetup.com/BitDevsNYC/events/265955993/
 
 Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food, refreshments and event space.
 
+## Presentation
+
+- Matthew Zipkin - [bcoin](https://github.com/bcoin-org/bcoin)
+
 ## Mailing Lists and Bitcoin Optech
 
 #### Mailing Lists
