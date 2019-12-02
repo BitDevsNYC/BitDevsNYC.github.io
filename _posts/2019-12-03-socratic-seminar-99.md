@@ -78,7 +78,8 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [Enable BnB coin selection for preset inputs and subtract fee from outputs](https://github.com/bitcoin/bitcoin/pull/17290)
 
 #### c-lightning
-
+- [Never follow bitcoind backwards](https://github.com/ElementsProject/lightning/pull/3274)
+- [New `sensitive_command` RPC hook](https://github.com/ElementsProject/lightning/pull/2925)
 
 #### lnd
 
