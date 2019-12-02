@@ -22,7 +22,6 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
   - [utxos.org](https://utxos.org)
 - [Signing CHECKSIG position in Tapscript](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-November/017495.html)
 
-
 ##### lightning-dev
 
 - [[DRAFT] BOLT 13(?): WatchTower protocol](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-November/002350.html)
@@ -90,12 +89,6 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - Millisatoshis Support
   - [Add msat fields](https://github.com/lightningnetwork/lnd/pull/3706)
   - [Add msat fields to invoices](https://github.com/lightningnetwork/lnd/pull/3706)
-
-#### BIPs
-
-
-#### BOLTs
-
 
 #### Joinmarket
 
