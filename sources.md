@@ -5,10 +5,29 @@ layout: default
 Each month, we collect news and updates to discuss at our Socratic seminar
 event. This page provides a list of sources that we frequently find useful.
 
+{% assign sources = site.data.sources.sources | sort: "name" %}
+
+
+{% capture raw_categories %}
+{%- for source in sources -%}
+  {{ source.category }}|
+{%- endfor -%}
+{% endcapture %}
+{% assign categories = raw_categories | split: "|" | sort_natural | uniq %}
+
+{%- for category in categories -%}
+  ## {{ category }}
+  <ul>
+  {%- for source in sources -%}
+    {%- if source.category == category -%}
+      <li>({{ source.subcategory }}) <a href="{{ source.url }}">{{ source.name }}</a> - {{ source.description }}</li>
+    {%- endif -%}
+  {%- endfor -%}
+  </ul>
+{%- endfor -%}
+
 ## Stats
 
-- [https://jochen-hoenicke.de](https://jochen-hoenicke.de)
-- [https://mempool.observer/](https://mempool.observer/)
 - [https://mempool.space/](https://mempool.space/)
 - [https://oxt.me/](https://oxt.me/)
 - [https://statoshi.info/](https://statoshi.info/)

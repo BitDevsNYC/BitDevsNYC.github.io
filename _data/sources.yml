@@ -1,0 +1,13 @@
+sources:
+  -
+    name: Johoe's Bitcoin Mempool Statistics
+    category: Stats
+    subcategory: mempool
+    url: https://jochen-hoenicke.de/queue
+    description: useful visualization of mempool contents over time
+  -
+   name: mempool observer
+   category: Stats
+   subcategory: mempool
+   url: https://mempool.observer/
+   description: "Mempool observer provides various mempool analysis tools including: locating a tx's feerate in the mempool, showing historic mempool and block data, and showing RBF/segwit mempool data."
