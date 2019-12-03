@@ -109,5 +109,5 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [LNDroid Daemon](https://github.com/lndroid/lndroid-daemon)
 - [Bolt-A-Thon2](https://boltathon.com/)
 - [BitFinex adds LN Support](https://twitter.com/paoloardoino/status/1201590067451613185)
-- [STRIKE Virtual Hackathon Winners](https://medium.com/zebedee-engineering/lightning-this-week-605-954-23403a1f9737)
+- [STRIKE Virtual Hackathon Winners](https://medium.com/radartech/announcing-strike-hackathon-winners-5a4895708746)
 
