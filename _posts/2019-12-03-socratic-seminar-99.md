@@ -88,7 +88,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
   - [Last hop restriction](https://github.com/lightningnetwork/lnd/pull/3739)
 - Millisatoshis Support
   - [Add msat fields](https://github.com/lightningnetwork/lnd/pull/3706)
-  - [Add msat fields to invoices](https://github.com/lightningnetwork/lnd/pull/3706)
+  - [Add msat fields to invoices](https://github.com/lightningnetwork/lnd/pull/3729)
 
 #### Joinmarket
 
