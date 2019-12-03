@@ -85,7 +85,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [v0.8.1-beta released](https://github.com/lightningnetwork/lnd/releases/tag/v0.8.1-beta)
 - Circular Payments
   - [Allow payment to self](https://github.com/lightningnetwork/lnd/pull/3736)
-  - [Last hop restriction](https://github.com/lightningnetwork/lnd/pull/3736)
+  - [Last hop restriction](https://github.com/lightningnetwork/lnd/pull/3739)
 - Millisatoshis Support
   - [Add msat fields](https://github.com/lightningnetwork/lnd/pull/3706)
   - [Add msat fields to invoices](https://github.com/lightningnetwork/lnd/pull/3706)
