@@ -21,7 +21,7 @@ following information:
 ```md
 ---
 layout: post # Always post
-type: socratic # or whitepaper for a whitepaper seriews
+type: socratic # or whitepaper for a whitepaper series
 title: "Name of the Post"
 meetup: https://www.meetup.com/BitDevsNYC/events/[event id here]/
 ---
