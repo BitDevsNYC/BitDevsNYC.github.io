@@ -27,6 +27,12 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 
 #### Optech
 
+- [Newsletter #75](https://bitcoinops.org/en/newsletters/2019/12/04/)
+- [Newsletter #76](https://bitcoinops.org/en/newsletters/2019/12/11/)
+- [Newsletter #77](https://bitcoinops.org/en/newsletters/2019/12/18/)
+- [Newsletter #78: 2019 Year-in-Review Special](https://bitcoinops.org/en/newsletters/2019/12/28/)
+- [Newsletter #79](https://bitcoinops.org/en/newsletters/2020/01/08/)
+
 ## Network Data
 - [Bitcoin node count history](https://luke.dashjr.org/programs/bitcoin/files/charts/historical.html)
 - [Bitfinex LN stats](https://bitcoin.clarkmoody.com/dashboard/)
@@ -57,6 +63,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 
 #### Bitcoin Core
 - [Test coverage now includes fuzzing coverage](https://twitter.com/MarcoFalke/status/1203174783300620288)
+- [Add RPC Whitelist Feature from #12248](https://github.com/bitcoin/bitcoin/pull/12763)
 
 #### c-lightning
 
@@ -77,9 +84,12 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 
 ## Miscellaneous
 - [Sipa presentation - bip-taproot](https://diyhpl.us/wiki/transcripts/sf-bitcoin-meetup/2019-12-16-bip-taproot-bip-tapscript/)
+- [Schnorr / Taproot BIP Review Sessions complete](https://github.com/ajtowns/taproot-review/)
 - [Gleb Naumenko - Current state of P2P research in Bitcoin / Erlay](https://www.youtube.com/watch?v=ZUWs00Anpaw)
 - [Murch - Unspent Management and Coin Selection](https://www.youtube.com/watch?v=hrlNN3BSB6w)
 - [Dangers of centralizing DNS](https://blog.powerdns.com/2019/12/03/doh-anti-competitive-and-network-neutrality-aspects/)
+- [AJ Towns - Bitcoin development prioritisation](http://www.erisian.com.au/wordpress/2020/01/07/bitcoiner-maximalism)
+- [Michael Ford - reducing Bitcoin build dependencies](https://blog.bitmex.com/build-systems-security-bitcoin-is-improving/)
 - [Conner Fromknecht – Bitcoin Lightning Watchtowers in depth](https://stephanlivera.com/episode/83/)
 - [c-lightning feature review](https://twitter.com/clightningcomit/status/1212810910731063297)
 - [codechain: multiparty code reviews with signatures and hash chains](https://github.com/frankbraun/codechain)
