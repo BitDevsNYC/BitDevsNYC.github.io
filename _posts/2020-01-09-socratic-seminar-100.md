@@ -99,7 +99,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [Discussion on CT in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/e65vdf/could_bitcoins_privacy_benefit_from_litecoins_eb/f9olxfy/)
 - [Tracking PlusToken Scammers with White Hat Bitcoin Chain Analysis](https://stephanlivera.com/episode/130/)
 - [Wasabi Research Club #1 - Knapsack Mixing](https://www.youtube.com/watch?v=XDCQI7hrB58&list=PLPwc75tPMdsgTYlu9dJZlosCm0s7WmIpF)
-- [script implementation](https://github.com/scritcash/scrit)
+- [scrit implementation](https://github.com/scritcash/scrit)
 
 ## Miscellaneous
 
