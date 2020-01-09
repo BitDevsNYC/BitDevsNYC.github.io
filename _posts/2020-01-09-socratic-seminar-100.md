@@ -66,8 +66,17 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [Add RPC Whitelist Feature from #12248](https://github.com/bitcoin/bitcoin/pull/12763)
 
 #### c-lightning
+- [Add a `sendcustommsg` RPC call and a `custommsg` plugin hook for experimental protocol extensions](https://github.com/ElementsProject/lightning/pull/3315)
+- [Generate a static tor onion address persistent unique to the node id](https://github.com/ElementsProject/lightning/pull/3155)
+- [EXPERIMENTAL: MPP send and receive support (lowlevel)](https://github.com/ElementsProject/lightning/pull/3309)
+- [Let invoice command specify exact channel(s) to share](https://github.com/ElementsProject/lightning/pull/3351)
+- [Add a `data_version` to the `db_write` hook an implement optimistic locking](https://github.com/ElementsProject/lightning/pull/3358)
 
 #### lnd
+- [lncli+invoices: experimental key send mode](https://github.com/lightningnetwork/lnd/pull/3795)
+- [Add optional close address](https://github.com/lightningnetwork/lnd/pull/3702)
+- [Add Option Upfront Shutdown](https://github.com/lightningnetwork/lnd/pull/3655)
+- [build+lncli: default to hex encoding for byte slices](https://github.com/lightningnetwork/lnd/pull/3647)
 
 #### BOLTS
 - [Base AMP](https://github.com/lightningnetwork/lightning-rfc/pull/643)
