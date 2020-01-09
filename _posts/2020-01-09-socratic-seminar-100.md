@@ -15,6 +15,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 #### Mailing Lists
 
 ##### bitcoin-dev
+
 - [Analysis of Bech32 swap/insert/delete detection and next steps](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-December/017521.html)
   - [Test vectors for bech32 insertion/deletion weakness for 20 and 32 byte starting lengths](https://gist.github.com/Xekyo/d9eeb10dfde769b2b6de52e379490bdb)
 - [Opinion on non-equal value coinjoins](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-December/017541.html)
@@ -22,6 +23,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [Blind Merged Mining with covenants ( sighash_anyprevout / op_ctv )](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-December/017534.html)
 
 ##### lightning-dev
+
 - [On path privacy](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-December/002408.html)
 - [Lightning in a Taproot future](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-December/002375.html)
 
@@ -34,6 +36,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [Newsletter #79](https://bitcoinops.org/en/newsletters/2020/01/08/)
 
 ## Network Data
+
 - [Bitcoin node count history](https://luke.dashjr.org/programs/bitcoin/files/charts/historical.html)
 - [Bitfinex LN stats](https://bitcoin.clarkmoody.com/dashboard/)
 - [A look back at Bitcoin's 11th year](https://bitcoinmagazine.com/articles/happy-birthday-bitcoin-heres-a-look-at-bitcoins-11th-year-by-the-numbers)
@@ -41,6 +44,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 ## CVEs and Research
 
 #### Research
+
 - [Compact Storage of Superblocks for NIPoPoW Applications](https://eprint.iacr.org/2019/1444)
 - [Too Much Crypto](https://eprint.iacr.org/2019/1492)
 - [Reducing the Bandwidth of Block Propagation in Bitcoin Network With Erasure Coding](https://ieeexplore.ieee.org/abstract/document/8922597)
@@ -48,6 +52,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [Imbalance measure and proactive channel rebalancing algorithm for the Lightning Network](https://arxiv.org/abs/1912.09555)
 
 #### InfoSec
+
 - [List of Hardware Wallet Attacks](https://thecharlatan.github.io/List-Of-Hardware-Wallet-Hacks/)
 - [The pitfalls of multisig when using hardware wallets](https://medium.com/shiftcrypto/the-pitfalls-of-multisig-when-using-hardware-wallets-9b0e98e4c19c)
 - [Can we build trusted hardware?](https://www.bunniestudios.com/blog/?p=5706)
@@ -62,10 +67,12 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 ## Pull Requests and repo updates
 
 #### Bitcoin Core
+
 - [Test coverage now includes fuzzing coverage](https://twitter.com/MarcoFalke/status/1203174783300620288)
 - [Add RPC Whitelist Feature from #12248](https://github.com/bitcoin/bitcoin/pull/12763)
 
 #### c-lightning
+
 - [Add a `sendcustommsg` RPC call and a `custommsg` plugin hook for experimental protocol extensions](https://github.com/ElementsProject/lightning/pull/3315)
 - [Generate a static tor onion address persistent unique to the node id](https://github.com/ElementsProject/lightning/pull/3155)
 - [EXPERIMENTAL: MPP send and receive support (lowlevel)](https://github.com/ElementsProject/lightning/pull/3309)
@@ -73,12 +80,14 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [Add a `data_version` to the `db_write` hook an implement optimistic locking](https://github.com/ElementsProject/lightning/pull/3358)
 
 #### lnd
+
 - [lncli+invoices: experimental key send mode](https://github.com/lightningnetwork/lnd/pull/3795)
 - [Add optional close address](https://github.com/lightningnetwork/lnd/pull/3702)
 - [Add Option Upfront Shutdown](https://github.com/lightningnetwork/lnd/pull/3655)
 - [build+lncli: default to hex encoding for byte slices](https://github.com/lightningnetwork/lnd/pull/3647)
 
 #### BOLTS
+
 - [Base AMP](https://github.com/lightningnetwork/lightning-rfc/pull/643)
 - [Anchor outputs](https://github.com/lightningnetwork/lightning-rfc/pull/688)
 
@@ -92,6 +101,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [script implementation](https://github.com/scritcash/scrit)
 
 ## Miscellaneous
+
 - [Sipa presentation - bip-taproot](https://diyhpl.us/wiki/transcripts/sf-bitcoin-meetup/2019-12-16-bip-taproot-bip-tapscript/)
 - [Schnorr / Taproot BIP Review Sessions complete](https://github.com/ajtowns/taproot-review/)
 - [Gleb Naumenko - Current state of P2P research in Bitcoin / Erlay](https://www.youtube.com/watch?v=ZUWs00Anpaw)
