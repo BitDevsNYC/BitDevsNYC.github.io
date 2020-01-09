@@ -94,7 +94,8 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 #### Joinmarket
 
 ## Privacy
-- [Binance frezes coinjoin'd funds](https://twitter.com/bittlecat/status/1207621591820951552)
+
+- [Binance freezes coinjoin'd funds](https://twitter.com/bittlecat/status/1207621591820951552)
 - [Discussion on CT in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/e65vdf/could_bitcoins_privacy_benefit_from_litecoins_eb/f9olxfy/)
 - [Tracking PlusToken Scammers with White Hat Bitcoin Chain Analysis](https://stephanlivera.com/episode/130/)
 - [Wasabi Research Club #1 - Knapsack Mixing](https://www.youtube.com/watch?v=XDCQI7hrB58&list=PLPwc75tPMdsgTYlu9dJZlosCm0s7WmIpF)
@@ -102,7 +103,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 
 ## Miscellaneous
 
-- [Sipa presentation - bip-taproot](https://diyhpl.us/wiki/transcripts/sf-bitcoin-meetup/2019-12-16-bip-taproot-bip-tapscript/)
+- [Sipa - bip-taproot](https://diyhpl.us/wiki/transcripts/sf-bitcoin-meetup/2019-12-16-bip-taproot-bip-tapscript/)
 - [Schnorr / Taproot BIP Review Sessions complete](https://github.com/ajtowns/taproot-review/)
 - [Gleb Naumenko - Current state of P2P research in Bitcoin / Erlay](https://www.youtube.com/watch?v=ZUWs00Anpaw)
 - [Murch - Unspent Management and Coin Selection](https://www.youtube.com/watch?v=hrlNN3BSB6w)
