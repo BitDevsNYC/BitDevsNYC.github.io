@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic Seminar 100"
-meetup: FIXME
+meetup: https://www.meetup.com/BitDevsNYC/events/266961213/
 ---
 
 Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food, refreshments and event space.
