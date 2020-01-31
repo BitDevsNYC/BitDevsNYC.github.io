@@ -33,7 +33,7 @@ This event will be led by J. If I missed something or you have a CoinJoin-relate
 ## Non-equal value CoinJoins
 - [Knapsack mixing](https://www.comsys.rwth-aachen.de/fileadmin/papers/2017/2017-maurer-trustcom-coinjoin.pdf)
 - [Byzantine Cycle Mode](https://bitcointalk.org/index.php?topic=752260.0)
-- [CashFushion](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md)
+- [CashFusion](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md)
 
 ## Two-party CoinJoins
 - [Pay2Endpoint](https://blockstream.com/2018/08/08/en-improving-privacy-using-pay-to-endpoint/)
