@@ -53,5 +53,5 @@ This event will be led by J. If I missed something or you have a CoinJoin-relate
 
 Other topics we will cover
 - Post-mix merge avoidance
-- Hardware wallets and conjoin 
+- Hardware wallets and CoinJoin 
 - How schnorr can improve coinjoins 
