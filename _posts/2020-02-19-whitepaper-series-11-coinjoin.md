@@ -9,7 +9,7 @@ Proposed in 2013 by Greg Maxwell, CoinJoin is a multi-party input aggregation pr
 
 There is quite a lot of ground to cover, much of which you can find below. I will continue adding to this list as the weeks progress, but below is an overview of some of the subject matter we will cover. The event may turn into a multi-part series depending on how the first event unfolds. The only prerequisite knowledge you *MUST* have to participate in this event is a basic understanding of Bitcoin’s unspent transaction output model. 
 
-This event will be led by J. If I missed something or you have a CoinJoin-related topic you would like see included in the event, please open a pull request or make a comment on the meetup event page. 
+This event will be led by J. If I missed something or you have a CoinJoin-related topic you would like see included in the event, please [open a pull request](https://github.com/BitDevsNYC/BitDevsNYC.github.io/edit/master/_posts/2020-02-19-whitepaper-series-11-coinjoin.md) or make a comment on the [meetup event page](FIXME link to meetup page).
 
 ## Overview
 - [A Fistful of Bitcoins: Characterizing Payments AmongMen with No Names (common-input heuristic)](https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf)
