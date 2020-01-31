@@ -54,4 +54,6 @@ This event will be led by J. If I missed something or you have a CoinJoin-relate
 ## Other topics we will cover
 - Post-mix merge avoidance
 - Hardware wallets and CoinJoin 
-- How schnorr can improve coinjoins 
+- How schnorr can improve CoinJoin
+- Where CoinJoin and sidechains intersect
+- Where lightning and CoinJoin itersect
