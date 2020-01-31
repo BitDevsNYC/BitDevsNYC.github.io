@@ -51,7 +51,7 @@ This event will be led by J. If I missed something or you have a CoinJoin-relate
 - [Sybil-Resistant Mixing for Bitcoin](https://people.cs.umass.edu/~gbiss/mixing.pdf)
 - [Fidelity bonds](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-July/017169.html)
 
-Other topics we will cover
+## Other topics we will cover
 - Post-mix merge avoidance
 - Hardware wallets and CoinJoin 
 - How schnorr can improve coinjoins 
