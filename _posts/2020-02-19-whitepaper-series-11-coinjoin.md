@@ -47,7 +47,7 @@ This event will be led by J. If I missed something or you have a CoinJoin-relate
 - [The price of anonymity: empirical evidence from a market for Bitcoin anonymization](https://academic.oup.com/cybersecurity/article/3/2/127/4057584)
 - [When the cookie meets the blockchain: Privacy risks of web payments via cryptocurrencie](https://arxiv.org/pdf/1708.04748.pdf)
 - [Towards Characterizing Sybil Attacks in Cryptocurrency Mixers](https://eprint.iacr.org/2019/1111.pdf)
-- [Non-equal value CoinJoins. Opinion](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-December/017541.html)
+- [Non-equal value CoinJoins. Opinions.](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-December/017541.html)
 - [Sybil-Resistant Mixing for Bitcoin](https://people.cs.umass.edu/~gbiss/mixing.pdf)
 - [Fidelity bonds](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-July/017169.html)
 
