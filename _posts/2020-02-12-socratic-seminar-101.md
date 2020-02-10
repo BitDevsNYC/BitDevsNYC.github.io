@@ -18,18 +18,24 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [Payswap](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-January/017595.html)
 - [Onchain fee insurance mechanism](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-January/017601.html)
 - [Is anyone using the Bitcoin Core Gitian binaries on 32-bit Linux?](https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2020-January/000085.html)
+- [Layered Commitments with Eltoo](https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-January/002448.html)
 
 ##### lightning-dev
 
 #### Optech
 
+- [Newsletter #80](https://bitcoinops.org/en/newsletters/2020/01/15/)
+- [Newsletter #81](https://bitcoinops.org/en/newsletters/2020/01/22/)
+- [Newsletter #82](https://bitcoinops.org/en/newsletters/2020/01/29/)
+- [Newsletter #83](https://bitcoinops.org/en/newsletters/2020/02/05/)
+- [Newsletter #84](https://bitcoinops.org/en/newsletters/2020/02/12/)
+
 ## Network Data
 
-- [Proportion Of Public vs Private Channels | BitMEX Blog](https://blog.bitmex.com/lightning-network-part-7-proportion-of-public-vs-private-channels/)
+- [Proportion Of Public vs Private Channels - BitMEX Blog](https://blog.bitmex.com/lightning-network-part-7-proportion-of-public-vs-private-channels/)
 - [Miner salary share across PoW cryptocurrencies](https://twitter.com/yassineark/status/1215700239245549575)
 - [Bitcoin SV non-consensus chainsplit](https://twitter.com/BitMEXResearch/status/1219297580129099779)
 - [Darknet Market Activity](https://blog.chainalysis.com/reports/darknet-markets-cryptocurrency-2019)
-
 
 ## CVEs and Research
 
@@ -50,8 +56,21 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 
 #### Bitcoin Core
 
+- [bumpfee: Return PSBT when wallet has privkeys disabled](https://github.com/bitcoin/bitcoin/pull/16373)
+- [rpc: Output a descriptor in createmultisig and addmultisigaddress](https://github.com/bitcoin/bitcoin/pull/18032)
+- [p2p: supplying and using asmap to improve IP bucketing in addrman](https://github.com/bitcoin/bitcoin/pull/16702)
+- [Use rolling bloom filter of recent block txs for AlreadyHave() check](https://github.com/bitcoin/bitcoin/pull/17951)
+
 #### BIPs
-- [BIPs 340-342 bip-schnorr, bip-taproot, bip-tapscript](https://github.com/bitcoin/bips/pull/876)
+
+- [The Schnorr/Taproot proposal is now published as BIPs 340, 341, and 342](https://twitter.com/pwuille/status/1220502956023283718)
+  - [BIP 340 - schnorr signatures](https://github.com/bitcoin/bips/blob/master/bip-0340.mediawiki)
+  - [BIP 341 - tapoot](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki)
+  - [BIP 342 - tapscript](https://github.com/bitcoin/bips/blob/master/bip-0342.mediawiki)
+- [Switch to even-y tiebreaker for pubkeys](https://github.com/sipa/bips/pull/192)
+  - [Squareness vs oddness tie-breaker for public keys](https://github.com/sipa/bips/issues/191)
+- [Avoiding the EC multiplication during signing by using precomputed pubkey data](https://github.com/sipa/bips/issues/190)
+  - [Ed25519 / EdDSA key leakage due to fragility in recommended nonce procedure](https://moderncrypto.org/mail-archive/curves/2020/001012.html)
 
 #### lnd
 
