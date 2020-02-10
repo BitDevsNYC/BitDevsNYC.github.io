@@ -13,21 +13,45 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 
 ##### bitcoin-dev
 
+- [Modern Soft Fork Activation](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-January/017547.html)
+- [Discreet Log Contract Protocol Specification](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-January/017563.html)
+- [Payswap](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-January/017595.html)
+- [Onchain fee insurance mechanism](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-January/017601.html)
+- [Is anyone using the Bitcoin Core Gitian binaries on 32-bit Linux?](https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2020-January/000085.html)
+
 ##### lightning-dev
 
 #### Optech
 
 ## Network Data
 
+- [Proportion Of Public vs Private Channels | BitMEX Blog](https://blog.bitmex.com/lightning-network-part-7-proportion-of-public-vs-private-channels/)
+- [Miner salary share across PoW cryptocurrencies](https://twitter.com/yassineark/status/1215700239245549575)
+- [Bitcoin SV non-consensus chainsplit](https://twitter.com/BitMEXResearch/status/1219297580129099779)
+- [Darknet Market Activity](https://blog.chainalysis.com/reports/darknet-markets-cryptocurrency-2019)
+
+
 ## CVEs and Research
 
 #### Research
 
+- [Characterizing Orphan Transactions in the Bitcoin Network](http://arxiv.org/abs/1912.11541)
+- [The Arwen Trading Protocols](https://eprint.iacr.org/2020/024)
+
 #### InfoSec
+
+- [BRIGHTNESS: Leaking Sensitive Data from Air-Gapped Workstations via Screen Brightness](https://arxiv.org/pdf/2002.01078.pdf)
+- [Kraken identififes criticial flaw in Trezor](https://blog.kraken.com/post/3662/kraken-identifies-critical-flaw-in-trezor-hardware-wallets/)
+- [BTG 51% attacks](https://twitter.com/bitcoingold/status/1221450315825807363)
+- [Paxos and CoinJoin](https://twitter.com/ronaldmchodled/status/1222172084610027523)
+- [CacheOut Attack](https://cacheoutattack.com/)
 
 ## Pull Requests and repo updates
 
 #### Bitcoin Core
+
+#### BIPs
+- [BIPs 340-342 bip-schnorr, bip-taproot, bip-tapscript](https://github.com/bitcoin/bips/pull/876)
 
 #### lnd
 
@@ -44,7 +68,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [Eclair v0.3.3 Release](https://github.com/ACINQ/eclair/releases/tag/v0.3.3)
   - Trampoline Payments: [here](https://github.com/lightningnetwork/lightning-rfc/pull/654) and [here](https://bitcoinops.org/en/topics/trampoline-payments/)
   - [Multipart Payments](https://github.com/lightningnetwork/lightning-rfc/pull/643)
-  - [](https://github.com/ACINQ/eclair/pull/1295)
+  - [Deterministic build of eclair-core artifact on ubuntu](https://github.com/ACINQ/eclair/pull/1295)
 
 #### c-lightning
 
@@ -63,6 +87,17 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 
 ## Miscellaneous
 
+- [Remembering Tamás Blummer](https://bitcoinmagazine.com/articles/remembering-tamas-blummer-pioneering-bitcoin-developer)
 - [Ant Routing scalability for the Lightning Network](https://arxiv.org/abs/2002.01374)
 - [Lightning Labs raises $10M Series A](https://www.forbes.com/sites/michaeldelcastillo/2020/02/05/jack-dorsey-backed-lightning-labs-raises-10-million-to-build-visa-network-for-bitcoin/#1a337f535ede)
 - [Bitcoin Achieves Major Milestone with Half a Billion Transactions Confirmed](https://cointelegraph.com/news/bitcoin-achieves-major-milestone-with-half-a-billion-transactions-confirmed)
+- [PSA: Wrong fee rates on block explorers](https://medium.com/@murchandamus/psa-wrong-fee-rates-on-block-explorers-48390cbfcc74)
+- [LSATs: Pseudonymous Authentication using Bitcoin Lightning Payments](https://medium.com/tierion/lsats-pseudonymous-authentication-using-bitcoin-lightning-payments-459e209b4b36)
+- [Onboarding to Bitcoin Core](https://medium.com/@amitiu/onboarding-to-bitcoin-core-7c1a83b20365)
+- [BIP 119 CTV Workshop](https://twitter.com/jeremyrubin/status/1223672458516938752)
+- [Lightning Conference Transcripts](https://diyhpl.us/wiki/transcripts/lightning-conference/2019/)
+- [Austin Socratic Seminar 5 Transcript](https://diyhpl.us/wiki/transcripts/austin-bitcoin-developers/2020-01-21-socratic-seminar-5/)
+- [Reverse submarine swaps](https://medium.com/breez-technology/reverse-submarine-swaps-another-step-towards-a-p2p-lightning-economy-bacb040fdca7)
+- [Announcing Lightning Loop Beta](https://blog.lightning.engineering/announcement/2020/02/05/loop-beta.html)
+- [Pieter Wuille on The Chaincode Podcast](https://anchor.fm/chaincode/episodes/Episode-1-Pieter-Wuille-part-1-of-2-eafbg2)
+- [RTL c-lightning-REST v0.2.0](https://github.com/Ride-The-Lightning/c-lightning-REST/releases/tag/v0.2.0)
