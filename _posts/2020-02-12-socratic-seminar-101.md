@@ -51,6 +51,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [BTG 51% attacks](https://twitter.com/bitcoingold/status/1221450315825807363)
 - [Paxos and CoinJoin](https://twitter.com/ronaldmchodled/status/1222172084610027523)
 - [CacheOut Attack](https://cacheoutattack.com/)
+- [Deanonymizing Tor Circuits](https://www.hackerfactor.com/blog/index.php?/archives/868-Deanonymizing-Tor-Circuits.html)
 
 ## Pull Requests and repo updates
 
