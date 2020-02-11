@@ -101,10 +101,6 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [BOLT 1: Define custom message type range](https://github.com/lightningnetwork/lightning-rfc/pull/705)
 - [Single-option large channel proposal - per node support to Wumbo](https://github.com/lightningnetwork/lightning-rfc/pull/596)
 
-#### Joinmarket
-
-## Privacy
-
 ## Miscellaneous
 
 - [Remembering Tamás Blummer](https://bitcoinmagazine.com/articles/remembering-tamas-blummer-pioneering-bitcoin-developer)
