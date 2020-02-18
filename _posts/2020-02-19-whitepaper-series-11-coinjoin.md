@@ -50,6 +50,8 @@ This event will be led by J. If I missed something or you have a CoinJoin-relate
 - [Non-equal value CoinJoins. Opinions.](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-December/017541.html)
 - [Sybil-Resistant Mixing for Bitcoin](https://people.cs.umass.edu/~gbiss/mixing.pdf)
 - [Fidelity bonds](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-July/017169.html)
+- [The 156 Attack](https://github.com/JoinMarket-Org/joinmarket/issues/156)
+- [The 693 Problem](https://github.com/JoinMarket-Org/joinmarket/issues/693)
 
 ## Other topics we will cover
 - Post-mix merge avoidance
