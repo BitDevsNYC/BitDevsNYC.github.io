@@ -27,7 +27,6 @@ This event will be led by J. If I missed something or you have a CoinJoin-relate
 - [Coinshuffle++](https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss201701-4RuffingPaper.pdf)
   - [Decred](https://cspp.decred.org/)
 - [ValueShuffle](https://eprint.iacr.org/2017/238.pdf)
-- [DiceMix](https://eprint.iacr.org/2016/824)
 - [CoinJoinXT](https://joinmarket.me/blog/blog/coinjoinxt/)
 
 ## Non-equal value CoinJoins
