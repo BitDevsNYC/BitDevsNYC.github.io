@@ -121,7 +121,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [Stanford Blockchain Conference transcripts](https://diyhpl.us/wiki/transcripts/stanford-blockchain-conference/2020/)
 - [Boltathon transcripts](http://diyhpl.us/wiki/transcripts/boltathon/)
 - [Pheonix v1.2](https://twitter.com/PhoenixWallet/status/1230798255627407361)
-- [Coinkit Bunker](https://ckbunker.com/)
+- [Coinkite Bunker](https://ckbunker.com/)
 - [Zeus v0.2.1](https://github.com/ZeusLN/zeus/releases/tag/v0.2.1)
 - [Circular rebalincing, RTL v0.6.5](https://github.com/Ride-The-Lightning/RTL/releases/tag/v0.6.5)
 - [ZEBEDEE SDK and dashboard for LN powered games](https://medium.com/zebedee-engineering/announcing-the-zebedee-developer-dashboard-unity-sdk-4598c394cc23)
