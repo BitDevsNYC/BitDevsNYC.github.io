@@ -71,6 +71,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [Route Hijacking and DoS in Off-Chain Networks](https://medium.com/@saar.tochner/route-hijacking-and-dos-in-off-chain-networks-37ce6f54aa26)
 - [Fulcrum hack](https://bzx.network/blog/postmortem-ethdenver)
 - [IOTA theft and downtime](https://blog.iota.org/trinity-attack-incident-part-1-summary-and-next-steps-8c7ccc4d81e8)
+- [steemit hostile takeover](https://steemit.com/tron/@steemitblog/an-open-letter-to-the-community-hf22-5)
 
 ## Pull Requests and repo updates
 
@@ -95,8 +96,14 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 
 ### c-lightning
 
+- [v0.8.1](https://github.com/ElementsProject/lightning/releases/tag/v0.8.1)
 - [Bitcoin backend generalization](https://github.com/ElementsProject/lightning/pull/3488)
 - [Allow hook chaining for the htlc_accepted hook](https://github.com/ElementsProject/lightning/pull/3489)
+
+### lnd
+- [adds fundall flag to openchannel](https://github.com/lightningnetwork/lnd/pull/4029)
+- [Intercept forward htlc [WIP]](https://github.com/lightningnetwork/lnd/pull/4018)
+- [channeldb/kvdb: introduce new KV-store database abstraction](https://github.com/lightningnetwork/lnd/pull/3833)
 
 ### BOLTS
 
@@ -112,4 +119,9 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 - [James O’Beirne on Chaincode podcast](https://podcast.chaincode.com/2020/02/12/james-obeirne-4.html)
 - [Chaincode Decoded: The UTXO Set](https://podcast.chaincode.com/2020/02/26/utxos-5)
 - [Stanford Blockchain Conference transcripts](https://diyhpl.us/wiki/transcripts/stanford-blockchain-conference/2020/)
-- [Boltathon transctipts](http://diyhpl.us/wiki/transcripts/boltathon/)
+- [Boltathon transcripts](http://diyhpl.us/wiki/transcripts/boltathon/)
+- [Pheonix v1.2](https://twitter.com/PhoenixWallet/status/1230798255627407361)
+- [Coinkit Bunker](https://ckbunker.com/)
+- [Zeus v0.2.1](https://github.com/ZeusLN/zeus/releases/tag/v0.2.1)
+- [Circular rebalincing, RTL v0.6.5](https://github.com/Ride-The-Lightning/RTL/releases/tag/v0.6.5)
+- [ZEBEDEE SDK and dashboard for LN powered games](https://medium.com/zebedee-engineering/announcing-the-zebedee-developer-dashboard-unity-sdk-4598c394cc23)
