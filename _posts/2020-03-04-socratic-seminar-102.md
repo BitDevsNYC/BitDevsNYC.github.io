@@ -64,6 +64,7 @@ Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food
 
 ### InfoSec
 
+- [Let's Encrypt CAA rechecking bug](https://community.letsencrypt.org/t/2020-02-29-caa-rechecking-bug/114591)
 - [Escaping the Chrome Sandbox with RIDL](https://googleprojectzero.blogspot.com/2020/02/escaping-chrome-sandbox-with-ridl.html)
 - [Mitigations are attack surface. too](https://googleprojectzero.blogspot.com/2020/02/mitigations-are-attack-surface-too.html)
 - [We tracked 133,000 Ethereum names and exposed their secrets](https://decrypt.co/19423/we-tracked-133000-ethereum-names-and-exposed-their-secrets)
