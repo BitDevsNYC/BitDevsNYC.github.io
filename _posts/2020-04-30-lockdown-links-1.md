@@ -1,7 +1,8 @@
 ---
 layout: post
-type: links-only
-title: "Lockdown Links 1"
+type: socratic
+title: "Solo Socratic 1"
+meetup: https://www.meetup.com/bitdevsnyc/
 ---
 
 ## Announcements
