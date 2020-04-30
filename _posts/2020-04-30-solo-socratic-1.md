@@ -70,13 +70,30 @@ meetup: https://www.meetup.com/bitdevsnyc/
 
 ### eclair
 
+- [Eclair v0.3.4](https://github.com/ACINQ/eclair/releases/tag/v0.3.4)
+- [Router channel balance](https://github.com/ACINQ/eclair/pull/1382)
+- [Allow users to have multiple wallets in bitcoind](https://github.com/ACINQ/eclair/pull/1334)
+
 ### c-lightning
+
+- [Release Candidate 2 for 0.8.2 C-Lightning](https://github.com/ElementsProject/lightning/pull/3661)
+- [Plugin implementation of `keysend` spontaneous payments](https://github.com/ElementsProject/lightning/pull/3611)
+- [Add the keysend plugin to the list of installable plugins](https://github.com/ElementsProject/lightning/pull/3653)
+- [Onion messages (EXPERIMENTAL)](https://github.com/ElementsProject/lightning/pull/3600)
 
 ### lnd
 
+- [Announcing lnd v0.10-beta](https://lightning.engineering/posts/2020-04-30-lnd-v0.10/)
 - [Announcing Faraday: Tame your Lightning Node with Close Recommendations](https://lightning.engineering/posts/2020-04-02-faraday/?=f4)
 - [roasbeef on lnd 0.10](https://www.youtube.com/watch?v=h34fUGuDjMg&feature=youtu.be)
 - [LSAT: Authentication and Payments for the Lightning-Native Web](https://lightning.engineering/posts/2020-03-30-lsat/)
+- [Watchtowers: anchor output support](https://github.com/lightningnetwork/lnd/issues/4214)
+- [Ability to set inbound and outbound fees](https://github.com/lightningnetwork/lnd/issues/4225)
+- [lncli: live table-based payment updates](https://github.com/lightningnetwork/lnd/pull/4196)
+- [lnrpc: add optional labels to on chain transactions](https://github.com/lightningnetwork/lnd/pull/4213)
+- [verrpc: add GetVersion endpoint](https://github.com/lightningnetwork/lnd/pull/4163)
+- [rpc: allow wumbo invoices](https://github.com/lightningnetwork/lnd/pull/4075)
+
 
 ### BOLTS
 
@@ -107,5 +124,8 @@ meetup: https://www.meetup.com/bitdevsnyc/
 - [Ride The Lightning v0.7.0](https://github.com/Ride-The-Lightning/RTL/tree/v0.7.0)
 - [Simplicity - Jets Release](https://medium.com/blockstream/simplicity-jets-release-803db10fd589)
 - [Zap Android Release](https://github.com/LN-Zap/zap-android/tree/v0.3.0-beta)
-- [Potzblitz! - The weekly Lightning talk #1 with Maxim Orlovsky and Ben Arc](https://www.youtube.com/watch?v=YmmNsWS5wiM)
+- [Potzblitz! - The weekly Lightning talk #1 with Maxim Orlovsky and Ben Arc of Pandora Core](https://www.youtube.com/watch?v=YmmNsWS5wiM)
+- [Potzblitz! - The weekly Lightning talk #2 with Victor Afanassieff, Romain Rouphael and Josh Scigala](https://www.youtube.com/watch?v=3-Xw99W5Jzk)
+- [Potzblitz! - The weekly Lightning talk #3 with Andre Neves and Christian Moss of ZEBEDEE](https://www.youtube.com/watch?v=ZIZ7DwBOb30)
 - [Bitcoin-s v0.3.0 Release](https://github.com/bitcoin-s/bitcoin-s/releases/tag/v0.3.0)
+- [Announcing Juggernaut](https://medium.com/@johncantrell97/announcing-juggernaut-5bda48d34a18)
