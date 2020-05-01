@@ -7,7 +7,7 @@ meetup: https://www.meetup.com/bitdevsnyc/
 
 ## Announcements
 
-The call for self-isolation in NYC will continue until at least May 15th. While we are unable to schedule an in person meetup for the time being, the Bitcoin community continues to produce high quality research and development. We hope you can take the time to keep up to date with the material below you find interesting so we can resume discussions as restrictions on in person gatherings are lifted. 
+The call for self-isolation in NYC will continue until at least May 15th. While we are unable to schedule a Socratic Seminar for the time being, the Bitcoin community continues to produce high quality research and development. We hope you can take some time to investigate the material below so we can resume discussions when restrictions are lifted. 
 
 ## Mailing Lists and Bitcoin Optech
 
