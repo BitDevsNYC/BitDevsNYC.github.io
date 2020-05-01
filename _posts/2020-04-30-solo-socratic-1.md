@@ -5,8 +5,6 @@ title: "Solo Socratic 1"
 meetup: https://www.meetup.com/bitdevsnyc/
 ---
 
-## Announcements
-
 ## Mailing Lists and Bitcoin Optech
 
 ### Mailing Lists
@@ -17,9 +15,16 @@ meetup: https://www.meetup.com/bitdevsnyc/
 - [Statechain implementations](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-March/017714.html)
 - [RBF Pinning with Counterparties and Competing Interest](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-April/017757.html)
 
-#### lightning-dev
-
 ### Optech
+
+- [Newsletter #88](https://bitcoinops.org/en/newsletters/2020/02/26/)
+- [Newsletter #89](https://bitcoinops.org/en/newsletters/2020/03/04/)
+- [Newsletter #90](https://bitcoinops.org/en/newsletters/2020/03/11/)
+- [Newsletter #91](https://bitcoinops.org/en/newsletters/2020/03/18/)
+- [Newsletter #92](https://bitcoinops.org/en/newsletters/2020/03/25/)
+- [Newsletter #93](https://bitcoinops.org/en/newsletters/2020/04/01/)
+- [Newsletter #94](https://bitcoinops.org/en/newsletters/2020/04/08/)
+- [Newsletter #95](https://bitcoinops.org/en/newsletters/2020/04/15/)
 
 ## Network Data
 
@@ -54,13 +59,18 @@ meetup: https://www.meetup.com/bitdevsnyc/
 - [TRRespass rowhammer vulnerability on DDR4](https://www.vusec.net/projects/trrespass/)
 - [Two Unpatched Critical 0-Day RCE Flaws Affect All Windows Versions](https://thehackernews.com/2020/03/windows-adobe-font-vulnerability.html)
 
-
 ## Pull Requests and repo updates
 
 ### Bitcoin Core
 
 - [Bitcoin Core 0.19.1 release](https://github.com/bitcoin/bitcoin/releases/tag/v0.19.1)
 - [Bitcoin Core 0.20.0 release candidate 1 available](https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2020-April/000089.html)
+- [O(1) OP_IF/NOTIF/ELSE/ENDIF script implementation](https://github.com/bitcoin/bitcoin/pull/16902)
+- [guix: Enable building for `x86_64-w64-mingw32` target](https://github.com/bitcoin/bitcoin/pull/17595)
+- [Replace -upgradewallet startup option with upgradewallet RPC](https://github.com/bitcoin/bitcoin/pull/15761)
+- [gui: save and load PSBT](https://github.com/bitcoin/bitcoin/pull/17509)
+- [P2P: Mempool tracks locally submitted transactions to improve wallet privacy](https://github.com/bitcoin/bitcoin/pull/18038)
+- [Native Descriptor Wallets using DescriptorScriptPubKeyMan](https://github.com/bitcoin/bitcoin/pull/16528)
 
 ### libsecp
 
@@ -93,7 +103,6 @@ meetup: https://www.meetup.com/bitdevsnyc/
 - [lnrpc: add optional labels to on chain transactions](https://github.com/lightningnetwork/lnd/pull/4213)
 - [verrpc: add GetVersion endpoint](https://github.com/lightningnetwork/lnd/pull/4163)
 - [rpc: allow wumbo invoices](https://github.com/lightningnetwork/lnd/pull/4075)
-
 
 ### BOLTS
 
