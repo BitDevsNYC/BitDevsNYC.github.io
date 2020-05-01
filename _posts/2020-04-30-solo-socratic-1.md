@@ -34,7 +34,7 @@ The call for self-isolation in NYC will continue until at least May 15th. While 
 
 - [The stair-pattern in time-locked Bitcoin transactions](https://b10c.me/mempool-observations/1-locktime-stairs/)
 - [Continued increase in overt AsicBoost blocks](https://asicboost.dance/)
-- [Coinbase rolls our batched transactions](https://blog.coinbase.com/coinbase-rolls-out-bitcoin-transaction-batching-5f6d09b8b045)
+- [Coinbase rolls out batched transactions](https://blog.coinbase.com/coinbase-rolls-out-bitcoin-transaction-batching-5f6d09b8b045)
 - [heaptrack - track your node's memory usage](https://jb55.com/s/heaptrack-bitcoin.mp4)
 - [Whirlpool Stats](https://docs.google.com/spreadsheets/d/e/2PACX-1vSq7Z_5bmXCBljAzGCd89ZZa4yicBPrh7DQ_IF2SZfyCrNaAIMeXeyUv2X5a2m1yQKhWSiA367jQpux/pubhtml?gid=0&single=true)
 - [Special Situation Report: PlusToken](https://research.oxt.me/special-situation-report/2/preview)
