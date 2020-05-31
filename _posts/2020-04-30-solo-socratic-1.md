@@ -21,14 +21,14 @@ The call for self-isolation in NYC will continue until at least May 15th. While 
 
 ### Optech
 
-- [Newsletter #88](https://bitcoinops.org/en/newsletters/2020/02/26/)
-- [Newsletter #89](https://bitcoinops.org/en/newsletters/2020/03/04/)
-- [Newsletter #90](https://bitcoinops.org/en/newsletters/2020/03/11/)
-- [Newsletter #91](https://bitcoinops.org/en/newsletters/2020/03/18/)
-- [Newsletter #92](https://bitcoinops.org/en/newsletters/2020/03/25/)
-- [Newsletter #93](https://bitcoinops.org/en/newsletters/2020/04/01/)
-- [Newsletter #94](https://bitcoinops.org/en/newsletters/2020/04/08/)
-- [Newsletter #95](https://bitcoinops.org/en/newsletters/2020/04/15/)
+- [Newsletter #88](https://bitcoinops.org/en/newsletters/2020/03/11/)
+- [Newsletter #89](https://bitcoinops.org/en/newsletters/2020/03/18/)
+- [Newsletter #90](https://bitcoinops.org/en/newsletters/2020/03/25/)
+- [Newsletter #91](https://bitcoinops.org/en/newsletters/2020/04/01/)
+- [Newsletter #92](https://bitcoinops.org/en/newsletters/2020/04/08/)
+- [Newsletter #93](https://bitcoinops.org/en/newsletters/2020/04/15/)
+- [Newsletter #94](https://bitcoinops.org/en/newsletters/2020/04/22/)
+- [Newsletter #95](https://bitcoinops.org/en/newsletters/2020/04/29/)
 
 ## Network Data
 
@@ -44,9 +44,8 @@ The call for self-isolation in NYC will continue until at least May 15th. While 
 ### Research
 
 - [21 Million Bitcoins to Rule all Sidechains: The Perpetual One-way Peg](https://medium.com/@RubenSomsen/21-million-bitcoins-to-rule-all-sidechains-the-perpetual-one-way-peg-96cb2f8ac302)
-- [Verifiable Secret Redistribution for Threshold Sharing Schemes](http://www.dtic.mil/docs/citations/ADA461227)
 - [Schnorless Scriptless Scripts](https://joinmarket.me/blog/blog/schnorrless-scriptless-scripts/)
-- [Attacking with bitcoin: Using Bitcoin to BuildResilient Botnet Armies](https://arxiv.org/pdf/2004.01855.pdf)
+- [Attacking with bitcoin: Using Bitcoin to Build Resilient Botnet Armies](https://arxiv.org/pdf/2004.01855.pdf)
 - [Pointproofs: Aggregating Proofs for Multiple Vector Commitments](https://eprint.iacr.org/2020/419.pdf)
 - [zkRelay: Facilitating Sidechains using zkSNARK-based Chain-Relays](https://eprint.iacr.org/2020/433.pdf)
 - [Discreet Log Contracts Channels and Integration in the Lightning Network](https://github.com/p2pderivatives/offchain-dlc-paper/blob/master/offchaindlc.pdf)
