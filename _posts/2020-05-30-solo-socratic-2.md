@@ -148,6 +148,7 @@ Stay home and stay safe, New York ❤️
 - [Design for a CoinSwap Implementation](https://gist.github.com/chris-belcher/9144bd57a91c194e332fb5ca371d0964)
 - [Wasabi Research Club #17: Confidential CoinJoin Construction - Protocol ACL](https://www.youtube.com/watch?v=z3G6CUDPr0c)
 - [Wasabi Research Club #18: Confidential CoinJoin Construction - Protocol KVAC](https://www.youtube.com/watch?v=MvEXPs3KSj8)
+- [WabiSabi CoinJoin protocol cryptographic primitives, currently in peer review](https://github.com/zksnacks/wabisabi/releases)
 - [SLP172 Nicolas Dorier & Kukks – P2EP Comes To BTCPay Server](https://stephanlivera.com/episode/172/)
 - [Collaborative Deanonymization](https://arxiv.org/abs/2005.03535)
 - [The cost of Bitcoin mining has never really increased](https://arxiv.org/abs/2004.04605)
