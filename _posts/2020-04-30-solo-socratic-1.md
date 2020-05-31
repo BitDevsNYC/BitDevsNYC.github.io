@@ -21,14 +21,14 @@ The call for self-isolation in NYC will continue until at least May 15th. While 
 
 ### Optech
 
-- [Newsletter #88](https://bitcoinops.org/en/newsletters/2020/02/26/)
-- [Newsletter #89](https://bitcoinops.org/en/newsletters/2020/03/04/)
-- [Newsletter #90](https://bitcoinops.org/en/newsletters/2020/03/11/)
-- [Newsletter #91](https://bitcoinops.org/en/newsletters/2020/03/18/)
-- [Newsletter #92](https://bitcoinops.org/en/newsletters/2020/03/25/)
-- [Newsletter #93](https://bitcoinops.org/en/newsletters/2020/04/01/)
-- [Newsletter #94](https://bitcoinops.org/en/newsletters/2020/04/08/)
-- [Newsletter #95](https://bitcoinops.org/en/newsletters/2020/04/15/)
+- [Newsletter #88](https://bitcoinops.org/en/newsletters/2020/03/11/)
+- [Newsletter #89](https://bitcoinops.org/en/newsletters/2020/03/18/)
+- [Newsletter #90](https://bitcoinops.org/en/newsletters/2020/03/25/)
+- [Newsletter #91](https://bitcoinops.org/en/newsletters/2020/04/01/)
+- [Newsletter #92](https://bitcoinops.org/en/newsletters/2020/04/08/)
+- [Newsletter #93](https://bitcoinops.org/en/newsletters/2020/04/15/)
+- [Newsletter #94](https://bitcoinops.org/en/newsletters/2020/04/22/)
+- [Newsletter #95](https://bitcoinops.org/en/newsletters/2020/04/29/)
 
 ## Network Data
 
