@@ -7,6 +7,12 @@ meetup: https://www.meetup.com/bitdevsnyc/
 
 ## Announcements
 
+Until our community can meet again in person, we'll continue to share all the
+latest research and development on Bitcoin, Lightning and related technologies
+through our monthly newsletter.
+
+Stay home and stay safe, New York ❤️
+
 ## Mailing Lists and Bitcoin Optech
 
 ### Mailing Lists
@@ -14,6 +20,11 @@ meetup: https://www.meetup.com/bitdevsnyc/
 #### bitcoin-dev
 
 ### Optech
+
+- [Newsletter #96](https://bitcoinops.org/en/newsletters/2020/05/06/)
+- [Newsletter #97](https://bitcoinops.org/en/newsletters/2020/05/13/)
+- [Newsletter #98](https://bitcoinops.org/en/newsletters/2020/05/20/)
+- [Newsletter #99](https://bitcoinops.org/en/newsletters/2020/05/27/)
 
 ## Network Data
 
@@ -27,7 +38,20 @@ meetup: https://www.meetup.com/bitdevsnyc/
 
 ### Bitcoin Core
 
-### libsecp
+- [Native Descriptor Wallets using DescriptorScriptPubKeyMan](https://github.com/bitcoin/bitcoin/pull/16528)
+- [P2P: Mempool tracks locally submitted transactions to improve wallet privacy](https://github.com/bitcoin/bitcoin/pull/18038)
+- [Serve cfcheckpt reque](https://github.com/bitcoin/bitcoin/pull/18877)
+- [gui: Fix manual coin control with multiple wallets loaded](https://github.com/bitcoin/bitcoin/pull/18894)
+- [net processing: Drop unknown types in getdata](https://github.com/bitcoin/bitcoin/pull/18808)
+- [Do not answer GETDATA for to-be-announced tx](https://github.com/bitcoin/bitcoin/pull/18861)
+- [wallet: Keep inactive seeds after sethdseed and derive keys from them as needed](https://github.com/bitcoin/bitcoin/pull/17681)
+- [Multiprocess build support](https://github.com/bitcoin/bitcoin/pull/18677)
+
+### BIPs
+
+- [BIP 340 improvements](https://github.com/bitcoin/bips/pull/893)
+- [bip-322: simplify proposal to single proof case](https://github.com/bitcoin/bips/pull/903)
+- [bip-325: genesis block/message start](https://github.com/bitcoin/bips/pull/900)
 
 ### eclair
 
@@ -62,8 +86,6 @@ meetup: https://www.meetup.com/bitdevsnyc/
 - [router+routerrpc: unify sendtoroute and payment responses](https://github.com/lightningnetwork/lnd/pull/4147)
 - [multi: Remove need for DerivePrivKey from watchtower, brontide, netann and sphinx package](https://github.com/lightningnetwork/lnd/pull/4227)
 - [lnrpc: add block height params to GetTransactions and add ListSweeps](https://github.com/lightningnetwork/lnd/pull/4139)
-
-### BOLTS
 
 ## Privacy
 
