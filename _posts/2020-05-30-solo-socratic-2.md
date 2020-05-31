@@ -135,6 +135,14 @@ Stay home and stay safe, New York ❤️
 - [multi: Remove need for DerivePrivKey from watchtower, brontide, netann and sphinx package](https://github.com/lightningnetwork/lnd/pull/4227)
 - [lnrpc: add block height params to GetTransactions and add ListSweeps](https://github.com/lightningnetwork/lnd/pull/4139)
 
+### Wasabi
+
+- [v1.1.11.1 release](https://github.com/zkSNACKs/WalletWasabi/releases/tag/v1.1.11.1)
+- [PayJoin sending support](https://github.com/zkSNACKs/WalletWasabi/pull/3528)
+- [PayJoin through clearnet as fallback](https://github.com/zkSNACKs/WalletWasabi/pull/3637)
+- [Stricten mempool acceptance check to prevent too long mempool chains of CoinJoin](https://github.com/zkSNACKs/WalletWasabi/pull/3670)
+- [Lower maximum CoinJoin coordinator fee now 0.3%](https://github.com/zkSNACKs/WalletWasabi/pull/3502)
+- [HWI upgrade to fix trezor firmware upgrade issue](https://github.com/zkSNACKs/WalletWasabi/pull/3562)
 ## rust-lightning
 
 - [C Bindings](https://github.com/rust-bitcoin/rust-lightning/pull/618)
