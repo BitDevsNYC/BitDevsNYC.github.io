@@ -70,6 +70,7 @@ Stay home and stay safe, New York ❤️
 - [Implement option_static_remotekey](https://github.com/ACINQ/eclair/pull/1141)
 - [Add on-chain Bitcoin Core APIs](https://github.com/ACINQ/eclair/pull/1461)
 - [Multipart FSM v2](https://github.com/ACINQ/eclair/pull/1439)
+- [Accept multiple channels for some API](https://github.com/ACINQ/eclair/pull/1440)
 
 ### c-lightning
 
@@ -86,6 +87,7 @@ Stay home and stay safe, New York ❤️
 - [Walletrpc: add basic coin selection RPCs](https://github.com/lightningnetwork/lnd/pull/4303)
 - [invoices: add explicit hodl invoice flag](https://github.com/lightningnetwork/lnd/pull/4334)
 - [channeldb: index payments by payment addr, use payment hash as fallback](https://github.com/lightningnetwork/lnd/pull/4285)
+- [walletrpc: add LabelTransaction endpoint to retrospectively label txns](https://github.com/lightningnetwork/lnd/pull/4228)
 
 ### Wasabi
 
