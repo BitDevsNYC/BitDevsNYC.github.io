@@ -102,5 +102,6 @@ Stay home and stay safe, New York ❤️
 - [Lightning Transactions: from Zero to Hero](https://github.com/t-bast/lightning-docs/blob/master/lightning-txs.md)
 - [Sphinx Onion Ecnryption: from Zero to Hero](https://github.com/t-bast/lightning-docs/blob/master/sphinx.md)
 - [Flood & Loot: A Systemic Attack On The Lightning Network](https://arxiv.org/abs/2006.08513)
+- [MintGox #004](https://mintgox.com)
 - [Introducing Lily Wallet](https://twitter.com/KayBeSee/status/1275456140306837507)
-- [Voltage Lightning Nodes](https://getvoltage.io/)
+- [Voltage Lightning Nodes](https://getvoltage.io)
