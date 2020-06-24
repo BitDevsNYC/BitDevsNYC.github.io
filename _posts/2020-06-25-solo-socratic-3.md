@@ -67,9 +67,25 @@ Stay home and stay safe, New York ❤️
 
 ### eclair
 
+- [Implement option_static_remotekey](https://github.com/ACINQ/eclair/pull/1141)
+- [Add on-chain Bitcoin Core APIs](https://github.com/ACINQ/eclair/pull/1461)
+- [Multipart FSM v2](https://github.com/ACINQ/eclair/pull/1439)
+
 ### c-lightning
 
+- [PSBTs, Meet the HSM](https://github.com/ElementsProject/lightning/pull/3762)
+- [New pyln modules](https://github.com/ElementsProject/lightning/pull/3733)
+
 ### lnd
+
+- [lnd v0.10.2-beta.rc2](https://github.com/lightningnetwork/lnd/releases/tag/v0.10.2-beta.rc2)
+- [lnd v0.10.1-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.10.1-beta)
+- [Intercept forward htlc](https://github.com/lightningnetwork/lnd/pull/4018)
+- [REST saga 3/3: REST API for subservers, websocket for streaming responses](https://github.com/lightningnetwork/lnd/pull/4141)
+- [Support bitcoind v0.20](https://github.com/lightningnetwork/lnd/pull/4366)
+- [Walletrpc: add basic coin selection RPCs](https://github.com/lightningnetwork/lnd/pull/4303)
+- [invoices: add explicit hodl invoice flag](https://github.com/lightningnetwork/lnd/pull/4334)
+- [channeldb: index payments by payment addr, use payment hash as fallback](https://github.com/lightningnetwork/lnd/pull/4285)
 
 ### Wasabi
 
@@ -82,3 +98,9 @@ Stay home and stay safe, New York ❤️
 ## Events
 
 ## Miscellaneous
+
+- [Lightning Transactions: from Zero to Hero](https://github.com/t-bast/lightning-docs/blob/master/lightning-txs.md)
+- [Sphinx Onion Ecnryption: from Zero to Hero](https://github.com/t-bast/lightning-docs/blob/master/sphinx.md)
+- [Flood & Loot: A Systemic Attack On The Lightning Network](https://arxiv.org/abs/2006.08513)
+- [Introducing Lily Wallet](https://twitter.com/KayBeSee/status/1275456140306837507)
+- [Voltage Lightning Nodes](https://getvoltage.io/)
