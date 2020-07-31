@@ -37,6 +37,11 @@ Stay home and stay safe, New York ❤️
 - [Newsletter #101](https://bitcoinops.org/en/newsletters/2020/06/10/)
 - [Newsletter #102](https://bitcoinops.org/en/newsletters/2020/06/17/)
 - [Newsletter #103](https://bitcoinops.org/en/newsletters/2020/06/24/)
+- [Newsletter #104](https://bitcoinops.org/en/newsletters/2020/07/01/)
+- [Newsletter #105](https://bitcoinops.org/en/newsletters/2020/07/08/)
+- [Newsletter #106](https://bitcoinops.org/en/newsletters/2020/07/15/)
+- [Newsletter #107](https://bitcoinops.org/en/newsletters/2020/07/22/)
+- [Newsletter #108](https://bitcoinops.org/en/newsletters/2020/07/29/)
 
 ## Network Data
 
@@ -59,11 +64,19 @@ Stay home and stay safe, New York ❤️
 - ["PSBT Operations" dialog](https://github.com/bitcoin/bitcoin/pull/18027)
 - [don't automatically append inputs in walletcreatefundedpsbt](https://github.com/bitcoin/bitcoin/pull/16377)
 - [Separate repository for the gui](https://github.com/bitcoin/bitcoin/pull/19071)
+- [add C++17 release note for 0.21.0](https://github.com/bitcoin/bitcoin/pull/19305)
+- [sendtoaddress/sendmany: Add explicit feerate option](https://github.com/bitcoin/bitcoin/pull/11413)
+- [Reduce inv traffic during IBD](https://github.com/bitcoin/bitcoin/pull/19204)
+- [Replace automatic bans with discouragement filter](https://github.com/bitcoin/bitcoin/pull/19219)
+- [Add gettxoutsetinfo hash_type option](https://github.com/bitcoin/bitcoin/pull/19328)
+- [Extract download permission from noban](https://github.com/bitcoin/bitcoin/pull/19191)
+- [Use wtxid for transaction relay](https://github.com/bitcoin/bitcoin/pull/18044)
 
 ### BIPs
 
 - [bip-341: Commit to all scriptPubKeys in SigMsg](https://github.com/bitcoin/bips/pull/920)
 - [BIP 85: Deterministic Entropy From BIP32 Keychains](https://github.com/bitcoin/bips/pull/910)
+- [BIP 339: WTXID-based transaction relay](https://github.com/bitcoin/bips/pull/933)
 
 ### eclair
 
