@@ -21,6 +21,12 @@ through our monthly newsletter.
 
 ### Optech
 
+- [Newsletter #104](https://bitcoinops.org/en/newsletters/2020/07/01/)
+- [Newsletter #105](https://bitcoinops.org/en/newsletters/2020/07/08/)
+- [Newsletter #106](https://bitcoinops.org/en/newsletters/2020/07/15/)
+- [Newsletter #107](https://bitcoinops.org/en/newsletters/2020/07/22/)
+- [Newsletter #108](https://bitcoinops.org/en/newsletters/2020/07/29/)
+
 ## Network Data
 
 ## CVEs and Research
@@ -33,7 +39,17 @@ through our monthly newsletter.
 
 ### Bitcoin Core
 
+- [add C++17 release note for 0.21.0](https://github.com/bitcoin/bitcoin/pull/19305)
+- [sendtoaddress/sendmany: Add explicit feerate option](https://github.com/bitcoin/bitcoin/pull/11413)
+- [Reduce inv traffic during IBD](https://github.com/bitcoin/bitcoin/pull/19204)
+- [Replace automatic bans with discouragement filter](https://github.com/bitcoin/bitcoin/pull/19219)
+- [Add gettxoutsetinfo hash_type option](https://github.com/bitcoin/bitcoin/pull/19328)
+- [Extract download permission from noban](https://github.com/bitcoin/bitcoin/pull/19191)
+- [Use wtxid for transaction relay](https://github.com/bitcoin/bitcoin/pull/18044)
+
 ### BIPs
+
+- [BIP 339: WTXID-based transaction relay](https://github.com/bitcoin/bips/pull/933)
 
 ### eclair
 
