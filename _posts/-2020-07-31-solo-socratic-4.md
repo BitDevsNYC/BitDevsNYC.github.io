@@ -81,11 +81,39 @@ through our monthly newsletter.
 
 ### eclair
 
+- [Rework feerate mismatch](https://github.com/ACINQ/eclair/pull/1473)
+- [Postgresql support](https://github.com/ACINQ/eclair/pull/1249)
+- [Find multi part route](https://github.com/ACINQ/eclair/pull/1427)
+- [Multipart FSM v2](https://github.com/ACINQ/eclair/pull/1439)
+- [Implement the KeySend feature, spontaneous payments](https://github.com/ACINQ/eclair/pull/1485)
+- [Anchor output transaction format](https://github.com/ACINQ/eclair/pull/1484)
+
 ### c-lightning
 
+- [C-Lightning v0.9.0: Rat Poison Squared on Steroids](https://github.com/ElementsProject/lightning/releases/tag/v0.9.0)
 - [Implement `keysend` sending support for spontaneous payments](https://github.com/ElementsProject/lightning/pull/3792)
+- [Implement multi-part payments (MPP) sending support](https://github.com/ElementsProject/lightning/pull/3809)
+- [Paymod: Payments reimagined (part 01)](https://github.com/ElementsProject/lightning/pull/3753)
+- [Paymod: Payments reimagined (part 02)](https://github.com/ElementsProject/lightning/pull/3760)
+- [Paymod: Payments reimagined (part 03)](https://github.com/ElementsProject/lightning/pull/3773)
+- [Paymod: Payments reimagined (part 04)](https://github.com/ElementsProject/lightning/pull/3826)
+- [PSBT RPC calls](https://github.com/ElementsProject/lightning/pull/3775)
+- [PSBTs, Meet the HSM](https://github.com/ElementsProject/lightning/pull/3762)
+- [New pyln modules](https://github.com/ElementsProject/lightning/pull/3733)
+- [Reserve/unreserve/fundpsbt](https://github.com/ElementsProject/lightning/pull/3825)
 
 ### lnd
+
+- [Multi: I wumbo, you wumbo, he she wumbo](https://github.com/lightningnetwork/lnd/pull/4429)
+- [Multi: hold keysend payments](https://github.com/lightningnetwork/lnd/pull/4167)
+- [Multi: add a rpc endpoint to track the recovery process](https://github.com/lightningnetwork/lnd/pull/4106)
+- [PSBT: add no_publish flag for safe batch channel opens v2](https://github.com/lightningnetwork/lnd/pull/4455)
+- [Add max value in flight flag](https://github.com/lightningnetwork/lnd/pull/971)
+- [Add new HostAnnouncer to support dynamic IPs via domains](https://github.com/lightningnetwork/lnd/pull/4281)
+- [Kvdb+etcd+tests: change etcd flattened bucket key derivation to make it compatible with bbolt](https://github.com/lightningnetwork/lnd/pull/4411)
+- [Contractcourt: Persist Resolution Outcomes](https://github.com/lightningnetwork/lnd/pull/4157)
+- [Intercept forward htlc](https://github.com/lightningnetwork/lnd/pull/4018)
+- [REST saga 3/3: REST API for subservers, websocket for streaming responses](https://github.com/lightningnetwork/lnd/pull/4141)
 
 ### Wasabi
 
@@ -113,3 +141,4 @@ through our monthly newsletter.
 - [Call to action: improving and testing asmap](https://blog.bitmex.com/call-to-action-testing-and-improving-asmap/)
 - [Electrum 4.0.0 with lightning support](https://github.com/spesmilo/electrum/commit/040f66a5f04bd5c7ad051ab1cd9c68f1ab6602bd#diff-a401a468eaffd5e6e0f6e1d79580f51c)
 - [Electrum Server performance report](https://blog.keys.casa/electrum-server-performance-report/)
+- [LNURL Allowances Specification](https://github.com/btcontract/lnurl-rfc/pull/49)
