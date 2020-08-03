@@ -15,9 +15,14 @@ through our monthly newsletter.
 
 ### Mailing Lists
 
-#### bitcoin-dev
+### bitcoin-dev
 
-## lightning-dev
+- [Minsc, a Miniscript-based scripting language](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-July/018062.html)
+- [Advances in Bitcoin Contracting : Uniform Policy and Package Relay](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-July/018063.html)
+
+### lightning-dev
+
+- [Dynamic Commitments: Upgrading Channels Without On-Chain Transactions](https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-July/002763.html)
 
 ### Optech
 
@@ -30,17 +35,15 @@ through our monthly newsletter.
 ## Network Data
 
 - [New statistical model for calculating Bitcoin's hashrate](https://blog.kraken.com/post/5719/kraken-intelligence-introduces-new-statistical-model-for-bitcoins-hashrate/)
-- [Cloudflare DNS effect on bitcoin transaction rate](https://twitter.com/lopp/status/1284275353389862914)
-- [Withdrawal of ERC-20 tx from coinbase takes four transactions](https://twitter.com/juscamarena/status/1285006400792354816)
+- [Cloudflare DNS outage effect on bitcoin transaction rate](https://twitter.com/lopp/status/1284275353389862914)
+- [Withdrawal of ERC-20 tx from Coinbase takes four transactions](https://twitter.com/juscamarena/status/1285006400792354816)
 - [Have I been known?](https://haveibeenknown.com)
 - [Segwit batching case study](https://veriphi.io/segwitbatchingcasestudy.pdf)
 - [Following the Blockchain.com feerate recommendations](https://b10c.me/mempool-observations/3-blockchaincom-recommendations/)
-- [Q1 2020 Darknet Useage on Bitcoin](https://medium.com/meetbitfury/darknet-use-and-bitcoin-a-crypto-activity-report-by-crystal-blockchain-353a8678730)
+- [Q1 2020 darknet useage on Bitcoin](https://medium.com/meetbitfury/darknet-use-and-bitcoin-a-crypto-activity-report-by-crystal-blockchain-353a8678730)
 - [Dumplings - Analyze CoinJoin data](https://github.com/nopara73/Dumplings/)
 
 ## CVEs and Research
-
-- [Undercutting Bitcoin Is Not Profitable](https://arxiv.org/abs/2007.11480)
 
 ### Research
 
@@ -50,6 +53,7 @@ through our monthly newsletter.
 - [Post-Quantum Adaptor Signaturesand Payment Channel Networks](https://eprint.iacr.org/2020/845.pdf)
 - [SoK: A Taxonomy of Cryptocurrency Wallets](https://eprint.iacr.org/2020/868.pdf)
 - [FROST: Flexible Round-OptimizedSchnorr Threshold Signatures](https://eprint.iacr.org/2020/852)
+- [Undercutting Bitcoin Is Not Profitable](https://arxiv.org/abs/2007.11480)
 
 ### InfoSec
 
@@ -61,6 +65,8 @@ through our monthly newsletter.
 - [Ledger js signing issue](https://blog.curve.fi/ledger-js-signing-issue/)
 - [Supply chain attacks on Ledger Nano X](https://blog.kraken.com/post/5590/kraken-security-labs-supply-chain-attacks-against-ledger-nano-x/)
 - [Hunting for Re-Entrancy Attacks in EthereumSmart Contracts via Static Analysis](https://arxiv.org/abs/2007.01029)
+- [BasicBlocker: Redesigning ISAs to Eliminate Speculative-Execution Attacks](https://arxiv.org/abs/2007.15919)
+- [Ethereum Classic 51% Attack](https://www.coindesk.com/ethereum-classic-undergoes-likely-51-attack-with-3693-block-chain-reorganization)
 
 ## Pull Requests and repo updates
 
@@ -77,6 +83,7 @@ through our monthly newsletter.
 ### BIPs
 
 - [BIP 339: WTXID-based transaction relay](https://github.com/bitcoin/bips/pull/933)
+- [BIP 118: SIGHASH_ANYPREVOUT](https://github.com/bitcoin/bips/pull/943)
 - [BIP 325: signet, change signature scheme to be tx-based](https://github.com/bitcoin/bips/pull/947)
 
 ### eclair
@@ -101,6 +108,7 @@ through our monthly newsletter.
 - [PSBTs, Meet the HSM](https://github.com/ElementsProject/lightning/pull/3762)
 - [New pyln modules](https://github.com/ElementsProject/lightning/pull/3733)
 - [Reserve/unreserve/fundpsbt](https://github.com/ElementsProject/lightning/pull/3825)
+- [Summary plugin now shows you how available your peers are](https://github.com/lightningd/plugins/pull/127)
 
 ### lnd
 
@@ -115,19 +123,15 @@ through our monthly newsletter.
 - [Intercept forward htlc](https://github.com/lightningnetwork/lnd/pull/4018)
 - [REST saga 3/3: REST API for subservers, websocket for streaming responses](https://github.com/lightningnetwork/lnd/pull/4141)
 
-### Wasabi
-
-## rust-lightning
-
 ## joinmarket
 
 - [python-bitcointx backend for jmbitcoin + bip78 and snicker](https://github.com/JoinMarket-Org/joinmarket-clientserver/commit/adc9b9e04e6dbd712117eff451375ec4e7e8f480)
 
-## Privacy
-
 ## Events
 
-- [London BitDevs - Coinswap](https://diyhpl.us/wiki/transcripts/london-bitcoin-devs/2020-06-23-socratic-seminar-coinswap/)
+- [London BitDevs - Socratic Seminar on Coinswap](https://diyhpl.us/wiki/transcripts/london-bitcoin-devs/2020-06-23-socratic-seminar-coinswap/)
+- [London BitDevs - Socratic Seminar on BIP Schnorr](https://diyhpl.us/wiki/transcripts/london-bitcoin-devs/2020-06-16-socratic-seminar-bip-schnorr/)
+- [London BitDevs - Socratic Seminar on BIP Taproot](https://diyhpl.us/wiki/transcripts/london-bitcoin-devs/2020-07-21-socratic-seminar-bip-taproot/)
 - [Chicago BitDevs - Socratic Seminar 10](https://diyhpl.us/wiki/transcripts/chicago-bitdevs/2020-07-08-socratic-seminar/)
 
 ## Miscellaneous
@@ -135,10 +139,12 @@ through our monthly newsletter.
 - [NIST’s post-quantum cryptography program enters ‘selection round’](https://www.nist.gov/news-events/news/2020/07/nists-post-quantum-cryptography-program-enters-selection-round)
 - [Completely offline bitcoin transactions](https://medium.com/hackernoon/completely-offline-bitcoin-transactions-4e58324637bd)
 - [DLC-based P2P derivatives beta application](https://medium.com/@cryptogarage/announcing-the-global-launch-of-p2p-derivatives-beta-application-7ecc02fa02a1)
-- [Utreexo Demo Release](https://medium.com/mit-media-lab-digital-currency-initiative/utreexo-demonstration-release-a0d87506fd70)
+- [Utreexo demo release](https://medium.com/mit-media-lab-digital-currency-initiative/utreexo-demonstration-release-a0d87506fd70)
 - [NiceHash mining payouts over lightning](https://www.nicehash.com/blog/post/start-using-nicehash-nicehash-lightning-network-with-zero-fees)
 - [specter-desktop 0.5.5](https://github.com/cryptoadvance/specter-desktop/releases/tag/v0.5.5)
 - [Call to action: improving and testing asmap](https://blog.bitmex.com/call-to-action-testing-and-improving-asmap/)
 - [Electrum 4.0.0 with lightning support](https://github.com/spesmilo/electrum/commit/040f66a5f04bd5c7ad051ab1cd9c68f1ab6602bd#diff-a401a468eaffd5e6e0f6e1d79580f51c)
 - [Electrum Server performance report](https://blog.keys.casa/electrum-server-performance-report/)
-- [LNURL Allowances Specification](https://github.com/btcontract/lnurl-rfc/pull/49)
+- [LNURL allowances specification](https://github.com/btcontract/lnurl-rfc/pull/49)
+- [Path to taproot activation](https://www.reddit.com/r/Bitcoin/comments/hqzp14/technical_the_path_to_taproot_activation/)
+
