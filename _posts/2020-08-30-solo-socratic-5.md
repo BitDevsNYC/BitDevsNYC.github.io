@@ -28,6 +28,11 @@ through our monthly newsletter.
 
 ### Optech
 
+- [Newsletter #109](https://bitcoinops.org/en/newsletters/2020/08/05/)
+- [Newsletter #110](https://bitcoinops.org/en/newsletters/2020/08/12/)
+- [Newsletter #111](https://bitcoinops.org/en/newsletters/2020/08/19/)
+- [Newsletter #112](https://bitcoinops.org/en/newsletters/2020/08/26/)
+
 ## Network Data
 
 - ["Dusting" of Bitcoin UTXO](https://twitter.com/ErgoBTC/status/1293273159165267977)
@@ -69,8 +74,21 @@ Timing Attacks on Privacy in Payment Channel Networks](https://arxiv.org/pdf/200
 ### Bitcoin Core
 
 - [Transactions propagation design goals](https://github.com/bitcoin/bitcoin/issues/19820)
+- [wallet: always do avoid partial spends if fees are within a specified range](https://github.com/bitcoin/bitcoin/pull/14582)
+- [Add loadwallet and createwallet load_on_startup options](https://github.com/bitcoin/bitcoin/pull/15937)
+- [rpc: separate bumpfee's psbt creation function into psbtbumpfee](https://github.com/bitcoin/bitcoin/pull/18654)
+- [Cache responses to GETADDR to prevent topology leaks](https://github.com/bitcoin/bitcoin/pull/18991)
+- [p2p: Signal support for compact block filters with NODE_COMPACT_FILTERS](https://github.com/bitcoin/bitcoin/pull/19070)
+- [Enable fetching of orphan parents from wtxid peers](https://github.com/bitcoin/bitcoin/pull/19569)
+- [Add txids with non-standard inputs to reject filter](https://github.com/bitcoin/bitcoin/pull/19620)
+- [Allow RPC to fetch all addrman records and add records to addrman](https://github.com/bitcoin/bitcoin/pull/19658)
+- [-maxapsfee follow-up](https://github.com/bitcoin/bitcoin/pull/19743)
 
 ### BIPs
+
+- [bip-325: change signature scheme to be tx-based](https://github.com/bitcoin/bips/pull/947)
+- [BIP174: Clarify that both UTXO types are allowed](https://github.com/bitcoin/bips/pull/948)
+- [BIP174: add hash preimage fields to inputs](https://github.com/bitcoin/bips/pull/955)
 
 ### eclair
 
