@@ -90,13 +90,36 @@ Timing Attacks on Privacy in Payment Channel Networks](https://arxiv.org/pdf/200
 - [BIP174: Clarify that both UTXO types are allowed](https://github.com/bitcoin/bips/pull/948)
 - [BIP174: add hash preimage fields to inputs](https://github.com/bitcoin/bips/pull/955)
 
+### BOLTs
+
+- [Anchor outputs](https://github.com/lightningnetwork/lightning-rfc/pull/688)
+- [More conservative `cltv_expiry_delta` recommendations](https://github.com/lightningnetwork/lightning-rfc/pull/785)
+
 ### eclair
+
+- [Eclair v0.4.1](https://github.com/ACINQ/eclair/releases/tag/v0.4.1)
+- [PostgreSQL Support](https://github.com/ACINQ/eclair/blob/master/docs/PostgreSQL.md)
+- [Activate anchor output in channels](https://github.com/ACINQ/eclair/pull/1491)
+- [Add API commands to sign & verify arbitrary messages](https://github.com/ACINQ/eclair/pull/1499)
 
 ### c-lightning
 
+- [C-Lightning v0.9.0: Rat Poison Squared on Steroids](https://github.com/ElementsProject/lightning/releases/tag/v0.9.0)
 - [c-lightning's summary plugin now shows you how available your peers are](https://github.com/lightningd/plugins/pull/127)
+- [fundpsbt/utxopsbt: let caller specify locktime, signpsbt: signing restrictions](https://github.com/ElementsProject/lightning/pull/3954)
+- [pay: Add timestamp of first part to `listpays`](https://github.com/ElementsProject/lightning/pull/3909)
+- [Anchor output support (iff EXPERIMENTAL_FEATURES)](https://github.com/ElementsProject/lightning/pull/3830)
 
 ### lnd
+
+- [lnd v0.11.0-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.11.0-beta)
+- [multi: I wumbo, you wumbo, he she wumbo](https://github.com/lightningnetwork/lnd/pull/4429)
+- [multi: enforce conservative minimum for user-chosen CLTV deltas](https://github.com/lightningnetwork/lnd/pull/4488)
+- [multi: add labels to lnd native transactions](https://github.com/lightningnetwork/lnd/pull/4434)
+- [Intercept forward htlc](https://github.com/lightningnetwork/lnd/pull/4018)
+- [lnrpc/invoicesrpc: extend hop hint selection to account for MPP](https://github.com/lightningnetwork/lnd/pull/4521)
+- [tls: add --tlsdisableautofill flag to prevent sensitive data leaks](https://github.com/lightningnetwork/lnd/pull/4421)
+- [add modified greedy topK centrality heuristic to autopilot](https://github.com/lightningnetwork/lnd/pull/4384)
 
 ### joinmarket
 
@@ -114,7 +137,7 @@ Timing Attacks on Privacy in Payment Channel Networks](https://arxiv.org/pdf/200
 - [Stephen Livera - Christian Decker](https://stephanlivera.com/episode/200/)
 - [Confidential Asset-Based Loans on Liquid Network](https://www.youtube.com/watch?v=kUXYgF4rZKc)
 - [Bitcoin Sydney - Socratic Seminar July](https://diyhpl.us/wiki/transcripts/sydney-bitcoin-meetup/2020-07-21-socratic-seminar/)
-- [Londong BitDevs - Socratic Seminar on Signet](https://diyhpl.us/wiki/transcripts/london-bitcoin-devs/2020-08-19-socratic-seminar-signet/)
+- [London BitDevs - Socratic Seminar on Signet](https://diyhpl.us/wiki/transcripts/london-bitcoin-devs/2020-08-19-socratic-seminar-signet/)
 - [Chicago BitDevs - Socratic Seminar 11](https://diyhpl.us/wiki/transcripts/chicago-bitdevs/2020-08-12-socratic-seminar/)
 
 ## Miscellaneous
@@ -131,3 +154,5 @@ Timing Attacks on Privacy in Payment Channel Networks](https://arxiv.org/pdf/200
 - [Square Crypto Grant for Lloyd Fournier](https://twitter.com/sqcrypto/status/1290339026462019585)
 - [Human Rights Foundation Developer Grants](https://twitter.com/HRF/status/1290680292756332544)
 - [Bitmain shipping delays](https://www.coindesk.com/bitmain-delays-bitcoin-miner-shipments-by-three-months-as-co-founders-battle-on)
+- [BlueWallet Desktop](https://bluewallet.io/desktop-bitcoin-wallet/)
+- [Ride-The-Lightning Release v0.9.0](https://github.com/Ride-The-Lightning/RTL/releases/tag/v0.9.0)
