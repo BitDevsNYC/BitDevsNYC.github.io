@@ -24,8 +24,6 @@ through our monthly newsletter.
 - [Generalizing feature negotiation when new p2p connections are setup](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-August/018084.html)
 - [Default Signet, Custom Signets and Resetting Testnet](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-August/018145.html)
 
-### lightning-dev
-
 ### Optech
 
 - [Newsletter #109](https://bitcoinops.org/en/newsletters/2020/08/05/)
@@ -123,6 +121,7 @@ Timing Attacks on Privacy in Payment Channel Networks](https://arxiv.org/pdf/200
 
 ### joinmarket
 
+- [0.7.0 Release](https://github.com/JoinMarket-Org/joinmarket-clientserver/releases/tag/v0.7.0)
 - [bech32 compatability for joinmarket](https://www.youtube.com/watch?v=sIOpkQls3CA)
 
 ### wasabi
@@ -156,3 +155,5 @@ Timing Attacks on Privacy in Payment Channel Networks](https://arxiv.org/pdf/200
 - [Bitmain shipping delays](https://www.coindesk.com/bitmain-delays-bitcoin-miner-shipments-by-three-months-as-co-founders-battle-on)
 - [BlueWallet Desktop](https://bluewallet.io/desktop-bitcoin-wallet/)
 - [Ride-The-Lightning Release v0.9.0](https://github.com/Ride-The-Lightning/RTL/releases/tag/v0.9.0)
+- [Pool Detective](https://pooldetective.org/api/docs/#introduction)
+- [Bitcoin Core GUI introductory meeting](https://diyhpl.us/wiki/transcripts/bitcoin-design/2020-08-20-bitcoin-core-gui/)
