@@ -136,6 +136,7 @@ Timing Attacks on Privacy in Payment Channel Networks](https://arxiv.org/pdf/200
 - [Stephen Livera - Christian Decker](https://stephanlivera.com/episode/200/)
 - [Confidential Asset-Based Loans on Liquid Network](https://www.youtube.com/watch?v=kUXYgF4rZKc)
 - [Bitcoin Sydney - Socratic Seminar July](https://diyhpl.us/wiki/transcripts/sydney-bitcoin-meetup/2020-07-21-socratic-seminar/)
+- [Bitcoin Sydney - Socratic Seminar August](https://diyhpl.us/wiki/transcripts/sydney-bitcoin-meetup/2020-08-25-socratic-seminar/)
 - [London BitDevs - Socratic Seminar on Signet](https://diyhpl.us/wiki/transcripts/london-bitcoin-devs/2020-08-19-socratic-seminar-signet/)
 - [Chicago BitDevs - Socratic Seminar 11](https://diyhpl.us/wiki/transcripts/chicago-bitdevs/2020-08-12-socratic-seminar/)
 
