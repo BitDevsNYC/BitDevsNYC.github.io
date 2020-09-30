@@ -146,8 +146,7 @@ through our monthly newsletter.
 - [Triptych: A New Algorithm Protecting Monero Users](https://www.monerooutreach.org/stories/monero-triptych.html)
 - [Bitcoin Grants Tracker](https://polylunar.com/bitcoin-grants-tracker/)
 - [Square Crypto grants page](https://squarecrypto.org/)
-- [John Pfeffer grant for Antoine Riard](
-https://twitter.com/jlppfeffer/status/1310676763522019331)
+- [John Pfeffer grant for Antoine Riard](https://twitter.com/jlppfeffer/status/1310676763522019331)
 - [Why we may fail Lightning](https://medium.com/@antoine.riard/why-we-may-fail-lightning-ee3692de1a55)
 - [joinmarket.me downtime](https://x0f.org/@waxwing/104817218051110221)
 - [Blocknative Mempool Explorer](https://blog.blocknative.com/blog/explorer)
