@@ -91,15 +91,36 @@ through our monthly newsletter.
 
 ### BOLTs
 
+- [More conservative `cltv_expiry_delta` recommendations](https://github.com/lightningnetwork/lightning-rfc/pull/785)
 
 ### eclair
 
+- [Plugin messaging](https://github.com/ACINQ/eclair/pull/1528)
+- [Anchor output: handle unilateral close](https://github.com/ACINQ/eclair/pull/1501)
+- [Improve blockchain watchers](https://github.com/ACINQ/eclair/pull/1500)
 
 ### c-lightning
 
+- [v0.9.1: The Antiguan BTC Maximalist Society](https://github.com/ElementsProject/lightning/releases/tag/v0.9.1)
+- [feat: notification channel_state_changed](https://github.com/ElementsProject/lightning/pull/4020)
+- [Multiwithdraw](https://github.com/ElementsProject/lightning/pull/3812)
+- [Dual-funding, accepter side only](https://github.com/ElementsProject/lightning/pull/3973)
+- [`onchaind` now scorches the earth when penalizing a revoked transaction](https://github.com/ElementsProject/lightning/pull/3870)
 
 ### lnd
 
+- [lnd v0.11.1-beta.rc4](https://github.com/lightningnetwork/lnd/releases/tag/v0.11.1-beta.rc4)
+- [lnd v0.11.1-beta.rc3](https://github.com/lightningnetwork/lnd/releases/tag/v0.11.1-beta.rc3)
+- [Faraday v0.2.1-alpha](https://github.com/lightninglabs/faraday/releases/tag/v0.2.1-alpha)
+- [Loop Server v0.9.0-beta](https://github.com/lightninglabs/loop/releases/tag/v0.9.0-beta)
+- [chanfitness: Rate limit in memory events based on peer flap rate](https://github.com/lightningnetwork/lnd/pull/4440)
+- [add new max channel size config option](https://github.com/lightningnetwork/lnd/pull/4567)
+- [cnct+sweep: cpfp-aware anchor sweeping](https://github.com/lightningnetwork/lnd/pull/4592)
+- [cnct+sweep+itest: preparations for cpfp-aware sweeper](https://github.com/lightningnetwork/lnd/pull/4606)
+- [lncli: add profiles for easy multi-node management](https://github.com/lightningnetwork/lnd/pull/4310)
+- [anchor commitment - Make the anchor commitment type spec compliant](https://github.com/lightningnetwork/lnd/pull/4558)
+- [Advanced macaroons 1/2: Custom URI permissions](https://github.com/lightningnetwork/lnd/pull/4463)
+- [Advanced macaroons 2/2: Custom macaroon validator for external subservers](https://github.com/lightningnetwork/lnd/pull/4464)
 
 ### joinmarket
 
@@ -146,3 +167,4 @@ https://twitter.com/jlppfeffer/status/1310676763522019331)
 - [Non-interactive Threshold Escrow (NITE)](https://github.com/ElementsProject/scriptless-scripts/blob/13ebf579e88d27db0d871d196025ed1342929e6e/md/NITE.md)
 - [Venezuela Legalizes Crypto Mining but Will Force Industry Into National Pool](https://www.coindesk.com/venezuela-legalize-cryptocurrency-mining-national-pool)
 - [This month in Bitcoin privacy - August](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/August_2020/)
+- [Lightning Network Circuit Breaker](https://github.com/lightningequipment/circuitbreaker)
