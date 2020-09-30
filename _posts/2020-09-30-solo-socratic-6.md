@@ -52,7 +52,7 @@ through our monthly newsletter.
 ### InfoSec
 
 - [CVE-2018-17145: Bitcoin InventoryOut-of-Memory Denial-of-Service Attack](https://invdos.net/paper/CVE-2018-17145.pdf)
-- Spam attacks on lightning: [HTLC exhaustion attack](https://twitter.com/joostjgr/status/1308414364911841281), [HTLC exhaustion example attack](https://twitter.com/joostjgr/status/1309516114628620288),  [Three types of lightning spam](https:://twitter.com/rusty_twit/status/1308566351556964354)
+- Spam attacks on lightning: [HTLC exhaustion attack](https://twitter.com/joostjgr/status/1308414364911841281), [HTLC exhaustion example attack](https://twitter.com/joostjgr/status/1309516114628620288), [three types of lightning spam](https:://twitter.com/rusty_twit/status/1308566351556964354)
 - [Vulnerability Disclosure and Decision to Pause New Loan Requests](https://atomic.loans/blog/vulnerability-disclosure-and-pause-new-loan-requests/)
 - [Sia secret hardfork](https://twitter.com/MarcinJachymiak/status/1303478580563898374)
 - [Responsible Vulnerability Disclosure in Cryptocurrencies](https://cacm.acm.org/magazines/2020/10/247597-responsible-vulnerability-disclosure-in-cryptocurrencies/fulltext)
@@ -159,6 +159,7 @@ through our monthly newsletter.
 - [Disconnecting Simplicity Expressions](https://medium.com/blockstream/disconnecting-simplicity-expressions-7b8ee0392fde)
 - [Don't Mix Your Timelocks](https://medium.com/blockstream/dont-mix-your-timelocks-d9939b665094)
 - [Introducing the AQUA Wallet](https://blockstream.com/2020/09/26/en-introducing-aqua-wallet/)
+- [All Paths Lead to Your Destination: Implementing Multi-Part Payments in c-lightning](https://medium.com/blockstream/all-paths-lead-to-your-destination-bc8f1a76c53d)
 - [Lightning circuitbreaker](https://github.com/lightningequipment/circuitbreaker)
 - [Building on Liquid](https://twitter.com/Liquid_BTC/status/1304120260593889288)
 - [Faraday update](https://lightning.engineering/posts/2020-09-15-faraday-accounting/)
