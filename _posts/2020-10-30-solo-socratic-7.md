@@ -19,6 +19,12 @@ through our monthly newsletter.
 
 ### bitcoin-dev
 
+### lightning-dev
+
+- [CVE-2020-26896: LND Invoice Preimage Extraction](https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-October/002857.html)
+- [CVE-2020-26895: LND Low-S Tx-Relay Standardness](https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-October/002858.html)
+- [Full Disclosure: CVE-2020-26895 LND "Hodl my Shitsig"](https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-October/002856.html)
+- [Full Disclosure: CVE-2020-26896 LND "The (un)covert channel"](https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-October/002855.html)
 
 ### Optech
 
@@ -68,24 +74,48 @@ through our monthly newsletter.
 
 ### BOLTs
 
-
 ### eclair
 
+- [Eclair v0.4.2](https://github.com/ACINQ/eclair/releases/tag/v0.4.2)
+- [Fees: add per-node feerate tolerance](https://github.com/ACINQ/eclair/pull/1575)
+- [Plugin: messaging between two peers](https://github.com/ACINQ/eclair/pull/1528)
+- [Plugin: implementation of `keysend` spontaneous payments](https://github.com/ElementsProject/lightning/pull/3611)
 
 ### c-lightning
 
+- [Add a `commitment feerate` parameter to multifundchannel](https://github.com/ElementsProject/lightning/pull/4139)
+- [JSON Notification support](https://github.com/ElementsProject/lightning/pull/4046)
+- [Optimize PostgreSQL binary lookup](https://github.com/ElementsProject/lightning/pull/4153)
+- [Fuzz testing integration](https://github.com/ElementsProject/lightning/pull/4129)
+- [Updating signet chainparams for the latest PoW fix](https://github.com/ElementsProject/lightning/pull/4078)
 
 ### lnd
 
+- [lnd v0.11.1-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.11.1-beta)
+- [loop v0.11.0-beta](https://github.com/lightninglabs/loop/releases/tag/v0.11.0-beta)
+- [faraday v0.2.2-alpha](https://github.com/lightninglabs/faraday/releases/tag/v0.2.2-alpha)
+- [Disk: high write load on HDD](https://github.com/lightningnetwork/lnd/issues/4689)
+- [Lncli: allow configurable timeout in send payment](https://github.com/lightningnetwork/lnd/pull/4688)
+- [Htlcswitch: disallow circular routes on same channel](https://github.com/lightningnetwork/lnd/pull/3915)
+- [Chain: ability to spend unconfirmed coins when making onchain transactions](https://github.com/lightningnetwork/lnd/pull/4653)
+- [Lnd+config: allow Let's Encrypt listen IP to be set](https://github.com/lightningnetwork/lnd/pull/4625)
+- [PSBT funding: allow final TX to be specified as raw wire format transaction](https://github.com/lightningnetwork/lnd/pull/4601)
+- [Config: add new max channel size config option](https://github.com/lightningnetwork/lnd/pull/4567)
+- [Anchor: make the anchor commitment type spec compliant](https://github.com/lightningnetwork/lnd/pull/4558)
 
 ### joinmarket
 
-
 ### wasabi
-
 
 ## Events and Podcasts
 
-
 ## Miscellaneous
+
+- [Announce: CLBOSS Automated C-Lightning Node Manager](https://lists.ozlabs.org/pipermail/c-lightning/2020-October/000197.html) - [GitHub](https://github.com/ZmnSCPxj/clboss) / [0.2: TV Tropes Will Ruin Your Life](https://github.com/ZmnSCPxj/clboss/releases/tag/v0.2)
+- [10x Security Bitcoin Guide](https://btcguide.github.io/)
+- [Bitcoin UX / Payments Research by PeakShift](https://github.com/peakshift/bitcoin-ux)
+- [CVE-2020-26896 on cve.mitre.org](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-26896)
+- [CVE-2020-26895 on cve.mitre.org](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-26895)
+
+
 
