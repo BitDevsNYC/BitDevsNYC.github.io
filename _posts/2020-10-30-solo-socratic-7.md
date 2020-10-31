@@ -111,7 +111,8 @@ through our monthly newsletter.
 
 ## Miscellaneous
 
-- [Announce: CLBOSS Automated C-Lightning Node Manager](https://lists.ozlabs.org/pipermail/c-lightning/2020-October/000197.html) - [GitHub](https://github.com/ZmnSCPxj/clboss) / [0.2: TV Tropes Will Ruin Your Life](https://github.com/ZmnSCPxj/clboss/releases/tag/v0.2)
+- [ZEBEDEE Lightning Wallet](https://zbd.gg/)
+- [CLBOSS Automated C-Lightning Node Manager](https://lists.ozlabs.org/pipermail/c-lightning/2020-October/000197.html) - [GitHub](https://github.com/ZmnSCPxj/clboss) / [0.2: TV Tropes Will Ruin Your Life](https://github.com/ZmnSCPxj/clboss/releases/tag/v0.2)
 - [10x Security Bitcoin Guide](https://btcguide.github.io/)
 - [Bitcoin UX / Payments Research by PeakShift](https://github.com/peakshift/bitcoin-ux)
 - [CVE-2020-26896 on cve.mitre.org](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-26896)
