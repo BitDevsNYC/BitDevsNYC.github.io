@@ -24,6 +24,10 @@ through our monthly newsletter.
 
 ### Optech
 
+- [Newsletter #122](https://bitcoinops.org/en/newsletters/2020/11/04/)
+- [Newsletter #123](https://bitcoinops.org/en/newsletters/2020/11/11/)
+- [Newsletter #124](https://bitcoinops.org/en/newsletters/2020/11/18/)
+- [Newsletter #125](https://bitcoinops.org/en/newsletters/2020/11/25/)
 
 ## Network Data
 
@@ -39,18 +43,15 @@ through our monthly newsletter.
 
 ## Pull Requests and repo updates
 
-
 ### Bitcoin Core
 
-
-### libsecp
-
-
-### BIPs
-
+- [Bitcoin Core v0.21.0 rc2](https://github.com/bitcoin/bitcoin/releases/tag/v0.21.0rc2)
+- [wallet: introduce fee_rate sat/vB param/option](https://github.com/bitcoin/bitcoin/issues/20305)
+- [Drop the leading 0 from the version number](https://github.com/bitcoin/bitcoin/issues/20223)
 
 ### BOLTs
 
+- [Prevent preimage reveal collision while claiming onchain incoming HTLC](https://github.com/lightningnetwork/lightning-rfc/pull/808)
 
 ### eclair
 
