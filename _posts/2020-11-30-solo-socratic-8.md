@@ -119,7 +119,7 @@ through our monthly newsletter.
 ## Events and Podcasts
 
 - [The Chaincode Podcast - Mark ‘Murch’ Erhardt and UTXO Management/Enterprise Wallets](https://podcast.chaincode.com/2020/11/09/murch-8.html)
-- [The Chaincode Podcast - Cark Dong and Build Systems](https://podcast.chaincode.com/2020/11/30/carl-dong-1.html)
+- [The Chaincode Podcast - Carl Dong and Build Systems](https://podcast.chaincode.com/2020/11/30/carl-dong-1.html)
 
 ## Miscellaneous
 
