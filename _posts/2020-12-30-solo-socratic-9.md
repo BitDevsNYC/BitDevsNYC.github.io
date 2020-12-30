@@ -132,7 +132,6 @@ through our monthly newsletter.
 - [RoninDojo v1.8.0](https://twitter.com/RoninDojoUI/status/1334929838654717952)
 - [replay historical lightning network gossip messages](https://github.com/lnresearch/topology/pull/1)
 - [Here Come the Exchanges](https://lightninglabs.substack.com/p/here-come-the-exchanges)
-- []
 - [Toward a lightning node in the browser](https://medium.com/simplecoin/toward-a-lightning-node-in-the-browser-847ba0194697)
 - [Bulk preorders for the latest bitcoin ASIC miners are sold out until next spring](https://www.theblockcrypto.com/post/84781/bulk-preorders-bitcoin-miners-spring-2021)
 - [Coinbase Crypto Community Fund provides grants to promag and 0x1B10C](https://twitter.com/coinbase/status/1341549152090673153)
@@ -147,4 +146,6 @@ through our monthly newsletter.
 - [Lightning This Week #660,375](https://andreneves.substack.com/p/lightning-this-week-660375)
 - [Mitigating Channel Jamming with Stake Certificates](https://blog.bitmex.com/mitigating-channel-jamming-with-stake-certificates/)
 - [Lightning Network Time Machine](https://github.com/lnresearch/topology/pull/1)
+- [BITCOIN GAMING 2020 RETROSPECTIVE](https://twitter.com/dickerson_des/status/1344349251548098561)
+- [ZEBEDEE: Counter Strike Infused with Satoshis](https://twitter.com/MintGox/status/1343299532365377537)
 
