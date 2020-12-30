@@ -24,6 +24,8 @@ through our monthly newsletter.
 #### lightning-dev
 
 - [Recovery of Lightning channels without backups](https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-December/002907.html)
+- [Mitigating Channel Jamming with Stake Certificates](https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-November/002884.html)
+- [Covert channel recovery with Oblivious Signatures](https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-December/002912.html)
 
 ### Optech
 
@@ -71,13 +73,25 @@ through our monthly newsletter.
 
 ### eclair
 
+- [Distribute connection-handling on multiple machines using akka-cluster](https://github.com/ACINQ/eclair/pull/1566)
+
 
 ### c-lightning
 
 - [c-lightning v0.9.2](https://github.com/ElementsProject/lightning/releases/tag/v0.9.2l) / [blog](https://medium.com/blockstream/new-release-c-lightning-0-9-2-8cf6c20d47be)
+- [Offers: Part 1, Spec import and basic infrastructure](https://github.com/ElementsProject/lightning/pull/4255)
+- [Hsmtool: enable dumping output descriptors of onchain wallet](https://github.com/ElementsProject/lightning/pull/4171)
 
 ### lnd
 
+- [lnd v0.12.0-beta.rc2](https://github.com/lightningnetwork/lnd/releases/tag/v0.12.0-beta.rc2)
+- [multi: add new config option to toggle gossip rate limiting](https://github.com/lightningnetwork/lnd/pull/4810)
+- [anchors: zero-fee HTLC secondlevel transactions](https://github.com/lightningnetwork/lnd/pull/4840)
+- [chanbackup: update on-disk backup file with unconfirmed channels](https://github.com/lightningnetwork/lnd/pull/3993)
+- [routing: proportional attempt cost](https://github.com/lightningnetwork/lnd/pull/4602)
+- [lnrpc+tor: add network connection timeout](https://github.com/lightningnetwork/lnd/pull/4452)
+- [channeldb/kvdb/bolt: automatically compact database on startup](https://github.com/lightningnetwork/lnd/pull/4667)
+- [walletrpc: add new PSBT creation+signing RPCs](https://github.com/lightningnetwork/lnd/pull/4389)
 
 ### BOLTs
 
@@ -85,7 +99,7 @@ through our monthly newsletter.
 - [feature: define option_zero_htlc_tx_fee](https://github.com/lightningnetwork/lightning-rfc/pull/824)
 
 ### wasabi
- 
+
 - [wasabi v1.1.12.3](https://github.com/zkSNACKs/WalletWasabi/releases/tag/v1.1.12.3)
 
 ### joinmarket
@@ -118,6 +132,7 @@ through our monthly newsletter.
 - [RoninDojo v1.8.0](https://twitter.com/RoninDojoUI/status/1334929838654717952)
 - [replay historical lightning network gossip messages](https://github.com/lnresearch/topology/pull/1)
 - [Here Come the Exchanges](https://lightninglabs.substack.com/p/here-come-the-exchanges)
+- []
 - [Toward a lightning node in the browser](https://medium.com/simplecoin/toward-a-lightning-node-in-the-browser-847ba0194697)
 - [Bulk preorders for the latest bitcoin ASIC miners are sold out until next spring](https://www.theblockcrypto.com/post/84781/bulk-preorders-bitcoin-miners-spring-2021)
 - [Coinbase Crypto Community Fund provides grants to promag and 0x1B10C](https://twitter.com/coinbase/status/1341549152090673153)
@@ -128,3 +143,8 @@ through our monthly newsletter.
   - [ZmnSCPxj](https://twitter.com/sqcrypto/status/1337444109771034624)
 - [Signet faucet](https://signetfaucet.com/)
 - [belcher work diary](https://gist.github.com/chris-belcher/ca5051285c6f8d38693fd127575be44d)
+- [Lightning This Week #662,816](https://andreneves.substack.com/p/lightning-this-week-662816)
+- [Lightning This Week #660,375](https://andreneves.substack.com/p/lightning-this-week-660375)
+- [Mitigating Channel Jamming with Stake Certificates](https://blog.bitmex.com/mitigating-channel-jamming-with-stake-certificates/)
+- [Lightning Network Time Machine](https://github.com/lnresearch/topology/pull/1)
+
