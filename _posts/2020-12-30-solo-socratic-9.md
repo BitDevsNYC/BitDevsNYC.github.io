@@ -15,20 +15,24 @@ through our monthly newsletter.
 
 ### Mailing Lists
 
-### bitcoin-dev
+#### bitcoin-dev
 
 - [Progress on bech32 for future Segwit Versions (BIP-173)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-December/018292.html)
 - [New PSBT version proposal](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-December/018300.html)
 - [BIP-0322 (generic signmessage) improvements](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-December/018313.html)
 
-
-### lightning-dev
+#### lightning-dev
 
 - [Recovery of Lightning channels without backups](https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-December/002907.html)
+- [Mitigating Channel Jamming with Stake Certificates](https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-November/002884.html)
+- [Covert channel recovery with Oblivious Signatures](https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-December/002912.html)
 
 ### Optech
 
-
+- [Newsletter #126](https://bitcoinops.org/en/newsletters/2020/12/02/)
+- [Newsletter #127](https://bitcoinops.org/en/newsletters/2020/12/09/)
+- [Newsletter #128](https://bitcoinops.org/en/newsletters/2020/12/16/)
+- [Newsletter #129 - Year-in-review Special](https://bitcoinops.org/en/newsletters/2020/12/23/)
 
 ## Network Data
 
@@ -36,9 +40,6 @@ through our monthly newsletter.
 - [Bitcoin UTXO Creation & Destruction - Block 0 to 661045](https://www.youtube.com/watch?v=18m0bKsVb0Y)
 - [Kucoin hack investigation](https://twitter.com/LaurentMT/status/1339208350337208322)
 - [First multi-transaction coinswap on testnet](https://twitter.com/chris_belcher_/status/1336322923800322049), [details](https://www.reddit.com/r/Bitcoin/comments/k95iu4/the_first_coinswap_on_testnet_massive/)
-
-## CVEs and Research
-
 
 ### Research
 
@@ -61,32 +62,49 @@ through our monthly newsletter.
 ### Bitcoin Core
 
 - [fuzz: Link all targets once](https://github.com/bitcoin/bitcoin/pull/20560)
+- [Don't send 'sendaddrv2' to pre-70016 software, and send before 'verack'](https://github.com/bitcoin/bitcoin/pull/20564)
+- [Expose high bandwidth mode state via getpeerinfo](https://github.com/bitcoin/bitcoin/pull/19776)
+- [Periodically make block-relay connections and sync headers](https://github.com/bitcoin/bitcoin/pull/19858)
+- [Disable fee estimation in blocksonly mode (by removing the fee estimates global)](https://github.com/bitcoin/bitcoin/pull/18766)
 
-### BOLTs
+### BIPs
 
+- [BIP155: change when sendaddrv2 is to be sent #1](https://github.com/bitcoin/bips/pull/1043)
 
 ### eclair
+
+- [Distribute connection-handling on multiple machines using akka-cluster](https://github.com/ACINQ/eclair/pull/1566)
 
 
 ### c-lightning
 
 - [c-lightning v0.9.2](https://github.com/ElementsProject/lightning/releases/tag/v0.9.2l) / [blog](https://medium.com/blockstream/new-release-c-lightning-0-9-2-8cf6c20d47be)
-
+- [Offers: Part 1, Spec import and basic infrastructure](https://github.com/ElementsProject/lightning/pull/4255)
+- [Hsmtool: enable dumping output descriptors of onchain wallet](https://github.com/ElementsProject/lightning/pull/4171)
 
 ### lnd
 
-### lightning-rfc
+- [lnd v0.12.0-beta.rc2](https://github.com/lightningnetwork/lnd/releases/tag/v0.12.0-beta.rc2)
+- [multi: add new config option to toggle gossip rate limiting](https://github.com/lightningnetwork/lnd/pull/4810)
+- [anchors: zero-fee HTLC secondlevel transactions](https://github.com/lightningnetwork/lnd/pull/4840)
+- [chanbackup: update on-disk backup file with unconfirmed channels](https://github.com/lightningnetwork/lnd/pull/3993)
+- [routing: proportional attempt cost](https://github.com/lightningnetwork/lnd/pull/4602)
+- [lnrpc+tor: add network connection timeout](https://github.com/lightningnetwork/lnd/pull/4452)
+- [channeldb/kvdb/bolt: automatically compact database on startup](https://github.com/lightningnetwork/lnd/pull/4667)
+- [walletrpc: add new PSBT creation+signing RPCs](https://github.com/lightningnetwork/lnd/pull/4389)
+
+### BOLTs
 
 - [Trampoline Routing (2021 edition)](https://github.com/lightningnetwork/lightning-rfc/pull/829)
 - [feature: define option_zero_htlc_tx_fee](https://github.com/lightningnetwork/lightning-rfc/pull/824)
 
 ### wasabi
- 
+
 - [wasabi v1.1.12.3](https://github.com/zkSNACKs/WalletWasabi/releases/tag/v1.1.12.3)
 
 ### joinmarket
 
-- [[WIP] Added needed functionality for SNICKER in basic form](https://github.com/JoinMarket-Org/joinmarket-clientserver/pull/768)
+- [WIP: Added needed functionality for SNICKER in basic form](https://github.com/JoinMarket-Org/joinmarket-clientserver/pull/768)
 - [Drop support for pre-0.17 Bitcoin Core](https://github.com/JoinMarket-Org/joinmarket-clientserver/pull/764)
 
 ## Events and Podcasts
@@ -117,9 +135,17 @@ through our monthly newsletter.
 - [Toward a lightning node in the browser](https://medium.com/simplecoin/toward-a-lightning-node-in-the-browser-847ba0194697)
 - [Bulk preorders for the latest bitcoin ASIC miners are sold out until next spring](https://www.theblockcrypto.com/post/84781/bulk-preorders-bitcoin-miners-spring-2021)
 - [Coinbase Crypto Community Fund provides grants to promag and 0x1B10C](https://twitter.com/coinbase/status/1341549152090673153)
-- Square Crypto Grants - [Justin Moon](https://twitter.com/sqcrypto/status/1337078446841860097), [Leon Johnson](https://twitter.com/sqcrypto/status/1341067151042633732), [Patricia Estevão](https://twitter.com/sqcrypto/status/1338529455636172803), [ZmnSCPxj](https://twitter.com/sqcrypto/status/1337444109771034624)
+- Square Crypto Grants:
+  - [Justin Moon](https://twitter.com/sqcrypto/status/1337078446841860097)
+  - [Leon Johnson](https://twitter.com/sqcrypto/status/1341067151042633732)
+  - [Patricia Estevão](https://twitter.com/sqcrypto/status/1338529455636172803)
+  - [ZmnSCPxj](https://twitter.com/sqcrypto/status/1337444109771034624)
 - [Signet faucet](https://signetfaucet.com/)
 - [belcher work diary](https://gist.github.com/chris-belcher/ca5051285c6f8d38693fd127575be44d)
-
-
+- [Lightning This Week #662,816](https://andreneves.substack.com/p/lightning-this-week-662816)
+- [Lightning This Week #660,375](https://andreneves.substack.com/p/lightning-this-week-660375)
+- [Mitigating Channel Jamming with Stake Certificates](https://blog.bitmex.com/mitigating-channel-jamming-with-stake-certificates/)
+- [Lightning Network Time Machine](https://github.com/lnresearch/topology/pull/1)
+- [BITCOIN GAMING 2020 RETROSPECTIVE](https://twitter.com/dickerson_des/status/1344349251548098561)
+- [ZEBEDEE: Counter Strike Infused with Satoshis](https://twitter.com/MintGox/status/1343299532365377537)
 
