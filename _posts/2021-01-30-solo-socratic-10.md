@@ -43,7 +43,7 @@ Until our community can meet again in person, we'll continue to share all the la
   - [summary](https://twitter.com/BitMEXResearch/status/1352256363704037377)
 - [Spike in Bitcoin Core node count](https://luke.dashjr.org/programs/bitcoin/files/charts/historical.html)
 - [1000 BTC from 2010 coinbases spent](https://twitter.com/ErgoBTC/status/1354085827098378248)
-- [Bitcoin miner transactoin fe gathering capability](https://blog.bitmex.com/bitcoin-miner-transaction-fee-gathering-capability/)
+- [Bitcoin miner transaction fee gathering capability](https://blog.bitmex.com/bitcoin-miner-transaction-fee-gathering-capability/)
 - [Squiggly spending trace in utxo.live](https://twitter.com/Steve_Jeffress/status/1353745495357845511)
 - [UTXO growth in 2020](https://twitter.com/murchandamus/status/1338955572050341889)
 - [>50% of eth hashrate mining mempool-bypassed txs](https://twitter.com/paddypisa/status/1351489962491965441)
