@@ -63,14 +63,28 @@ through our monthly newsletter.
 
 ### eclair
 
+- [Documentation for cluster mode](https://github.com/ACINQ/eclair/pull/1646)
+- [Distribute connection-handling on multiple machines using akka-cluster](https://github.com/ACINQ/eclair/pull/1566)
+- [Add metrics to track utxos](https://github.com/ACINQ/eclair/pull/1609)
+- [Activate static_remotekey by default](https://github.com/ACINQ/eclair/pull/1639)
+- [Add router API for invoice routing hints](https://github.com/ACINQ/eclair/pull/1590)
 
 ### c-lightning
 
-- [c-lightning v0.9.3 released](https://github.com/ElementsProject/lightning/releases/tag/v0.9.3)
+- [C-lightning v0.9.3 released](https://github.com/ElementsProject/lightning/releases/tag/v0.9.3)
+- [Feat: peer_connected hook chainable](https://github.com/ElementsProject/lightning/pull/4351)
+- [Wallet/db.c: Speed up deletion of single peers.](https://github.com/ElementsProject/lightning/pull/4337)
+- [Offers Part 4: send_invoice offers, allow messages from non-channel peers, documentation and API tweaks](https://github.com/ElementsProject/lightning/pull/4271)
+- [Offers: the bonus bits!](https://github.com/ElementsProject/lightning/pull/4280)
+- [Hsmtool: fix hsm_secret generation](https://github.com/ElementsProject/lightning/pull/4304)
 
 ### lnd
 
 - [lnd v0.12.0-beta released](https://github.com/lightningnetwork/lnd/releases/tag/v0.12.0-beta)
+- [Intercept forward htlc](https://github.com/lightningnetwork/lnd/pull/4018)
+- [AMP: introduce child preimage and hash derivation](https://github.com/lightningnetwork/lnd/pull/4162)
+- [Reserve wallet balance for anchor fee bumping - anchors](https://github.com/lightningnetwork/lnd/pull/4908)
+- [Zero-fee HTLC secondlevel transactions - anchors](https://github.com/lightningnetwork/lnd/pull/4840)
 
 ### BOLTs
 
@@ -85,4 +99,7 @@ through our monthly newsletter.
 
 
 ## Miscellaneous
+
+- [Lightning This Week #668,060](https://andreneves.substack.com/p/lightning-this-week-668060)
+- [Lightning This Week #666,209](https://andreneves.substack.com/p/lightning-this-week-666209)
 
