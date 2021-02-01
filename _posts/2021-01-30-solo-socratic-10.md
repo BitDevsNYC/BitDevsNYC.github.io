@@ -16,6 +16,7 @@ Until our community can meet again in person, we'll continue to share all the la
 #### bitcoin-dev
 
 - [Proposed disabletx message](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-January/018340.html)
+- [PSBTv2](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-January/018355.html)
 - [PayJoin adoption](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-January/018356.html)
 - [Hardware wallets and "advanced" Bitcoin features](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-January/018352.html)
 - [Taproot activation meeting](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-January/018370.html)
@@ -98,8 +99,7 @@ Until our community can meet again in person, we'll continue to share all the la
   - [implementation](https://github.com/bitcoin/bitcoin/pull/20861)
   - [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-January/018338.html)
   - [demo](http://bitcoin.sipa.be/bech32/demo/demo.html)
-- [PSBTv2 draft](https://github.com/achow101/bips/blob/psbt2/bip-psbt2.mediawiki)
-  -[bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-January/018355.html)
+- [BIP174 reformat, reorganize, and mark final](https://github.com/achow101/bips/blob/psbt2/bip-psbt2.mediawiki)
 
 ### eclair
 
@@ -165,7 +165,7 @@ Until our community can meet again in person, we'll continue to share all the la
   - [context 1](https://twitter.com/pwuille/status/1336779015789576192)
   - [context 2](https://twitter.com/pwuille/status/1348835954396516353)
   - [context 3](https://twitter.com/hashbreaker/status/1344620536249212933) 
-  - [Integration into secp256k1](https://github.com/bitcoin-core/secp256k1/pull/831)
+  - [integration into secp256k1](https://github.com/bitcoin-core/secp256k1/pull/831)
 
 ## Events and Podcasts
 
