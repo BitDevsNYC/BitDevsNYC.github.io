@@ -26,6 +26,8 @@ is not an endorsement of any kind.
 
 #### lightning-dev
 
+- [Escrow Over Lightning?](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-February/002955.html)
+- [Hold fee rates as DoS protection (channel spamming and jamming)](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-February/002958.html)
 
 ### Optech
 
@@ -73,19 +75,29 @@ is not an endorsement of any kind.
 
 ### eclair
 
+- [Eclair v0.5.1](https://github.com/ACINQ/eclair/releases/tag/v0.5.1)
+- [Sort addresses in node announcement](https://github.com/ACINQ/eclair/pull/1693)
 
 ### c-lightning
 
+- [warning message support](https://github.com/ElementsProject/lightning/pull/4364)
 
 ### lnd
 
 - [lnd v0.12.1-beta released](https://github.com/lightningnetwork/lnd/releases)
+- [routing: allow runtime updates to mission control config](https://github.com/lightningnetwork/lnd/pull/4909)
+- [add option for deleting failed-only payments.](https://github.com/lightningnetwork/lnd/pull/3191)
+- [multi: support derived public key import](https://github.com/lightningnetwork/lnd/pull/5047)
+- [routing: dial back max concurrent block fetches](https://github.com/lightningnetwork/lnd/pull/5043)
+- [Loop v0.11.4-beta](https://github.com/lightninglabs/loop/releases/tag/v0.11.4-beta)
+- [Pool v0.4.4-alpha](https://github.com/lightninglabs/pool/releases/tag/v0.4.4-alpha)
+- [Lightning Terminal v0.4.1-alpha](https://github.com/lightninglabs/lightning-terminal/releases/tag/v0.4.1-alpha)
 
 ### secp256k1-zkp
 
-
 ### BOLTs
 
+- [BOLT 1: introduce warning messages, reduce requirements to send (hard) errors, remove "all-channel" errors](https://github.com/lightningnetwork/lightning-rfc/pull/834)
 
 ### wasabi
 
