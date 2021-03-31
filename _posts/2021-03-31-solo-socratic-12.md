@@ -36,9 +36,12 @@ is not an endorsement of any kind.
 - [Scalable Multi-Oracle Idea](https://mailmanlists.org/pipermail/dlc-dev/2021-March/000060.html)
 - [Multi-dimensional outcomes](https://mailmanlists.org/pipermail/dlc-dev/2021-March/000063.html)
 
-
 ### Optech
 
+- [Newsletter #138](https://bitcoinops.org/en/newsletters/2021/03/03/)
+- [Newsletter #139](https://bitcoinops.org/en/newsletters/2021/03/10/)
+- [Newsletter #140](https://bitcoinops.org/en/newsletters/2021/03/17/)
+- [Newsletter #141](https://bitcoinops.org/en/newsletters/2021/03/24/)
 
 ## Network Data
 
@@ -82,19 +85,26 @@ is not an endorsement of any kind.
 
 ### Bitcoin Core
 
+- [External signer support - Wallet Box edition](https://github.com/bitcoin/bitcoin/pull/16546)
+- [Add I2P support using I2P SAM](https://github.com/bitcoin/bitcoin/pull/20685)
+- [bitcoind: Add -daemonwait option to wait for initialization](https://github.com/bitcoin/bitcoin/pull/21007)
+- [BIP 350: Implement Bech32m and use it for v1+ segwit addresses](https://github.com/bitcoin/bitcoin/pull/20861)
+- [wallet: Add new format string placeholders for walletnotify](https://github.com/bitcoin/bitcoin/pull/21141)
+
+### HWI
+
+- [Properly handle and test sortedmulti descriptors](https://github.com/bitcoin-core/HWI/pull/488)
 
 ### BIPs
 
 - [BIP8: Add minimum activation height](https://github.com/bitcoin/bips/pull/1080)
+- [BIP 8: Make threshold configurable, and reduce recommendation to 90%](https://github.com/bitcoin/bips/pull/1069)
 - [BIP47 v3/v4 draft](https://github.com/justusranvier/obpp-rfc/blob/master/obpp-05.mediawiki)
-- [BIP370 merged](https://github.com/bitcoin/bips/commit/d7cc27613e26a98d08ee420eea85fabc7698f169)
-
+- [BIP 370: PSBT Version 2](https://github.com/bitcoin/bips/pull/1059)
 
 ### eclair
 
 - [v0.5.1](https://github.com/ACINQ/eclair/releases/tag/v0.5.1)
-
-
 
 ### c-lightning
 
@@ -130,7 +140,6 @@ is not an endorsement of any kind.
 - [btc-endgame](https://github.com/mikekelly/btc-endgame)
 - [HWI v2.0.0](https://github.com/bitcoin-core/HWI/releases/tag/2.0.0)
 
-
 ## Events and Podcasts
 
  - [The Van Wirdum Sjorsnado - Taproot Activation with Speedy Trial](https://www.youtube.com/watch?v=oCPrjaw3YVI)
@@ -147,7 +156,6 @@ is not an endorsement of any kind.
  - [SLP262 - Craig Raw - Bitcoin Multi Sig With Sparrow Wallet](https://stephanlivera.com/episode/262/)
  - [Lisa Neigut - Dual Funded Channels with c-lightning](https://www.youtube.com/watch?v=i_GxmNZjwhk)
  - [TFTC 241 - Mining pools, Braidpool, resistance to attacks, adversarial thinking, and dev funding with Bob McElrath ](https://anchor.fm/tales-from-the-crypt/episodes/241-Mining-pools--Braidpool--resistance-to-attacks--adversarial-thinking--and-dev-funding-with-Bob-McElrath-etib4a)
-
 
 ## Miscellaneous
 
