@@ -7,12 +7,8 @@ meetup: https://www.meetup.com/bitdevsnyc/
 
 ## Announcements
 
-Until our community can meet again in person, we'll continue to share all the
-latest research and developments through our monthly newsletter. Please note
-that we have broken out a new section titled New Releases that contains links
-to recently released/updated software. This content was previously catalogued
-in the Miscellaneous section. As a reminder, inclusion of software in this list
-is not an endorsement of any kind.
+Until our community can meet again in person, we'll continue to share all the latest research and developments through our monthly newsletter. Please note
+that we have included two new sections, dlc-dev and dlcspecs, which cover the mailing list and specification repository dedicated to the development of Discrete Log Contracts.
 
 ## Mailing Lists and Bitcoin Optech
 
@@ -93,6 +89,7 @@ is not an endorsement of any kind.
 
 ### HWI
 
+- [v2.0.0](https://github.com/bitcoin-core/HWI/releases/tag/2.0.0)
 - [Properly handle and test sortedmulti descriptors](https://github.com/bitcoin-core/HWI/pull/488)
 
 ### BIPs
@@ -104,7 +101,6 @@ is not an endorsement of any kind.
 
 ### eclair
 
-- [v0.5.1](https://github.com/ACINQ/eclair/releases/tag/v0.5.1)
 
 ### c-lightning
 
@@ -138,7 +134,7 @@ is not an endorsement of any kind.
 - [BTCPayserver v1.0.7.0](https://blog.btcpayserver.org/btcpay-server-v1-0-7-0/)
 - [ColdCard v4.0.0](https://blog.coinkite.com/version-4.0.0-released/)
 - [btc-endgame](https://github.com/mikekelly/btc-endgame)
-- [HWI v2.0.0](https://github.com/bitcoin-core/HWI/releases/tag/2.0.0)
+- [specter-desktop v1.3.0](https://github.com/cryptoadvance/specter-desktop/releases/tag/v1.3.0)
 
 ## Events and Podcasts
 
@@ -156,6 +152,7 @@ is not an endorsement of any kind.
  - [SLP262 - Craig Raw - Bitcoin Multi Sig With Sparrow Wallet](https://stephanlivera.com/episode/262/)
  - [Lisa Neigut - Dual Funded Channels with c-lightning](https://www.youtube.com/watch?v=i_GxmNZjwhk)
  - [TFTC 241 - Mining pools, Braidpool, resistance to attacks, adversarial thinking, and dev funding with Bob McElrath ](https://anchor.fm/tales-from-the-crypt/episodes/241-Mining-pools--Braidpool--resistance-to-attacks--adversarial-thinking--and-dev-funding-with-Bob-McElrath-etib4a)
+ - [Unhashed Podcast 129 -  L2 scaling in Ethereum and Bitcoin (w/ Eric Wall & Somsen)](https://www.unhashedpodcast.com/episodes/2021/3/30/ep-129-l2-scaling-in-ethereum-and-bitcoin-w-eric-wall-amp-somsen)
 
 ## Miscellaneous
 
@@ -167,6 +164,7 @@ is not an endorsement of any kind.
 - [A Model for Bitcoin Soft Fork Activation](https://rusty.ozlabs.org/?p=628)
 - [On taproot activation and consensus changes in Bitcoin](https://medium.com/@sdaftuar/on-taproot-activation-and-consensus-changes-in-bitcoin-5b3453e91c4e)
 - [CardCoins issues grant to hebasto (Hennadii Stepanov)](https://blog.cardcoins.co/a-year-in-review-hennadii-stepanovs-contributions-to-bitcoin-core)
+- [Brink announces first round of developer grants](https://brink.dev/blog/2021/03/31/grantees/)
 - [Human Rights Foundation Announces $70,000 In Bitcoin Development Grants](https://bitcoinmagazine.com/technical/human-rights-foundation-announces-70000-in-bitcoin-development-grants)
 - [OKCoin issues grant to Antoine Riard](https://blog.okcoin.com/2021/03/04/okcoin-bitcoin-developer-grant-antoine-riard/)
 - [Marathon Patent Group provides one year grant to Jonas Schnelli](https://www.marathondh.com/news/press-releases/detail/1225/marathon-patent-group-provides-one-year-grant-to)
@@ -177,3 +175,4 @@ is not an endorsement of any kind.
 - [Peter McCormack renews sponsorship of London BitDevs](https://twitter.com/PeterMcCormack/status/1366727874670194695)
 - [Open Batch Channels From Cold Storage using LND, Electrum, and Coldcard](https://abytesjourney.com/open-batch-channels-from-cold-storage-using-lnd-electrum-and-coldcard/)
 - [gasless transctions via flashbot bundles](https://twitter.com/amanusk_/status/1370642493621080071)
+- [wash trading on uniswap](https://twitter.com/Mudit__Gupta/status/1376960655463358467)
