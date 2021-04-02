@@ -101,11 +101,31 @@ that we have included two new sections, dlc-dev and dlcspecs, which cover the ma
 
 ### eclair
 
+- [Handle aggregated anchor outputs htlc txs](https://github.com/ACINQ/eclair/pull/1738)
+- [Shortest paths: prevent producing loops and remove some duplicated work](https://github.com/ACINQ/eclair/pull/1747)
+- [Refactor Postgres code](https://github.com/ACINQ/eclair/pull/1743)
 
 ### c-lightning
 
+- [C-Lightning v0.10.0: Neutralizing Fee Therapy](https://github.com/ElementsProject/lightning/releases/tag/v0.10.0)
+- [Dual-Funding Flag Day](https://github.com/ElementsProject/lightning/pull/4427)
+- [Channeld: allow remote node to exceed their own HTLC count limits](https://github.com/ElementsProject/lightning/pull/4432)
+- [Fundchannel complete psbt not txid](https://github.com/ElementsProject/lightning/pull/4428)
 
 ### lnd
+
+- [sweeper+contractcourt: deadline aware in sweeping anchors](https://github.com/lightningnetwork/lnd/pull/5148)
+- [rpcserver+lnrpc: make Subscribe RPCs context aware](https://github.com/lightningnetwork/lnd/pull/5146)
+- [build+lncfg: support pruned bitcoind backends](https://github.com/lightningnetwork/lnd/pull/5154)
+- [AMP support for SendPaymentV2](https://github.com/lightningnetwork/lnd/pull/5159)
+- [blockcache: add blockcache pkg and pass it to all backends](https://github.com/lightningnetwork/lnd/pull/5156)
+- [lncli+lnrpc: add payment address to sendpayment](https://github.com/lightningnetwork/lnd/pull/5102)
+- [lnwallet+channeldb: delete owed remote updates when signing](https://github.com/lightningnetwork/lnd/pull/5123)
+
+
+### rust-lightning
+
+- [Make cltv_expiry_delta configurable and reduce the min/default some](https://github.com/rust-bitcoin/rust-lightning/pull/849)
 
 
 ### BOLTs
@@ -125,7 +145,7 @@ that we have included two new sections, dlc-dev and dlcspecs, which cover the ma
 
 ## New Releases
 
-- [immortan - minmal LN implementation](https://github.com/btcontract/immortan)
+- [immortan - minimal LN implementation](https://github.com/btcontract/immortan)
 - [zeus v0.5.0](https://github.com/ZeusLN/zeus/releases/tag/v0.5.0)
 - [whirlpool-gui v0.10.3](https://code.samourai.io/whirlpool/whirlpool-gui/-/tags/0.10.3)
 - [Samourai Wallet v0.99.96e](https://docs.samourai.io/en/wallet/releases#v09996e)
