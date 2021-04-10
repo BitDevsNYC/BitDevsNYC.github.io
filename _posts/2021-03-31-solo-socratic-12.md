@@ -177,7 +177,7 @@ that we have included two new sections, dlc-dev and dlcspecs, which cover the ma
 ## Miscellaneous
 
 - [The widening gyre](https://laanwj.github.io/2021/01/21/decentralize.html)
-- [Bitcoin CoreDev reflections 2020-2021](https://adamjonas.com/bitcoin/cor(https://anchor.fm/tales-from-the-crypt/episodes/241-Mining-pools--Braidpool--resistance-to-attacks--adversarial-thinking--and-dev-funding-with-Bob-McElrath-etib4a)edev/retro/coredev-2020-retro/)
+- [Bitcoin CoreDev reflections 2020-2021](https://adamjonas.com/bitcoin/coredev/retro/coredev-2020-retro/)
 - [Stratum v2 update](https://twitter.com/braiins_systems/status/1367160679426383876)
 - [Optimizing Numeric Outcome DLC creation](https://medium.com/crypto-garage/optimizing-numeric-outcome-dlc-creation-6d6091ac0e47)
 - [Fixing UASF](http://www.erisian.com.au/wordpress/2021/03/14/fixing-uasf)
