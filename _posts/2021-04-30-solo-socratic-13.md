@@ -29,7 +29,6 @@ that we have included two new sections, dlc-dev and dlcspecs, which cover the ma
 
 #### dlc-dev
 
-
 ### Optech
 
 - [Newsletter #142](https://bitcoinops.org/en/newsletters/2021/03/31/)
@@ -41,12 +40,9 @@ that we have included two new sections, dlc-dev and dlcspecs, which cover the ma
 
 ## Network Data
 
-
 ### Research
 
-
 ### InfoSec
-
 
 ## Pull Requests and repo updates
 
@@ -68,7 +64,6 @@ that we have included two new sections, dlc-dev and dlcspecs, which cover the ma
 
 ### HWI
 
-
 ### BIPs
 
 - [BIP 8: Add minimum activation height](https://github.com/bitcoin/bips/pull/1080)
@@ -76,24 +71,30 @@ that we have included two new sections, dlc-dev and dlcspecs, which cover the ma
 
 ### eclair
 
+- [Add support for dual db backend](https://github.com/ACINQ/eclair/pull/1746)
+- [More flexible mutual close fees](https://github.com/ACINQ/eclair/pull/1768)
+- [Add additional PRNG](https://github.com/ACINQ/eclair/pull/1774)
+- [Add cpfp-bump-fees API](https://github.com/ACINQ/eclair/pull/1783)
 
 ### c-lightning
 
+- [plugin: Allow plugins to publish and subscribe to custom notifications](https://github.com/ElementsProject/lightning/pull/4496)
+- [add a funder plugin](https://github.com/ElementsProject/lightning/pull/4489)
 
 ### lnd
 
+- [routing: add chans rejected due to failed chain validation to zombie index](https://github.com/lightningnetwork/lnd/pull/5227)
+- [channeldb+discovery: implement strict zombie pruning](https://github.com/lightningnetwork/lnd/pull/5138)
+- [API endpoint /v1/balance/blockchain "total_balance" includes superseded RBF transactions](https://github.com/lightningnetwork/lnd/issues/5225)
+- [Feature request: add "wallet psbt process" API to partially sign UTXOs managed by the LND wallet](https://github.com/lightningnetwork/lnd/issues/5243)
 
 ### rust-lightning
 
-
 ### BOLTs
-
 
 ### dlcspecs
 
-
 ### joinmarket
-
 
 ## New Releases
 
@@ -104,6 +105,7 @@ that we have included two new sections, dlc-dev and dlcspecs, which cover the ma
 
 ## Events and Podcasts
 
-
 ## Miscellaneous
 
+- [Lightning Node Performance: Exploring the Path to 1000 TPS](https://bottlepay.com/blog/bitcoin-lightning-benchmarking-performance/)
+- [Lightning Node Performance: Testing TPS](https://bottlepay.com/blog/bitcoin-lightning-node-performance/)
