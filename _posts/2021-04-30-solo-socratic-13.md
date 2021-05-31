@@ -83,8 +83,6 @@ that we have included two new sections, dlc-dev and dlcspecs, which cover the ma
 
 - [Add ECDSA adaptor signatures module](https://github.com/ElementsProject/secp256k1-zkp/pull/117)
 
-### HWI
-
 ### BIPs
 
 - [BIP 8: Add minimum activation height](https://github.com/bitcoin/bips/pull/1080)
