@@ -145,9 +145,9 @@ that we have included two new sections, dlc-dev and dlcspecs, which cover the ma
 - [The Van Wirdum Sjorsnado - SIGHASH_ANYPREVOUT](https://bitcoinmagazine.com/technical/how-sighash-anyprevout-and-eltoo-could-improve-the-lightning-network)
 - [Chaincode Decoded: Bech32m](https://podcast.chaincode.com/2021/04/16/bech32m.html)
 - [Chaincode Decoded: Mempool](https://podcast.chaincode.com/2021/04/26/mempool.html)
-- [Wasabikas - 8.0 The Future of Bitcoin Wallets || Andrew Chow](https://www.youtube.com/watch?v=gj619XEj3Jc)
-- [Wasabikas - 9.0 The Security and Privacy of Specter Wallet || Ben Kaufman](https://www.youtube.com/watch?v=eTDUKQSd72Q)
-- [Wasabikas - 10.0 Meddling with Time and Bitcoin || Peter Todd](https://www.youtube.com/watch?v=pgb-8TAlCFc)
+- [Wasabikas - 8.0 The Future of Bitcoin Wallets with Andrew Chow](https://www.youtube.com/watch?v=gj619XEj3Jc)
+- [Wasabikas - 9.0 The Security and Privacy of Specter Wallet with Ben Kaufman](https://www.youtube.com/watch?v=eTDUKQSd72Q)
+- [Wasabikas - 10.0 Meddling with Time and Bitcoin with Peter Todd](https://www.youtube.com/watch?v=pgb-8TAlCFc)
 - [Unhashed Podcast - Ep. 134 Alejandro de la Torre on Miner Taproot Signalling](https://www.unhashedpodcast.com/episodes/alejandro-de-la-torre-miner-taproot-signalling)
 - [Citadel Dispatch e0.1.6 - bitcoin privacy and coinjoin with chris belcher and waxwing](https://www.youtube.com/watch?v=Tg22a0f4siE)
 
