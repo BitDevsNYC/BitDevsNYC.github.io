@@ -7,8 +7,7 @@ meetup: https://www.meetup.com/bitdevsnyc/
 
 ## Announcements
 
-Until our community can meet again in person, we'll continue to share all the latest research and developments through our monthly newsletter. Please note
-that we have included two new sections, dlc-dev and dlcspecs, which cover the mailing list and specification repository dedicated to the development of Discrete Log Contracts.
+Until our community can meet again in person, we'll continue to share all the latest research and developments through our monthly newsletter.
 
 ## Mailing Lists and Bitcoin Optech
 
