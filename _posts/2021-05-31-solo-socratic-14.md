@@ -15,9 +15,13 @@ Until our community can meet again in person, we'll continue to share all the la
 
 #### bitcoin-dev
 
+- [Full Disclosure: CVE-2021-31876 Defect in Bitcoin Core's bip125 logic](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-May/018893.html)
+- [A Stroll through Fee-Bumping Techniques : Input-Based vs Child-Pay-For-Parent](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-May/019031.html)
+
 
 #### lightning-dev
 
+- [On Mempool Funny Games against Multi-Party Funded Transactions](https://www.mail-archive.com/lightning-dev@lists.linuxfoundation.org/msg02287.html)
 
 #### dlc-dev
 
@@ -27,8 +31,13 @@ Until our community can meet again in person, we'll continue to share all the la
 
 ## Network Data
 
+- [Observing Bitcoin Mining Pools](https://miningpool.observer/)
+
 
 ### Research
+
+- [Faster Blockchain Validation with Utreexo Accumulators](https://blog.bitmex.com/faster-blockchain-validation-with-utreexo-accumulators/)
+- [Out of Order Block Validation with Utreexo Accumulators](https://blog.bitmex.com/out-of-order-block-validation-with-utreexo-accumulators/)
 
 
 ### InfoSec
@@ -37,6 +46,8 @@ Until our community can meet again in person, we'll continue to share all the la
 ## Pull Requests and repo updates
 
 ### Bitcoin Core
+
+- [rpc/validation: enable packages through testmempoolaccept](https://github.com/bitcoin/bitcoin/pull/20833)
 
 
 ### HWI
@@ -73,4 +84,6 @@ Until our community can meet again in person, we'll continue to share all the la
 
 
 ## Miscellaneous
+
+- [What block space savings would we get for coinjoins (and payjoins) if we had cross input signature aggregation?](https://bitcoin.stackexchange.com/questions/106224/what-block-space-savings-would-we-get-for-coinjoins-and-payjoins-if-we-had-cro/106590#106590)
 
