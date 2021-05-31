@@ -153,7 +153,6 @@ Until our community can meet again in person, we'll continue to share all the la
 - [SIGHASH_ANYPREVOUT](http://anyprevout.xyz/)
 - [Streaming Sats: Why Bitcoin Is Not a Digital Rock](https://lightninglabs.substack.com/p/streaming-sats-why-bitcoin-is-not)
 - [Bitcoin Transcripts](https://btctranscripts.com/)
-- [Sapio - a framework for creating composable multi-transaction bitcoin smart contracts](https://github.com/sapio-lang/sapio)
 - [Gasless ERC20 transfers](https://flashbots.tools/)
 - ["liquidity trap" solidity contract](https://twitter.com/bertcmiller/status/1380866353347846145)
 - [novel form of MEV](https://twitter.com/bertcmiller/status/1382673587715342339), [uncle bandit](https://twitter.com/bertcmiller/status/1385294417091760134)
