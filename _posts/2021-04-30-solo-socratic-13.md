@@ -145,7 +145,6 @@ Until our community can meet again in person, we'll continue to share all the la
 - [Wasabikas - 8.0 The Future of Bitcoin Wallets with Andrew Chow](https://www.youtube.com/watch?v=gj619XEj3Jc)
 - [Wasabikas - 9.0 The Security and Privacy of Specter Wallet with Ben Kaufman](https://www.youtube.com/watch?v=eTDUKQSd72Q)
 - [Wasabikas - 10.0 Meddling with Time and Bitcoin with Peter Todd](https://www.youtube.com/watch?v=pgb-8TAlCFc)
-- [Unhashed Podcast - Ep. 134 Alejandro de la Torre on Miner Taproot Signalling](https://www.unhashedpodcast.com/episodes/alejandro-de-la-torre-miner-taproot-signalling)
 - [Citadel Dispatch e0.1.6 - bitcoin privacy and coinjoin with chris belcher and waxwing](https://www.youtube.com/watch?v=Tg22a0f4siE)
 
 ## Miscellaneous
