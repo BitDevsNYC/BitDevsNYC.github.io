@@ -45,6 +45,9 @@ Until our community can meet again in person, we'll continue to share all the la
 - [LNGate: Powering IoT with Next Generation Lightning Micro-payments using Threshold Cryptography](https://arxiv.org/abs/2105.08902)
 - [Analysis of Bitcoin Vulnerability to Bribery Attacks Launched Through Large Transactions](https://arxiv.org/abs/2105.07501)
 - [The Complex Community Structure of the Bitcoin Address Correspondence Network](https://arxiv.org/abs/2105.09078)
+- [Lightning Network Economics: Channels](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3840374)
+- [Formal Methods for Secure BitcoinSmart Contracts](https://iris.unica.it/retrieve/handle/11584/312916/455603/tesi%20di%20dottorato_stefano%20lande.pdf)
+- [Who is Liable for Non-Compliant Cryptocurrency Transactions: Should Transaction Validators be Held Liable?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3825893)
 - [SCSGuard: Deep Scam Detection for Ethereum Smart Contracts](https://arxiv.org/abs/2105.10426)
 - [Reentrancy Vulnerability Identification in EthereumSmart Contracts](https://arxiv.org/abs/2105.02881)
 - [Targeting the Weakest Link: Social Engineering Attacks inEthereum Smart Contracts](https://arxiv.org/abs/2105.00132)
@@ -165,4 +168,6 @@ Until our community can meet again in person, we'll continue to share all the la
 - [Lightning Labs May newsletter](https://lightninglabs.substack.com/p/number-of-users-go-up-bitcoin-is)
 - [Freenode staff steps down](https://gist.github.com/joepie91/df80d8d36cd9d1bde46ba018af497409)
 - [Multisig Guide](https://bitcoiner.guide/multisig/)
+- [TX PUSHER](https://www.txpusher.com/tx/start-here/)
+- [Raspberry Pi CM4 carrier board designed for cryptocurrency nodes](https://www.tomshardware.com/news/raspberry-pi-cm4-bitcoin-node-carrier-board)
 
