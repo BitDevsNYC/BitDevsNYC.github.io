@@ -7,7 +7,7 @@ meetup: https://www.meetup.com/bitdevsnyc/
 
 ## Announcements
 
-Until our community can meet again in person, we'll continue to share all the latest research and developments through our monthly newsletter. 
+Until our community can meet again in person, we'll continue to share all the latest research and developments through our monthly newsletter.
 
 ## Mailing Lists and Bitcoin Optech
 
@@ -20,6 +20,9 @@ Until our community can meet again in person, we'll continue to share all the la
 - [Proposal: Full-RBF in Bitcoin Core 24.0](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-June/019074.html)
 
 #### lightning-dev
+
+- [bLIPs: A proposal for community-driven app layer and protocol extension standardization](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-June/003086.html)
+- [Second IRC workshop on L2 onchain support and wrap up](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-June/003077.html)
 
 ### Optech
 
@@ -52,12 +55,31 @@ Until our community can meet again in person, we'll continue to share all the la
 
 ### libsecp
 
-
 ### BIPs
 
 ### c-lightning
 
+- [invoice: allow creation of giant invoices](https://github.com/ElementsProject/lightning/pull/4606)
+- [Bech32m support](https://github.com/ElementsProject/lightning/pull/4591)
+- [EXPERIMENTAL: Wumbo htlc support](https://github.com/ElementsProject/lightning/pull/4589)
+
 ### lnd
+
+- [lnd v0.13.0-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.13.0-beta)
+- [loop v0.14.1-beta](https://github.com/lightninglabs/loop/releases/tag/v0.14.1-beta)
+- [lnwallet: prevent anchor reserve enforcement on legacy inbound channel](https://github.com/lightningnetwork/lnd/pull/5428)
+- [kvdb: add postgres](https://github.com/lightningnetwork/lnd/pull/5366)
+- [RPC/CLI: Allow abandonchannel to be used in regular build](https://github.com/lightningnetwork/lnd/pull/5335)
+- [lnd: only set payment address if not empty in PaymentRequest](https://github.com/lightningnetwork/lnd/pull/5419)
+
+### BOLTs
+
+- [Remove HTLC amount restriction](https://github.com/lightningnetwork/lightning-rfc/pull/877)
+
+### eclair
+
+- [Reject 0-value trampoline payments](https://github.com/ACINQ/eclair/pull/1851)
+- [Update to Bitcoin Core 0.21.1](https://github.com/ACINQ/eclair/pull/1841)
 
 ## New Releases
 
@@ -66,4 +88,6 @@ Until our community can meet again in person, we'll continue to share all the la
 ## Mining
 
 ## Miscellaneous
+
+- [Announcing lnd 0.13-beta: Get Amped on Lightning!](https://lightning.engineering/posts/2021-06-17-lnd-v0.13/)
 
