@@ -33,9 +33,39 @@ Until our community can meet again in person, we'll continue to share all the la
 
 ## Network Data
 
+- [Three consecutive downward difficulty adjustments following Chinese mining crackdown](http://bitcoin.sipa.be/speed-lin-ever.png), [more info](https://www.theblockcrypto.com/post/109315/bitcoin-hashrate-declines-50-percent-china-mining-crackdown)
+- [Segwit spends reach 70%](https://transactionfee.info/charts/transactions-spending-segwit/?start=2017-06-28)
+- [Lightning nodes, channels and BTC capacity at all time highs](https://bitcoinvisuals.com/lightning)
+- [ACINQ lightning node data](https://twitter.com/acinq_co/status/1400479533837524997)
+- [Net outflow of BTC across exchanges](https://twitter.com/bigmagicdao/status/1402827446089486342)
+- [Taproot locks in as 5th fastest soft fork deployment](https://twitter.com/achow101/status/1404168731673219072)
+
 ### Research
 
+- [Practical Settlement Bounds for Proof-of-Work Blockchains](https://eprint.iacr.org/2021/805)
+- [An Analysis of Bitcoin's Throughput Bottlenecks, Potential Solutions, and Future Prospects](https://github.com/fresheneesz/bitcoinThroughputAnalysis)
+- [Optimal Mining: Maximizing Bitcoin Miners' Revenues](https://hal.archives-ouvertes.fr/hal-03232783/)
+- [Elmo: Recursive Virtual Payment Channels for Bitcoin](https://eprint.iacr.org/2021/747)
+
 ### InfoSec
+
+- [oss-fuzz finds bugs in Bitcoin Core](https://bugs.chromium.org/p/oss-fuzz/issues/list?sort=-id&q=-status%3AWontFix%2CDuplicate%20bitcoin-core&can=1)
+- [Victims of Ledger Hack are receiving fake hardware wallets](https://bitcoinmagazine.com/technical/ledger-hack-victim-scam-details)
+- [Wasabi Wallet DDoS attack](https://blog.wasabiwallet.io/wve-006-ddos-attack-report/)
+- [Binance helps take down Cl0p ransomware crew](https://www.binance.com/en/blog/421499824684902240/Binance-Helps-Take-Down-Cybercriminal-Ring-Laundering-$500M-in-Ransomware-Attacks)
+- [Intel patches 73 security vulnerabilities](https://www.bleepingcomputer.com/news/security/intel-fixes-73-vulnerabilities-in-june-2021-platform-update/)
+- [Apple announced iCloud Private Relay](https://appleinsider.com/articles/21/06/10/how-apple-icloud-private-relay-works)
+- [Polygon Bridge vulnerability](https://medium.com/zapper-protocol/post-mortem-polygon-bridge-vulnerability-cb8029275622)
+- [Nano nodes fall out of sync following spam attack](https://www.coindesk.com/nanos-network-flooded-spam-nodes-out-of-sync)
+- [Titan Token collapse](https://ciphertrace.com/analysis-of-the-titan-token-collapse-iron-finance-rugpull-or-defi-bank-run/)
+- [Eleven Finance drained of $4.5 million](https://elevenfinance.medium.com/eleven-finance-nrv-vault-exploit-and-loss-of-funds-a-post-mortem-437a79ded743)
+- [Stablemagnet rugpulls $27 million](https://www.rekt.news/stablemagnet-rekt/)
+- [SafeDollar stablecoin drained, values drop to $0](https://safedollar.medium.com/safedollar-post-mortem-analysis-cb2769fe059)
+- [Merlin Labs shutters following third exploit](https://www.rekt.news/merlin3-rekt/)
+- [THORChain exploit](https://medium.com/thorchain/eth-parsing-error-and-exploit-3b343aa6466f)
+- [FBI turned encrypted messaging app into honeypot](https://www.vice.com/en/article/akgkwj/operation-trojan-shield-anom-fbi-secret-phone-network)
+- [Colonial Pipeline compromised by single VPN password](https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password)
+	- [Colonial Pipeline and DarkSide Ransomware on-chain flows](https://twitter.com/ErgoBTC/status/1402070662756421632), [info on seizure](https://twitter.com/ErgoBTC/status/1402277984212557836)
 
 ## Pull Requests and repo updates
 
@@ -83,11 +113,48 @@ Until our community can meet again in person, we'll continue to share all the la
 
 ## New Releases
 
+- [rust-lightning 0.0.98](https://github.com/rust-bitcoin/rust-lightning/releases/tag/v0.0.98)
+- [lndmanage merges support for batched/coin-controlled channel opening](https://github.com/bitromortac/lndmanage/pull/91)
+- [PeerSim - transaction relay simulator](https://github.com/naumenkogs/txrelaysim)
+- [joinmarket 0.8.3](https://github.com/JoinMarket-Org/joinmarket-clientserver/releases/tag/v0.8.3)
+- [Electrum 4.1.3](https://github.com/spesmilo/electrum/blob/d55fce4edd430e4358e84bd77790698c351a91a5/RELEASE-NOTES)
+- [specter-diy 1.5.5](https://github.com/cryptoadvance/specter-diy/releases/tag/v1.5.5)
+- [sparrow 1.4.2](https://github.com/sparrowwallet/sparrow/releases/tag/1.4.2)
+- [samourai-dojo 1.10.1](https://code.samourai.io/dojo/samourai-dojo/-/blob/develop/RELEASES.md#samourai-dojo-v1100)
+- [bisq v1.7.0](https://github.com/bisq-network/bisq/releases/tag/v1.7.0)
+
 ## Events and Podcasts
+
+- Bitcoin 2021 Live Streams - [Day 1](https://www.youtube.com/watch?v=Zp43Ktm3wos), [Day 2](https://www.youtube.com/watch?v=VVDNEnRAZU4)
+- [Compass Podcast - Bitcoin Mining News](https://anchor.fm/compass-podcast)
+- [Matt Corallo, Rusty Russel and AJ Towns on soft fork activation methods](https://twitter.com/TheBlueMatt/status/1402749458287312898)
+- [Jonas Nick and Tim Ruffing - Signature Half Aggregation in C](https://www.youtube.com/watch?v=Dns_9jaNPNk)
+- [Wasabikas 14.0 Simply Beautiful Cryptography - Lloyd Fournier](https://www.youtube.com/watch?v=8TlNx-aDyos)
+- [Wasabikas 16.0 - Improving the Bitcoin Lightning Network - Rusty Russell](https://www.youtube.com/watch?v=BRkSE00aj5k)
+- [Wasabikas 19.0 Chaincase: Next Generation Bitcoin CoinJoin on iOS Mobile - Dan Gould](https://www.youtube.com/watch?v=VAWeCdKrJsM)
+- [SLP287 Danny Scott and Zakk Lakin – Hoffline wallets & Lightning adoption](https://stephanlivera.com/episode/287/)
+- [The Van Wirdum Sjorsnado - How the Bitcoin Improvement Process Works](https://www.youtube.com/watch?v=guq1MPZQHa4)
+- [The Van Wirdum Sjorsnado - Taproot Lock-in](https://www.youtube.com/watch?v=uy_XCCyVutA)
+- [LN Junkies - Ruben Somsen - ANYPREVOUT & Eltoo](https://lightningjunkies.net/ruben-somsen-discusses-anyprevout-eltoo-lnj045/)
 
 ## Mining
 
+- [North American Bitcoin Mining Index](https://compassmining.io/education/content/images/attachments/Compass%20Mining%20North%20American%20Bitcoin%20Mining%20Index.pdf)	
+- [Global Suspension Announcement of Antminer Spot Sales](https://blog.bitmain.com/en/global-suspension-announcement-of-antminer-spot-sales/)
+
 ## Miscellaneous
 
+- [History of Taproot](https://twitter.com/pwuille/status/1403725170993336322)
+	- [Taproot - what it is, and what it isn't](https://twitter.com/murchandamus/status/1406812279006453760)
+- [DLCs vs Multisig: Censorship Resistance](https://suredbits.com/dlcs-vs-multisig-censorship-resistance/)
+- [Lightning Mints - Blind eCash Federation](https://rodarmor.com/blog/lightning-mints/)
 - [Announcing lnd 0.13-beta: Get Amped on Lightning!](https://lightning.engineering/posts/2021-06-17-lnd-v0.13/)
+- [Bitcoin UI Kit](https://www.bitcoinuikit.com/)
+- [Announcing the Bitcoin Design Guide](https://bitcoindesign.medium.com/announcing-the-bitcoin-design-guide-c4955d859fda)
+- [BitMEX renews Gelb Naumenko's Bitcoin developer grant](https://blog.bitmex.com/renewal-of-gleb-naumenkos-bitcoin-developer-grant/)
+- [Gemini sponsors Dhruv Mehta and Jarol Rodriguez](https://www.gemini.com/blog/gemini-to-sponsor-bitcoin-core-developers-dhruv-mehta-and-jarol-rodriguez)
+- [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+- [Lightning Ubiquity and the United Nations of Bitcoin](https://lightninglabs.substack.com/p/lightning-ubiquity-and-the-united)
+- [Sideswap Protocol](https://github.com/sideswap-io/sideswapclient/blob/master/doc/protocol.md)
+- [This Month in Bitcoin Privacy - May](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/May_2021/#may-8th---malicious-tor-exit-relays-continued)
 
