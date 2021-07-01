@@ -150,6 +150,7 @@ Until our community can meet again in person, we'll continue to share all the la
 
 - [History of Taproot](https://twitter.com/pwuille/status/1403725170993336322)
 	- [Taproot - what it is, and what it isn't](https://twitter.com/murchandamus/status/1406812279006453760)
+- [RBF Batching at CardCoins: Diving into the Mempool’s Dark Reorg Forest](https://blog.cardcoins.co/rbf-batching-at-cardcoins-diving-into-the-mempool-s-dark-reorg-forest)
 - [DLCs vs Multisig: Censorship Resistance](https://suredbits.com/dlcs-vs-multisig-censorship-resistance/)
 - [Lightning Mints - Blind eCash Federation](https://rodarmor.com/blog/lightning-mints/)
 - [Announcing lnd 0.13-beta: Get Amped on Lightning!](https://lightning.engineering/posts/2021-06-17-lnd-v0.13/)
