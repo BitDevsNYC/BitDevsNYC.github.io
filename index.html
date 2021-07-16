@@ -5,11 +5,11 @@ title: Home
 
 <div class="Home">
   <p class="Home-about">
-    BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.
+  BitDevs é uma comunidade para aqueles interessados em discutir e participar na pesquisa e desenvolvimento do Bitcoin e protocolos relacionados..
   </p>
 
   <div class="Home-posts">
-    <h2 class="Home-posts-title">Upcoming and Recent Events</h2>
+    <h2 class="Home-posts-title">Eventos recentes e próximos</h2>
     {% assign event_posts = 7 %}
     {% assign counter = 0 %}
     {% for post in site.posts %}
@@ -27,23 +27,4 @@ title: Home
     {% endfor %}
     <p><a href="/events.html">See all events</a></p>
   </div>
-  <div class="Home-posts">
-    <h2 class="Home-posts-title">Recent Blog Posts</h2>
-    {% assign blog_posts = 3 %}
-    {% assign counter = 0 %}
-    {% for post in site.posts %}
-      {% if post.type == "blog" %}
-        <div class="Home-posts-post">
-          <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
-          &raquo;
-          <a class="Home-posts-post-title" href="{{ post.url }}">{{ post.title }}</a>
-        </div>
-        {% assign counter = counter | plus: 1 %}
-        {% if counter == blog_posts %}
-          {% break %} {% comment %}exit the for loop{% endcomment %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-    <p><a href="/blog.html">See all blog posts</a></p>
-  </div>
-</div>
+ 
