@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic Seminar 001"
-meetup: 
+meetup: https://www.meetup.com/Bitcoin-Assembly/
 ---
 
 Organizado por [Bitcoin Assembly](https://twitter.com/bitcoinassembly)
