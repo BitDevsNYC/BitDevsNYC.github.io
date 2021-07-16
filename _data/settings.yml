@@ -2,7 +2,6 @@ title: 'BitDevs em Português'
 tagline: 'BitDevs é uma comunidade para aqueles interessados em discutir e participar na pesquisa e desenvolvimento do Bitcoin e protocolos relacionados.'
 
 menu:
-  - {name: 'About', url: '/about'}
+
   - {name: 'Events', url: '/events'}
-  - {name: 'Blog', url: '/blog'}
   - {name: 'Meetup', url: 'https://www.meetup.com/Bitcoin-Assembly/', external: true}
