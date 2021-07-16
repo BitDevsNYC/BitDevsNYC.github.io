@@ -1,11 +1,11 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar 102"
-meetup: https://www.meetup.com/BitDevsNYC/events/269005283/
+title: "Socratic Seminar 001"
+meetup: 
 ---
 
-Special thanks to Chaincode Labs and NYU Blockchain Digital Asset Forum for food, refreshments and event space.
+Organizado por [Bitcoin Assembly](https://twitter.com/bitcoinassembly)
 
 ## Announcements
 
