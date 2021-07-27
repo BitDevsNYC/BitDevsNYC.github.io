@@ -31,6 +31,15 @@ Entrem no Bitcoin Discord: (https://discord.gg/9cCAec2w)
 
 ## Bitcoin Core
 
+
+### Mailing List
+
+- [Taproot Fields for PSBT](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-June/019095.html)<br>
+- [Derivation Paths for Single Key Taproot Scripts](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-June/019096.html)<br>
+- [BIP Proposals for Output Script Descriptors](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-June/019151.html)<br>
+- [CHECKSIGFROMSTACK/{Verify} BIP for Bitcoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-July/019192.html)<br>
+- 
+### BIPs
 - [BIP 86: Key Derivation for Single Key P2TR Outputs](https://github.com/bitcoin/bips/pull/1137)<br>
 - [Update BIP 118 for taproot, rename to ANYPREVOUT](https://github.com/bitcoin/bips/pull/943)<br>
 - [HD Multisig derivation standard](https://github.com/bitcoin/bips/pull/1072)<br>
@@ -39,6 +48,7 @@ Entrem no Bitcoin Discord: (https://discord.gg/9cCAec2w)
 
 ## Lightning Network
 
+### Releases
 - [Release lnd 0.13.0-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.13.0-beta)<br>
 - [Release rust-lightning v0.0.99](https://github.com/rust-bitcoin/rust-lightning/releases/tag/v0.0.99)<br>
 - [Release Eclair v0.6.1](https://github.com/ACINQ/eclair/releases/tag/v0.6.1)<br>
@@ -46,5 +56,4 @@ Entrem no Bitcoin Discord: (https://discord.gg/9cCAec2w)
 ## Random
 - [Aberto canal de 10 BTC entre ACINQ e OpenNode](https://twitter.com/BTC_LN/status/1418254705986138113)<br>
 - [Plebnet e Ring of Fire já adicionaram à rede no mínimo 786 nodes e 95 BTCs de liquidez através de 3000 canais](https://twitter.com/capoczino/status/1415992091885383684?s=20)<br>
-
-## Taproot 
+ 
