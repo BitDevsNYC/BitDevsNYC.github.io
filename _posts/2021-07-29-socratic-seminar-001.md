@@ -24,7 +24,8 @@ Entrem no Bitcoin Discord: (https://discord.gg/9cCAec2w)
 
 ## Stats
 
-- [Ajuste de dificuldade](http://bitcoin.sipa.be/speed-lin-ever.png)<br>
+- [O maior ajuste de dificuldade](http://bitcoin.sipa.be/speed-lin-ever.png)<br>
+- [Já fizemos um fundo no ajuste de dificuldade?](https://mempool.space/pt/)
 - [Crescimento considerável na porcentagem de transações SegWit depois da implementação por parte da Blockchain.com](https://transactionfee.info/charts/transactions-spending-segwit/?start=2017-06-28)<br>
 - [Proporção de outputs P2WPKH crescendo](https://transactionfee.info/charts/output-type-distribution-count/?start=2021-01-01&avg=7)<br>
 - [Crescimento da Lightning Network](https://bitcoinvisuals.com/lightning)<br>
