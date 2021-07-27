@@ -31,6 +31,12 @@ Entrem no Bitcoin Discord: (https://discord.gg/9cCAec2w)
 
 ## Bitcoin Core
 
+- [BIP 86: Key Derivation for Single Key P2TR Outputs](https://github.com/bitcoin/bips/pull/1137)<br>
+- [Update BIP 118 for taproot, rename to ANYPREVOUT](https://github.com/bitcoin/bips/pull/943)<br>
+- [HD Multisig derivation standard](https://github.com/bitcoin/bips/pull/1072)<br>
+- [BIP 371: Taproot Fields for PSBT](https://github.com/bitcoin/bips/pull/1139)<br>
+
+
 ## Lightning Network
 
 - [Release lnd 0.13.0-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.13.0-beta)<br>
