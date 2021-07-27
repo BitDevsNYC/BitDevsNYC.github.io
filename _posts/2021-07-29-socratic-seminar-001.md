@@ -35,6 +35,7 @@ Entrem no Bitcoin Discord: (https://discord.gg/9cCAec2w)
 - [Suporte a envio para Bech32m](https://bitcoinops.org/en/bech32-sending-support/)
 - [Exchanges, carteiras e outros softwares sinalizando suporte](https://en.bitcoin.it/wiki/Bech32_adoption)
 - [Já tem gente gerando outputs Taproot]https://twitter.com/RCasatta/status/1413049169745481730](https://twitter.com/RCasatta/status/1413049169745481730)
+- [4 de 6 outputs doados para Brink](https://twitter.com/0xB10C/status/1418527624339599361)
 - [O que vem pela frente com Taproot ativado?](https://twitter.com/pwuille/status/1403736902579023875?s=20)
 - [2-of-3 inputs using P2TR](https://murchandamus.medium.com/2-of-3-multisig-inputs-using-pay-to-taproot-d5faf2312ba3)
 - [Lightning em um futuro Taproot](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-December/002375.html)
@@ -45,7 +46,6 @@ Entrem no Bitcoin Discord: (https://discord.gg/9cCAec2w)
 
 - [P2P ebpf tool](https://twitter.com/jb55/status/1408151600200249347)
 - [Progresso em Erlay](https://github.com/bitcoin/bitcoin/pull/21515)
-- 
 
 ### Mailing List
 
@@ -65,10 +65,13 @@ Entrem no Bitcoin Discord: (https://discord.gg/9cCAec2w)
 
 ## Lightning Network
 
-### Pesquisa
+### Research
 
 - [Paper do René Pickhardt sobre routing com 0 base fees](https://twitter.com/renepickhardt/status/1414895844889960450)
 
+### Mailing List
+
+- [bLIPs - Specs para inovações na camada de aplicação](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-June/003086.html)
 
 ### Releases
 - [Release lnd 0.13.0-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.13.0-beta)<br>
