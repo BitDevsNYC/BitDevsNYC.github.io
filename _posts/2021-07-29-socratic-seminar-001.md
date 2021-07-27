@@ -47,7 +47,8 @@ Entrem no Bitcoin Discord: (https://discord.gg/9cCAec2w)
 - [Derivation Paths for Single Key Taproot Scripts](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-June/019096.html)<br>
 - [BIP Proposals for Output Script Descriptors](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-June/019151.html)<br>
 - [CHECKSIGFROMSTACK/{Verify} BIP for Bitcoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-July/019192.html)<br>
-- 
+
+
 ### BIPs
 - [BIP 86: Key Derivation for Single Key P2TR Outputs](https://github.com/bitcoin/bips/pull/1137)<br>
 - [Update BIP 118 for taproot, rename to ANYPREVOUT](https://github.com/bitcoin/bips/pull/943)<br>
