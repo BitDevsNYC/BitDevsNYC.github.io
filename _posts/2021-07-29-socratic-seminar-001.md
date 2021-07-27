@@ -6,6 +6,9 @@ meetup: https://www.meetup.com/Bitcoin-Assembly/
 ---
 
 Organizado por [Bitcoin Assembly](https://twitter.com/bitcoinassembly)
+<br>
+NOT FINISHED YET <br>
+
 
 ## Announcements
 
