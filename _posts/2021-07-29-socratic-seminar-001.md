@@ -7,7 +7,7 @@ meetup: https://www.meetup.com/Bitcoin-Assembly/
 
 Organizado por [Bitcoin Assembly](https://twitter.com/bitcoinassembly)
 
-Detalhes sobre o local do evento aqui: https://www.meetup.com/pt-BR/Bitcoin-Assembly/events/279736438/
+Detalhes sobre o local do evento aqui: [https://www.meetup.com/pt-BR/Bitcoin-Assembly/events/279736438/](https://www.meetup.com/pt-BR/Bitcoin-Assembly/events/279736438/)
 
 ## Announcements
 
