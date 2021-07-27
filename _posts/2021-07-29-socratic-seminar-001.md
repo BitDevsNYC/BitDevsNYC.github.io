@@ -44,13 +44,16 @@ Entrem no Bitcoin Discord: (https://discord.gg/9cCAec2w)
 ### PRs
 
 - [P2P ebpf tool](https://twitter.com/jb55/status/1408151600200249347)
+- [Progresso em Erlay](https://github.com/bitcoin/bitcoin/pull/21515)
+- 
 
 ### Mailing List
 
-- [Taproot Fields for PSBT](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-June/019095.html)<br>
+- [Campos Taproot para PSBT](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-June/019095.html)<br>
 - [Derivation Paths for Single Key Taproot Scripts](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-June/019096.html)<br>
-- [BIP Proposals for Output Script Descriptors](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-June/019151.html)<br>
+- [7 BIPs com propostas para Output Script Descriptors](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-June/019151.html)<br>
 - [CHECKSIGFROMSTACK/{Verify} BIP for Bitcoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-July/019192.html)<br>
+- [RBF como padrão no Bitcoin Core](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-June/019074.html)
 
 
 ### BIPs
@@ -62,12 +65,17 @@ Entrem no Bitcoin Discord: (https://discord.gg/9cCAec2w)
 
 ## Lightning Network
 
+### Pesquisa
+
+- [Paper do René Pickhardt sobre routing com 0 base fees](https://twitter.com/renepickhardt/status/1414895844889960450)
+
+
 ### Releases
 - [Release lnd 0.13.0-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.13.0-beta)<br>
 - [Release rust-lightning v0.0.99](https://github.com/rust-bitcoin/rust-lightning/releases/tag/v0.0.99)<br>
 - [Release Eclair v0.6.1](https://github.com/ACINQ/eclair/releases/tag/v0.6.1)<br>
 
-## Random
+## Outros tópicos interessantes
 - [Aberto canal de 10 BTC entre ACINQ e OpenNode](https://twitter.com/BTC_LN/status/1418254705986138113)<br>
 - [Plebnet e Ring of Fire já adicionaram à rede no mínimo 786 nodes e 95 BTCs de liquidez através de 3000 canais](https://twitter.com/capoczino/status/1415992091885383684?s=20)<br>
 - [E-book da OkCoin sobre o financiamento de desenvolvedores Bitcoin](https://f.hubspotusercontent20.net/hubfs/5507270/AVAX%20-%20June2021/Giving%20Back%20to%20Bitcoin%20Ebook_July%202021.pdf?__hstc=256698580.6cf6cc09f93b05e3fa721d29962bab83.1617049026624.1627313244955.1627317115783.152&__hssc=256698580.1.1627317115783&__hsfp=1248791189&hsutk=6cf6cc09f93b05e3fa721d29962bab83&contentType=landing-page)
