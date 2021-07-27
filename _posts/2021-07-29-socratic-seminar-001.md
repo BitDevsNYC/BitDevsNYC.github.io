@@ -29,8 +29,16 @@ Entrem no Bitcoin Discord: (https://discord.gg/9cCAec2w)
 - [Proporção de outputs P2WPKH crescendo](https://transactionfee.info/charts/output-type-distribution-count/?start=2021-01-01&avg=7)<br>
 - [Crescimento da Lightning Network](https://bitcoinvisuals.com/lightning)<br>
 
+## Preparação para o Taproot
+
+- [Suporte a envio para Bech32m](https://bitcoinops.org/en/bech32-sending-support/)
+- [Exchanges, carteiras e outros softwares sinalizando suporte](https://en.bitcoin.it/wiki/Bech32_adoption)
+
 ## Bitcoin Core
 
+### PRs
+
+- [P2P ebpf tool](https://twitter.com/jb55/status/1408151600200249347)
 
 ### Mailing List
 
@@ -56,4 +64,5 @@ Entrem no Bitcoin Discord: (https://discord.gg/9cCAec2w)
 ## Random
 - [Aberto canal de 10 BTC entre ACINQ e OpenNode](https://twitter.com/BTC_LN/status/1418254705986138113)<br>
 - [Plebnet e Ring of Fire já adicionaram à rede no mínimo 786 nodes e 95 BTCs de liquidez através de 3000 canais](https://twitter.com/capoczino/status/1415992091885383684?s=20)<br>
+- [E-book da OkCoin sobre o financiamento de desenvolvedores Bitcoin](https://f.hubspotusercontent20.net/hubfs/5507270/AVAX%20-%20June2021/Giving%20Back%20to%20Bitcoin%20Ebook_July%202021.pdf?__hstc=256698580.6cf6cc09f93b05e3fa721d29962bab83.1617049026624.1627313244955.1627317115783.152&__hssc=256698580.1.1627317115783&__hsfp=1248791189&hsutk=6cf6cc09f93b05e3fa721d29962bab83&contentType=landing-page)
  
