@@ -31,7 +31,7 @@ Entrem no Bitcoin Discord: (https://discord.gg/9cCAec2w)
 
 - [Suporte a envio para Bech32m](https://bitcoinops.org/en/bech32-sending-support/)
 - [Exchanges, carteiras e outros softwares sinalizando suporte](https://en.bitcoin.it/wiki/Bech32_adoption)
-- [Já tem gente gerando outputs Taproot]https://twitter.com/RCasatta/status/1413049169745481730](https://twitter.com/RCasatta/status/1413049169745481730)
+- [Já tem gente gerando outputs Taproot #Reckless](https://twitter.com/RCasatta/status/1413049169745481730)
 - [4 de 6 outputs doados para Brink](https://twitter.com/0xB10C/status/1418527624339599361)
 - [O que vem pela frente com Taproot ativado?](https://twitter.com/pwuille/status/1403736902579023875?s=20)
 - [2-of-3 inputs using P2TR](https://murchandamus.medium.com/2-of-3-multisig-inputs-using-pay-to-taproot-d5faf2312ba3)
