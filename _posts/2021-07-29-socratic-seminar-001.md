@@ -39,7 +39,7 @@ Entrem no Bitcoin Discord: (https://discord.gg/9cCAec2w)
 - [4 de 6 outputs doados para Brink](https://twitter.com/0xB10C/status/1418527624339599361)
 - [Comunicando informações sobre chaves, assinaturas, etc. com PSBT](https://bitcoinops.org/en/topics/psbt/)
 - [Agregando chaves com MuSig2](https://medium.com/blockstream/musig2-simple-two-round-schnorr-multisignatures-bf9582e99295)
-- [Taproot RingSig](https://github.com/jonasnick/taproot-ringsig)
+- [Taproot RingSig para Proof of Keys](https://github.com/jonasnick/taproot-ringsig)
 - [Lightning em um futuro Taproot](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-December/002375.html)
 
 ## Bitcoin Core
