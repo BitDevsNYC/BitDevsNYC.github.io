@@ -76,7 +76,7 @@ Entrem no Bitcoin Discord: (https://discord.gg/9cCAec2w)
 - [Release lnd 0.13.0-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.13.0-beta)<br>
 - [Release rust-lightning v0.0.99](https://github.com/rust-bitcoin/rust-lightning/releases/tag/v0.0.99)<br>
 - [Release Eclair v0.6.1](https://github.com/ACINQ/eclair/releases/tag/v0.6.1)<br>
-- [Release c-lightning 0.10.1rc1(https://github.com/ElementsProject/lightning/releases/tag/v0.10.1rc1)
+- [Release c-lightning 0.10.1rc1](https://github.com/ElementsProject/lightning/releases/tag/v0.10.1rc1)
 
 ## Outros tópicos interessantes
 - [Aberto canal de 10 BTC entre ACINQ e OpenNode](https://twitter.com/BTC_LN/status/1418254705986138113)<br>
