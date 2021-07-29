@@ -39,6 +39,7 @@ Entrem no Bitcoin Discord: (https://discord.gg/9cCAec2w)
 - [2-of-3 inputs using P2TR](https://murchandamus.medium.com/2-of-3-multisig-inputs-using-pay-to-taproot-d5faf2312ba3)
 - [Lightning em um futuro Taproot](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-December/002375.html)
 - [MuSig2](https://medium.com/blockstream/musig2-simple-two-round-schnorr-multisignatures-bf9582e99295)
+- [Taproot RingSig](https://github.com/jonasnick/taproot-ringsig)
 
 ## Bitcoin Core
 
