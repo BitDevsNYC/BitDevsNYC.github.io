@@ -38,6 +38,7 @@ Entrem no Bitcoin Discord: (https://discord.gg/9cCAec2w)
 - [O que vem pela frente com Taproot ativado?](https://twitter.com/pwuille/status/1403736902579023875?s=20)
 - [2-of-3 inputs using P2TR](https://murchandamus.medium.com/2-of-3-multisig-inputs-using-pay-to-taproot-d5faf2312ba3)
 - [Lightning em um futuro Taproot](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-December/002375.html)
+- [MuSig2](https://medium.com/blockstream/musig2-simple-two-round-schnorr-multisignatures-bf9582e99295)
 
 ## Bitcoin Core
 
