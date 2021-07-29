@@ -31,15 +31,16 @@ Entrem no Bitcoin Discord: (https://discord.gg/9cCAec2w)
 
 ## Preparação para o Taproot
 
+- [O que vem pela frente com Taproot ativado?](https://twitter.com/pwuille/status/1403736902579023875?s=20)
+- [Transações ocuparão menos espaço](https://twitter.com/murchandamus/status/1406812285562200064)
 - [Suporte a envio para Bech32m](https://bitcoinops.org/en/newsletters/2021/06/23/)
 - [Exchanges, carteiras e outros softwares sinalizando suporte](https://en.bitcoin.it/wiki/Bech32_adoption)
 - [Já tem gente gerando outputs Taproot #Reckless](https://twitter.com/RCasatta/status/1413049169745481730)
 - [4 de 6 outputs doados para Brink](https://twitter.com/0xB10C/status/1418527624339599361)
-- [O que vem pela frente com Taproot ativado?](https://twitter.com/pwuille/status/1403736902579023875?s=20)
-- [2-of-3 inputs using P2TR](https://murchandamus.medium.com/2-of-3-multisig-inputs-using-pay-to-taproot-d5faf2312ba3)
-- [Lightning em um futuro Taproot](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-December/002375.html)
-- [MuSig2](https://medium.com/blockstream/musig2-simple-two-round-schnorr-multisignatures-bf9582e99295)
+- [Comunicando informações sobre chaves, assinaturas, etc. com PSBT](https://bitcoinops.org/en/topics/psbt/)
+- [Agregando chaves com MuSig2](https://medium.com/blockstream/musig2-simple-two-round-schnorr-multisignatures-bf9582e99295)
 - [Taproot RingSig](https://github.com/jonasnick/taproot-ringsig)
+- [Lightning em um futuro Taproot](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-December/002375.html)
 
 ## Bitcoin Core
 
