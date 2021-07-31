@@ -37,6 +37,7 @@ Until our community can meet again in person, we'll continue to share all the la
 
 - [Taproot locks in as 5th fastest soft fork deployment](https://twitter.com/achow101/status/1404168731673219072)
 - [Three consecutive downward difficulty adjustments following Chinese mining crackdown](http://bitcoin.sipa.be/speed-lin-ever.png)
+- Mempool clears for the first time since December 2020
 - [Segwit spends reach 70%](https://transactionfee.info/charts/transactions-spending-segwit/?start=2017-06-28)
 - [Lightning nodes, channels and BTC capacity at all time highs](https://bitcoinvisuals.com/lightning)
 - [ACINQ lightning node data](https://twitter.com/acinq_co/status/1400479533837524997)
