@@ -7,7 +7,7 @@ meetup: https://www.meetup.com/bitdevsnyc/
 
 ## Announcements
 
-Until our community can meet again in person, we'll continue to share all the latest research and developments through our monthly newsletter. 
+Until our community can meet again in person, we'll continue to share all the latest research and developments through our monthly newsletter.
 
 ## Mailing Lists and Bitcoin Optech
 
@@ -60,12 +60,30 @@ Until our community can meet again in person, we'll continue to share all the la
 
 ### lnd
 
+- [multi: enable monitoring build by default](https://github.com/lightningnetwork/lnd/pull/5399)
+- kvdb improvements - [etcd tests](https://github.com/lightningnetwork/lnd/pull/5481), [general fixes](https://github.com/lightningnetwork/lnd/pull/5516), [backend db migration](https://github.com/lightningnetwork/lnd/pull/5524)
+- [payments: allocate payment sequences in blocks](https://github.com/lightningnetwork/lnd/pull/5514)
+- [htlcswitch: concurrent onion decoding](https://github.com/lightningnetwork/lnd/pull/5248)
+- [introduce new commitment format to enforce channel lease expirations in scripts](https://github.com/lightningnetwork/lnd/pull/5549)
 
 ### BOLTs
 
+- [BOLT12 spec draft](http://bolt12.org/)
+- [option_will_fund: liquidity ads](https://github.com/lightningnetwork/lightning-rfc/pull/878)
 
 ### eclair
 
+- [Parallel payment request generation](https://github.com/ACINQ/eclair/pull/1878)
+- [Fetch incoming payments in parallel](https://github.com/ACINQ/eclair/pull/1880)
+- [Use schemas in Postgres](https://github.com/ACINQ/eclair/pull/1866)
+- [Enable WAL mode on Sqlite](https://github.com/ACINQ/eclair/pull/1871)
+
+### c-lightning
+
+- [c-lightning v0.10.1rc2](https://github.com/ElementsProject/lightning/releases/tag/v0.10.1rc2)
+- [BOLT12 offers fixes](https://github.com/ElementsProject/lightning/pull/4669)
+- [Liquidity Ads](https://github.com/ElementsProject/lightning/pull/4639)
+- [Make payment secret compulsory on new invoices, and assume unknown nodes support TLV onions](https://github.com/ElementsProject/lightning/pull/4646)
 
 ## New Releases
 
