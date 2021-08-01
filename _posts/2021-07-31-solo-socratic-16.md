@@ -1,13 +1,13 @@
 ---
 layout: post
 type: socratic
-title: "Solo Socratic 16"
-meetup: https://www.meetup.com/bitdevsnyc/
+title: "Socratic Seminar 103"
+meetup: https://www.meetup.com/BitDevsNYC/events/279804553/
 ---
 
 ## Announcements
 
-Until our community can meet again in person, we'll continue to share all the latest research and developments through our monthly newsletter.
+Please join us for our first Socratic Seminar since March of 2020. We've missed you all very much and are looking forward to seeing you. A special thank you to our sponsors [CardCoins](https://cardcoins.co), [Chaincode Labs](https://chaincode.com) and [ZEBEDEE](https://zebedee.io) for food, refreshments and event space.
 
 ## Mailing Lists and Bitcoin Optech
 
@@ -16,8 +16,6 @@ Until our community can meet again in person, we'll continue to share all the la
 #### bitcoin-dev
 
 - [Taproot Fields for PSBT](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-June/019095.html)
-- [Derivation Paths for Single Key Taproot Scripts](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-June/019096.html)
-- [BIP Proposals for Output Script Descriptors](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-June/019151.html)
 - [CHECKSIGFROMSTACK/{Verify} BIP for Bitcoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-July/019192.html)
 
 #### lightning-dev
