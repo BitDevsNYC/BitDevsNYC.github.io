@@ -7,7 +7,7 @@ meetup: https://www.meetup.com/BitDevsNYC/events/279804553/
 
 ## Announcements
 
-Please join us for our first Socratic Seminar since March of 2020. We've missed you all very much and are looking forward to seeing you. A special thank you to our sponsors [CardCoins](https://cardcoins.co), [Chaincode Labs](https://chaincode.com) and [ZEBEDEE](https://zebedee.io) for food, refreshments and event space.
+Please join us for our first Socratic Seminar since March of 2020. We've missed you all very much and are looking forward to seeing you. A special thank you to our sponsors [BNY Mellon](https://www.bnymellon.com/), [CardCoins](https://cardcoins.co), [Chaincode Labs](https://chaincode.com) and [ZEBEDEE](https://zebedee.io) for food, refreshments and event space.
 
 While this meetup is scheduled for August, it contains material from July. Please note the inclusion of a new section, Meetings, which has links to development meetings for Bitcoin Core, the lightning spec and others. 
 
