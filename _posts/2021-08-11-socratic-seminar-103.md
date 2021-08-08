@@ -9,7 +9,9 @@ meetup: https://www.meetup.com/BitDevsNYC/events/279804553/
 
 Please join us for our first Socratic Seminar since March of 2020. We've missed you all very much and are looking forward to seeing you. A special thank you to our sponsors [CardCoins](https://cardcoins.co), [Chaincode Labs](https://chaincode.com) and [ZEBEDEE](https://zebedee.io) for food, refreshments and event space.
 
-## Mailing Lists and Bitcoin Optech
+While this meetup is scheduled for August, it contains material from July. Please note the inclusion of a new section, Meetings, which has links to development meetings for Bitcoin Core, the lightning spec and others. 
+
+## Mailing Lists, Meetings and Bitcoin Optech
 
 ### Mailing Lists
 
@@ -19,6 +21,17 @@ Please join us for our first Socratic Seminar since March of 2020. We've missed 
 - [CHECKSIGFROMSTACK/{Verify} BIP for Bitcoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-July/019192.html)
 
 #### lightning-dev
+
+- [Impact of eltoo loss of state](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-July/003127.html)
+
+### Meetings
+
+- Bitcoin PR Review Club - [22363](https://bitcoincore.reviews/22363), [GDB tutorial notes](https://bitcoincore.reviews/22350-gdb-notes), [22350](https://bitcoincore.reviews/22350
+), [22383](https://bitcoincore.reviews/22383), [22155](https://bitcoincore.reviews/22155)
+- Bitcoin Core general developer meetings - [July 1st](https://www.erisian.com.au/bitcoin-core-dev/log-2021-07-01.html#l-275), [July 8th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-07-08.html#l-164), [July 15th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-07-15.html#l-245), [July 22nd](https://www.erisian.com.au/bitcoin-core-dev/log-2021-07-22.html#l-264), [July 29th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-07-29.html#l-262)
+- Bitcoin Core wallet meetings - [July 16th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-07-16.html#l-292), [July 30th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-07-30.html#l-191)
+- dlcspecs - [July 6th](https://github.com/nkohen/dlcspecs-1/blob/256c91aebb294b5321331630abb936ae06b0391c/meeting/meeting_july_6_2021.md)
+- Lightning Spec - [July 5th](https://lightningd.github.io/meetings/ln_spec_meeting/2021/ln_spec_meeting.2021-07-05-20.06.html), [July 19th](https://lightningd.github.io/meetings/lightning_meeting_name/2021/lightning_meeting_name.2021-07-19-20.02.html) 
 
 ### Optech
 
@@ -126,6 +139,7 @@ kernel's filesystem:](https://www.qualys.com/2021/07/20/cve-2021-33909/sequoia-l
 
 - [bisq v1.7.0](https://github.com/bisq-network/bisq/releases/tag/v1.7.0)
 - [BlueWallet v6.2.1](https://github.com/BlueWallet/BlueWallet/releases/tag/v6.2.1)
+- [cluster](https://github.com/f-hayek/cluster)
 - [coldcard firmware v4.1.2](https://github.com/Coldcard/firmware/blob/master/releases/ChangeLog.md#412---july-28-2021)
 - [Eclair v0.6.1](https://github.com/ACINQ/eclair/releases/tag/v0.6.1)
 - [electrum v4.1.5](https://github.com/spesmilo/electrum/blob/1f5a2df38d6d16d862214a6ad3669e4a403776dd/RELEASE-NOTES#L1)
@@ -147,11 +161,15 @@ kernel's filesystem:](https://www.qualys.com/2021/07/20/cve-2021-33909/sequoia-l
 ## Events and Podcasts
 
 - [Jonas Nick - Security of Schnorr Signatures](https://www.youtube.com/watch?v=Nad2V7eUjbs)
-- [LNJ046 -  Rusty Russell & Fiatjaf: Exploring Worlds of Lightning Development](https://lightningjunkies.net/exploring-worlds-of-lightning-development-lnj046/)
-- [Reorg.wtf](https://hackmd.io/cEw2Z-QcR1yvQ8wAeQZdnQ)
-- [SLP289 - Roasbeef: Bitcoin & Lightning For a Billion Users](https://stephanlivera.com/episode/289/)
-- [SLP292 - Andrew Chow: Output Script Descriptors for Bitcoin](https://stephanlivera.com/episode/292/)
+- [LNJ046 Rusty Russell & Fiatjaf - Exploring Worlds of Lightning Development](https://lightningjunkies.net/exploring-worlds-of-lightning-development-lnj046/)
 - [July Sydney Socratic Seminar Transcript](https://btctranscripts.com/sydney-bitcoin-meetup/2021-07-06-socratic-seminar/)
+- [LNJ047 - Christian Decker Explores Channel Factories](https://lightningjunkies.net/christian-decker-explores-channel-factories-lnj047/)
+- [SLP292 - Andrew Chow on Output Script Descriptors for Bitcoin](https://stephanlivera.com/episode/292/)
+- [SLP289 - Roasbeef on Bitcoin & Lightning For a Billion Users](https://stephanlivera.com/episode/289/)
+- [Van Wirdum Sjorsnado - Hardware Wallets and Blockstream’s Jade Wallet with Ben Kaufman and Lawrence Nahum](https://www.youtube.com/watch?v=fZTSZlVhiTU)
+- [Van Wirdum Sjorsnado - Lightning Network Routing with Joost Jager](https://www.youtube.com/watch?v=iPiIdiHsZ5s)
+- [Wasabikas 22.0 - Sapio, Next Generation Bitcoin Smart Contracts with Jeremy Rubin](https://www.youtube.com/watch?v=yxwbgJxXpFQ)
+- [Wasabi Research Club #26 - A Survey on Mixing Techniques with Simin Ghesmati](https://www.youtube.com/watch?v=l7bK85obzrM)
 - [WBD - Lightning Series: Privacy and Security with Christian Decker & Carla Kirk-Cohen](https://www.whatbitcoindid.com/podcast/lightning-series-privacy-and-security)
 
 
