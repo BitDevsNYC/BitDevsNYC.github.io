@@ -17,7 +17,6 @@ While this meetup is scheduled for August, it contains material from July. Pleas
 
 #### bitcoin-dev
 
-- [Taproot Fields for PSBT](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-June/019095.html)
 - [CHECKSIGFROMSTACK/{Verify} BIP for Bitcoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-July/019192.html)
 
 #### lightning-dev
