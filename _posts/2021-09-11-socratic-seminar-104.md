@@ -61,7 +61,9 @@ This meetup is scheduled for September and contains material from August.
   - [September 24th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-09-24.html#l-547)
 - dlcspecs
   -
+
 - Lightning Spec
+
   - [DNS records for LN nodes](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-September/003224.html)
   - [Stateless invoices with proof-of-payment](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-September/003236.html)
   - [Removing the Dust Limit](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-August/003145.html)
@@ -77,13 +79,19 @@ This meetup is scheduled for September and contains material from August.
 - [Newsletter #165](https://bitcoinops.org/en/newsletters/2021/09/08/)
 - [Newsletter #166](https://bitcoinops.org/en/newsletters/2021/09/15/)
 - [Newsletter #167](https://bitcoinops.org/en/newsletters/2021/09/22/)
+- [Newsletter #168](https://bitcoinops.org/en/newsletters/2021/09/29/)
 
 ## Network Data
 
+- [Lightning network capacity](https://bitcoinvisuals.com/ln-capacity)
+- [Hashrate recovers to 90% of ATH](https://miningpoolstats.stream/bitcoin)
+- [LN routing traffic growing](https://twitter.com/LNMarkets/status/1433718559306362880)
+- [Taproot readiness: 55% of nodes upgraded](https://twitter.com/taproot_signal/status/1442851595109257216)
 
 ### Research
 
 - [eltoo with Anyprevout and Taproot](https://yakshaver.org/2021/07/26/first.html)
+- [Simplicity support in Elements](https://twitter.com/n1ckler/status/1422587944838303745)
 
 ### InfoSec
 
@@ -117,7 +125,7 @@ This meetup is scheduled for September and contains material from August.
 - [Eliminating the need for certificates with the grpc / automating validation of certificates](https://github.com/lightningnetwork/lnd/pull/5713)
 
 ### BOLTs
-
+- [Bolt12 Offers (updated with C-Lightning 0.10.1)](http://bolt12.org/)
 - [Websocket address type: allow transport over RFC6455](https://github.com/lightningnetwork/lightning-rfc/pull/891)
 
 
@@ -146,6 +154,7 @@ This meetup is scheduled for September and contains material from August.
 
 ## Mining
 
+- [Blockstream acquires Spondoolies, raises $210M](https://twitter.com/CoinDesk/status/1430131880708526089)
 
 ## Miscellaneous
 
