@@ -59,6 +59,10 @@ This meetup is scheduled for September and contains material from August.
   - [August 27th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-08-20.html#l-226)
   - [September 10th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-09-10.html#l-696)
   - [September 24th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-09-24.html#l-547)
+- c-lightning meetings
+	- [August 9th](https://diyhpl.us/wiki/transcripts/c-lightning/2021-08-09-developer-call/)
+	- [August 23rd](https://diyhpl.us/wiki/transcripts/c-lightning/2021-08-23-developer-call/)
+	- [September 6th](https://diyhpl.us/wiki/transcripts/c-lightning/2021-09-06-developer-call/)  
 - dlcspecs
   -
 
@@ -83,18 +87,48 @@ This meetup is scheduled for September and contains material from August.
 
 ## Network Data
 
-- [Lightning network capacity](https://bitcoinvisuals.com/ln-capacity)
+- [bech32m adoption (wallets, explorers, exchanges)](https://en.bitcoin.it/wiki/Bech32_adoption)
+- [Bitfinex sends accidental $23.7 fee](https://www.theblockcrypto.com/amp/post/118753/bitfinex-just-spent-23-7-million-in-fees-to-make-one-ethereum-transaction)
+- [bos+lnmarkets routing traffic volume](https://twitter.com/alexbosworth/status/1433988909600411649?s=20)
+- [nixbitcoin joinmarket orderbook-watcher now displays fidelity bonds](https://nixbitcoin.org/obwatcher/fidelitybonds)
+- [Gas price volatility reduction after deployment of EIP-1559](https://twitter.com/takenstheorem/status/1427130936940851201)
+- [UTXO set reduction](https://statoshi.info/d/000000009/unspent-transaction-output-set?viewPanel=6&orgId=1&from=1614662043136&to=1632986688768)
+- [Decrease in total P2PKH and P2SH UTXOs, increase in native segwit UTXOs](https://txstats.com/dashboard/db/utxo-set-repartition-by-output-type?orgId=1&from=1619533647944&to=1632936901893)
+- [Stale block at 697008](https://forkmonitor.info/stale/btc/697008)
+- [Comparing the traffic and bandwidth usage of an erlay-node to a master-branch node](https://bitcoind.observer/d/T7FkHfnnk/erlay-node-vs-master-node)
+- [220,999 total bitcoin mixed with Wasabi Wallet](https://twitter.com/nopara73/status/1436358059182460931)
+- [LN propagation tests](https://twitter.com/rusty_twit/status/1435813424827539462)
+- [LNBIG's inward liquidity stream data](https://twitter.com/lnbig_com/status/1440614923042635777)
+- [First native segwit address added to OFAC list](https://twitter.com/0xB10C/status/1440591081117130761)
+	- [~600 UTXOs totally 65.5BTC on the 80 OFAC sanctioned addresses](https://twitter.com/0xB10C/status/1441354844158062594)
+- [Lightning network capacity increases to 2,900 BTC](https://bitcoinvisuals.com/ln-capacity)
 - [Hashrate recovers to 90% of ATH](https://miningpoolstats.stream/bitcoin)
 - [LN routing traffic growing](https://twitter.com/LNMarkets/status/1433718559306362880)
 - [Taproot readiness: 55% of nodes upgraded](https://twitter.com/taproot_signal/status/1442851595109257216)
 
 ### Research
 
+- [Darlin: Recursive Proofs using Marlin](https://eprint.iacr.org/2021/930)
+- [Simplicity: Taproot and Universal Sighashes](https://medium.com/blockstream/simplicity-taproot-and-universal-sighashes-18be8647b3bd)
+- [Zerojoin: Combining Zerocoin and CoinJoin](https://eprint.iacr.org/2020/560)
+- [Differential Privacy in Constant Function Market Makers](https://eprint.iacr.org/2021/1101)
+- [Onion Routing with Replies](https://eprint.iacr.org/2021/1178)
+- [The Exact Security of BIP32 Wallets](https://eprint.iacr.org/2021/1287)
 - [eltoo with Anyprevout and Taproot](https://yakshaver.org/2021/07/26/first.html)
-- [Simplicity support in Elements](https://twitter.com/n1ckler/status/1422587944838303745)
 
 ### InfoSec
 
+- [Bitcoin.org DNS Hijacked?](https://www.bleepingcomputer.com/news/security/bitcoinorg-hackers-steal-17-000-in-double-your-cash-scam/)
+- [Leaked Slides Show How Chainalysis Flags Crypto Suspects for Cops](https://www.coindesk.com/business/2021/09/21/leaked-slides-show-how-chainalysis-flags-crypto-suspects-for-cops/)
+	- [Tracing the WannaCry 2.0 Monero Transactions](https://medium.com/@nbax/tracing-the-wannacry-2-0-monero-transactions-d8c1e5129dc1)
+- [Correlation attack on visits to tor v2 onion addresses](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-39246)
+- [Ethereum netsplit](https://www.theblockcrypto.com/post/115822/bug-impacting-over-50-of-ethereum-clients-leads-to-fork), [bug explained](https://twitter.com/kelvinfichter/status/1431336698911338496)
+- [Hacker returns funds in $612 million Poly Network hack](https://blog.chainalysis.com/reports/poly-network-hack-august-2021)
+- [Misconfigured T-Mobile gateway GPRS support node leads to theft of 50 million customer records](https://twitter.com/Jeremy_Kirk/status/1427144723731402756)
+- [$90 Million stolen from Liquid exchange](https://twitter.com/Liquid_Global/status/1428176357515612165?s=20), [funds flowing through tornado.cash, wasabi and defi protocols](https://twitter.com/ErgoBTC/status/1430685397659566080), [more info](https://twitter.com/ErgoBTC/status/1431026764361437190)
+- [Bitcoin stolen in failed COMIT network BTC <-> Monero Atomic Swap](https://www.reddit.com/r/Monero/comments/pb3f5a/sooo_i_lost_003_btc_trying_to_complete_an_atomic/)
+- [Secure env vars of *all* public @travisci
+ repositories were injected into PR builds(https://travis-ci.community/t/security-bulletin/12081), [context](https://mobile.twitter.com/peter_szilagyi/status/1437646118700175360)
 
 ## Pull Requests and repo updates
 
@@ -144,26 +178,58 @@ This meetup is scheduled for September and contains material from August.
 
 ## New Releases
 
+- [agora](https://github.com/agora-org/agora/)
 - [Bitcoin Core v0.21.2 release candidate](https://bitcoincore.org/bin/bitcoin-core-0.21.2/)
 - [Bitcoin Core v22.0](https://bitcoincore.org/bin/bitcoin-core-22.0/)
+- [bridgeaddr](https://github.com/fiatjaf/bridgeaddr)
+- [BTCPay Server v1.2.0](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.2.0), [context](https://blog.btcpayserver.org/btcpay-server-1-2-0/)
+- [circuitbreaker v0.3.0](https://github.com/lightningequipment/circuitbreaker/releases/tag/v0.3.0)
 - [c-lightning v0.10.1](https://github.com/ElementsProject/lightning/releases/tag/v0.10.1)
+- [ecli](https://github.com/fiatjaf/ecli/releases/tag/v0.1.0)
+- [fiat-crypto](https://github.com/mit-plv/fiat-crypto)
+- [green-qt](https://github.com/Blockstream/green_qt/releases/tag/release_1.0.0), [context](https://blockstream.com/2021/09/09/en-blockstream-green-announcing-singlesig-wallets/)
+- [lndmanage v0.13.0](https://github.com/bitromortac/lndmanage/releases/tag/v0.13.0)
+- [LNURLPoS](https://github.com/arcbtc/LNURLPoS), [context](https://twitter.com/arcbtc/status/1442511015669809152)
+- [p2plnbot](https://github.com/grunch/p2plnbot)
 - [rust-lightning v0.0.100](https://github.com/rust-bitcoin/rust-lightning/releases/tag/v0.0.100)
+- [sparrow v1.5.0](https://github.com/sparrowwallet/sparrow/releases/tag/1.5.0)
+- [satdress](https://github.com/fiatjaf/satdress)
+- [ThunderCloud](https://github.com/a5an0/ThunderCloud)
 
 ## Events and Podcasts
 
+- [Lightning Friday - Lisa Neigut on Liquidity Ads / Lightning MEV](https://www.youtube.com/watch?v=N5-uxZhyUcY&t=1129s)
+- [Sydney Socratic Semninar - Bitcoin/Monero Atomic Swaps](https://rumble.com/vl2rlz-bitcoin-monero-atomic-swaps.html)
+- [Sydney Socratic Semninar - Differentially Private Payment Channels](https://rumble.com/vl31wc-differentially-private-payment-channels.html)
+- [Sydney Socratic Semninar - Donner: UTXO-Based Virtual Channels Across Multiple Hops](https://rumble.com/vmdsuf-donner-utxo-based-virtual-channels-across-multiple-hops.html)
+- [WBD - Mastering Lightning with Andreas M. Antonopoulos & René Pickhardt](https://www.youtube.com/watch?v=zG8PZsHLung)
 
 ## Mining
 
 - [Blockstream acquires Spondoolies, raises $210M](https://twitter.com/CoinDesk/status/1430131880708526089)
+- [Prototype for home mining sound and weatherproof enclosure](https://twitter.com/SGBarbour/status/1428402080956387333)
 
 ## Miscellaneous
 
-- [Lightning Address](https://lightningaddress.com), [Docs Repository](https://github.com/andreneves/lightning-address), and [Twitter thread](https://twitter.com/andreneves/status/1432351909478817801)
-- [Lightning Decoder](https://lightningdecoder.com)
-- [Satdress - Federated Lightning Address Server](https://github.com/fiatjaf/satdress)
-- [BridgeAddr - Lightning Address server for non-custodial domains](https://github.com/fiatjaf/bridgeaddr)
+- [Accounts, Strict Access Lists, and UTXOs](https://forum.celestia.org/t/accounts-strict-access-lists-and-utxos/37)
+- [ACINQ Strike launched on mainnet](https://medium.com/@ACINQ/strike-our-stripe-like-api-for-lightning-is-live-cd1dce76ce2e)
+- [BitcoinBinary - tracking reproducibility of hardware signer firmwares and wallet software](https://bitcoinbinary.org/)
+- [Bitcoin Core 22.0 rc testing guide](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/22.0-Release-Candidate-Testing-Guide)
+- [BitGo migrating to native segwit change outputs](https://blog.bitgo.com/native-segwit-change-outputs-for-bitcoin-c021406aaae2?gi=f925a1735539)
+- [BitMEEX anonunces developer grant fo Sjors Provoost](https://blog.bitmex.com/new-open-source-bitcoin-developer-grant-for-sjors-provoost-2/)
+- [eltoo with Anyprevout and Taproot](https://yakshaver.org/2021/07/26/first.html)
+- [Federal Reserve - What is programmable money?](https://www.federalreserve.gov/econres/notes/feds-notes/what-is-programmable-money-20210623.htm)
 - Federated Lightning Address Servers - [payaddress.co](https://payaddress.co), [paymentlink.xyz](https://paymentlink.xyz), [tinytip.me](https://tinytip.me)
-- [Agora - File server that accepts Lightning Network payments for downloads](https://github.com/agora-org/agora/)
+- [Fixing The Privacy Gap In Proof Of Liability Protocols](https://blog.bitmex.com/addressing-the-privacy-gap-in-proof-of-liability-protocols/)
+- [Interesting updates to lightning network under development](https://twitter.com/rusty_twit/status/1439743522903453698)
+- [Lightning Address](https://lightningaddress.com), [Docs Repository](https://github.com/andreneves/lightning-address), and [Twitter thread](https://twitter.com/andreneves/status/1432351909478817801)
+- [Lightning’s Missing Piece: A Decentralized Liquidity Market](https://medium.com/blockstream/lightnings-missing-piece-a-decentralized-liquidity-market-a0bb47534a4f)
 - [LNRouter Lookups - Help node operators make informed decisions](https://lnrouter.app/lookups)
-- [P2PLNBot - Peer-to-peer lightning network telegram bot](https://github.com/grunch/p2plnbot)
-- [Offline LNURL POS System](https://github.com/arcbtc/LNURLPoS) and [Announcement Tweet](https://twitter.com/arcbtc/status/1442511015669809152)
+- [Onion Messaging in Depth](https://rusty-lightning.medium.com/onion-messaging-in-depth-d8e384ee4184)
+- [Scaling Lightning Network at River](https://blog.river.com/scaling-the-lightning-network-at-river-2/)
+- [Signet faucet now supports bech32m](https://twitter.com/kallewoof/status/1440082082777088002)
+- [Sigagg Case Study: LN Channel Announcements](https://github.com/ElementsProject/cross-input-aggregation#sigagg-case-study-ln-channel-announcements)
+- [Summer of Bitcoin - Liftoff!](https://blog.summerofbitcoin.org/issues/summer-of-bitcoin-liftoff-745630)
+- [Userspace, Statically Defined Tracing support for Bitcoin Core](https://b10c.me/blog/008-bitcoin-core-usdt-support/)
+- [Why Cross input signature aggregation requires new segwit version](https://github.com/ElementsProject/cross-input-aggregation#integration-into-the-bitcoin-protocol)
+
