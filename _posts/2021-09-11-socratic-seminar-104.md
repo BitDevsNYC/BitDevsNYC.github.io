@@ -60,10 +60,12 @@ This meetup is scheduled for September and contains material from August.
   - [September 10th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-09-10.html#l-696)
   - [September 24th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-09-24.html#l-547)
 - dlcspecs
-  - 
+  -
 - Lightning Spec
-  - 
-  - 
+  - [DNS records for LN nodes](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-September/003224.html)
+  - [Stateless invoices with proof-of-payment](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-September/003236.html)
+  - [Removing the Dust Limit](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-August/003145.html)
+  - [Turbo channels specification](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-August/003166.html)
 
 ### Optech
 
@@ -103,15 +105,34 @@ This meetup is scheduled for September and contains material from August.
 
 ### lnd
 
+- [Atomic batch channel funding](https://github.com/lightningnetwork/lnd/pull/5356)
+- [Support remote signing over RPC](https://github.com/lightningnetwork/lnd/pull/5689)
+- [In-memory graph cache for faster pathfinding](https://github.com/lightningnetwork/lnd/pull/5642)
+- [etcd: enable full remote database support](https://github.com/lightningnetwork/lnd/pull/5484)
+- [Refresh peer IP during reconnect](https://github.com/lightningnetwork/lnd/pull/5538)
+- [Add new `delpayments` command line option](https://github.com/lightningnetwork/lnd/pull/5778)
+- [Support pruned bitcoind backends](https://github.com/lightningnetwork/lnd/pull/5154)
+- [Bake and validate macaroons with external permissions](https://github.com/lightningnetwork/lnd/pull/5304)
+- [kvdb: add postgres](https://github.com/lightningnetwork/lnd/pull/5366)
+- [Eliminating the need for certificates with the grpc / automating validation of certificates](https://github.com/lightningnetwork/lnd/pull/5713)
 
 ### BOLTs
+
+- [Websocket address type: allow transport over RFC6455](https://github.com/lightningnetwork/lightning-rfc/pull/891)
 
 
 ### eclair
 
+- [Tor support for blockchain watchdogs](https://github.com/ACINQ/eclair/pull/1907)
+- [Make Tor optional for blockchain watchdogs](https://github.com/ACINQ/eclair/pull/1958)
+- [Pathfinding AB testing](https://github.com/ACINQ/eclair/pull/1930)
+- [Implement anchor outputs zero fee htlc txs](https://github.com/ACINQ/eclair/pull/1932)
 
 ### c-lightning
 
+- [experimental-websocket: option to accept websocket connections on lightning port](https://github.com/ElementsProject/lightning/pull/4685)
+- [Improve connectd to try non-tor connection first and filter duplicates](https://github.com/ElementsProject/lightning/pull/4731)
+- [Offers: make decode command available even without experimental-offers](https://github.com/ElementsProject/lightning/pull/4696)
 
 ## New Releases
 
@@ -128,3 +149,12 @@ This meetup is scheduled for September and contains material from August.
 
 ## Miscellaneous
 
+- [Lightning Address](https://lightningaddress.com), [Docs Repository](https://github.com/andreneves/lightning-address), and [Twitter thread](https://twitter.com/andreneves/status/1432351909478817801)
+- [Lightning Decoder](https://lightningdecoder.com)
+- [Satdress - Federated Lightning Address Server](https://github.com/fiatjaf/satdress)
+- [BridgeAddr - Lightning Address server for non-custodial domains](https://github.com/fiatjaf/bridgeaddr)
+- Federated Lightning Address Servers - [payaddress.co](https://payaddress.co), [paymentlink.xyz](https://paymentlink.xyz), [tinytip.me](https://tinytip.me)
+- [Agora - File server that accepts Lightning Network payments for downloads](https://github.com/agora-org/agora/)
+- [LNRouter Lookups - Help node operators make informed decisions](https://lnrouter.app/lookups)
+- [P2PLNBot - Peer-to-peer lightning network telegram bot](https://github.com/grunch/p2plnbot)
+- [Offline LNURL POS System](https://github.com/arcbtc/LNURLPoS) and [Announcement Tweet](https://twitter.com/arcbtc/status/1442511015669809152)
