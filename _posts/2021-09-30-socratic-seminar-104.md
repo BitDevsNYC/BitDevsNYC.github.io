@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic Seminar 104"
-meetup: https://www.meetup.com/BitDevsNYC/
+meetup: https://www.meetup.com/BitDevsNYC/events/280097700/
 ---
 
 ## Announcements
