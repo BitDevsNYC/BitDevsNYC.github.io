@@ -272,7 +272,7 @@ This meetup is scheduled for September and contains material from August.
 - [BitcoinBinary - tracking reproducibility of hardware signer firmwares and wallet software](https://bitcoinbinary.org/)
 - [Bitcoin Core 22.0 rc testing guide](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/22.0-Release-Candidate-Testing-Guide)
 - [BitGo migrating to native segwit change outputs](https://blog.bitgo.com/native-segwit-change-outputs-for-bitcoin-c021406aaae2?gi=f925a1735539)
-- [BitMEEX anonunces developer grant fo Sjors Provoost](https://blog.bitmex.com/new-open-source-bitcoin-developer-grant-for-sjors-provoost-2/)
+- [BitMEX announces developer grant fo Sjors Provoost](https://blog.bitmex.com/new-open-source-bitcoin-developer-grant-for-sjors-provoost-2/)
 - [Committee-driven MEV smoothing](https://ethresear.ch/t/committee-driven-mev-smoothing/10408)
 - [Compass commits to sponsor Bitcoin Core developer Jon Atack](https://compassmining.io/education/compass-core-developer-donation/)
 - [eltoo with Anyprevout and Taproot](https://yakshaver.org/2021/07/26/first.html)
