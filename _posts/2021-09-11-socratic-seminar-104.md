@@ -100,7 +100,7 @@ This meetup is scheduled for September and contains material from August.
 - [LN propagation tests](https://twitter.com/rusty_twit/status/1435813424827539462)
 - [LNBIG's inward liquidity stream data](https://twitter.com/lnbig_com/status/1440614923042635777)
 - [First native segwit address added to OFAC list](https://twitter.com/0xB10C/status/1440591081117130761)
-	- [~600 UTXOs totally 65.5BTC on the 80 OFAC sanctioned addresses](https://twitter.com/0xB10C/status/1441354844158062594)
+	- [~600 UTXOs totaling 65.5BTC on the 80 OFAC sanctioned addresses](https://twitter.com/0xB10C/status/1441354844158062594)
 - [Lightning network capacity increases to 2,900 BTC](https://bitcoinvisuals.com/ln-capacity)
 - [Hashrate recovers to 90% of ATH](https://miningpoolstats.stream/bitcoin)
 - [LN routing traffic growing](https://twitter.com/LNMarkets/status/1433718559306362880)
@@ -127,8 +127,8 @@ This meetup is scheduled for September and contains material from August.
 - [Misconfigured T-Mobile gateway GPRS support node leads to theft of 50 million customer records](https://twitter.com/Jeremy_Kirk/status/1427144723731402756)
 - [$90 Million stolen from Liquid exchange](https://twitter.com/Liquid_Global/status/1428176357515612165?s=20), [funds flowing through tornado.cash, wasabi and defi protocols](https://twitter.com/ErgoBTC/status/1430685397659566080), [more info](https://twitter.com/ErgoBTC/status/1431026764361437190)
 - [Bitcoin stolen in failed COMIT network BTC <-> Monero Atomic Swap](https://www.reddit.com/r/Monero/comments/pb3f5a/sooo_i_lost_003_btc_trying_to_complete_an_atomic/)
-- [Secure env vars of *all* public @travisci
- repositories were injected into PR builds(https://travis-ci.community/t/security-bulletin/12081), [context](https://mobile.twitter.com/peter_szilagyi/status/1437646118700175360)
+- [Secure env vars of *all* public Travis CI
+ repositories were injected into PR builds](https://travis-ci.community/t/security-bulletin/12081), [context](https://mobile.twitter.com/peter_szilagyi/status/1437646118700175360)
 
 ## Pull Requests and repo updates
 
@@ -222,7 +222,7 @@ This meetup is scheduled for September and contains material from August.
 - Federated Lightning Address Servers - [payaddress.co](https://payaddress.co), [paymentlink.xyz](https://paymentlink.xyz), [tinytip.me](https://tinytip.me)
 - [Fixing The Privacy Gap In Proof Of Liability Protocols](https://blog.bitmex.com/addressing-the-privacy-gap-in-proof-of-liability-protocols/)
 - [Interesting updates to lightning network under development](https://twitter.com/rusty_twit/status/1439743522903453698)
-- [Lightning Address](https://lightningaddress.com), [Docs Repository](https://github.com/andreneves/lightning-address), and [Twitter thread](https://twitter.com/andreneves/status/1432351909478817801)
+- [Lightning Address](https://lightningaddress.com), [Docs Repository](https://github.com/andreneves/lightning-address), [context](https://twitter.com/andreneves/status/1432351909478817801)
 - [Lightning’s Missing Piece: A Decentralized Liquidity Market](https://medium.com/blockstream/lightnings-missing-piece-a-decentralized-liquidity-market-a0bb47534a4f)
 - [LNRouter Lookups - Help node operators make informed decisions](https://lnrouter.app/lookups)
 - [Onion Messaging in Depth](https://rusty-lightning.medium.com/onion-messaging-in-depth-d8e384ee4184)
@@ -231,5 +231,5 @@ This meetup is scheduled for September and contains material from August.
 - [Sigagg Case Study: LN Channel Announcements](https://github.com/ElementsProject/cross-input-aggregation#sigagg-case-study-ln-channel-announcements)
 - [Summer of Bitcoin - Liftoff!](https://blog.summerofbitcoin.org/issues/summer-of-bitcoin-liftoff-745630)
 - [Userspace, Statically Defined Tracing support for Bitcoin Core](https://b10c.me/blog/008-bitcoin-core-usdt-support/)
-- [Why Cross input signature aggregation requires new segwit version](https://github.com/ElementsProject/cross-input-aggregation#integration-into-the-bitcoin-protocol)
+- [Why Cross input signature aggregation requires a new segwit version](https://github.com/ElementsProject/cross-input-aggregation#integration-into-the-bitcoin-protocol)
 
