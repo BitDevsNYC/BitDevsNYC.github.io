@@ -60,8 +60,6 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 ### Research
 
 
-
-
 ### InfoSec
 
 
@@ -87,7 +85,6 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 ### BIPS
 
-
 ### lnd
 
 - [Add postgres](https://github.com/lightningnetwork/lnd/pull/5366)
@@ -96,16 +93,22 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 - [Introduce new commitment format to enforce channel lease expirations in scripts](https://github.com/lightningnetwork/lnd/pull/5709)
 - [lnrpc+peer: custom peer messages](https://github.com/lightningnetwork/lnd/pull/5346)
 - [Support remote signing over RPC](https://github.com/lightningnetwork/lnd/pull/5689)
+- [Channeldb: write through cache for the graph and channel state](https://github.com/lightningnetwork/lnd/pull/5595)
+- [Kvdb: migrate data between different backends](https://github.com/lightningnetwork/lnd/pull/5561)
 
 ### eclair
 
 - [Lower minimum remote dust limit](https://github.com/ACINQ/eclair/pull/1900)
 - [Configure dust in flight threshold](https://github.com/ACINQ/eclair/pull/1985)
 
-
 ### c-lightning
 
+- [v0.10.2rc1](https://github.com/ElementsProject/lightning/releases/tag/v0.10.2rc1)
 - [Delay fee changes](https://github.com/ElementsProject/lightning/pull/4806)
+- [Allow sending large HTLCs if peer offers option_support_large_channel (> 4294967295msat)](https://github.com/ElementsProject/lightning/pull/4599)
+- [Send and support channel_type in channel open](https://github.com/ElementsProject/lightning/pull/4616)
+- [Removal of old HTLC information and vacuuming shrinks large lightningd.sqlite3 by a factor of 2-3](https://github.com/ElementsProject/lightning/pull/4850)
+- [Send regular pings to peers to detect dead connections (particularly for Tor)](https://github.com/ElementsProject/lightning/pull/4804)
 
 ### rust-lightning
 
@@ -137,3 +140,12 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 ## Miscellaneous
 
+- [SimpleBitcoinWallet adds RBF and CPFP support](https://twitter.com/SimpleBtcWallet/status/1447964201637584902)
+- [Offline Lightning POS with LNURL](https://twitter.com/blackcoffeebtc/status/1452291954457317399)
+- [Lightning & Internet: choosing the right path](https://medium.com/breez-technology/lightning-the-internet-choosing-the-right-path-bedfa6382316)
+- [Minimint - federated e-cash mints](https://twitter.com/Blockstream/status/1453099343301517316)
+- [Introducing Flow: Effortlessly Create Lightning Channels](https://blog.voltage.cloud/introducing-flow/)
+- [Google antitrust filling thread](https://twitter.com/fasterthanlime/status/1452053938195341314)
+- [Bitrefill adds support for Lightning Address top ups](https://twitter.com/MattAhlborg/status/1452670852546416646)
+- [Bitcoin UI Kit Screens](https://www.bitcoinuikit.com/screens)
+- [Phoenix 1.2.0 release with support for LNURL Pay and Lightning Address](https://twitter.com/PhoenixWallet/status/1453372849138327553)
