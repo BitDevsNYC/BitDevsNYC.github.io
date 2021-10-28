@@ -17,7 +17,6 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 - [Inherited IDs](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-September/019470.html)
 - [Taproot testnet wallet](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-October/019543.html)
-- [Death to the mempool, long live the mempool](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-October/019572.html)
 
 #### lightning-dev
 
@@ -42,6 +41,13 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 - Bitcoin Core wallet meetings
   - [October 8th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-10-08.html#l-553)
   - [October 22nd](https://www.erisian.com.au/bitcoin-core-dev/log-2021-10-22.html#l-366)
+- c-lightning meetings
+  - [September 20th](https://diyhpl.us/wiki/transcripts/c-lightning/2021-09-20-developer-call/)
+- dlc-specs meetings
+  - [October 5th](https://github.com/discreetlogcontracts/dlcspecs/pull/175)
+- Lightning specification meetings
+  - [October 11th](https://github.com/lightningnetwork/lightning-rfc/issues/920)
+  - [October 25th](https://github.com/lightningnetwork/lightning-rfc/issues/929)
 
 ### Optech
 
@@ -63,10 +69,10 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 - [Efficient Threshold-Optimal ECDSA](https://eprint.iacr.org/2021/1386)
 - [Elligator Squared for BN-like curves](https://github.com/sipa/writeups/tree/main/elligator-square-for-bn), [context](https://twitter.com/pwuille/status/1447259896622329862?s=20)
 - [Evaluating Tooling and Methodology when Analysing Bitcoin Mixing Services After Forensic Seizure](https://arxiv.org/abs/2110.01970v1)
+- [Fiat–Shamir Bulletproofs are Non-Malleable (in the Algebraic Group Model)](https://eprint.iacr.org/2021/1393)
 - [HD scheme for threshold wallets](https://hackmd.io/@elichai/ry082c4QK)
 - [HIDE & SEEK: Privacy-Preserving Rebalancing on Payment Channel Networks](https://eprint.iacr.org/2021/1401)
 - [How to Prove Schnorr Assuming Schnorr: Security of Multi- and Threshold Signatures](https://eprint.iacr.org/2021/1375.pdf)
-- [Fiat–Shamir Bulletproofs are Non-Malleable (in the Algebraic Group Model)](https://eprint.iacr.org/2021/1393)
 - [Non-Slanderability of Linkable Spontaneous Anonymous Group Signature (LSAG)](https://eprint.iacr.org/2021/1406)
 - [On the security of ECDSA with additive key derivation and presignatures](https://eprint.iacr.org/2021/1330)
 - [Selfish & Opaque Transaction Ordering in the Bitcoin Blockchain: The Case for Chain Neutrality](https://arxiv.org/abs/2110.11740v1)
@@ -150,26 +156,29 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 ## New Releases
 
-- [bdk v0.12.0 - miniscript, SOCK5 support, more](https://github.com/bitcoindevkit/bdk/releases/tag/v0.12.0)
-- [bdk-cli v0.3.0 - rpc blockchain client, compactblockfilter, more](https://github.com/bitcoindevkit/bdk-cli/releases/tag/v0.3.0)
-- [bitcoin-s v1.8.0 - Tor negotiation](https://github.com/bitcoin-s/bitcoin-s/releases/tag/1.8.0)
+- [bdk v0.12.0](https://github.com/bitcoindevkit/bdk/releases/tag/v0.12.0) - miniscript, SOCK5 support, more
+- [bdk-cli v0.3.0](https://github.com/bitcoindevkit/bdk-cli/releases/tag/v0.3.0) - rpc blockchain client, compactblockfilter, more
+- [bitcoin-s v1.8.0](https://github.com/bitcoin-s/bitcoin-s/releases/tag/1.8.0) - tor negotiation
+- [BlueWallet v6.2.8](https://github.com/BlueWallet/BlueWallet/releases/tag/v6.2.8) - custom derivation, tor toggle, more
 - [c-lightning v0.10.2rc1](https://github.com/ElementsProject/lightning/releases/tag/v0.10.2rc1)
-- [eclair v0.6.2 - fixes CVE-2021-4159, anchor outputs, per node relays fees, more](https://github.com/ACINQ/eclair/releases/tag/v0.6.2)
-- [hodlcontracts - non-custodial oracle and escrow system for the lightning network](https://github.com/supertestnet/hodlcontracts)
-- [joinmarket v0.9.3 - urgent maker bugfix](https://github.com/JoinMarket-Org/joinmarket-clientserver/releases/tag/v0.9.3)
-- [joininbox v0.6.3 - Bitcoin Core 22.0](https://github.com/openoms/joininbox/releases/tag/v0.6.3)
-- [immortan v0.3.5 - RBF support](https://github.com/btcontract/IMMORTAN/releases/tag/v0.3.5)
-- [lnd v0.13.3-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.13.3-beta)
+- [eclair v0.6.2](https://github.com/ACINQ/eclair/releases/tag/v0.6.2) - fixes CVE-2021-4159, anchor outputs, per node relays fees, more
+- [electrs v0.9.0](https://github.com/romanz/electrs/releases/tag/v0.9.0) - fetch blocks over bitcoin gossip network
+- [hodlcontracts](https://github.com/supertestnet/hodlcontracts) - non-custodial oracle and escrow system for the lightning network
+- [joinmarket v0.9.3](https://github.com/JoinMarket-Org/joinmarket-clientserver/releases/tag/v0.9.3) - urgent maker bugfix
+- [joininbox v0.6.3](https://github.com/openoms/joininbox/releases/tag/v0.6.3) - Bitcoin Core 22.0
+- [immortan v0.3.5](https://github.com/btcontract/IMMORTAN/releases/tag/v0.3.5) - RBF support
+- [lnd v0.13.3-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.13.3-beta) - fixes CVE-2021-41593
 - [ln-probing-simulator](https://github.com/s-tikhomirov/ln-probing-simulator)
-- [nthkey-ios v1.0.4 bech32m support](https://github.com/Sjors/nthkey-ios/releases/tag/v1.0.4)
-- [mercury-wallet v0.4.31 - mainnet release](https://github.com/layer2tech/mercury-wallet/releases/tag/v0.4.31)
-- [phoenix v1.4.17 - Lightning Address support](https://github.com/ACINQ/phoenix/releases/tag/android-legacy-v1.4.17)
-- [raspiblitz v1.7.1 - c-lightning support](https://github.com/rootzoll/raspiblitz/releases/tag/v1.7.1)
-- [rust-lightning](https://github.com/rust-bitcoin/rust-lightning/releases/tag/v0.0.102)
-- [secp256k1-py - python FFI bindings for libsecp256k1](https://github.com/rustyrussell/secp256k1-py), [discussion](https://twitter.com/rusty_twit/status/1450240490226417666)
-- [SimpleBitcoinWallet v2.2.14-16 - CPFP, RBF-cancel, HODL payments, batch sends]()
+- [nthkey-ios v1.0.4](https://github.com/Sjors/nthkey-ios/releases/tag/v1.0.4) - bech32m support
+- [mercury-wallet v0.4.31](https://github.com/layer2tech/mercury-wallet/releases/tag/v0.4.31) - mainnet release of statechain wallet
+- [phoenix v1.4.17](https://github.com/ACINQ/phoenix/releases/tag/android-legacy-v1.4.17) - Lightning Address support
+- [raspiblitz v1.7.1](https://github.com/rootzoll/raspiblitz/releases/tag/v1.7.1) - c-lightning support
+- [rust-lightning](https://github.com/rust-bitcoin/rust-lightning/releases/tag/v0.0.102) - api updates, bug fixes
+- [secp256k1-py](https://github.com/rustyrussell/secp256k1-py) - python FFI bindings for libsecp256k1, [discussion](https://twitter.com/rusty_twit/status/1450240490226417666)
+- [SimpleBitcoinWallet v2.2.14-16](https://github.com/btcontract/wallet/releases/tag/2.2.16) - - CPFP, RBF-cancel, HODL payments, batch sends
 - [specter-desktop v1.7.0](https://github.com/cryptoadvance/specter-desktop/releases/tag/v1.7.0)
-- [thunderhub v0.12.29 - Lightning Address support](https://github.com/apotdevin/thunderhub/releases/tag/v0.12.29)
+- [thunderhub v0.12.29](https://github.com/apotdevin/thunderhub/releases/tag/v0.12.29) - Lightning Address support
+- [umbrel v0.4.3](https://github.com/getumbrel/umbrel/releases/tag/v0.4.3) - lnd 0.13.3
 
 ## Events and Podcasts
 
