@@ -153,7 +153,7 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 - [bdk v0.12.0 - miniscript, SOCK5 support, more](https://github.com/bitcoindevkit/bdk/releases/tag/v0.12.0)
 - [bdk-cli v0.3.0 - rpc blockchain client, compactblockfilter, more](https://github.com/bitcoindevkit/bdk-cli/releases/tag/v0.3.0)
 - [bitcoin-s v1.8.0 - Tor negotiation](https://github.com/bitcoin-s/bitcoin-s/releases/tag/1.8.0)
-- [v0.10.2rc1](https://github.com/ElementsProject/lightning/releases/tag/v0.10.2rc1)
+- [c-lightning v0.10.2rc1](https://github.com/ElementsProject/lightning/releases/tag/v0.10.2rc1)
 - [eclair v0.6.2 - fixes CVE-2021-4159, anchor outputs, per node relays fees, more](https://github.com/ACINQ/eclair/releases/tag/v0.6.2)
 - [hodlcontracts - non-custodial oracle and escrow system for the lightning network](https://github.com/supertestnet/hodlcontracts)
 - [joinmarket v0.9.3 - urgent maker bugfix](https://github.com/JoinMarket-Org/joinmarket-clientserver/releases/tag/v0.9.3)
