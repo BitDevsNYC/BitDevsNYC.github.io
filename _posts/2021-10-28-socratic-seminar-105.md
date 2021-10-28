@@ -114,8 +114,6 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 - [Taproot P2TR address](https://github.com/rust-bitcoin/rust-bitcoin/pull/563)
 - [Add OP_CHECKSIGADD and OP_SUCCESSxxx](https://github.com/rust-bitcoin/rust-bitcoin/pull/644)
 
-### BIPS
-
 ### lnd
 
 - [Add postgres](https://github.com/lightningnetwork/lnd/pull/5366)
