@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "TABConf 2021: The BitDevs Socratic Village"
-conference: https://tabconf.com/the-socratic-village/
+meetup: https://tabconf.com/the-socratic-village/
 ---
 
 ### The BitDevs Socratic Village
