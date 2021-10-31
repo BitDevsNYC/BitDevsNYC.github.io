@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "TABConf 2021: The BitDevs Socratic Village"
-meetup: https://www.meetup.com/BitDevsNYC/events/132031092/
+conference: https://tabconf.com/the-socratic-village/
 ---
 
 ### The BitDevs Socratic Village
