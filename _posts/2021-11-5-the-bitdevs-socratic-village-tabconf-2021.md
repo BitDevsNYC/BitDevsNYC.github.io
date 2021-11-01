@@ -5,7 +5,7 @@ title: "TABConf 2021: The BitDevs Socratic Village"
 meetup: https://tabconf.com/the-socratic-village/
 ---
 
-### The BitDevs Socratic Village: Sponsored by [CardCoins](https://cardcoins.co)
+### Sponsored by [CardCoins](https://cardcoins.co)
 
 [TABConf 2021](https://tabconf.com/) is a Bitcoin conference for building communities, providing education, and supporting developers. At the conference there will be villages, modeled after those present at [DEF CON](https://en.wikipedia.org/wiki/DEF_CON#Villages); each village can be considered a mini-conference within the wider confernece, as it will have its own theme and agenda separate from the main stage. J of BitDevs NYC and Shaun of BitDevs South Florida have organized a BitDevs-styled Socratic Village, which is decribed below.
 
