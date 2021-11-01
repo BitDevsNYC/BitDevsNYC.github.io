@@ -5,7 +5,7 @@ title: "TABConf 2021: The BitDevs Socratic Village"
 meetup: https://tabconf.com/the-socratic-village/
 ---
 
-### The BitDevs Socratic Village
+### The BitDevs Socratic Village: Sponsored by [CardCoins](https://cardcoins.co)
 
 [TABConf 2021](https://tabconf.com/) is a Bitcoin conference for building communities, providing education, and supporting developers. At the conference there will be villages, modeled after those present at [DEF CON](https://en.wikipedia.org/wiki/DEF_CON#Villages); each village can be considered a mini-conference within the wider confernece, as it will have its own theme and agenda separate from the main stage. J of BitDevs NYC and Shaun of BitDevs South Florida have organized a BitDevs-styled Socratic Village, which is decribed below.
 
@@ -45,6 +45,7 @@ Materials for each session and panel will be posted beforehand, so those who wou
   - Panelists: Lisa Neigut, Ryan Gentry
 - 3:10 - 3:55 - **Socratic Panel: Lightning in Asynchronous Environments**
   - Description: The liveness requirement of the Lightning Network is rooted in the interactive nature of the protocol. This poses a significant challenge to parties who do not interact with the network from a device that supports an always-on lightning wallet. This panel will look at two schemes which play a part in addressing the complexities of this context: a "Lightning Service Provider" -- Lightning Address, and how to use a long CLTV in conjunction with such a provider to enable mobile to mobile lightning payments.
+  - Moderator: Andrew Yang
   - Panelists: Matt Corallo, Andre Neves
 - 3:55 - 5:15 - Break
 - 5:15 - 7:00 - **Trivia**
