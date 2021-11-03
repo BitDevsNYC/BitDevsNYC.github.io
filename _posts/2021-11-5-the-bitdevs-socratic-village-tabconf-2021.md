@@ -39,6 +39,8 @@ Materials for each session and panel will be posted beforehand, so those who wou
 
 ### November 6th
 - 10:30 - 12:00 - **Chaincode Seminar**
+  - Leaders: Mark Erhardt, Gloria Zhao
+  - Description: This workshop is an excerpt of the 5 week seminar program offered by Chaincode Labs. Small groups of participants delve into assigned discussion questions and later present their topic. The philosophical topics are geared towards fostering thoughtful contributors to the Bitcoin ecosystem. The workshop offers an opportunity to expand your experience, gain confidence as a contributor, and network with fellow developers. Attendees should have some sort of technical foundation, but competency in a specific programming language is not required.
 - 12:15 - 1:30 - **Socratic Session: Lightning Protocol**
   - Leaders: Lisa Neigut, Ryan Gentry
   - Description: This session will be focused on Lightning protocol development. Topics will be drawn from the lightning-dev mailing list, pull requests in popular repositories (lnd, c-lightning, eclair, rust-lightning, lightning-rfcs), discussions of ANYPREVOUT/eltoo, as well as interesting projects that enhance the lightning protocol (e.g. LNURL). A final topic list will be posted on November 2nd. 
