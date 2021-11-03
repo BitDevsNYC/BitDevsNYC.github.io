@@ -38,12 +38,12 @@ Materials for each session and panel will be posted beforehand, so those who wou
   - Description: Curious about how the Bitcoin network works at a low level? This is your chance to learn in a live setting! Users will take on the identity of nodes and miners and role play as software clients in the network. Participants will build blocks, find hashes, construct and pass transaction and block messages and interact in real time. 
 
 ### November 6th
-- 10:30 - 12:00 - **Chaincode Seminar**
-  - Leaders: Mark Erhardt, Gloria Zhao
+- 10:30 - 12:00 - **Chaincode Seminar**  
   - Description: This workshop is an excerpt of the 5 week seminar program offered by Chaincode Labs. Small groups of participants delve into assigned discussion questions and later present their topic. The philosophical topics are geared towards fostering thoughtful contributors to the Bitcoin ecosystem. The workshop offers an opportunity to expand your experience, gain confidence as a contributor, and network with fellow developers. Attendees should have some sort of technical foundation, but competency in a specific programming language is not required.
+  - Leaders: Mark Erhardt, Gloria Zhao
 - 12:15 - 1:30 - **Socratic Session: Lightning Protocol**
-  - Leaders: Lisa Neigut, Ryan Gentry
   - Description: This session will be focused on Lightning protocol development. Topics will be drawn from the lightning-dev mailing list, pull requests in popular repositories (lnd, c-lightning, eclair, rust-lightning, lightning-rfcs), discussions of ANYPREVOUT/eltoo, as well as interesting projects that enhance the lightning protocol (e.g. LNURL). A final topic list will be posted on November 2nd. 
+  - Leaders: Lisa Neigut, Ryan Gentry
 - 1:30 - 3:45 - **Break**
 - 3:45 - 4:30 - **Socratic Panel: Channel Leasing**
   - Description: The Lightning Network is quickly expanding. As it grows, so too does the demand for both inbound and outbound liquidity. With this growing demand and the ability to “dual fund” a channel, the rise of channel leasing markets has begun. How these markets operate and under what conditions channel counterparties cooperate are active areas of research and development. This panel will explore two modes of these markets (Lightning Pool and Liquidity Advertisements), how they work, and what their differences/tradeoffs are. 
