@@ -19,7 +19,7 @@ Materials for each session and panel will be posted beforehand, so those who wou
 
 ### Schedule: November 5th
 - 11:15 - 12:30 - **Socratic Session: Bitcoin Protocol**
-  - Description: This session will be focused on Bitcoin protocol development. Content will be drawn from the bitcoin-dev mailing list, a variety of github repositories (Bitcoin Core, libsecp256k1, HWI, BIPs), research papers, IRC chat logs and other sources relevant to Bitcoin protocol discussion. We will also look at recent phenomena in the network, observing oscillations in the mempool, changes in difficulty, shifts in the UTXO and more. A final topic list will be posted on November 2nd. 
+  - Description: This session will be focused on Bitcoin protocol development. Content will be drawn from the bitcoin-dev mailing list, a variety of github repositories (Bitcoin Core, libsecp256k1, HWI, BIPs), research papers, IRC chat logs and other sources relevant to Bitcoin protocol discussion. We will also look at recent phenomena in the network, observing oscillations in the mempool, changes in difficulty, shifts in the UTXO and more.
   - Leaders: J, Shaun, Ben Carman
 - 12:45 - 1:30 - **Socratic Panel: Diving into the Mempool**
   - Description: The mempool is neither static nor uniform across nodes. There exists a complex relationship between transactions, some may conflict, others may be directly related (as part of an ancestor/descendant package). This affects block templating for miners as well as the propagation of transactions relevant to layer n+1 protocols. This panel will be an opportunity to explore these complexities and how they are being addressed.
@@ -41,8 +41,8 @@ Materials for each session and panel will be posted beforehand, so those who wou
 - 10:30 - 12:00 - **Chaincode Seminar**  
   - Description: This workshop is an excerpt of the 5 week seminar program offered by Chaincode Labs. Small groups of participants delve into assigned discussion questions and later present their topic. The philosophical topics are geared towards fostering thoughtful contributors to the Bitcoin ecosystem. The workshop offers an opportunity to expand your experience, gain confidence as a contributor, and network with fellow developers. Attendees should have some sort of technical foundation, but competency in a specific programming language is not required.
   - Leaders: Mark Erhardt, Gloria Zhao
-- 12:15 - 1:30 - **Socratic Session: Lightning Protocol**
-  - Description: This session will be focused on Lightning protocol development. Topics will be drawn from the lightning-dev mailing list, pull requests in popular repositories (lnd, c-lightning, eclair, rust-lightning, lightning-rfcs), discussions of ANYPREVOUT/eltoo, as well as interesting projects that enhance the lightning protocol (e.g. LNURL). A final topic list will be posted on November 2nd. 
+- 12:15 - 1:30 - **Socratic Session: Lightning Development**
+  - Description: This session will be focused on the the Lightning Network. Topics will be drawn from the lightning-dev mailing list, pull requests in popular repositories (lnd, c-lightning, eclair, rust-lightning, lightning-rfcs), discussions of ANYPREVOUT/eltoo, as well as interesting projects that enhance the lightning protocol (e.g. LNURL). 
   - Leaders: Lisa Neigut, Ryan Gentry
 - 1:30 - 3:45 - **Break**
 - 3:45 - 4:30 - **Socratic Panel: Channel Leasing**
