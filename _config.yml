@@ -16,4 +16,4 @@ description: "BitDevs is a community for those interested in discussing and part
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache']
 
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
