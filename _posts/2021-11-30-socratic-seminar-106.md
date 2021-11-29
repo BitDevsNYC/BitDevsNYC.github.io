@@ -5,10 +5,6 @@ title: "Socratic Seminar 106"
 meetup: https://www.meetup.com/BitDevsNYC/events/
 ---
 
-_Information and links to follow soon!_
-
-<!-- TODO: Before meeting, add links
-
 ## Announcements
 
 Please join us for our next Socratic Seminar. A special thank you to our
@@ -46,6 +42,8 @@ refreshments and event space.
 
 - [Newsletter #173](https://bitcoinops.org/en/newsletters/2021/11/03/)
 - [Newsletter #174](https://bitcoinops.org/en/newsletters/2021/11/10/)
+- [Newsletter #175](https://bitcoinops.org/en/newsletters/2021/11/17/)
+- [Newsletter #176](https://bitcoinops.org/en/newsletters/2021/11/24/)
 
 ## Network Data
 
@@ -57,6 +55,12 @@ refreshments and event space.
 
 ### Bitcoin Core
 
+- [Make AddrMan support multiple ports per IP](https://github.com/bitcoin/bitcoin/pull/23306)
+- [Add verification to Sign, SignCompact and SignSchnorr](https://github.com/bitcoin/bitcoin/pull/22934)
+- [Full CJDNS support](https://github.com/bitcoin/bitcoin/pull/23077)
+- [Let validateaddress locate error in Bech32 address](https://github.com/bitcoin/bitcoin/issues/16807)
+- [wallet: Make a tr() descriptor by default](https://github.com/bitcoin/bitcoin/pull/22364)
+
 ### rust-bitcoin
 
 ### lnd
@@ -66,6 +70,11 @@ refreshments and event space.
 ### c-lightning
 
 ### rust-lightning
+
+### BIPs
+
+- [Minor Updates to BIP-119](https://github.com/bitcoin/bips/pull/1215)
+- [BIP341 test vectors](https://github.com/bitcoin/bips/pull/1225)
 
 ### BOLTs
 
@@ -78,5 +87,3 @@ refreshments and event space.
 ## Mining
 
 ## Miscellaneous
-
--->
