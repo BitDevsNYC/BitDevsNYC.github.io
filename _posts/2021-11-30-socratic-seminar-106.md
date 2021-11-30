@@ -66,7 +66,7 @@ refreshments and event space. There will be a demo of [Mercury Wallet's](https:/
 - [Bitcoin Network Monitor](https://www.dsn.kastel.kit.edu/bitcoin/)
 - [Discussion of Ethereum blockchain size](https://twitter.com/peter_szilagyi/status/1460202014919569410)
 - [Explore, sort and filter Bitcoin outputs](https://blockchair.com/bitcoin/outputs)
-- New plots on transactionfee.info - [feerates in blocks](https://transactionfee.info/charts/fees-package-feerates/), [taproot spending transactions](https://transactionfee.info/charts/fees-package-feerates/)
+- New plots on transactionfee.info - [feerates in blocks](https://transactionfee.info/charts/fees-package-feerates/), [taproot spending transactions](https://transactionfee.info/charts/transactions-spending-taproot/)
 - [Percentage of pruned nodes](https://gist.github.com/0xB10C/c9d715500665df46862e35b0e2b4209d), [discussion](https://twitter.com/roasbeef/status/1459000455363657738)
 - [Some experiments with mempool visualizations in Bitcoin Core](https://twitter.com/orionwl/status/1460634340354895878)
 - [taproot.watch will remain available even though taproot has activated](https://taproot.watch/)
