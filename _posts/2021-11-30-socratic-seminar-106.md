@@ -33,18 +33,24 @@ refreshments and event space.
 - Bitcoin PR Review Club
   - [23173 - Add ChainstateManager::ProcessTransaction](https://bitcoincore.reviews/23173)
   - [23280 - Coalesce Chainstate loading sequence between {,non-}unittest codepaths](https://bitcoincore.reviews/23280)
+  - [23319 - Return fee and prevout (utxos) to getrawtransaction](https://bitcoincore.reviews/23319)
+  - [23512 - policy: Treat taproot as always active](https://bitcoincore.reviews/23512)
 - Bitcoin Core general developer meetings
   - [October 28th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-10-28.html#l-157)
   - [November 4th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-11-04.html#l-219)
+  - [November 11th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-11-11.html#l-628)
+  - [November 18th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-11-18.html#l-437)
+  - [November 25th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-11-25.html#l-387)
 - Bitcoin Core wallet meetings
-  - 
+  - [November 19th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-11-19.html#l-319)
 - c-lightning meetings
-  - 
+  - [November 1st](https://diyhpl.us/wiki/transcripts/c-lightning/2021-11-01-developer-call/)
+  - [November 15th](https://diyhpl.us/wiki/transcripts/c-lightning/2021-11-15-developer-call/)
 - dlc-specs meetings
-  - 
+  - [November 9th](https://github.com/discreetlogcontracts/dlcspecs/pull/178)
 - Lightning specification meetings
-  - 
-  - 
+  - [November 8th](https://github.com/lightning/bolts/issues/933)
+  - [November 22nd](https://github.com/lightning/bolts/issues/936)
 
 ### Optech
 
@@ -71,24 +77,31 @@ refreshments and event space.
 
 ### Research
 
+- [Analysis and Patterns of Unknown Transactions in Bitcoin](https://cri-lab.net/wp-content/uploads/2021/10/unk_tx_Bitcoin_IEEE_Blockchain2021.pdf)
+- [Analysis of Decentralized Mixing Services in the Greater Bitcoin Ecosystem](https://repositum.tuwien.at/handle/20.500.12708/18576)
+- [Blockchain Analysis of the Bitcoin Market](https://www.nber.org/system/files/working_papers/w29396/w29396.pdf)
 - [Comparative Analysis of Lightning's Routing Clients](https://ieeexplore.ieee.org/abstract/document/9566199)
+- [Estimation of Ransomware Payments in Bitcoin Ecosystem](https://www.researchgate.net/publication/355351795_Estimation_of_Ransomware_Payments_in_Bitcoin_Ecosystem)
 - [Flexible Anonymous Transactions (FLAX): Towards Privacy-Preserving and Composable Decentralized Finance](https://eprint.iacr.org/2021/1249)
 - [Impermanent Loss in Uniswap v3](https://arxiv.org/abs/2111.09192)
 - [On Cryptocurrency Wallet Design](https://eprint.iacr.org/2021/1522)
 - [Route Discovery in Private Payment Channel Networks](https://eprint.iacr.org/2021/1539)
 - [The Weighted Bitcoin Lightning Network](https://arxiv.org/abs/2111.13494v1)
+- [Where is the Light(ning) in the Taproot Dawn? Unveiling the Bitcoin Lightning (IP) Network](https://orbi.uliege.be/handle/2268/264663)
 
 ### InfoSec
 
 - [Analysis of Conti Ransomeware group](https://www.prodaft.com/resource/detail/conti-ransomware-group-depth-analysis), [discussion](https://twitter.com/ErgoBTC/status/1462127674973986822)
 - [BLACKSMITH: Scalable Rowhammering in the Frequency Domain](https://comsec.ethz.ch/wp-content/files/blacksmith_sp22.pdf)
 - [BbZx developer phished, $55 million stolen](https://bzx.network/blog/post-mortem-update)
-- [Deep-fakes being used in social media account takeovers](https://news.ycombinator.com/item?id=29364427)
-- [On the security of Booba's music video and NFTs](https://donjon.ledger.com/booba_nft/)
 - [Creamed Cream – Learn the Secret Recipe (Cream Hack Analysis)](https://mudit.blog/cream-hack-analysis/)
+- [Deep-fakes being used in social media account takeovers](https://news.ycombinator.com/item?id=29364427)
 - [Deep reorgs on Polygon](https://polygonscan.com/blocks_forked)
 - [How to manipulate Uniswap's time-weighted average price oracles](https://mobile.twitter.com/euler_mab/status/1459314402059034634)
+- [lntxbot exploit](https://twitter.com/lntxbot/status/1457054454251917314)
+- [On the security of Booba's music video and NFTs](https://donjon.ledger.com/booba_nft/)
 - [NPM fixes private package names leak, serious authorization bug](https://www.bleepingcomputer.com/news/security/npm-fixes-private-package-names-leak-serious-authorization-bug/)
+- [Some Umbrel users lightning nodes drained](https://twitter.com/getumbrel/status/1460245730971451392)
 - [Robinhood data breach effects 7 million customers](https://blog.robinhood.com/news/2021/11/8/data-security-incident)
 - [To Swat a Swatter](https://blog.lopp.net/to-swat-a-swatter/)
 
@@ -146,6 +159,7 @@ refreshments and event space.
 - [fork-explorer - see the status of a BIP9 deployment](https://github.com/hsjoberg/fork-explorer)
 - [lnd 0.14.1 - fix of cross-implementation channel open failures, hybrid tor connectivity, in-memory path finding, explicit channel negotiation, more](https://github.com/lightningnetwork/lnd/releases/tag/v0.14.1-beta)
 - [lnvault - LN support for Minecraft](https://www.reddit.com/r/TheLightningNetwork/comments/ql7ikm/lnvault_minecraft_lightning_network_integration/)
+- [mako - full node implementation in C](https://github.com/chjj/mako)
 - [secp256k1-py v0.14.0 - schnorr interface changed, new maintainer, latest libsecp256k1, more](https://github.com/rustyrussell/secp256k1-py/blob/1d29ab29d2f5f5642a5201efd84f8481ac4bb481/CHANGELOG.md#0140---2021-10-19-in-which-bitcoin-twitter-rescues-rusty)
 - [spark-wallet v0.3.0 - BOLT 12 offers](https://github.com/shesek/spark-wallet/releases/tag/v0.3.0)
 - [tor v0.4.5.11 - v2 hidden services disabled](https://gitlab.torproject.org/tpo/core/tor/-/blob/main/ChangeLog?expanded=true&viewer=simple#L212)
@@ -169,6 +183,7 @@ refreshments and event space.
 ## Mining
 
 - [Compass Mining announces 140 MW facility powered by nuclear and hydro](https://bitcoinmagazine.com/business/compass-mining-partner-red-jar-digital-infrastructure-bitcoin-mining)
+- [Kazakhstan to restrict crypto miners amid power shortages](https://eurasianet.org/kazakhstan-to-restrict-crypto-miners-amid-power-shortages)
 
 ## Miscellaneous
 
@@ -194,6 +209,7 @@ refreshments and event space.
 - [Ledger will support PSBTs and Descriptors in v2.0 app](https://blog.ledger.com/bitcoin-2/)
 - [Neutrino/taproot issues](https://twitter.com/ryanthegentry/status/1455678599357505536)
 - [Mercury wallet statechain torch](https://twitter.com/BobMcElrath/status/1459265455479271424)
+- [Metal Bitcoin Seed Storage Stress Test (Round V)](https://blog.lopp.net/metal-bitcoin-seed-storage-stress-tests-round-v/)
 - [MEV affecting p2p/networking layer of Avalanche](https://mobile.twitter.com/bertcmiller/status/1463191132234563585)
 - [PeerSwap - Decentralized P2P LN Balancing Protocol](https://blockstream.com/assets/downloads/2021-11-16-PeerSwap_Announcement.pdf)
 - [Preventing Channel Jamming](https://blog.bitmex.com/preventing-channel-jamming/)
