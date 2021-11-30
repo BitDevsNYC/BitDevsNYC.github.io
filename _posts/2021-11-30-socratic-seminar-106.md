@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic Seminar 106"
-meetup: https://www.meetup.com/BitDevsNYC/events/
+meetup: https://www.meetup.com/BitDevsNYC/events/282122063/
 ---
 
 ## Announcements
@@ -10,7 +10,7 @@ meetup: https://www.meetup.com/BitDevsNYC/events/
 Please join us for our next Socratic Seminar. A special thank you to our
 sponsors [CardCoins](https://cardcoins.co), [Chaincode
 Labs](https://chaincode.com) and [ZEBEDEE](https://zebedee.io) for food,
-refreshments and event space.
+refreshments and event space. There will be a demo of [Mercury Wallet's](https://github.com/layer2tech/mercury-wallet/) coinswap facility at the event. 
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 
@@ -61,7 +61,7 @@ refreshments and event space.
 
 ## Network Data
 
-- [Alex Bosworth's routing fee states by type (ytd 2021)](https://twitter.com/alexbosworth/status/1458827492995649538)
+- [Alex Bosworth's routing fee stats by type (ytd 2021)](https://twitter.com/alexbosworth/status/1458827492995649538)
 - [Asus EEE 900 IBD stats](https://twitter.com/mutatrum/status/1450446230488748035)
 - [Bitcoin Network Monitor](https://www.dsn.kastel.kit.edu/bitcoin/)
 - [Discussion of Ethereum blockchain size](https://twitter.com/peter_szilagyi/status/1460202014919569410)
@@ -154,15 +154,23 @@ refreshments and event space.
 - [LNURL Payment Method Support](https://github.com/btcpayserver/btcpayserver/pull/2897)
 
 ## New Releases
-- [btcpayserver v1.3.2 - critical security patch](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.3.2)
-- [c-lightning v0.10.2 - CVE-2021-4159 patch, payment retry improvements, morea](https://github.com/ElementsProject/lightning/releases/tag/v0.10.2)
-- [fork-explorer - see the status of a BIP9 deployment](https://github.com/hsjoberg/fork-explorer)
-- [lnd 0.14.1 - fix of cross-implementation channel open failures, hybrid tor connectivity, in-memory path finding, explicit channel negotiation, more](https://github.com/lightningnetwork/lnd/releases/tag/v0.14.1-beta)
-- [lnvault - LN support for Minecraft](https://www.reddit.com/r/TheLightningNetwork/comments/ql7ikm/lnvault_minecraft_lightning_network_integration/)
-- [mako - full node implementation in C](https://github.com/chjj/mako)
-- [secp256k1-py v0.14.0 - schnorr interface changed, new maintainer, latest libsecp256k1, more](https://github.com/rustyrussell/secp256k1-py/blob/1d29ab29d2f5f5642a5201efd84f8481ac4bb481/CHANGELOG.md#0140---2021-10-19-in-which-bitcoin-twitter-rescues-rusty)
-- [spark-wallet v0.3.0 - BOLT 12 offers](https://github.com/shesek/spark-wallet/releases/tag/v0.3.0)
-- [tor v0.4.5.11 - v2 hidden services disabled](https://gitlab.torproject.org/tpo/core/tor/-/blob/main/ChangeLog?expanded=true&viewer=simple#L212)
+- [btcpayserver v1.3.2](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.3.2) - critical security patch
+- [c-lightning v0.10.2](https://github.com/ElementsProject/lightning/releases/tag/v0.10.2) - CVE-2021-4159 patch, payment retry improvements, more
+- [fork-explorer](https://github.com/hsjoberg/fork-explorer) - see the status of a BIP9 deployment
+- [FullyNoded v0.2.30](https://github.com/Fonta1n3/FullyNoded/releases/tag/v0.2.30) - taproot support, more
+- IMMORTAN  [v0.4.6](https://github.com/btcontract/IMMORTAN/releases/tag/v0.4.6)  - PSBT and UR support,  [v0.5.6](https://github.com/btcontract/IMMORTAN/releases/tag/v0.4.6) - coin control
+- [ledger-live-desktop v2.35.0](https://github.com/LedgerHQ/ledger-live-desktop/releases/tag/v2.35.0) - taproot support
+- [lnd 0.14.1](https://github.com/lightningnetwork/lnd/releases/tag/v0.14.1-beta) - fix of cross-implementation channel open failures, hybrid tor connectivity, in-memory path finding, explicit channel negotiation, more
+- [lnvault](https://www.reddit.com/r/TheLightningNetwork/comments/ql7ikm/lnvault_minecraft_lightning_network_integration/) - LN support for Minecraft
+- [mako](https://github.com/chjj/mako) - full node implementation in C
+- [rust-lightning v0.0.103](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.103) - payment retrires
+- [seedsigner v0.4.5](https://github.com/SeedSigner/seedsigner/releases/tag/0.4.5) - custom XPUB derivation paths
+- [secp256k1-py v0.14.0](https://github.com/rustyrussell/secp256k1-py/blob/1d29ab29d2f5f5642a5201efd84f8481ac4bb481/CHANGELOG.md#0140---2021-10-19-in-which-bitcoin-twitter-rescues-rusty) - schnorr interface changed, new maintainer, latest libsecp256k1, more
+- [SimpleBitcoinWallet v2.3.18](https://github.com/btcontract/wallet/releases/tag/2.3.18) - watch-only and hardware wallet support, [v2.4.18](https://github.com/btcontract/wallet/releases/tag/2.4.18) - coin control
+- [spark-wallet v0.3.0](https://github.com/shesek/spark-wallet/releases/tag/v0.3.0) - BOLT 12 offers
+- [tor v0.4.5.11](https://gitlab.torproject.org/tpo/core/tor/-/blob/main/ChangeLog?expanded=true&viewer=simple#L212) - v2 hidden services disabled
+- [umbrel v0.4.8](https://github.com/getumbrel/umbrel/releases/tag/v0.4.8) - security update
+- [WalletWasabi v1.1.13.0](https://github.com/zkSNACKs/WalletWasabi/releases/tag/v1.1.13.0) - tor updates
 
 ## Events and Podcasts
 
