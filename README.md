@@ -1,4 +1,4 @@
-# BitDevs NYC
+# Miami Bitcoin Developers
 
 Simple Jekyll site for hosting all of the links from meetups past and future.
 
