@@ -22,7 +22,7 @@ async function run() {
     console.log(`Loaded ${events.length} events from ${JSON_PATH}`);
   } catch(err) {
     console.log('Failed to load local events, fetching them from API');
-    const res = await fetch(`https://api.meetup.com/BitDevsNYC/events?&sign=true&photo-host=public&page=${LIMIT}&status=past`);
+    const res = await fetch(`https://api.meetup.com/DCBitDevs/events?&sign=true&photo-host=public&page=${LIMIT}&status=past`);
     events = await res.json();
     fs.writeFileSync(JSON_PATH, JSON.stringify(events, null, 2));
     console.log(`Saved ${events.length} events to ${JSON_PATH}`);

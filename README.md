@@ -1,4 +1,8 @@
-# BitDevs NYC
+# DC BitDevs
+
+A fork of BitDevs NYC
+
+---
 
 Simple Jekyll site for hosting all of the links from meetups past and future.
 
@@ -9,7 +13,7 @@ site locally. Once they're setup:
 
 * Clone the repository and go into the directory
 * Run `bundle install`
-* Run `jekyll serve`
+* Run `bundle exec jekyll serve`
 * Go to http://localhost:4000
 
 ## Making a Post
@@ -23,7 +27,7 @@ following information:
 layout: post # Always post
 type: socratic # or whitepaper for a whitepaper series
 title: "Name of the Post"
-meetup: https://www.meetup.com/BitDevsNYC/events/[event id here]/
+meetup: https://www.meetup.com/DCBitDevs/events/[event id here]/
 ---
 ```
 
