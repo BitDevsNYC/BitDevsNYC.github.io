@@ -13,7 +13,7 @@ site locally. Once they're setup:
 
 * Clone the repository and go into the directory
 * Run `bundle install`
-* Run `jekyll serve`
+* Run `bundle exec jekyll serve`
 * Go to http://localhost:4000
 
 ## Making a Post
