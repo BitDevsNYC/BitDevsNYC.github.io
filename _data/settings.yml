@@ -5,3 +5,4 @@ menu:
   - {name: 'About', url: '/about'}
   - {name: 'Events', url: '/events'}
   - {name: 'Meetup', url: 'https://www.meetup.com/triangle-bitdevs/', external: true}
+  - {name: 'Twitter', url: 'https://twitter.com/TriangleBitDevs', external: true}
