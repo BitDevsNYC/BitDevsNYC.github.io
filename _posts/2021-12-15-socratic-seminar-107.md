@@ -29,23 +29,21 @@ refreshments and event space.
 ### Meetings
 
 - Bitcoin PR Review Club
-
+  - [23614 - Add unit test for block-relay-only eviction](https://bitcoincore.reviews/23614)
+  - [23443 - Erlay support signaling](https://bitcoincore.reviews/23443)
 - Bitcoin Core general developer meetings
-
-- Bitcoin Core wallet meetings
-  - 
-- c-lightning meetings
-  - 
+  - [December 2nd](https://www.erisian.com.au/bitcoin-core-dev/log-2021-12-02.html#l-435)
+  - [December 9th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-12-09.html#l-518)
 - dlc-specs meetings
-  - 
+  - [December 7th](https://github.com/discreetlogcontracts/dlcspecs/pull/180)
 - Lightning specification meetings
-  - 
-  - 
+  - [December 6th](https://github.com/lightning/bolts/issues/943)
 
 ### Optech
 
-- [Newsletter #173](https://bitcoinops.org/en/newsletters/2021/11/03/)
-- [Newsletter #174](https://bitcoinops.org/en/newsletters/2021/11/10/)
+- [Newsletter #177](https://bitcoinops.org/en/newsletters/2021/12/01/)
+- [Newsletter #178](https://bitcoinops.org/en/newsletters/2021/12/08/)
+- [Newsletter #179](https://bitcoinops.org/en/newsletters/2021/12/15/)
 
 ## Network Data
 
