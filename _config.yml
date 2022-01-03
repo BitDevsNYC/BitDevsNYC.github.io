@@ -14,4 +14,5 @@ description: "BitDevs is a community for those interested in discussing and part
 
 # Leave out some files
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache']
-
+url: RazTeve.github.io
+baseurl: /MiamiBitDevs.github.io
