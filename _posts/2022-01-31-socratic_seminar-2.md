@@ -32,7 +32,8 @@ and 342
 
 ## Miscellaneous
 
-
+- [CTV bug bounty](https://twitter.com/JeremyRubin/status/1477760236115034113)
+- [Downsides of Suboptimal Opcode Activation](https://bitcoin.stackexchange.com/questions/106851/what-are-the-downsides-to-enabling-potentially-suboptimal-or-unused-opcodes-in-a/106915)
 
 ## Errata
 
