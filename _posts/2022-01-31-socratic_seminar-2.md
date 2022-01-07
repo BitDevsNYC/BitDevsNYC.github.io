@@ -16,6 +16,7 @@ and 342
 - [BIP-0340 Schnorr Signatures for secp256k1](https://github.com/bitcoin/bips/blob/master/bip-0340.mediawiki)
 - [BIP-0341 Validation of Taproot Scripts](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki)
 - [BIP-0342 Taproot: SegWit version 1 spending rules](https://github.com/bitcoin/bips/blob/master/bip-0342.mediawiki)
+- [Schnorr Basics](https://bitcoin-dev.blog/blog/schnorr-basics/)
 - [Binance loses taproot funds](https://bitcoin.stackexchange.com/questions/111440/is-it-possible-to-convert-a-taproot-address-into-a-native-segwit-address)
 
 
