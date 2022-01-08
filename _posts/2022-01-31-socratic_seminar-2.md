@@ -35,6 +35,8 @@ and 342
 
 - [CTV bug bounty](https://twitter.com/JeremyRubin/status/1477760236115034113)
 - [Downsides of Suboptimal Opcode Activation](https://bitcoin.stackexchange.com/questions/106851/what-are-the-downsides-to-enabling-potentially-suboptimal-or-unused-opcodes-in-a/106915)
+- [Bitcoin 2021 Annual Review](https://blog.lopp.net/bitcoin-2021-annual-review/)
+- [What is Signature Grinding](https://bitcoin.stackexchange.com/questions/111660/what-is-signature-grinding)
 
 ## Errata
 
