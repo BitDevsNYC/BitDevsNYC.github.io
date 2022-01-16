@@ -38,6 +38,7 @@ and 342
 - [Bitcoin 2021 Annual Review](https://blog.lopp.net/bitcoin-2021-annual-review/)
 - [What is Signature Grinding](https://bitcoin.stackexchange.com/questions/111660/what-is-signature-grinding)
 - [Tonga to Make BTC Legal Tender](https://www.cityam.com/bitcoin-set-to-be-legal-tender-in-tonga-by-end-of-the-year/)
+- [Rusty Russel Inspired the Bech32 Address Format](https://twitter.com/base58btc/status/1482554931341107201)
 
 ## Errata
 
