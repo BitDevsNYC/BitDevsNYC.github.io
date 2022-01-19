@@ -18,6 +18,7 @@ and 342
 - [BIP-0342 Taproot: SegWit version 1 spending rules](https://github.com/bitcoin/bips/blob/master/bip-0342.mediawiki)
 - [Schnorr Basics](https://bitcoin-dev.blog/blog/schnorr-basics/)
 - [Binance loses taproot funds](https://bitcoin.stackexchange.com/questions/111440/is-it-possible-to-convert-a-taproot-address-into-a-native-segwit-address)
+- [Why does Taproot require a new address format?](https://bitcoin.stackexchange.com/questions/100301/why-does-taproot-require-a-new-address-format?rq=1)
 
 
 ## Lightning
@@ -39,6 +40,7 @@ and 342
 - [What is Signature Grinding](https://bitcoin.stackexchange.com/questions/111660/what-is-signature-grinding)
 - [Tonga to Make BTC Legal Tender](https://www.cityam.com/bitcoin-set-to-be-legal-tender-in-tonga-by-end-of-the-year/)
 - [Rusty Russel Inspired the Bech32 Address Format](https://twitter.com/base58btc/status/1482554931341107201)
+- [Greg Maxwell Comments on Legal Battles, How to Help](https://www.reddit.com/r/Bitcoin/comments/s5v2tr/comment/ht4yux2/?utm_source=share&utm_medium=web2x&context=3)
 
 ## Errata
 
