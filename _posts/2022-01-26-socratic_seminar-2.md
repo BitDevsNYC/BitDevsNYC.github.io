@@ -19,6 +19,8 @@ and 342
 - [Schnorr Basics](https://bitcoin-dev.blog/blog/schnorr-basics/)
 - [Binance loses taproot funds](https://bitcoin.stackexchange.com/questions/111440/is-it-possible-to-convert-a-taproot-address-into-a-native-segwit-address)
 - [Why does Taproot require a new address format?](https://bitcoin.stackexchange.com/questions/100301/why-does-taproot-require-a-new-address-format?rq=1)
+- [Taproot, CoinJoins, and Cross-Input Signature Aggregation](https://www.reddit.com/r/Bitcoin/comments/ibcnsv/taproot_coinjoins_and_crossinput_signature/)
+- [Soft-forks and schnorr signature validation](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2018-March/015838.html)
 
 
 ## Lightning
