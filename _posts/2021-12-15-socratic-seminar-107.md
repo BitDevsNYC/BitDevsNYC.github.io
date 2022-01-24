@@ -27,8 +27,6 @@ refreshments and event space.
 - [PTLCs early draft specification](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-December/003377.html)
 - [bLIPs are Open for Business!](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-December/003401.html)
 
-#### dlc-ml
-
 ### Meetings
 
 - Bitcoin PR Review Club
@@ -55,6 +53,7 @@ refreshments and event space.
 
 - [Binance shifting central hot wallet](https://twitter.com/ErgoBTC/status/1467898454001299458)
 - [CoinJoin stats updated through November 2021](https://github.com/nopara73/Dumplings/commit/91d7c2d08c7264c100f90ef3edde35fdc96ba3fb?short_path=b335630#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5)
+- [Hashrate nearly recovered from ATH](https://twitter.com/glassnode/status/1468354456769089536)
 
 ### Research
 
@@ -87,26 +86,50 @@ refreshments and event space.
 
 ### Bitcoin Core
 
-### rust-bitcoin
+- [[BIP 174] PSBT version, proprietary, and xpub fields](https://github.com/bitcoin/bitcoin/pull/17034)
+- [PSBT: hash preimages fields](https://github.com/bitcoin/bitcoin/pull/23718)
+- [rpc: getblockfrompeer](https://github.com/bitcoin/bitcoin/pull/20295)
+- [validation: mempool validation and submission for packages of 1 child + parents](https://github.com/bitcoin/bitcoin/pull/22674)
+- [wallet: Introduce SelectionResult for encapsulating a coin selection solution](https://github.com/bitcoin/bitcoin/pull/22019)
 
 ### lnd
 
+- [funding: always send a channel type in explicit mode](https://github.com/lightningnetwork/lnd/pull/6075)
+- [funding: ensure a local funding w/ explicit type can't be downgraded](https://github.com/lightningnetwork/lnd/pull/6027)
+- [routing: fix memory corruption in MC store](https://github.com/lightningnetwork/lnd/pull/6068)
+- [[Feature Request]: Allow interception of cooperative close tx broadcast](https://github.com/lightningnetwork/lnd/issues/6070)
+
 ### eclair
+
+- [relay onion messages](https://github.com/ACINQ/eclair/pull/2061)
+- [Notify node operator on low fee bumping reserve](https://github.com/ACINQ/eclair/pull/2104)
 
 ### c-lightning
 
+- [bolt7: dns support](https://github.com/ElementsProject/lightning/pull/4829)
+- [onion updates to match latest spec (and test vectors!)](https://github.com/ElementsProject/lightning/pull/4921)
+
 ### rust-lightning
 
+- [explicitly support counterparty setting 0 channel reserve](https://github.com/lightningdevkit/rust-lightning/pull/1163)
+- [lightningd: make shutdown smoother and safer, PART II](https://github.com/ElementsProject/lightning/pull/4959)
+
 ### BOLTs
+
+- [gossip: deprecate Tor v2 onion services](https://github.com/lightning/bolts/pull/940)
+- [Drop ping sending rate-limit suggestion](https://github.com/lightning/bolts/pull/918)
+- [BOLT-02+09: introduce feature bit to gate new channel_type feature](https://github.com/lightning/bolts/pull/906)
 
 ## New Releases
 
 - [bdk v0.14.0](https://github.com/bitcoindevkit/bdk/releases/tag/v0.14.0) - taproot support
 - [btc-rpc-explorer v3.3.0](https://github.com/janoside/btc-rpc-explorer/releases/tag/v3.3.0) - new API actions and viewer of UTXO set
 - [elements v0.21.0.1](https://github.com/ElementsProject/elements/releases/tag/elements-0.21.0.1) - make dynafed signalling opt-out instead of opt-in
-- [krux](https://github.com/jreesun/krux) - open-source, airgapped bitcoin hardware signer for the M5StickV
+- [krux](https://github.com/jreesun/krux) - open source, airgapped bitcoin hardware signer for the M5StickV
+- [getAlby v1.1.0](https://github.com/getAlby/lightning-browser-extension/releases/tag/v1.1.0) - LNURLpay support
 - [lightning-jet v1.1.0](https://github.com/itsneski/lightning-jet/releases/tag/v1.1.0-full-profitability) - enforceProfitability setting for circular rebalances
 - [lightning-terminal v0.6.1-alpha](https://github.com/lightninglabs/lightning-terminal/releases/tag/v0.6.1-alpha) - security fixes
+- [LNURLvend](https://github.com/arcbtc/LNURLVend) - offline bitcoin vending machine
 - [SimpleBitcoinWallet v2.4.22](https://github.com/btcontract/wallet/releases/tag/2.4.22) - taproot support
 - [sparrow v1.5.3](https://github.com/sparrowwallet/sparrow/releases/tag/1.5.3) - two person coinjoins, pay to paynm via payjoin, more
 - [zeus v0.6.0-alpha4](https://github.com/ZeusLN/zeus/releases/tag/v0.6.0-alpha4) - LNURL-auth and LNURL Pay support,lnd coin control and AMP support 
@@ -128,7 +151,6 @@ refreshments and event space.
 - [Announcing the New Lightning Terminal: From Pleb to Web!](https://lightning.engineering/posts/2021-11-30-lightning-terminal/)
 - [Bitcoin L2 protocols](https://gist.github.com/RubenSomsen/96505e99dc061d6af6b757ff74434e70)
 - [Bitcoin whitepaper translated into Shona, Swahili, Chewa, Hausa, Arabic, Zulu, and Lingala](https://twitter.com/Exonumia280/status/1468612309664690176)
-- [bLIP repository created](https://github.com/lightning/blips/commit/ed194a1f0da2d6ceabec11af7f745e31824f66b4)
 - [CardCoins announces Lightning support](https://twitter.com/cardcoinsco/status/1471162591229657095)
 - [Channel jamming test, round 2](https://twitter.com/joostjgr/status/1470489257693388802)
 - [Chainalysis Launches Support for Lightning Network as Layer 2 Payment Protocol Gains Popularity](https://blog.chainalysis.com/reports/lightning-network-support/)
@@ -138,6 +160,7 @@ refreshments and event space.
 - [John Newbery stepping away from Bitcoin Core development](https://twitter.com/jfnewbery/status/1469360266227990532)
 - [JoinMarket Vs. ZeroLink And The Road To Decentralized Bitcoin Privacy Through CoinJoin](https://bitcoinmagazine.com/technical/joinmarket-zerolink-and-coinjoin-bitcoin-mixing)
 - [Jeremy Rubin's Bitcoin Advent Calendar](https://rubin.io/bitcoin/2021/11/28/advent-1/)
+- [Let's Go Dutch! - Split your bill via Bitcoin Lightning](https://goingdutch.pm/)
 - [Lightning is Getting Taprooty Scriptless-Scripty](https://github.com/t-bast/lightning-docs/blob/570b82f21889e121fb54e02f59b93f36cc28d401/taproot-updates.md)
 - [Lightning Node Connect: A Technical Deep Dive](https://lightning.engineering/posts/2021-11-30-lightning-node-connect-deep-dive/)
 - [Lightning privacy: from Zero to Hero](https://github.com/t-bast/lightning-docs/blob/master/lightning-privacy.md)
@@ -152,23 +175,3 @@ refreshments and event space.
 - [Proof-of-Stake and Stablecoins: A Blockchain Centralization Dilemma](https://www.lynalden.com/proof-of-stake/)
 - [SNARKS/STARKS for Bitcoin](https://twitter.com/SomsenRuben/status/1470846933979774980)
 - [The curious case of the Bitcoin Lightning Network and the algorithmic trader](https://kollider.medium.com/the-curious-case-of-the-bitcoin-lightning-network-and-the-algorithmic-trader-1bce3ce03c21)
-
-
-https://github.com/lightningnetwork/lnd/pull/6075
-https://github.com/lightningnetwork/lnd/pull/6068
-https://github.com/lightningnetwork/lnd/issues/6070
-https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-December/003377.html
-https://github.com/ACINQ/eclair/pull/2061
-https://github.com/ElementsProject/lightning/pull/4829
-https://github.com/ElementsProject/lightning/pull/4921
-https://github.com/lightningdevkit/rust-lightning/pull/1163
-https://github.com/lightningnetwork/lnd/pull/6027
-https://github.com/ElementsProject/lightning/pull/4959
-https://twitter.com/arcbtc/status/1470541850566090757
-https://github.com/arcbtc/LNURLVend
-https://www.coindesk.com/layer2/culture-week/2021/12/15/mobile-bitcoin-gaming-is-powering-up-on-lightning/
-https://twitter.com/getAlby/status/1468503320369287172
-https://goingdutch.pm
-https://twitter.com/spiralbtc/status/1466159025276571652
-https://twitter.com/glassnode/status/1468354456769089536
-https://github.com/spesmilo/electrum/pull/7573
