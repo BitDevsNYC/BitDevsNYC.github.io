@@ -97,7 +97,7 @@ refreshments and event space.
 - [funding: always send a channel type in explicit mode](https://github.com/lightningnetwork/lnd/pull/6075)
 - [funding: ensure a local funding w/ explicit type can't be downgraded](https://github.com/lightningnetwork/lnd/pull/6027)
 - [routing: fix memory corruption in MC store](https://github.com/lightningnetwork/lnd/pull/6068)
-- [[Feature Request]: Allow interception of cooperative close tx broadcast](https://github.com/lightningnetwork/lnd/issues/6070)
+- [Feature Request: Allow interception of cooperative close tx broadcast](https://github.com/lightningnetwork/lnd/issues/6070)
 
 ### eclair
 
