@@ -19,8 +19,7 @@ refreshments and event space.
 
 #### bitcoin-dev
 
-- [Covenants and capabilities in the UTXO model](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-December/019722.html)
-- [BIP-119 Deployment and Review Workshops](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-December/019719.html)
+- [A fee-bumping model](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-December/019627.html)
 
 #### lightning-dev
 
