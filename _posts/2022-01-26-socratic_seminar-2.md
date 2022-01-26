@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic Seminar 2"
-meetup: https://www.meetup.com/triangle-bitdevs/events/PLACEHOLDER
+meetup: https://www.meetup.com/triangle-bitdevs/events/283217902/
 ---
 
 We will start with introductions, some basic ground rules, and jump into
