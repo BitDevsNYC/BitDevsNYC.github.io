@@ -26,17 +26,6 @@ and 342
 - [On Building Consensus and Speedy Trial](http://r6.ca/blog/20210615T191422Z.html)
 
 
-## Lightning
-
-
-## Privacy
-
-
-
-## Scaling
-
-
-
 ## Miscellaneous
 
 - [CTV bug bounty](https://twitter.com/JeremyRubin/status/1477760236115034113)
