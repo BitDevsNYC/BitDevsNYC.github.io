@@ -122,13 +122,31 @@ refreshments and event space.
 
 ### lnd
 
+- [kvdb+channeldb: speed up graph cache](https://github.com/lightningnetwork/lnd/pull/6111)
+- [Allow remote signer to run without chain backend](https://github.com/lightningnetwork/lnd/pull/6006)
+- [Discovery: resend premature messages when block height reached](https://github.com/lightningnetwork/lnd/pull/6054)
+- [Peer: fix competing connections to the same peer](https://github.com/lightningnetwork/lnd/pull/6082)
+- [htlcswitch: add htlc interceptor failure control](https://github.com/lightningnetwork/lnd/pull/6177)
+- [Allow remote signer to run without chain backend](https://github.com/lightningnetwork/lnd/pull/6006)
+
 ### eclair
+
+- [Activate onion messages](https://github.com/ACINQ/eclair/pull/2133)
+- [Add message relay policies](https://github.com/ACINQ/eclair/pull/2099)
 
 ### c-lightning
 
+- [DNS: only allow one DNS announcement](https://github.com/ElementsProject/lightning/pull/4996)
+- [DNS: handling Websocket fix](https://github.com/ElementsProject/lightning/pull/4945)
+
 ### rust-lightning
 
+- [Stop storing pending inbound payment data; instead make it derivable on receive](https://github.com/lightningdevkit/rust-lightning/pull/1177)
+
 ### BOLTs
+
+- [BOLT 1: adds remote address to optional init_tlvs (IP discovery)](https://github.com/lightning/bolts/pull/917)
+- [Really: BOLT 1: introduce warning messages, reduce requirements to send (hard) errors](https://github.com/lightning/bolts/pull/950)
 
 ## New Releases
 
@@ -172,3 +190,4 @@ refreshments and event space.
 - [Schnorr basics ](https://bitcoin-dev.blog/blog/schnorr-basics/)
 - [Taproot funds burned on the bitcoin blockchain](https://suredbits.com/taproot-funds-burned-on-the-bitcoin-blockchain/)
 - [What is a BOLT?](https://simplelightning.com/what-is-a-bolt-what-is-a-blip.html)
+- [Hosted Channels RFC](https://github.com/btcontract/hosted-channels-rfc)
