@@ -58,7 +58,7 @@ refreshments and event space.
 
 ### Optech
 
-- [Newsletter #180](https://bitcoinops.org/en/newsletters/2022/12-22/)
+- [Newsletter #180](https://bitcoinops.org/en/newsletters/2022/12/22/)
 - [Newsletter #181](https://bitcoinops.org/en/newsletters/2022/01/05/)
 - [Newsletter #182](https://bitcoinops.org/en/newsletters/2022/01/12/)
 - [Newsletter #183](https://bitcoinops.org/en/newsletters/2022/01/19/)
