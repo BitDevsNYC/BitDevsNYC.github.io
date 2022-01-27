@@ -66,16 +66,24 @@ refreshments and event space.
 
 ## Network Data
 
+- [29% of multisig inputs are now native segwit](https://twitter.com/murchandamus/status/1484934953225924611)
 - [90% of total Bitcoin supply mined](https://compassmining.io/education/90-percent-bitcoin-supply-mined/)
 - [Benchmarks for full index Electrum server implementations](https://sparrowwallet.com/docs/server-performance.html)
-- [Ethereum Mining's Year In Six Charts](https://compassmining.io/education/ethereum-minings-year-in-six-charts/)
+- [Bitcoin 2021 Annual Review](https://blog.lopp.net/bitcoin-2021-annual-review/)
+- [Bitcoin address reuse on the rise](https://twitter.com/lopp/status/1476572654358319112)
 - [Bitcoin hashrate hits all time high](https://www.coindesk.com/tech/2022/01/21/bitcoin-mining-difficulty-sets-new-all-time-high/)
+- [Bitfeed visualizer](https://bits.monospace.live/)
+- [Ethereum Mining's Year In Six Charts](https://compassmining.io/education/ethereum-minings-year-in-six-charts/)
 - [How much of Bitcoin’s hashrate comes from S9 machines?](https://compassmining.io/education/bitcoin-hashrate-percentage-s9-asic/)
+- LNBig 24 hour stats - [12/19/22](https://twitter.com/lnbig_com/status/1472769491830550534), [1/16/22](https://twitter.com/lnbig_com/status/1482861289990938635)
+- [Liquidity Advertisements Marketplace](https://lnrouter.app/liquidity-ads)
+- [Taproot adoption](https://txstats.com/dashboard/db/taproot-statistics?orgId=1)
+- [Yalls.org revenues](https://twitter.com/alexbosworth/status/1476946257939628035)
 
 ### Research
 
 - [A Centrality Analysis of the Lightning Network](https://arxiv.org/abs/2201.07746)
-- [Analysis and Probing of Parallel Channels in the Lightning Network (REVISED)](https://eprint.iacr.org/2021/384)
+- [Analysis and Probing of Parallel Channels in the Lightning Network (REVISED)](https://eprint.iacr.org/2021/384), [blog post](https://s-tikhomirov.github.io/lightning-probing-2/)
 - [Attack of the Clones: Measuring the Maintainability, Originality and Security of Bitcoin 'Forks' in the Wild](https://arxiv.org/abs/2201.08678)
 - [Broken Proofs of Solvency in Blockchain Custodial Wallets and Exchanges](https://eprint.iacr.org/2022/043)
 - [Efficient and Post-Quantum Zero-Knowledge Proofs for Blockchain Confidential Transaction Protocols](https://eprint.iacr.org/2021/1674)
@@ -98,13 +106,17 @@ refreshments and event space.
 
 - [$1.75 million stolen from Bent Finance](https://bentfi.medium.com/we-got-bent-how-we-got-exploited-and-recovered-stronger-1ebdeb44c5d7)
 - [Arbix Finance rug pulls $10 million](https://www.bleepingcomputer.com/news/security/crypto-platform-arbix-flagged-as-a-rugpull-transfers-10-million/)
-- [Crypto.com hacked, $34 million stolen](https://www.bleepingcomputer.com/news/security/cryptocom-confirms-483-accounts-hacked-34-million-withdrawn/)
-- [Vulnerabilities found in Shamir Secret Sharing implementation in Binance's tss-lib](https://blog.trailofbits.com/2021/12/21/disclosing-shamirs-secret-sharing-vulnerabilities-and-announcing-zkdocs/)
+- [Crypto.com hacked, $34 million stolen](https://www.bleepingcomputer.com/news/security/cryptocom-confirms-483-accounts-hacked-34-million-withdrawn/), [funds flow](https://twitter.com/ErgoBTC/status/1483540849434763264)
+- [Does airgap make Bitcoin hardware wallets more secure?](https://shiftcrypto.ch/blog/does-airgap-make-bitcoin-hardware-wallets-more-secure/)
+- [Flaws in Ethereum's EIP-1559](https://medium.com/iovlabs-innovation-stories/flaws-in-ethereums-eip-1559-c0f91838ce23)
+- [Google disrupts Glupteba botnet (that leverages Bitcoin for C&C)](https://blog.google/threat-analysis-group/disrupting-glupteba-operation/) 
 - [Grim Finance drained of $30 million](https://rekt.news/grim-finance-rekt/)
 - [Intel deprecating SGX in Rocket Lake processors](https://www.bleepingcomputer.com/news/security/new-intel-chips-wont-play-blu-ray-disks-due-to-sgx-deprecation/)
 - [Large bounty for finding flaw in CTV](https://twitter.com/JeremyRubin/status/1477760236115034113)
 - [LCX hot wallet drained of $7.4 million](https://www.lcx.com/hot-wallet-incident-report/)
 - [NY Man Pleads Guilty in $20 Million SIM Swap Theft](https://krebsonsecurity.com/2021/12/ny-man-pleads-guilty-in-20-million-sim-swap-theft/)
+- [Polygon has 55 block reorg](https://polygonscan.com/block/23018756/f)
+- [Vulnerabilities found in Shamir Secret Sharing implementation in Binance's tss-lib](https://blog.trailofbits.com/2021/12/21/disclosing-shamirs-secret-sharing-vulnerabilities-and-announcing-zkdocs/)
 
 ## Pull Requests and repo updates
 
@@ -119,6 +131,10 @@ refreshments and event space.
 
 - [PSBT BIP32 keys using to Secp256k1 keys instead of bitcoin ECDSA](https://github.com/rust-bitcoin/rust-bitcoin/pull/591)
 - [Taproot tweaks generalization & KeyPair support](https://github.com/rust-bitcoin/rust-bitcoin/pull/696)
+
+### secp256k1-zkp
+
+- [Replace MuSig(1) module with MuSig2](https://github.com/ElementsProject/secp256k1-zkp/pull/131)
 
 ### lnd
 
@@ -153,6 +169,7 @@ refreshments and event space.
 - [getAlby v1.4.0](https://github.com/getAlby/lightning-browser-extension/releases/tag/v1.4.0) - eclair connector
 - [ledger-live-desktop v2.37.0](https://github.com/LedgerHQ/ledger-live-desktop/releases/tag/v2.37.0) - taproot support
 - [mempool v2.3.0](https://github.com/mempool/mempool/releases/tag/v2.3.0) - new designs, taproot support, more
+- [rust-bip47](https://github.com/rust-bitcoin/rust-bip47)
 - [rust-bitcoin v0.28.0-rc1](https://github.com/rust-bitcoin/rust-bitcoin/releases/tag/0.28.0-rc1) - taproot support, more
 - [rust-lightning v0.0.104](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.104) - api updates
 - [RTL v0.12.0-beta](https://github.com/Ride-The-Lightning/RTL/releases/tag/v0.12.0) - BOLT 12 support
@@ -175,19 +192,30 @@ refreshments and event space.
 
 ## Miscellaneous
 
+- [A brief history of Craig Wright's false claims to own the @1FeexV6 Bitcoin address](https://twitter.com/wizsecurity/status/1472305029612961792)
+- [Andrew Chow's first merge as maintainer](https://twitter.com/achow101/status/1473028680775606273)
+- [Apply for Summer of Bitcoin 2022](https://www.summerofbitcoin.org/apply)
+- [Bitcoin-flavored cryptography challenges](https://twitter.com/robot__dreams/status/1479518204036669441)
+- [BitcoinPy](https://bitcoinpy.dev/)
+- [Board AO: circuit board dedicated to enabling the Distributed Charge, powered by Lightning](http://andyschroder.com/DistributedCharge/BoardA0/Overview/)
 - [Blockstream announces sponsorship of mempool.space](https://blog.blockstream.com/blockstream-reaffirms-its-commitment-to-foss-with-sponsorship-of-the-mempool-open-source-project/#)
 - [BOLT 11: How to Pay People on Lightning](https://simplelightning.com/bolt-11-how-to-pay-people-with-lightning.html)
 - [Checking Ethereum's Total Supply](https://blog.bitmex.com/checking-ethereums-total-supply/)
 - [How to claim the 1BTC “Stable Channel” Bounty from HRF and Strike](https://suredbits.com/how-to-claim-the-1btc-stable-channel-bounty-from-hrf-and-strike/)
 - [HRF Gifts 4.25 BTC To Bitcoin Projects](https://bitcoinmagazine.com/business/hrf-gifts-4-bitcoin-to-bitcoin-projects)
 - [HRF, Strike to Launch 3 Lightning Bounties of 1 BTC](https://bitcoinmagazine.com/business/hrf-strike-launch-lightning-bounty-in-bitcoin)
-- [Is it possible to convert a taproot address into a native segwit address? (Binance mistakenly burns funds)](https://bitcoin.stackexchange.com/questions/111440/is-it-possible-to-convert-a-taproot-address-into-a-native-segwit-address)
+- [Is it possible to convert a taproot address into a native segwit address? (Binance mistakenly burns funds)](https://bitcoin.stackexchange.com/questions/111440/is-it-possible-to-convert-a-taproot-address-into-a-native-segwit-address), [more info](https://twitter.com/murchandamus/status/1475120106695008260)
 - [Lightning Lights Up LatAm: The El Salvador Experience](https://lightninglabs.substack.com/p/lightning-lights-up-latam-the-el)
 - [Lightning Pool Update: Costs Go Down, Profits Go Up](https://lightning.engineering/posts/2021-12-16-pool-prod-update/)
+- [miniscript.fun - visual policy-to-miniscript converter](https://miniscript.fun)
 - [Mobile Bitcoin Gaming Is Powering Up on Lightning](https://www.coindesk.com/layer2/culture-week/2021/12/15/mobile-bitcoin-gaming-is-powering-up-on-lightning/)
+- [Moxie's first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
+- [Musig2: Multisig with Schnorr](https://popeller.io/schnorr-musig2)
 - [NFC and Coldcard Mk4](https://raw.githubusercontent.com/Coldcard/firmware/master/docs/nfc-coldcard.md)
+- [PSET: Constructing Confidential Transactions](https://medium.com/blockstream/pset-constructing-confidential-transactions-437109bb4ac5)
 - [Reusable taproot addresses](https://gist.github.com/Kixunil/0ddb3a9cdec33342b97431e438252c0a)
 - [Schnorr basics ](https://bitcoin-dev.blog/blog/schnorr-basics/)
 - [Taproot funds burned on the bitcoin blockchain](https://suredbits.com/taproot-funds-burned-on-the-bitcoin-blockchain/)
+- [Threshold MuSig](https://github.com/ElementsProject/scriptless-scripts/blob/b39355fe8854e542c5c00939942f460b265d37d8/md/thresh-metr.md)
 - [What is a BOLT?](https://simplelightning.com/what-is-a-bolt-what-is-a-blip.html)
 - [Hosted Channels RFC](https://github.com/btcontract/hosted-channels-rfc)
