@@ -6,8 +6,8 @@ meetup: https://www.meetup.com/triangle-bitdevs/events/PLACEHOLDER
 ---
 
 We will start with introductions, some basic ground rules, and jump into
-technical discussions. We will cover recent news and technical
-developments
+technical discussions. We will cover aspects of the bitcoin protocol,
+recent news, and technical developments.
 
 
 ## Bitcoin Protocol
