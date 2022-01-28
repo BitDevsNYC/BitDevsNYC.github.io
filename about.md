@@ -7,7 +7,7 @@ the research and development of Bitcoin and related protocols. You can be well
 versed with or new to the topics, all are welcome. Be advised: discussion will
 be technical.
 
-This meetup is the Raleigh/Durham chapter of [BitDevs in NYC](www.bitdevs.org).
+This meetup is the Raleigh/Durham chapter of [BitDevs in NYC](https://bitdevs.org).
 
 ### Socratic Seminars
 
