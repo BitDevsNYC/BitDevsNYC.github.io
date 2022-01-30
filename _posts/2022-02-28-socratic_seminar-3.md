@@ -14,7 +14,7 @@ recent news, and technical developments.
 
 - [BIP 173 Bech32 address format](https://btctranscripts.com/sf-bitcoin-meetup/2017-03-29-new-address-type-for-segwit-addresses/)
 - [BIP 32 HD Wallets](https://learnmeabitcoin.com/technical/hd-wallets)
-
+- [Bitcoin Eclipse Attacks](https://inthemesh.com/archive/bitcoin-eclipse-attacks/)
 
 ## Lightning
 
@@ -29,6 +29,7 @@ recent news, and technical developments.
 
 - [Seed Signer: DIY hardware wallet](https://seedsigner.com/)
 - [The dos and don'ts of Bitcoin key management](https://blog.keys.casa/the-dos-and-donts-of-bitcoin-key-management/)
+- [Bandwidth-Efficient Transaction Relay in Bitcoin](https://arxiv.org/pdf/1905.10518v2.pdf)
 
 
 ## Scaling
