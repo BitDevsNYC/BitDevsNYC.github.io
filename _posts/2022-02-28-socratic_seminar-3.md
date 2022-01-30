@@ -12,7 +12,7 @@ recent news, and technical developments.
 
 ## Bitcoin Protocol
 
-- [BIP 173 Bech32](https://btctranscripts.com/sf-bitcoin-meetup/2017-03-29-new-address-type-for-segwit-addresses/)
+- [BIP 173 Bech32 address format](https://btctranscripts.com/sf-bitcoin-meetup/2017-03-29-new-address-type-for-segwit-addresses/)
 - [BIP 32 HD Wallets](https://learnmeabitcoin.com/technical/hd-wallets)
 
 
@@ -22,6 +22,7 @@ recent news, and technical developments.
 ## Privacy
 
 - [Sparrow, Blue Wallet, Trezor removing AOPP support](https://twitter.com/SamouraiWallet/status/1487096159990685704)
+- [Binance KYC Data Leak](https://www.coindesk.com/markets/2019/08/07/binance-customer-data-has-leaked-what-we-know-and-what-we-dont/)
 
 
 ## Security
@@ -32,6 +33,17 @@ recent news, and technical developments.
 ## Scaling
 
 
-## Miscellaneous
+## Energy
+
+
+## Legal
 
 - [Bitcoin Legal Defense Fund](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019741.html)
+- [Peter Van Valkenburgh Interview](https://www.law.nyu.edu/news/peter-van-valkenburgh-cryptocurrency-regulation)
+- [New bill would hand Treasury blank check to ban crypto at exchanges](https://www.coincenter.org/new-bill-would-hand-treasury-blank-check-to-ban-crypto-at-exchanges/)
+
+
+## Miscellaneous
+
+- [bitcoin v23.0 to support Apple silicon binaries](https://twitter.com/pwuille/status/1487099889385361409)
+- [UTXO.live](https://utxo.live/)
