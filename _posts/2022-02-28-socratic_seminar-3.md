@@ -28,6 +28,7 @@ recent news, and technical developments.
 ## Security
 
 - [Seed Signer: DIY hardware wallet](https://seedsigner.com/)
+- [The dos and don'ts of Bitcoin key management](https://blog.keys.casa/the-dos-and-donts-of-bitcoin-key-management/)
 
 
 ## Scaling
