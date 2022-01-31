@@ -49,3 +49,4 @@ recent news, and technical developments.
 
 - [bitcoin v23.0 to support Apple silicon binaries](https://twitter.com/pwuille/status/1487099889385361409)
 - [UTXO.live](https://utxo.live/)
+- [MicroStrategy stores its btc in 2 single sig addresses](https://twitter.com/benthecarman/status/1478139308083236867)
