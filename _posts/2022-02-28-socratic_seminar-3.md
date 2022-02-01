@@ -18,6 +18,8 @@ recent news, and technical developments.
 
 ## Lightning
 
+- [Eclair v0.7.0](https://github.com/ACINQ/eclair/blob/master/docs/release-notes/eclair-v0.7.0.md)
+
 
 ## Privacy
 
@@ -43,6 +45,7 @@ recent news, and technical developments.
 - [Bitcoin Legal Defense Fund](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019741.html)
 - [Peter Van Valkenburgh Interview](https://www.law.nyu.edu/news/peter-van-valkenburgh-cryptocurrency-regulation)
 - [New bill would hand Treasury blank check to ban crypto at exchanges](https://www.coincenter.org/new-bill-would-hand-treasury-blank-check-to-ban-crypto-at-exchanges/)
+- [COMPETES act manager's amendment](https://twitter.com/jerrybrito/status/1488207574113603589)
 
 
 ## Miscellaneous
