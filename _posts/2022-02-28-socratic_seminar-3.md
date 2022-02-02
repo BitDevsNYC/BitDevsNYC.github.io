@@ -40,6 +40,8 @@ recent news, and technical developments.
 
 ## Energy
 
+- [Coinshares Research: The Bitcoin Mining Network](https://coinshares.com/research/bitcoin-mining-network-2022)
+
 
 ## Legal
 
