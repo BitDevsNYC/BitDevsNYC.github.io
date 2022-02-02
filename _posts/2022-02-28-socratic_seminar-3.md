@@ -14,7 +14,8 @@ recent news, and technical developments.
 
 - [BIP 173 Bech32 address format](https://btctranscripts.com/sf-bitcoin-meetup/2017-03-29-new-address-type-for-segwit-addresses/)
 - [BIP 32 HD Wallets](https://learnmeabitcoin.com/technical/hd-wallets)
-- [Bitcoin Eclipse Attacks](https://inthemesh.com/archive/bitcoin-eclipse-attacks/)
+- [AddrMan and Eclipse Attacks](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/Addrman-and-eclipse-attacks)
+
 
 ## Lightning
 
@@ -46,10 +47,14 @@ recent news, and technical developments.
 - [Peter Van Valkenburgh Interview](https://www.law.nyu.edu/news/peter-van-valkenburgh-cryptocurrency-regulation)
 - [New bill would hand Treasury blank check to ban crypto at exchanges](https://www.coincenter.org/new-bill-would-hand-treasury-blank-check-to-ban-crypto-at-exchanges/)
 - [COMPETES act manager's amendment](https://twitter.com/jerrybrito/status/1488207574113603589)
+- [Legal Contract Specifies Block Height](https://twitter.com/JuricaBulovic/status/1488540196064964610)
 
 
 ## Miscellaneous
 
-- [bitcoin v23.0 to support Apple silicon binaries](https://twitter.com/pwuille/status/1487099889385361409)
 - [UTXO.live](https://utxo.live/)
+- [bitcoin v23.0 to support Apple silicon binaries](https://twitter.com/pwuille/status/1487099889385361409)
 - [MicroStrategy stores its btc in 2 single sig addresses](https://twitter.com/benthecarman/status/1478139308083236867)
+- [Specter Wallet v1.8.0](https://twitter.com/SpecterWallet/status/1488510470378172422)
+- [bitcoind aims to replace Boost dependency with std::filesystem in v23.0](https://twitter.com/fanquake/status/1488498362966233089)
+- [CTV dramatically improves DLCs](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019808.html)
