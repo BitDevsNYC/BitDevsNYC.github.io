@@ -41,6 +41,7 @@ recent news, and technical developments.
 ## Energy
 
 - [Coinshares Research: The Bitcoin Mining Network](https://coinshares.com/research/bitcoin-mining-network-2022)
+- [TX Bitcoin Miners Demand Response](https://twitter.com/Nathannichols/status/1488984170076393472)
 
 
 ## Legal
@@ -60,3 +61,4 @@ recent news, and technical developments.
 - [Specter Wallet v1.8.0](https://twitter.com/SpecterWallet/status/1488510470378172422)
 - [bitcoind aims to replace Boost dependency with std::filesystem in v23.0](https://twitter.com/fanquake/status/1488498362966233089)
 - [CTV dramatically improves DLCs](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019808.html)
+- [Hash Collision Bounty from 2013](https://bitcointalk.org/index.php?topic=293382.0)
