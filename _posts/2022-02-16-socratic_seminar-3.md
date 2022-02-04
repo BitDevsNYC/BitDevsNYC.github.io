@@ -22,6 +22,7 @@ recent news, and technical developments.
 - [Eclair v0.7.0](https://github.com/ACINQ/eclair/blob/master/docs/release-notes/eclair-v0.7.0.md)
 - [LDK merges probabilistic channel scoring](https://github.com/lightningdevkit/rust-lightning/pull/1227)
 - [LND v0.14.2](https://github.com/lightningnetwork/lnd/releases/tag/v0.14.2-beta)
+- [Hosted Channels RFC](https://github.com/btcontract/hosted-channels-rfc)
 
 
 ## Privacy
@@ -70,3 +71,5 @@ recent news, and technical developments.
 - [How To Get The Most From In-Person Bitcoin Events](https://bitcoinmagazine.com/industry-events/getting-the-most-from-bitcoin-events)
 - [BTCPay Server v1.4.0](https://blog.btcpayserver.org/btcpay-server-1-4-0/)
 - [Was Bitcoin 0.3.7 actually hard-forking?](https://bitcoin.stackexchange.com/questions/111673/was-bitcoin-0-3-7-actually-hard-forking)
+- [MuSig2: Multisig with Schnorr](https://popeller.io/schnorr-musig2)
+- [Taproot funds burned on the bitcoin blockchain](https://suredbits.com/taproot-funds-burned-on-the-bitcoin-blockchain/)
