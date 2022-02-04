@@ -15,6 +15,7 @@ recent news, and technical developments.
 - [BIP 173 Bech32 address format](https://btctranscripts.com/sf-bitcoin-meetup/2017-03-29-new-address-type-for-segwit-addresses/)
 - [BIP 32 HD Wallets](https://learnmeabitcoin.com/technical/hd-wallets)
 - [AddrMan and Eclipse Attacks](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/Addrman-and-eclipse-attacks)
+- [A Primer on ECC](https://arstechnica.com/information-technology/2013/10/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
 
 
 ## Lightning
@@ -56,6 +57,7 @@ recent news, and technical developments.
 - [New bill would hand Treasury blank check to ban crypto at exchanges](https://www.coincenter.org/new-bill-would-hand-treasury-blank-check-to-ban-crypto-at-exchanges/)
 - [COMPETES act manager's amendment](https://twitter.com/jerrybrito/status/1488207574113603589)
 - [Legal Contract Specifies Block Height](https://twitter.com/JuricaBulovic/status/1488540196064964610)
+- [Tezos Staker Sues IRS for Tax Clarity](https://twitter.com/nohardforks/status/1489222500848484354)
 
 
 ## Miscellaneous
