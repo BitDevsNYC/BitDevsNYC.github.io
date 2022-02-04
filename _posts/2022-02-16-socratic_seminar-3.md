@@ -20,6 +20,8 @@ recent news, and technical developments.
 ## Lightning
 
 - [Eclair v0.7.0](https://github.com/ACINQ/eclair/blob/master/docs/release-notes/eclair-v0.7.0.md)
+- [LDK merges probabilistic channel scoring](https://github.com/lightningdevkit/rust-lightning/pull/1227)
+- [LND v0.14.2](https://github.com/lightningnetwork/lnd/releases/tag/v0.14.2-beta)
 
 
 ## Privacy
@@ -42,6 +44,8 @@ recent news, and technical developments.
 
 - [Coinshares Research: The Bitcoin Mining Network](https://coinshares.com/research/bitcoin-mining-network-2022)
 - [TX Bitcoin Miners Demand Response](https://twitter.com/Nathannichols/status/1488984170076393472)
+- [BTC Energy Consumption Compared to Gold and Banks](https://www.nasdaq.com/articles/research%3A-bitcoin-consumes-less-than-half-the-energy-of-the-banking-or-gold-industries)
+- [Home mining/heating rig numbers](https://twitter.com/DaddyBTC_pleb/status/1488993398891716622)
 
 
 ## Legal
@@ -62,3 +66,7 @@ recent news, and technical developments.
 - [bitcoind aims to replace Boost dependency with std::filesystem in v23.0](https://twitter.com/fanquake/status/1488498362966233089)
 - [CTV dramatically improves DLCs](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019808.html)
 - [Hash Collision Bounty from 2013](https://bitcointalk.org/index.php?topic=293382.0)
+- [New Opcodes proposed in lieu of CTV and ANYPREVOUT](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019813.html)
+- [How To Get The Most From In-Person Bitcoin Events](https://bitcoinmagazine.com/industry-events/getting-the-most-from-bitcoin-events)
+- [BTCPay Server v1.4.0](https://blog.btcpayserver.org/btcpay-server-1-4-0/)
+- [Was Bitcoin 0.3.7 actually hard-forking?](https://bitcoin.stackexchange.com/questions/111673/was-bitcoin-0-3-7-actually-hard-forking)
