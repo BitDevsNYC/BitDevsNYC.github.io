@@ -75,3 +75,4 @@ recent news, and technical developments.
 - [Was Bitcoin 0.3.7 actually hard-forking?](https://bitcoin.stackexchange.com/questions/111673/was-bitcoin-0-3-7-actually-hard-forking)
 - [MuSig2: Multisig with Schnorr](https://popeller.io/schnorr-musig2)
 - [Taproot funds burned on the bitcoin blockchain](https://suredbits.com/taproot-funds-burned-on-the-bitcoin-blockchain/)
+- [Will there be 21 million bitcoins eventually?](https://bitcoin.stackexchange.com/questions/38994/will-there-be-21-million-bitcoins-eventually/38998#38998)
