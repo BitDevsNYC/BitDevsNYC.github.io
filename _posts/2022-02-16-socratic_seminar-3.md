@@ -23,6 +23,7 @@ recent news, and technical developments.
 - [Eclair v0.7.0](https://github.com/ACINQ/eclair/blob/master/docs/release-notes/eclair-v0.7.0.md)
 - [LDK merges probabilistic channel scoring](https://github.com/lightningdevkit/rust-lightning/pull/1227)
 - [LND v0.14.2](https://github.com/lightningnetwork/lnd/releases/tag/v0.14.2-beta)
+- [Cash App Lightning Support](https://twitter.com/CashApp/status/1490767860750336004)
 - [Hosted Channels RFC](https://github.com/btcontract/hosted-channels-rfc)
 
 
