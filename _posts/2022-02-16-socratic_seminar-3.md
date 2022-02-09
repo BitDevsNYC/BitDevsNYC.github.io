@@ -25,6 +25,7 @@ recent news, and technical developments.
 - [LND v0.14.2](https://github.com/lightningnetwork/lnd/releases/tag/v0.14.2-beta)
 - [Cash App Lightning Support](https://twitter.com/CashApp/status/1490767860750336004)
 - [Hosted Channels RFC](https://github.com/btcontract/hosted-channels-rfc)
+- [Sensei: New LDK+BDK Node Implementation](https://l2.technology/sensei)
 
 
 ## Privacy
