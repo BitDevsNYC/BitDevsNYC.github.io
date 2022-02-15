@@ -80,3 +80,4 @@ recent news, and technical developments.
 - [Will there be 21 million bitcoins eventually?](https://bitcoin.stackexchange.com/questions/38994/will-there-be-21-million-bitcoins-eventually/38998#38998)
 - [Feds Recover 94k BTC from 2016 Bitfinex Hack](https://www.coindesk.com/policy/2022/02/08/us-officials-seize-bitcoin-from-2016-bitfinex-hack/)
 - [On-Chain Activity Used to Predict LEA Coin Seizure](https://twitter.com/kenoshaking/status/1491115085049503745)
+- [Murch Mempool Analysis](https://twitter.com/murchandamus/status/1492212197652639754)
