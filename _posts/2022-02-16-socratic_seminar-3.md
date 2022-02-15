@@ -41,9 +41,6 @@ recent news, and technical developments.
 - [Bandwidth-Efficient Transaction Relay in Bitcoin](https://arxiv.org/pdf/1905.10518v2.pdf)
 
 
-## Scaling
-
-
 ## Energy
 
 - [Coinshares Research: The Bitcoin Mining Network](https://coinshares.com/research/bitcoin-mining-network-2022)
