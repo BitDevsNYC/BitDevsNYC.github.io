@@ -79,3 +79,4 @@ recent news, and technical developments.
 - [On-Chain Activity Used to Predict LEA Coin Seizure](https://twitter.com/kenoshaking/status/1491115085049503745)
 - [Murch Mempool Analysis](https://twitter.com/murchandamus/status/1492212197652639754)
 - [Bitcoin Talk Thread Discussing secp256k1](https://bitcointalk.org/?topic=2699.0)
+- [Kraken Announces Proof of Reserves](https://www.kraken.com/proof-of-reserves)
