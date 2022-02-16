@@ -80,3 +80,4 @@ recent news, and technical developments.
 - [Murch Mempool Analysis](https://twitter.com/murchandamus/status/1492212197652639754)
 - [Bitcoin Talk Thread Discussing secp256k1](https://bitcointalk.org/?topic=2699.0)
 - [Kraken Announces Proof of Reserves](https://www.kraken.com/proof-of-reserves)
+- [RCMP Blacklists Trucker Protest Bitcoins](https://bitcoinmagazine.com/markets/canada-rcmp-blacklists-truckers-bitcoin-addresses)
