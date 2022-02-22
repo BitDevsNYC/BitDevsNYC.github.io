@@ -45,13 +45,15 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 - [Bitcoin miners generate $1.17B in January](https://compassmining.io/education/bitcoin-miners-generate-billion-january/)
 - [Chainalysis - The 2022 Crypto
 Crime Report](https://go.chainalysis.com/rs/503-FAP-074/images/Crypto-Crime-Report-2022.pdf)
+- [Is the Bitcoin Network Slowing Down?](https://blog.lopp.net/is-bitcoin-network-slowing-down/)
 - [Lightning Payment Speed 2022](https://blog.lnrouter.app/lightning-payment-speed-2022), [discussion](https://twitter.com/SeverinAlexB/status/1494304122467618822), [more discussion](https://twitter.com/renepickhardt/status/1494314742189543432)
-- [median value of payments routed through LNBIG](https://twitter.com/lnbig_com/status/1489215097797062660)
-- [submarine swap data](https://twitter.com/alexbosworth/status/1486730727324532737)
-- [zero fee routing node routes 6 BTC in one day](https://twitter.com/zerofeerouting/status/1488565755679490051)
 - [Lightning Probing Data](https://twitter.com/fiatjaf/status/1495037429144825860)
+- [median value of payments routed through LNBIG](https://twitter.com/lnbig_com/status/1489215097797062660)
 - [Mempool depth reaches 60 blocks](https://twitter.com/murchandamus/status/1492212197652639754)
 - [Stale block at height 723102](https://forkmonitor.info/stale/btc/723102)
+- [submarine swap data](https://twitter.com/alexbosworth/status/1486730727324532737)
+- [zero fee routing node routes 6 BTC in one day](https://twitter.com/zerofeerouting/status/1488565755679490051)
+
 
 ## Research
 
@@ -69,10 +71,12 @@ Privacy-Preserving Payment Channel Networks](https://eprint.iacr.org/2022/115.pd
 - [The impact of hardware specifications on reaching quantum advantage in the fault tolerant regime](https://avs.scitation.org/doi/10.1116/5.0073075)
 - [The Weighted Bitcoin Lightning Network](https://arxiv.org/abs/2111.13494)
 - [Tree Representation, Growth Rate of Blockchain and Reward Allocation in Ethereum with Multiple Mining Pools](https://arxiv.org/abs/2201.10087)
+- [Trust Dies in Darkness: Shedding Light on Samsung's TrustZone Keymaster Design](https://eprint.iacr.org/2022/208)
 - [Twilight: A Differentially Private Payment Channel Network](https://eprint.iacr.org/2022/136)
 
 ## InfoSec
 
+- [Austrian Programmer And Ex Crypto CEO Likely Stole $11 Billion Of Ether](https://www.forbes.com/sites/laurashin/2022/02/22/exclusive-austrian-programmer-and-ex-crypto-ceo-likely-stole-11-billion-of-ether/?sh=5e68b5f37f58)
 - Bitfinex hack - [the seizure](https://twitter.com/ErgoBTC/status/1488511966910062596), [complaint](https://www.justice.gov/opa/pr/two-arrested-alleged-conspiracy-launder-45-billion-stolen-cryptocurrency), [funds flow1](https://twitter.com/ErgoBTC/status/1492937524037275651), [funds flow2](https://www.elliptic.co/blog/elliptic-analysis-new-york-husband-and-wife-arrested-for-laundering-5-billion-in-bitcoin-stolen-from-bitfinex-in-2016), [clues](https://www.wsj.com/articles/bitcoin-bitfinex-hack-crypto-laundering-morgan-lichtenstein-11644953617)
 - [DEGO Finance drained of $10m](https://degofinance.medium.com/to-dego-community-summary-of-the-event-after-a-thorough-investigation-and-efforts-5315a98d9984)
 - [Elsevier tracking pdf downloads](https://twitter.com/json_dirs/status/1486120144141123584)
@@ -114,6 +118,17 @@ Privacy-Preserving Payment Channel Networks](https://eprint.iacr.org/2022/115.pd
 - [Removed requirement to broadcast an outdated commitment transaction](https://github.com/lightning/bolts/pull/942)
 
 ### New Releases
+
+- [btcpayserver v1.4.5](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.4.5) - CPFP support
+- [eclair v0.7.0](https://github.com/ACINQ/eclair/releases/tag/v0.7.0) - anchor outputs and onion messages
+- [gun.fun v0.6.0](https://github.com/GoUpNumber/gun.fun/releases/tag/v0.6.0) - xpub + PSBT support
+- [joinmarket-clientserver v0.9.5](https://github.com/JoinMarket-Org/joinmarket-clientserver/releases/tag/v0.9.5) - taproot support, more
+- [lightning-jet v1.4.1](https://github.com/itsneski/lightning-jet/releases/tag/v1.4.1-rebalancer-update) - updates to rebalancer logic
+- [lnbits-legend v0.7.0](https://github.com/lnbits/lnbits-legend/releases/tag/0.7.0) - support AES-encrypted macaroons
+- [lnd v0.14.2-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.14.2-beta) - remote signing improvements, important bug fixes
+- [musig-py](https://github.com/meshcollider/musig2-py) - experimental musig2 python implementation
+- [sparrow v1.5.6](https://github.com/sparrowwallet/sparrow/releases) - remove AOPP support
+- [specter-desktop v1.8.0](https://github.com/cryptoadvance/specter-desktop/releases/tag/v1.8.0) - descriptor improvements
 
 ## Events and Podcasts
 
