@@ -209,7 +209,6 @@ Privacy-Preserving Payment Channel Networks](https://eprint.iacr.org/2022/115.pd
 - [Kraken Funds Full-Time Bitcoin Rust Maintainer](https://blog.kraken.com/post/12873/kraken-funds-full-time-bitcoin-rust-maintainer/)
 - [Kraken Proof of Reserves Protocol](https://blog.kraken.com/post/12774/verify-your-bitcoin-and-ether-balances-on-kraken-with-proof-of-reserves/)
 - [Lightning Address for Service Providers](https://zebedeeio.notion.site/Lightning-Address-for-Service-Providers-0deeadc930b94697af919b21e71fe8b1)
-- [Lightning Payment Speed 2022](https://blog.lnrouter.app/lightning-payment-speed-2022)
 - [LNbank Lightning Wallet for BTCPay Server](https://coincharge.io/en/lnbank/)
 - [Thoughts on CashApp’s Lightning user flows](https://d.elor.me/2022/02/thoughts-on-cashapps-lightning-user-flows/)
 - [Thoughts on onion messages in lightning](https://twitter.com/joostjgr/status/1462808539886497799)
