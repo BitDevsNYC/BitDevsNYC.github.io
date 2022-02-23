@@ -126,14 +126,34 @@ Privacy-Preserving Payment Channel Networks](https://eprint.iacr.org/2022/115.pd
 
 ### eclair
 
+- [Eclair 0.7.0](https://github.com/ACINQ/eclair/releases/tag/v0.7.0)
+- [Database migration Sqlite->Postgres](https://github.com/ACINQ/eclair/pull/2156)
+
 ### c-lightning
+
+- [cln-rpc: Oxidizing c-lightning](https://github.com/ElementsProject/lightning/pull/5010)
+- [Database librarization](https://github.com/ElementsProject/lightning/pull/5017)
 
 ### lnd
 
+- [lnd v0.14.2-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.14.2-beta)
+- [loop v0.17.0-beta](https://github.com/lightninglabs/loop/releases/tag/v0.17.0-beta)
+- [channeldb+invoices: create native SQL schema for invoice storage](https://github.com/lightningnetwork/lnd/issues/6288)
+- Taproot/tapscript support improvements: [sending to and receiving from P2TR addresses](https://github.com/lightningnetwork/lnd/issues/6266), [signing RPCs to expose new tapscript+taproot sig types](https://github.com/lightningnetwork/lnd/issues/6267), [update PSBT handling code to support new taproot-specific fields](https://github.com/lightningnetwork/lnd/issues/6268)
+- [lncli addholdinvoice --> invoice is too large](https://github.com/lightningnetwork/lnd/issues/6225)
+- [invoicesrpc: limit first pass of hop hint selection](https://github.com/lightningnetwork/lnd/pull/6236) 
+- [htlcswitch: add an always on mode to htlc interceptor](https://github.com/lightningnetwork/lnd/pull/6232) 
+- [htlcswitch: add htlc interceptor failure control](https://github.com/lightningnetwork/lnd/pull/6177/files)
+- [adds fundmax flag to openchannel](https://github.com/lightningnetwork/lnd/pull/4029)
+- [lndinit: add tool for automated wallet creation](https://github.com/lightningnetwork/lnd/pull/5150)
 - [lnrpc+sweep: properly remove any unconfirmed descendant chains a to-be-swept input is spent](https://github.com/lightningnetwork/lnd/pull/6274)
 - [lnd's development priorities (as it relates to BOLT12)](https://github.com/lightningnetwork/lnd/issues/5594#issuecomment-1042314431)
 
 ### rust-lightning
+
+- [Add support for phantom node payments](https://github.com/lightningdevkit/rust-lightning/pull/1199) 
+- [Support invoice expiry over a year](https://github.com/lightningdevkit/rust-lightning/pull/1273)
+- [Probabilistic channel scoring](https://github.com/lightningdevkit/rust-lightning/pull/1227)
 
 ### BOLTS
 
@@ -182,11 +202,15 @@ Privacy-Preserving Payment Channel Networks](https://eprint.iacr.org/2022/115.pd
 - [Bitcoin Design Guide v2 Launches With Focus on Lightning](https://bitcoinmagazine.com/business/bitcoin-design-guide-v2-launches-with-focus-on-lightning)
 - [BitMEX Supports Sending To Taproot Addresses](https://blog.bitmex.com/bitmex-supports-sending-to-taproot-addresses/)
 - [Canadian RCMP Bitcoin address blacklist](https://twitter.com/nobsbitcoin/status/1493978391099457536)
+- [Cash App Supports Lightning Network](https://twitter.com/CashApp/status/1490767860750336004)
 - [Extracting the Private Key from Schnorr Signatures that reuse a Nonce](https://b10c.me/blog/009-schnorr-nonce-reuse-challenge/)
 - [How To Get The Most From In-Person Bitcoin Events](https://bitcoinmagazine.com/industry-events/getting-the-most-from-bitcoin-events)
+- [Introducing Sensei LN Implementation](https://twitter.com/JohnCantrell97/status/1491135343604957187) [by L2 Technology](https://l2.technology/sensei)
 - [Kraken Funds Full-Time Bitcoin Rust Maintainer](https://blog.kraken.com/post/12873/kraken-funds-full-time-bitcoin-rust-maintainer/)
 - [Kraken Proof of Reserves Protocol](https://blog.kraken.com/post/12774/verify-your-bitcoin-and-ether-balances-on-kraken-with-proof-of-reserves/)
 - [Lightning Address for Service Providers](https://zebedeeio.notion.site/Lightning-Address-for-Service-Providers-0deeadc930b94697af919b21e71fe8b1)
+- [Lightning Payment Speed 2022](https://blog.lnrouter.app/lightning-payment-speed-2022)
+- [LNbank Lightning Wallet for BTCPay Server](https://coincharge.io/en/lnbank/)
 - [Thoughts on CashApp’s Lightning user flows](https://d.elor.me/2022/02/thoughts-on-cashapps-lightning-user-flows/)
 - [Thoughts on onion messages in lightning](https://twitter.com/joostjgr/status/1462808539886497799)
 - [Thoughts on SNARKs for UTXO proofs in lightning](https://twitter.com/TheBlueMatt/status/1494531296189550593)
