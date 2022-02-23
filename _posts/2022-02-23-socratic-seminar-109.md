@@ -8,6 +8,10 @@ meetup: https://www.meetup.com/BitDevsNYC/events/283598877/
 ## Announcements
 Please join us for our next Socratic Seminar. A special thank you to our sponsors [BNY Mellon](https://www.bnymellon.com/), [CardCoins](https://cardcoins.co), [Chaincode Labs](https://chaincode.com) and [ZEBEDEE](https://zebedee.io) for food, refreshments and event space.
 
+## Presentation
+
+- [Stephen DeLorme](https://twitter.com/StephenDeLorme) and [Bitcoin Design](https://bitcoin.design/) Community Members - Design Thinking for Bitcoin Developers
+
 ## Mailing Lists  Bitcoin Optech
 
 ### Mailing Lists
@@ -40,9 +44,8 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 - [Analyzing Bitcoin mining’s energy and carbon impact](https://coinshares.com/research/bitcoin-mining-network-2022)
 - [ASIC price comparison tool](https://btc-utils-fe.herokuapp.com/asics)
-- [Bitocin Address Reu-use Statistics](https://blog.bitmex.com/bitcoin-address-re-use-statistics/)
+- [Bitcoin Address Re-use Statistics](https://blog.bitmex.com/bitcoin-address-re-use-statistics/)
 - [Bitcoin’s Lowest Block Hash Values](https://blog.bitmex.com/bitcoins-lowest-block-hash-values/)
-- [Bitcoin miners generate $1.17B in January](https://compassmining.io/education/bitcoin-miners-generate-billion-january/)
 - [Chainalysis - The 2022 Crypto
 Crime Report](https://go.chainalysis.com/rs/503-FAP-074/images/Crypto-Crime-Report-2022.pdf)
 - [Is the Bitcoin Network Slowing Down?](https://blog.lopp.net/is-bitcoin-network-slowing-down/)
