@@ -35,10 +35,30 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 ### Optech
 
-### Meetings
+- [Newsletter #185](https://bitcoinops.org/en/newsletters/2022/02/02/)
+- [Newsletter #186](https://bitcoinops.org/en/newsletters/2022/02/09/)
+- [Newsletter #187](https://bitcoinops.org/en/newsletters/2022/02/16/)
+- [Newsletter #188](https://bitcoinops.org/en/newsletters/2022/02/23/)
 
-- [summary](https://simplelightning.com/lightning-spec-meeting-1-31-22.html)
-- [summary](https://simplelightning.com/lightning-spec-meeting-02-14-22.html)
+### Meetings
+- Bitcoin PR Review Club
+  - [Libsecp256k1 #748 Add usage examples (math and cryptography)](https://bitcoincore.reviews/libsecp256k1-748)
+  - [24152 CPFP fee bumping within packages (tx fees and policy, validation)](https://bitcoincore.reviews/24152)
+  - [23542 Open p2p connections to nodes that listen on non-default ports (p2p)](https://bitcoincore.reviews/23542)
+  - [24098 Use query parameters to control resource loading (build system, rpc/rest/zmq)](https://bitcoincore.reviews/24098)
+- Bitcoin Core general developer meetings
+  - [January 27th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-01-27.html#l-322)
+  - [February 3rd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-02-03.html#l-268)
+  - [February 10th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-02-10.html#l-335)
+  - [February 17th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-02-17.html#l-301)
+- Bitcoin Core wallet meetings
+  - [January 28th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-01-28.html#l-319)
+  - [February 11th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-02-11.html#l-270)
+- dlc-specs meetings
+  - [February 8th](https://github.com/discreetlogcontracts/dlcspecs/pull/189)
+- Lightning specification meetings
+  - [January 31st](https://simplelightning.com/lightning-spec-meeting-1-31-22.html)
+  - [February 14th](https://simplelightning.com/lightning-spec-meeting-02-14-22.html)
 
 ## Network Data
 
