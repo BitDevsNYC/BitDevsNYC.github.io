@@ -17,6 +17,7 @@ recent news, and technical developments.
 ## Lightning
 
 - [LND Taproot PR](https://github.com/btcsuite/btcd/pull/1787)
+- [\[Lightning-dev\] A Proposal for Adding Bandwidth Metered Payment to Onion Messages](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-February/003498.html)
 
 
 ## Privacy
