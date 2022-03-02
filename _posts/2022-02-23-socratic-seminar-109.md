@@ -87,7 +87,7 @@ Crime Report](https://go.chainalysis.com/rs/503-FAP-074/images/Crypto-Crime-Repo
 - [GMHL: Generalized Multi-Hop Locks for
 Privacy-Preserving Payment Channel Networks](https://eprint.iacr.org/2022/115.pdf)
 - [Hiding payments in lightning network with approximate differentially private payment channels](https://www.sciencedirect.com/science/article/pii/S0167404822000220)
-- [Huors of Horus: Keyless Cryptocurrency Wallets](https://eprint.iacr.org/2021/715)
+- [Hours of Horus: Keyless Cryptocurrency Wallets](https://eprint.iacr.org/2021/715)
 - [Insightful Mining Equilibria](https://arxiv.org/abs/2202.08466)
 - [LightPIR. Privacy-Preserving Route Discovery for Lightning (paper summary and analysis)](https://s-tikhomirov.github.io/lightpir/), [twitter](https://twitter.com/serg_tikhomirov/status/1494032594723299329)
 - [One Bad Apple Spoils the Bunch: Transaction DoS in MimbleWimble Blockchains](https://arxiv.org/abs/2112.13009)
