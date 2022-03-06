@@ -24,6 +24,8 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 - [\[Lightning-dev\] A Proposal for Adding Bandwidth Metered Payment to Onion Messages](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-February/003498.html)
 - [Bosworth: change-channel-capacity tx](https://twitter.com/alexbosworth/status/1495610634737750018?s=20&t=VzKhWLxbY7GYx9lkaKvUgg)
 - [lsat-js library adds Loop support](https://twitter.com/BuckPerley/status/1496512765019762688)
+- [Eclair Mobile wallet enters EOL](https://twitter.com/acinq_co/status/1498669453650931713)
+- [Rusty Russell dispute with LND over spec process participation](https://twitter.com/rusty_twit/status/1496642600371384321)
 
 
 ## Privacy
