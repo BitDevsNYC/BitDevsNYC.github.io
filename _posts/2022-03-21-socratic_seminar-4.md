@@ -1,13 +1,15 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar 4"
+title: "Socratic Seminar 4 "
 meetup: https://www.meetup.com/triangle-bitdevs/events/284445496/
 ---
 
 We will start with introductions, some basic ground rules, and jump into
 technical discussions. We will cover aspects of the bitcoin protocol,
 recent news, and technical developments.
+
+Note: This is a preliminary agenda. It is subject to change before the event date.
 
 
 ## Bitcoin Protocol
