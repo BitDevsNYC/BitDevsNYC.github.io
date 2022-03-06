@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic Seminar 4"
-meetup: https://www.meetup.com/triangle-bitdevs/events/PLACEHOLDER
+meetup: https://www.meetup.com/triangle-bitdevs/events/284445496/
 ---
 
 We will start with introductions, some basic ground rules, and jump into
@@ -27,6 +27,7 @@ recent news, and technical developments.
 ## Security
 
 
+
 ## Scaling
 
 
@@ -37,9 +38,7 @@ recent news, and technical developments.
 
 
 
-## Legal
-
-
-
 ## Miscellaneous
+
+
 
