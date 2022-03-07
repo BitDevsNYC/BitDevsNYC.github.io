@@ -32,6 +32,7 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 
 
 - [PayNyms 101](https://bitcoiner.guide/paynym/)
+- [Teleport Transactions](https://github.com/bitcoin-teleport/teleport-transactions)
 
 
 ## Security
@@ -58,3 +59,4 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 - [Bitcoin Core Performance Evolution](https://blog.lopp.net/bitcoin-core-performance-evolution/)
 - [AssumeValid Security Model Discussion](https://bitcoin.stackexchange.com/questions/88652/does-assumevalid-lower-the-security-of-bitcoin)
 - [BitcoinTalk 2013 thread on perpetual covenants](https://bitcointalk.org/index.php?topic=278122.0)
+- [Recurring subscriptions on bitcoin implemented with DLCs](https://suredbits.com/recurring-subscriptions-on-bitcoin-implemented-with-dlcs/)
