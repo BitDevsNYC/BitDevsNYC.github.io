@@ -34,6 +34,7 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 
 - [PayNyms 101](https://bitcoiner.guide/paynym/)
 - [Teleport Transactions](https://github.com/bitcoin-teleport/teleport-transactions)
+- [Mercury Explorer](https://explorer.mercurywallet.com/)
 
 
 ## Security
