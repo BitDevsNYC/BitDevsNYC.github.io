@@ -5,4 +5,4 @@ menu:
   - {name: 'About', url: '/about'}
   - {name: 'Events', url: '/events'}
   - {name: 'Blog', url: '/blog'}
-  - {name: 'Meetup', url: 'https://www.meetup.com/MiamiBitDevs/', external: true}
+  - {name: 'Meetup', url: 'https://www.meetup.com/Miami-BitDevs/', external: true}
