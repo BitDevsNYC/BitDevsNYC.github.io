@@ -1,4 +1,4 @@
-# BitDevs NYC
+# Miami BitDevs
 
 Simple Jekyll site for hosting all of the links from meetups past and future.
 
@@ -37,5 +37,5 @@ Jekyll injects variables, so be sure to update both.
 
 ## Attributions
 
-Thanks to [LeNPaul](https://github.com/LeNPaul/jekyll-starter-kit) for the
+Thanks to [BitDevsNYC](https://github.com/BitDevsNYC/BitDevsNYC.github.io) for the
 Jekyll starter kit this was forked from.
