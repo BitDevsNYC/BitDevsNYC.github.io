@@ -30,7 +30,7 @@ event or have a recommended topic for discussion: bitdevsnyc at gmail. There
 are different requirements for presentations depending on the nature of the
 project.
 
-### Whitepaper Series
+<!-- ### Whitepaper Series
 
 A journal club to discuss specific topics in the Bitcoin ecosystem. This is an
 academic-style journal club where one person chooses a topic or paper and
@@ -52,4 +52,4 @@ bitdevsnyc at gmail.
 ### Debate Series
 
 Our debate series is dedicated to the investigation of controversial technical
-topics. The structure of the event is dependent on the topic of interest.
+topics. The structure of the event is dependent on the topic of interest. -->
