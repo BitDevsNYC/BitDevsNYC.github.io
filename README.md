@@ -23,7 +23,7 @@ following information:
 layout: post # Always post
 type: socratic # or whitepaper for a whitepaper series
 title: "Name of the Post"
-meetup: https://www.meetup.com/BitDevsNYC/events/[event id here]/
+meetup: https://www.meetup.com/miami-bitdevs/events/[event id here]/
 ---
 ```
 
