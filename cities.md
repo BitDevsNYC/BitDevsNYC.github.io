@@ -8,17 +8,17 @@ Inspired by this very ethos, the BitDevs NYC community fostered an in-person env
 
 Over time, the concept of BitDevs and the associated Socratic Seminar event series have spread to other cities. While the NYC community was first to stumble upon these ideas, it holds no trademark, license, branding or creative direction over the use of these terms. BitDevs, like any piece of open source code with a liberal license, is free for anyone to use and adapt to their local communities. 
 
-If you find yourself traveling and are interested in tapping into a local Bitcoin community, we have put together a list here of meetups which are known to regularly host in-person Socratic Seminars. We hope you are able to attend and leave with a deeper connection to and appreciation for the Bitcoin community. 
+If you find yourself traveling and are interested in tapping into a local Bitcoin community, we have put together a list here of meetups which are known to regularly host in-person [Socratic Seminars](https://bitdevs.org/about). We hope you are able to attend and leave with a deeper connection to and appreciation for the Bitcoin community. 
 
 - [Atlanta](https://atlantabitdevs.org/)
 - [Austin](https://austinbitdevs.com/)
 - [Berlin](https://bitdevs.berlin/)
-- [Chicago](http://chibitdevs.org/)
-- [Denver](https://www.meetup.com/denver-bitdevs/)
+- [Chicago](https://chibitdevs.org/)
+- [Denver](http://denverbitdevs.com/)
 - [Honolulu](http://www.honolulubitdevs.com/)
 - [Los Angeles](https://bitdevsla.org/)
 - [Miami](https://miamibitdevs.org/)
 - [San Francisco](https://www.sfbitcoindevs.org/)
-- [Triangle](trianglebitdevs.org)
+- [Triangle](https://trianglebitdevs.org/)
 
 As a disclaimer, these meetups operate on their own terms. BitDevs NYC has no official associations with or oversight of these meetups. In some cases we have never even spoken to the organizers. An idea, much like a hash function, is one way. If you don't like what you see, feel free to [fork it](https://github.com/BitDevsNYC/BitDevsNYC.github.io/).
