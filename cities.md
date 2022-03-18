@@ -10,15 +10,15 @@ Over time, the concept of BitDevs and the associated Socratic Seminar event seri
 
 If you find yourself traveling and are interested in tapping into a local Bitcoin community, we have put together a list here of meetups which are known to regularly host in-person Socratic Seminars. We hope you are able to attend and leave with a deeper connection to and appreciation for the Bitcoin community. 
 
-[Atlanta](https://atlantabitdevs.org/)
-[Austin](https://austinbitdevs.com/)
-[Berlin](https://bitdevs.berlin/)
-[Chicago](http://chibitdevs.org/)
-[Denver](https://www.meetup.com/denver-bitdevs/)
-[Honolulu](http://www.honolulubitdevs.com/)
-[Los Angeles](https://bitdevsla.org/)
-[Miami](https://miamibitdevs.org/)
-[San Francisco](https://www.sfbitcoindevs.org/)
-[Triangle](trianglebitdevs.org)
+- [Atlanta](https://atlantabitdevs.org/)
+- [Austin](https://austinbitdevs.com/)
+- [Berlin](https://bitdevs.berlin/)
+- [Chicago](http://chibitdevs.org/)
+- [Denver](https://www.meetup.com/denver-bitdevs/)
+- [Honolulu](http://www.honolulubitdevs.com/)
+- [Los Angeles](https://bitdevsla.org/)
+- [Miami](https://miamibitdevs.org/)
+- [San Francisco](https://www.sfbitcoindevs.org/)
+- [Triangle](trianglebitdevs.org)
 
 As a disclaimer, these meetups operate on their own terms. BitDevs NYC has no official associations with or oversight of these meetups. In some cases we have never even spoken to the organizers. An idea, much like a hash function, is one way. If you don't like what you see, feel free to [fork it](https://github.com/BitDevsNYC/BitDevsNYC.github.io/).
