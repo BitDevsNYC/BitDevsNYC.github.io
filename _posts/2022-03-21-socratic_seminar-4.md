@@ -53,6 +53,8 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 ## Energy
 
 
+- [AZ Hodl Home Solar Mining Setup](https://azhodl.com/solarhash/)
+
 
 ## Miscellaneous
 
