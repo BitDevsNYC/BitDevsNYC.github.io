@@ -5,25 +5,25 @@ title: "Contributing to the BitDevs NYC Newsletter"
 permalink: /contributing-to-the-bitdevs-nyc-newsletter/
 ---
 
-## Contributing to BitDevs NYC
+## Contributing to the BitDevs NYC Newsletter
 
-Each month, BitDevs' community members gather and publish materials suitable for discussion at Socratic Seminar meetups around the world. The materials span a wide spectrum, touching on content sourced from mailing lists, code repositories, research papers, forums, blogs, newspapers, IRC logs, data aggregators and more.
+Each month, BitDevs' community members gather and publish materials suitable for discussion at Socratic Seminar meetups [around the world](https://bitdevs.org/cities). The materials span a wide spectrum, touching on content sourced from mailing lists, code repositories, research papers, forums, blogs, newspapers, IRC logs, data aggregators and more.
 
 These newsletters are not only helpful for members who want to prepare for the meetups before hand, but they also act as long running archives that document the work of the wider Bitcoin ecosystem.
 
 Each city has their own unique approach and set of criteria for content inclusion. Some may focus on a specific topic and aggregate links accordingly. Others may take a more local focus to the material they include. At BitDevs NYC, we attempt to gather as much novel, high quality content from the fire hose as possible. 
 
-In the spirit of collaboration, we have put together this guide for those who wish to contribute to our monthly topic list. For those BitDevs organizers who do not have the time to manage their own list, feel free to leverage our content as a means of reducing the overall commitment required to plan and execute a Socratic Seminar in your city. 
+In the spirit of collaboration, we have put together this guide for those who wish to contribute to our monthly topic list. For those organizers who do not have the time to manage their own list, feel free to leverage our content as a means of reducing the overall commitment required to plan and execute a Socratic Seminar in your city. 
 
 These lists are also a way for community members to contribute without taking on organizational duties. Good content is the foundation of a Socratic Seminar. Triaging for high quality material is extremely important work--any city that has contributors should be extremely grateful for their participation. 
 
-In addition to the above comments on collaboration, this write-up is an attempt to document the rules that the BitDevs NYC community has arrived at after 9 years of list publication. These rules have evolved over time and are not always explicitly followed. However, by publishing this document we hope to codify and enforce these rules with as little bias as possible.   
+In addition to the above comments on collaboration, this write-up is an attempt to document the rules that the BitDevs NYC community has arrived at after nearly a decade of list publication. These rules have evolved over time and are not always explicitly followed. By publishing this document we hope to codify and enforce these rules with as little bias as possible.   
 
 Before diving into the various sections of the topic list, there is the broad question of what constitutes "novel, high quality" content. Novelty is self-explanatory: someone (be it a researcher, FOSS contributor, peer reviewer, anonymous community member etc) makes public content that is more than a simple regurgitation or summation of an existing idea. This does not have to be an invention of a new protocol or a significant piece of research, it can be as simple as an email or forum post which points out a flaw in some proposed protocol or piece of code. The reverse is a good example as well: someone finds a novel way to use an existing protocol. 
 
 What constitutes "high quality" content is a foggier target. You can ask yourself: is the content *meaningful* to the broader community? i.e. does it, in theory or in practice, have a measurable impact on the people who build upon and consume services in the Bitcoin ecosystem? If the answer is yes, and the content is technical in nature, it is likely worthy of inclusion! 
 
-By the end of this document you should have a fairly good understanding of our approach to content aggregation and how you can contribute to the list. That said, there is no better way to learn about our curatorial idiosyncrasies than by looking over our most recent newsletters on bitdevs.org.
+By the end of this document you should have a fairly good understanding of our approach to content aggregation and how you can contribute to the list. That said, there is no better way to learn about our curatorial idiosyncrasies than by looking over our most recent newsletters on [bitdevs.org](https://bitdevs.org).
 
 As a necessary disclaimer, content included in our list is not a sign of support or explicit review in any way. The content is for your personal review--you must draw your own conclusions about its quality.
 
@@ -56,7 +56,7 @@ We currently provide regular coverage of the [bitcoin-dev](https://lists.linuxfo
 - Sort the emails chronologically
 - Preserve the original title unless a more descriptive title is required
 - In general, point only to the top level email in a thread except in unique cases where a reply is particularly noteworthy 
-	- If linking to multiple emails in single thread, comma separate any replies and set the link title to the reply's author: (e.g. [New Script Type](), [John Smith's reply](), [Bob Smith's reply]())
+	- If linking to multiple emails in single thread, comma separate any replies and set the link title to the name of the replies author
 
 #### Content Notes
 
@@ -79,7 +79,7 @@ This section is a collection of links to IRC logs, recorded audio/video, transcr
 - Top level sections should be alphabetically ordered by project name
 - Second level links to the meetings should be sorted chronologically 
 - If there is no title to the meeting, set the link text to the date
-- If the meeting has a title, include that in the link text instead of the meeting date (e.g. for the Bitcoin Core PR Review club: [23614 - Add unit test for block-relay-only eviction](LINK))
+- If the meeting has a title, include that in the link text instead of the meeting date
 - If there are additional links relevant to a specific meeting you want to include, comma separate them
 
 #### Content Notes
@@ -88,7 +88,7 @@ This section is a collection of links to IRC logs, recorded audio/video, transcr
 
 ### Optech
 
-This section is a chronologically sorted collection of Optech's newsletter series, blog posts and field reports. 
+This section is a chronologically sorted collection of [Optech's](https://bitcoinops.org/) newsletter series, blog posts and field reports. 
 
 ### Network Data
 
@@ -97,12 +97,12 @@ Content in this section should speak to interesting phenomena occurring in the B
 #### Stylistic Notes
 
 - Sort content alphabetically
-- Do not assume a graph or other data is self-explanatory, provide a meaningful title if one does not already exist
+- Do not assume a graph or other data is self explanatory, provide a meaningful title if one does not already exist
 
 #### Content Notes
 
 - Only include a link to content if the data is novel or there has been a noteworthy change in what is being measured, unless you are simply bringing attention to a new graph/visualizer/data aggregation service 
-- Software benchmarks are allowed in this section if there is no other suitable location.
+- Software benchmarks are allowed in this section if there is no other suitable location
 - Altcoin content is acceptable in some cases, especially when it reflects (either postively or negatively) on the Bitcoin network
 - Go to where the data is, do not be afraid of linking to twitter threads or other discussion forums if someone has interesting data to share
 - The data does not have to be about the network at large, it can be observed phenomena of a single operator in the network
@@ -200,7 +200,7 @@ This section highlights noteworthy pull requests in projects that play a signifi
 
 - Avoid open pull requests wherever possible unless there is an particularly noteworthy ongoing discussion 
 - Open issues are acceptable if they provide novel and useful insights about the project
-- You can link to specific comments in the PR if there is a review comment that you want to highlight with comma separation, setting the link text to the author's username (e.g. [wallet: make bech32m default](LINK), [john's reply](LINK))
+- You can link to specific comments in the PR if there is a review comment that you want to highlight with comma separation, set the link text to the author's username
 - If one of these projects has a new release, link to it in the New Releases section
 - Good candidates for inclusion are *merged* pull requests that: 
 	- Introduce a new feature/are part of a larger project to introduce a new feature
@@ -225,7 +225,7 @@ This section highlights new releases of open source software that is designed fo
 #### Stylistic Notes
 
 - Sort projects alphabetically
-- The link text should be the repository name and the version number, next to which you should *very briefly* mention what is noteworthy about the release. Preserve casing and hyphenations. If the repository name does not reflect the publicly advertised name of the project, do not use it.
+- The link text should be the repository name and the version number, next to which you should *very briefly* mention what is noteworthy about the release. Preserve casing and hyphenations. If the repository name does not reflect the publicly advertised name of the project, do not use it
 
 #### Content Notes
 
@@ -249,14 +249,14 @@ This section is for Bitcoin-focused podcasts, conferences, meetups and other rec
 
 #### Stylistic Notes
 
-- Sort the content alphabetically. 
-- If there are multiple episodes/recordings/transcripts from a single source, sort by episode number or date published. 
+- Sort the content alphabetically 
+- If there are multiple episodes/recordings/transcripts from a single source, sort by episode number or date published
 - If one person is doing a "podcast tour" and is a guest on many podcasts discussing a singular topic of expertise, you can include links to those podcasts on a single line, comma separated 
 
 #### Content Notes
 
 - You are not required to have carefully listened to the entire recording, however please do your best to ensure the content is technically focused and not saturated with misinformation
-- If there are only a few minutes of a video or podcast that is noteworthy, please link to the timestamp in question when possible (otherwise specify it after the link title (e.g. [Bitcoin Podcast Episode 25 - John Smith](LINK) (22:33))
+- If there are only a few minutes of a video or podcast that is noteworthy, please link to the timestamp in question when possible (otherwise specify it after the link text)
 - Try to avoid content recorded with a potato camera/microphone
 - If there is a conference with many good technical talks, link to the full live stream if possible, not to each individual talk 
 
@@ -275,7 +275,7 @@ This section should include content relevant to the mining landscape. The sectio
 	- Documentation of large mining operations 
 	- Implemented regulatory actions that either encourage, discourage or outright ban mining in a specific locale
 	- Analysis of the network's hashrate, including estimates of geographic distribution, hardware popularity, etc.
-	- Natural disasters that impact global hashrate. 
+	- Natural disasters that impact global hashrate 
 
 ### Miscellaneous 
 
@@ -303,4 +303,4 @@ This section is for content that is not suitable for any of the above categories
 
 ## Submitting Content
 
-Ready to contribute? TODO
+Ready to contribute? In the days following a meetup, a pull request will be opened titled "Add socratic XXX." You can leave a comment in this PR with a suggested topic or you can open a PR against that branch. Please only include content that was published following the date of the last meetup unless it was not previously included. 
