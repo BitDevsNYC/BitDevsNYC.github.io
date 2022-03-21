@@ -62,6 +62,5 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 - [Time in Blocks](https://timeinblocks.com/)
 - [Bitfeed v2.2.1 - New Transaction Details View](https://twitter.com/mononautical/status/1502792184701071362)
 - [Sparrow Wallet v1.6.0](https://github.com/sparrowwallet/sparrow/releases/tag/1.6.0)
-- [AssumeValid Security Model Discussion](https://bitcoin.stackexchange.com/questions/88652/does-assumevalid-lower-the-security-of-bitcoin)
 - [BitcoinTalk 2013 thread on perpetual covenants](https://bitcointalk.org/index.php?topic=278122.0)
 - [A History of Bitcoin Transaction Dust & Spam Storms](https://blog.lopp.net/history-bitcoin-transaction-dust-spam-storms/)
