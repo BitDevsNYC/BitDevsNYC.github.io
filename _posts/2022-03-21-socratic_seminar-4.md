@@ -44,12 +44,6 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 - [A Simple CTV Vault Implementation](https://github.com/jamesob/simple-ctv-vault)
 
 
-## Scaling
-
-
-- [CoinPool: efficient off-chain payment pools for Bitcoin](https://coinpool.dev/v0.1.pdf)
-
-
 ## Energy
 
 
