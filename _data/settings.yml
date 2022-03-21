@@ -6,3 +6,4 @@ menu:
   - {name: 'Events', url: '/events'}
   - {name: 'Blog', url: '/blog'}
   - {name: 'Meetup', url: 'https://www.meetup.com/BitDevsNYC/', external: true}
+  - {name: 'Cities', url: '/cities'}
