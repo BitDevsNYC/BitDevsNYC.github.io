@@ -5,8 +5,6 @@ title: "Contributing to the BitDevs NYC Newsletter"
 permalink: /contributing-to-the-bitdevs-nyc-newsletter/
 ---
 
-## Contributing to the BitDevs NYC Newsletter
-
 Each month, BitDevs' community members gather and publish materials suitable for discussion at Socratic Seminar meetups [around the world](https://bitdevs.org/cities). The materials span a wide spectrum, touching on content sourced from mailing lists, code repositories, research papers, forums, blogs, newspapers, IRC logs, data aggregators and more.
 
 These newsletters are not only helpful for members who want to prepare for the meetups before hand, but they also act as long running archives that document the work of the wider Bitcoin ecosystem.
