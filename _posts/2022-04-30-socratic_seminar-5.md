@@ -22,6 +22,7 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 ## Lightning
 
 
+- [Anchor Outputs](https://fanismichalakis.fr/posts/anchor-outputs/)
 
 
 ## Cryptography
