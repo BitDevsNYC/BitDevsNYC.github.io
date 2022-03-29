@@ -35,6 +35,7 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 
 
 - [Teleport Transactions](https://github.com/bitcoin-teleport/teleport-transactions)
+- [Silent Payments](https://gist.github.com/RubenSomsen/c43b79517e7cb701ebf77eec6dbb46b8)
 
 
 ## Security
