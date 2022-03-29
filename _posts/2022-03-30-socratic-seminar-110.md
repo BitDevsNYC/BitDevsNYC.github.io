@@ -14,3 +14,53 @@ A final topic list will be posted on bitdevs.org the evening before the event. Y
 ## Presentation
 
 Ishaana Misra and Autumn Domingo - Generation Bitcoin: Creating the Future of Bitcoin Innovators
+
+## Mailing Lists  Bitcoin Optech
+
+### Mailing Lists
+
+#### bitcoin-dev
+
+#### lightning-dev
+
+#### dlc-dev
+
+### Optech
+
+### Meetings
+
+## Network Data
+
+## Research
+
+## InfoSec
+
+## Pull Requests and repo updates
+
+### Bitcoin Core
+
+### rust-bitcoin
+
+### secp256k1
+
+### secp256k1-zkp
+
+### BIPs
+
+### eclair
+
+### c-lightning
+
+### lnd
+
+### rust-lightning
+
+### BOLTS
+
+### New Releases
+
+## Events and Podcasts
+
+## Mining
+
+## Miscellaneous
