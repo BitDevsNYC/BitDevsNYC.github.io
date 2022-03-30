@@ -7,7 +7,7 @@ meetup: https://www.meetup.com/BitDevsNYC/events/284293838/
 
 ## Announcements
 
-Please join us for our 110th Socratic Seminar. If you can't make it to the main event please join us at [Draught 55](https://www.draught55.com/) for food and merriment around 9:30PM. Thanks to our friends at [BNY Mellon](https://www.bnymellon.com/), [CardCoins](https://cardcoins.co), [Chaincode Labs](https://chaincode.com) and [Zebedee](https://zebedee.io/) for food, refreshments and event space.
+Please join us for our 110th Socratic Seminar. If you can't make it to the main event please join us at [Draught 55](https://www.draught55.com/) for food and merriment around 9:30PM. Thanks to our friends at [BNY Mellon](https://www.bnymellon.com/), [CardCoins](https://cardcoins.co), [Chaincode Labs](https://chaincode.com) and [ZEBEDEE](https://zebedee.io/) for food, refreshments and event space.
 
 A final topic list will be posted on bitdevs.org the evening before the event. You can keep an eye on potential topics through our [link aggregator service](https://www.zotero.org/groups/691739/devsny/collections/CZTCM32M).
 
@@ -98,8 +98,11 @@ Ishaana Misra and Autumn Domingo - Generation Bitcoin: Creating the Future of Bi
 
 ### lnd
 
+- [LND v0.14.3-beta.rc1](https://github.com/lightningnetwork/lnd/tree/v0.14.3-beta.rc1)
 - [Taproot: integrate btcec/v2 and btcwallet changes to support Taproot key spend paths in lnd's wallet](https://github.com/lightningnetwork/lnd/pull/6263)
 - [lnrpc+sweep: properly remove any unconfirmed descendant chains a to-be-swept input is spent](https://github.com/lightningnetwork/lnd/pull/6274)
+- [multi: permit sending to and receiving from P2TR addresses](https://github.com/lightningnetwork/lnd/issues/6266)
+- [htlcswitch: add an always on mode to htlc interceptor](https://github.com/lightningnetwork/lnd/pull/6232)
 
 ### rust-lightning
 
@@ -118,3 +121,8 @@ Ishaana Misra and Autumn Domingo - Generation Bitcoin: Creating the Future of Bi
 ## Mining
 
 ## Miscellaneous
+
+- Shock The Web Hackathon - Day [1](https://www.youtube.com/watch?v=yJ6q7XxBhJY), [2](https://www.youtube.com/watch?v=mx5LI4vPnvo), [3](https://www.youtube.com/watch?v=vVMFSQFkdrc)
+- [ZBD Streamer -> Lightning Streaming Tips](https://twitter.com/zebedeeio/status/1508824660795969536)
+
+
