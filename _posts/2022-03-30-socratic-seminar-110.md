@@ -46,7 +46,32 @@ Ishaana Misra and Autumn Domingo - Generation Bitcoin: Creating the Future of Bi
 
 ### Optech
 
+- [Newsletter #189](https://bitcoinops.org/en/newsletters/2022/03/02/)
+- [Newsletter #190](https://bitcoinops.org/en/newsletters/2022/03/09/)
+- [Newsletter #191](https://bitcoinops.org/en/newsletters/2022/03/16/)
+- [Newsletter #192](https://bitcoinops.org/en/newsletters/2022/03/23/)
+- [Newsletter #193](https://bitcoinops.org/en/newsletters/2022/03/30/)
+
 ### Meetings
+- Bitcoin PR Review Club
+  - [24034 Delete anchors.dat after trying to connect to that peers (p2p)](https://bitcoincore.reviews/24034)
+  - [19602 Migrate legacy wallets to descriptor wallets (wallet, rpc/rest/zmq)](https://bitcoincore.reviews/19602)
+  - [24118 Add 'sendall' RPC née sweep (wallet, rpc)](https://bitcoincore.reviews/24118)
+  - [21778 LLVM 14 & LLD based macOS toolchain (build system)](https://bitcoincore.reviews/21778)
+  - [Testing Bitcoin Core 23.0 Release Candidates (tests)](https://bitcoincore.reviews/v23-rc-testing)
+- Bitcoin Core general developer meetings
+  - [March 3rd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-03-03.html#l-208)
+  - [March 10th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-03-10.html#l-464)
+  - [March 17th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-03-17.html#l-370)
+  - [March 24th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-03-17.html#l-443)
+- Bitcoin Core wallet meetings
+  - [March 11th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-03-11.html#l-390)
+  - [March 25th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-03-25.html#l-359)
+- dlc-specs meetings
+  - [March 8th](https://github.com/discreetlogcontracts/dlcspecs/pull/190)
+- Lightning specification meetings
+  - [February 28th](https://simplelightning.com/lightning-spec-meeting-2-28-22.html)
+  - [March 14th](https://simplelightning.com/lightning-spec-meeting-03-14-22.html)
 
 ## Network Data
 
