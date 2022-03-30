@@ -21,9 +21,28 @@ Ishaana Misra and Autumn Domingo - Generation Bitcoin: Creating the Future of Bi
 
 #### bitcoin-dev
 
+- [`OP_FOLD`: A Looping Construct For Bitcoin SCRIPT](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/020021.html)
+- [Teleport: a CoinSwap implementation alpha release, provides invisible private transactions](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/020026.html)
+- [Recurring bitcoin/LN payments using DLCs](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-March/020035.html), [dlc-dev](https://mailmanlists.org/pipermail/dlc-dev/2022-March/000126.html)
+- [Annex Purpose Discussion: OP_ANNEX, Turing Completeness, and other considerations](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-March/020045.html)
+- [bitcoin scripting and lisp](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-March/020036.html)
+- [CTV vaults in the wild](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-March/020067.html)
+- [OP_AMOUNT Discussion](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-March/020084.html)
+- [Improving RBF Policy](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-March/020095.html)
+- [Covenants and feebumping](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-March/020122.html)
+- [Beyond Jets: Microcode: Consensus-Critical Jets Without Softforks](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-March/020158.html)
+- [mempool transaction witness-replacement](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-March/020167.html)
+- [Silent Payments – Non-interactive private payments with no on-chain overhead](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-March/020180.html)
+
 #### lightning-dev
 
+- [A Proposal for Adding Bandwidth Metered Payment to Onion Messages](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-February/003498.html)
+- [Interesting thing about Offered HTLCs](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-March/003506.html)
+- [Dynamic Commitments Part 2: Taprooty Edition](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-March/003531.html)
+
 #### dlc-dev
+
+- [DLC Messaging and Networking](https://mailmanlists.org/pipermail/dlc-dev/2022-March/000135.html)
 
 ### Optech
 
@@ -39,23 +58,58 @@ Ishaana Misra and Autumn Domingo - Generation Bitcoin: Creating the Future of Bi
 
 ### Bitcoin Core
 
+- [net/net processing: Move tx inventory into net_processing](https://github.com/bitcoin/bitcoin/issues/19398)
+- [net: respect -onlynet= when making outbound connections](https://github.com/bitcoin/bitcoin/pull/22834)
+- [Enforce Taproot script flags whenever WITNESS is set](https://github.com/bitcoin/bitcoin/pull/23536)
+- [p2p: extend inbound eviction protection by network to CJDNS peers ](https://github.com/bitcoin/bitcoin/pull/24165)
+- [[kernel 0/n] Introduce bitcoin-chainstate](https://github.com/bitcoin/bitcoin/pull/24304)
+- [Add (sorted)multi_a descriptor for k-of-n multisig inside tr](https://github.com/bitcoin/bitcoin/pull/24043)
+- [init, doc: improve -onlynet help and related tor/i2p documentation](https://github.com/bitcoin/bitcoin/pull/24468)
+- [wallet: generate random change target for each tx for better privacy](https://github.com/bitcoin/bitcoin/pull/24494)
+
 ### rust-bitcoin
+
+- [Fix signature hash returned for sighash single bug](https://github.com/rust-bitcoin/rust-bitcoin/pull/860)
+- [TapTree iterator](https://github.com/rust-bitcoin/rust-bitcoin/pull/901)
 
 ### secp256k1
 
-### secp256k1-zkp
+- [Schnorrsig API improvements](https://github.com/bitcoin-core/secp256k1/pull/1089)
 
 ### BIPs
 
+- [BIP 326: Anti-fee-sniping protection with nSequence in taproot transactions to improve privacy for off-chain protocols](https://github.com/bitcoin/bips/pull/1269)
+
 ### eclair
+
+- [Use direct channel when available](https://github.com/ACINQ/eclair/pull/2192)
+- [Add channelbalances API call](https://github.com/ACINQ/eclair/pull/2196)
+- [Relay if fees satisfy previous channel update for X minutes after current update](https://github.com/ACINQ/eclair/pull/2201)
+- [Add a new min-funding config parameter for private channels](https://github.com/ACINQ/eclair/pull/2203)
 
 ### c-lightning
 
+- [hsmd: Add wallet index metadata to existing messages](https://github.com/ElementsProject/lightning/pull/4993)
+- [cln-grpc-plugin: Secure access to your node over the network](https://github.com/ElementsProject/lightning/pull/5013)
+- [Database librarization](https://github.com/ElementsProject/lightning/pull/5017)
+- [Multiple channels (per peer) support](https://github.com/ElementsProject/lightning/pull/5078)
+- [setchannel: new command](https://github.com/ElementsProject/lightning/pull/5103)
+- [invoice description hash support](https://github.com/ElementsProject/lightning/pull/5121)
+
 ### lnd
+
+- [Taproot: integrate btcec/v2 and btcwallet changes to support Taproot key spend paths in lnd's wallet](https://github.com/lightningnetwork/lnd/pull/6263)
+- [lnrpc+sweep: properly remove any unconfirmed descendant chains a to-be-swept input is spent](https://github.com/lightningnetwork/lnd/pull/6274)
 
 ### rust-lightning
 
-### BOLTS
+- [Add random 'shadow route' CLTV delta offsets to improve privacy](https://github.com/lightningdevkit/rust-lightning/pull/1286)
+- [Filter route hints when creating invoices](https://github.com/lightningdevkit/rust-lightning/pull/1325)
+- [0.0.105 Security Fixes](https://github.com/lightningdevkit/rust-lightning/pull/1339)
+- [Implement the SCIDAlias Channel Type and provide SCID Privacy](https://github.com/lightningdevkit/rust-lightning/pull/1351)
+- [Randomize candidate paths during route selection](https://github.com/lightningdevkit/rust-lightning/pull/1359)
+- [Create normal/phantom invoice with description hash](https://github.com/lightningdevkit/rust-lightning/pull/1361)
+- [ProbabilisticScorer optimizations](https://github.com/lightningdevkit/rust-lightning/pull/1375)
 
 ### New Releases
 
