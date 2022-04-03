@@ -27,23 +27,4 @@ title: Home
     {% endfor %}
     <p><a href="/events.html">See all events</a></p>
   </div>
-  <div class="Home-posts">
-    <h2 class="Home-posts-title">Recent Blog Posts</h2>
-    {% assign blog_posts = 3 %}
-    {% assign counter = 0 %}
-    {% for post in site.posts %}
-      {% if post.type == "blog" %}
-        <div class="Home-posts-post">
-          <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
-          &raquo;
-          <a class="Home-posts-post-title" href="{{ post.url }}">{{ post.title }}</a>
-        </div>
-        {% assign counter = counter | plus: 1 %}
-        {% if counter == blog_posts %}
-          {% break %} {% comment %}exit the for loop{% endcomment %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-    <p><a href="/blog.html">See all blog posts</a></p>
-  </div>
 </div>
