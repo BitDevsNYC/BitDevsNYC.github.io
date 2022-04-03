@@ -5,3 +5,4 @@ menu:
   - {name: 'About', url: '/about'}
   - {name: 'Events', url: '/events'}
   - {name: 'Meetup', url: 'https://www.meetup.com/taiwan-bitdevs/', external: true}
+  - {name: '⚡️@ln.bitdevs.tw', url: 'https://ln.bitdevs.tw/', external: true}
