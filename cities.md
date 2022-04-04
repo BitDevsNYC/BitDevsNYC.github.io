@@ -18,6 +18,7 @@ As a disclaimer, BitDevs NYC has no official associations with or oversight of t
 - [Chicago](https://chibitdevs.org/)
 - [Denver](http://denverbitdevs.com/)
 - [Honolulu](http://www.honolulubitdevs.com/)
+- [London](https://londonbitdevs.org/)
 - [Los Angeles](https://bitdevsla.org/)
 - [Miami](https://miamibitdevs.org/)
 - [San Francisco](https://www.sfbitcoindevs.org/)
