@@ -18,7 +18,7 @@ CoinSwap sets a new privacy standard for bitcoin that prevents CoinSwap transact
 
 _Audience question:_ what would make you use CoinSwaps?
 
-##Could crypto ATMs be breeding grounds for fraud in Taiwan?
+## Could crypto ATMs be breeding grounds for fraud in Taiwan?
 <https://english.cw.com.tw/article/article.action?id=3200>
 
 The type of BTM most common in Taiwan can accommodate up to around NT$2.2 million, meaning that one can show up with NT$2 million in cash, and transfer it to any encrypted Bitcoin wallet.
@@ -53,6 +53,7 @@ BIP21 is a no brainer - At the moment there is a massive UX hurdle that exists f
 A place to post rewards for implementing new bitcoin features
 
 alternates:
+
 - bitcoinerjobs.com
 - stacker.news
 
@@ -60,4 +61,5 @@ The topics list for April are still under discussion here:
 <https://github.com/TaiwanBitdevs/TaiwanBitdevs.github.io/pull/2>
 
 Please let us know what you would like to present. Reach out at bitdevstw@gmail.com
+
 
