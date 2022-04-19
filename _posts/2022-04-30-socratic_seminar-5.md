@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic Seminar 5"
-meetup: https://www.meetup.com/triangle-bitdevs/events/PLACEHOLDER/
+meetup: https://www.meetup.com/triangle-bitdevs/events/285369533/
 ---
 
 We will start with introductions, some basic ground rules, and jump into
@@ -23,6 +23,7 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 
 
 - [Anchor Outputs](https://fanismichalakis.fr/posts/anchor-outputs/)
+- [Taro](https://docs.lightning.engineering/the-lightning-network/taro)
 
 
 ## Cryptography
