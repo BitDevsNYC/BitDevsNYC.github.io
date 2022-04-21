@@ -61,3 +61,4 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 ## Miscellaneous
 
 
+- [BIP-119 Speedy Trial](https://rubin.io/bitcoin/2022/04/17/next-steps-bip119/)
