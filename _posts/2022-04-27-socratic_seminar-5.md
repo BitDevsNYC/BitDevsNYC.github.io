@@ -16,6 +16,7 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 
 
 - [AssumeValid Security Model Discussion](https://bitcoin.stackexchange.com/questions/88652/does-assumevalid-lower-the-security-of-bitcoin)
+- [AssumeValid Release Notes](https://bitcoincore.org/en/2017/03/08/release-0.14.0/#assumed-valid-blocks)
 - [Galaxy Digital Stratum V2 Report](https://braiins.com/blog/galaxy-stratum-v2-report-bitcoin-mining)
 
 
