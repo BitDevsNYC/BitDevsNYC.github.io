@@ -71,3 +71,5 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 
 - [BIP-119 Speedy Trial](https://rubin.io/bitcoin/2022/04/17/next-steps-bip119/)
 - [Eeasy Method to Estimate Total Hashes Performed](https://twitter.com/proofofsk8/status/1516625799146790914)
+- [Bitcoiner Jobs](https://bitcoinerjobs.com/)
+
