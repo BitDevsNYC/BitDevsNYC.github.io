@@ -73,4 +73,5 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 - [Easy Method to Estimate Total Hashes Performed](https://twitter.com/proofofsk8/status/1516625799146790914)
 - [Bitcoiner Jobs](https://bitcoinerjobs.com/)
 - [BitcoinDay Charlotte](https://bitcoinday.io/charlotte22)
+- [The Central African Republic Adopts Bitcoin as Legal Tender](https://bitcoinmagazine.com/business/the-central-african-republic-adopts-bitcoin-as-legal-tender)
 
