@@ -17,6 +17,7 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 
 
 - [Bitcoin 23.0 Release](https://bitcoinmagazine.com/technical/bitcoin-core-23-0-released-whats-new)
+- [Verify Your Bitcoin Core Download](https://mooniversity.io/posts/verify-core)
 
 
 ## Bitcoin Protocol
