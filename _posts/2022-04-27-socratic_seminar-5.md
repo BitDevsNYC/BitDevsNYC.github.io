@@ -69,7 +69,7 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 ## Miscellaneous
 
 
-- [BIP-119 Speedy Trial](https://rubin.io/bitcoin/2022/04/17/next-steps-bip119/)
+- [Discussion about activating CTV](https://bitcoinops.org/en/newsletters/2022/04/27/#discussion-about-activating-ctv)
 - [Easy Method to Estimate Total Hashes Performed](https://twitter.com/proofofsk8/status/1516625799146790914)
 - [Bitcoiner Jobs](https://bitcoinerjobs.com/)
 - [BitcoinDay Charlotte](https://bitcoinday.io/charlotte22)
