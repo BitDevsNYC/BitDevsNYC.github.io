@@ -63,7 +63,7 @@ Ishaana Misra and Autumn Domingo - Generation Bitcoin: Creating the Future of Bi
   - [March 3rd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-03-03.html#l-208)
   - [March 10th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-03-10.html#l-464)
   - [March 17th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-03-17.html#l-370)
-  - [March 24th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-03-17.html#l-443)
+  - [March 24th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-03-24.html#l-443)
 - Bitcoin Core wallet meetings
   - [March 11th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-03-11.html#l-390)
   - [March 25th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-03-25.html#l-359)
