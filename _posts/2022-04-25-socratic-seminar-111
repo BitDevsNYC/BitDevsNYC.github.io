@@ -24,8 +24,30 @@ A final topic list will be posted on bitdevs.org the evening before the event. Y
 #### dlc-dev
 
 ### Optech
+- [Newsletter #194](https://bitcoinops.org/en/newsletters/2022/04/06/)
+- [Newsletter #195](https://bitcoinops.org/en/newsletters/2022/04/13/)
+- [Newsletter #196](https://bitcoinops.org/en/newsletters/2022/04/20/)
+- [Newsletter #197](https://bitcoinops.org/en/newsletters/2022/04/27/)
 
 ### Meetings
+
+- Bitcoin PR Review Club
+  - [24571 Prevent block index fingerprinting by sending additional getheaders messages (p2p)](https://bitcoincore.reviews/24571)
+  - [21726 Improve Indices on pruned nodes via prune blockers (utxo db and indexes, rpc/rest/zmq)](https://bitcoincore.reviews/21726)
+  - [24538 bug fix: update for ancestor inclusion using modified fees, not base (mining)](https://bitcoincore.reviews/24538)
+  - [24644 Add tracepoints and algorithm information to coin selection (wallet)](https://bitcoincore.reviews/24644)
+- Bitcoin Core general developer meetings
+  - [March 31st](https://www.erisian.com.au/bitcoin-core-dev/log-2022-03-31.html#l-515)
+  - [April 7th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-04-07.html#l-223)
+  - [April 14th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-04-14.html#l-324)
+  - [April 21st](https://www.erisian.com.au/bitcoin-core-dev/log-2022-04-21.html#l-338)
+- Bitcoin Core wallet meetings
+  - April 08 cancelled
+  - [April 22nd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-04-22.html#l-290)
+- dlc-specs meetings
+  - [April 12th](https://github.com/discreetlogcontracts/dlcspecs/pull/191)
+- Lightning specification meetings
+  - No minutes
 
 ## Network Data
 
