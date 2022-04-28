@@ -50,14 +50,20 @@ A final topic list will be posted on bitdevs.org the evening before the event. Y
   - No minutes
 
 ## Network Data
+- [Hashrate over time](https://twitter.com/ecurrencyhodler/status/1510149508767764483)
+- [Relay latency over the years](https://twitter.com/murchandamus/status/1517857150164520967)
 
 ## Research
+
+- [Ruben Somsen: Silent Payments Talk](https://rumble.com/v12kuz7-bitcoin-silent-payments.html)
+- [Optech: Silent Payments Summary](https://bitcoinops.org/en/newsletters/2022/04/06/#delinked-reusable-addresses)
 
 ## InfoSec
 
 ## Pull Requests and repo updates
 
 ### Bitcoin Core
+- [Taproot addresses in Bitcoin Core GUI](https://twitter.com/josibake/status/1518607258665553921)
 
 ### rust-bitcoin
 
@@ -66,10 +72,12 @@ A final topic list will be posted on bitdevs.org the evening before the event. Y
 ### secp256k1-zkp
 
 ### BIPs
+- [MuSig2 proposed](https://github.com/jonasnick/bips/blob/musig2/bip-musig2.mediawiki)
 
 ### eclair
 
-### c-lightning
+### Core Lightning (CLN, formerly c-lightning)
+- [c-lightning renamed to Core Lightning](https://github.com/ElementsProject/lightning/pull/5165)
 
 ### lnd
 
@@ -78,6 +86,7 @@ A final topic list will be posted on bitdevs.org the evening before the event. Y
 ### BOLTS
 
 ### New Releases
+- [Bitcoin Core 23.0 released](https://bitcoincore.org/en/releases/23.0/)
 
 ## Events and Podcasts
 
@@ -86,3 +95,5 @@ A final topic list will be posted on bitdevs.org the evening before the event. Y
 - [More Efficient M50 Series of WhatsMiner announced](https://bitcoinmagazine.com/business/microbt-announces-m50-bitcoin-miners)
 
 ## Miscellaneous
+- [2022-04-07: Secretary Yellen publicly remarks on Bitcoin](https://home.treasury.gov/news/press-releases/jy0706)
+- [Vitalik Buterin: In Defense of Bitcoin Maximalism](https://vitalik.ca/general/2022/04/01/maximalist.html)
