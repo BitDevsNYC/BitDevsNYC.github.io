@@ -16,8 +16,7 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 ## Bitcoin Protocol
 
 
-- [Compact Blocks](https://bitcoincore.org/en/2016/06/07/compact-blocks-faq/)
-- [Relay Networks and FIBRE](https://bluematt.bitcoin.ninja/2016/07/07/relay-networks/)
+- [Coin Selection](https://btctranscripts.com/scalingbitcoin/tokyo-2018/edgedevplusplus/coin-selection/)
 
 
 ## Lightning
