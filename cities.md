@@ -21,7 +21,7 @@ As a disclaimer, BitDevs NYC has no official associations with or oversight of t
 - [London](https://londonbitdevs.org/)
 - [Los Angeles](https://bitdevsla.org/)
 - [Miami](https://miamibitdevs.org/)
+- [Raleigh / Durham / Chapel Hill](https://trianglebitdevs.org/)
 - [San Francisco](https://www.sfbitcoindevs.org/)
 - [Taipei](https://bitdevs.tw/)
 - [Tampa](https://tampabitdevs.io/)
-- [Triangle](https://trianglebitdevs.org/)
