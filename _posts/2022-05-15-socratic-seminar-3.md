@@ -8,7 +8,7 @@ meetup:
 # Join Us
 
 Join us for our monthly socratic seminar [meetup](https://www.meetup.com/taiwan-bitdevs/events/285625288/)
- Tuesday May 15 at 7:00pm 
+ Sunday May 15 at 7:00pm 
 
 The topics list for April are still under discussion here:
 <https://github.com/TaiwanBitdevs/TaiwanBitdevs.github.io/pull/6>
