@@ -7,7 +7,7 @@ meetup: https://www.meetup.com/triangle-bitdevs/events/285746813/
 
 We will start with introductions, some basic ground rules, and jump into
 technical discussions. We will cover aspects of the bitcoin protocol, new 
-research developments, recent news, and software devel pments. For the final
+research developments, recent news, and software developments. For the final
 30 minutes we will have a socratic discussion with special guest [Murch](https://twitter.com/murchandamus).
 
 Note: This is a preliminary agenda. It is subject to change before the event date.
