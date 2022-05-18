@@ -38,12 +38,14 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 
 - [Teleport Transactions](https://github.com/bitcoin-teleport/teleport-transactions)
 - [Silent Payments](https://gist.github.com/RubenSomsen/c43b79517e7cb701ebf77eec6dbb46b8)
+- [Private Authentication Protocols](https://github.com/sipa/writeups/tree/main/private-authentication-protocols)
 
 
 ## Security
 
 
 - [Bandwidth-Efficient Transaction Relay in Bitcoin](https://arxiv.org/pdf/1905.10518v2.pdf)
+- [Package Relay Proposal](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-May/020493.html)
 
 
 ## Scaling
