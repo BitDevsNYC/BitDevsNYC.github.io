@@ -66,3 +66,4 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 - [Bitcoiner Jobs](https://bitcoinerjobs.com/)
 - [OP_EVAL doesn't stop recursion](https://github.com/bitcoin/bitcoin/issues/729)
 - [bitcoin PR #24322 - \[kernel 1/n\] Introduce initial libbitcoinkernel](https://github.com/bitcoin/bitcoin/pull/24322)
+- [Sparrow v1.6.4 adds support for detecting dust attacks](https://twitter.com/SparrowWallet/status/1527264151789359104)
