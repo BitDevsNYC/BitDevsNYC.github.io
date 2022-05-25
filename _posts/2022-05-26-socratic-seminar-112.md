@@ -48,26 +48,34 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
     - No minutes found
 
 ## Network Data
+- [Binance Consolidation Dump](https://twitter.com/murchandamus/status/1524918688993927169)
 
 ## Research
+- [Package Relay proposal (ML)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-May/020493.html)
+- [OP_TX proposal (ML)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-May/020450.html)
+- [Private authentication protocols](https://github.com/sipa/writeups/tree/main/private-authentication-protocols)
 
 ## InfoSec
 
 ## Pull Requests and repo updates
 
 ### Bitcoin Core
+- [script: add script to generate example bitcoin.conf](https://github.com/bitcoin/bitcoin/issues/22235)
 
 ### eclair
 
 ### Core Lightning
 
 ### lnd
+- [Add new MuSig22 RPC methods to signrpc](https://github.com/lightningnetwork/lnd/issues/6361)
 
 ### rust-lightning
 
 ### BOLTS
 
 ### New Releases
+- [Sparrow v1.6.4](https://sparrowwallet.com/downloads/) with dust attack detection
+
 
 ## Events and Podcasts
 
