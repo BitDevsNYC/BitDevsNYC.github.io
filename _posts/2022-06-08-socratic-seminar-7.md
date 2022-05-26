@@ -59,3 +59,4 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 
 - [Chaincode Labs Protocol Development Seminars](https://learning.chaincode.com/)
 - [A Lightning Penalty Transaction](https://fiatjaf.com/73095980.html)
+- [What does "Waste Metric" mean in the context of Coin Selection?](https://bitcoin.stackexchange.com/questions/113622/what-does-waste-metric-mean-in-the-context-of-coin-selection)
