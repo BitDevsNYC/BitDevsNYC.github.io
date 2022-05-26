@@ -57,3 +57,4 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 ## Miscellaneous
 
 
+- [Chaincode Labs Protocol Development Seminars](https://learning.chaincode.com/)
