@@ -58,3 +58,4 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 
 
 - [Chaincode Labs Protocol Development Seminars](https://learning.chaincode.com/)
+- [A Lightning Penalty Transaction](https://fiatjaf.com/73095980.html)
