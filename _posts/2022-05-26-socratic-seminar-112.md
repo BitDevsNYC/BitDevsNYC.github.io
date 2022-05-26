@@ -49,13 +49,18 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 ## Network Data
 - [Binance Consolidation Dump](https://twitter.com/murchandamus/status/1524918688993927169)
+- [Bitcoin Is Halfway To The Next Halving](https://bitcoinmagazine.com/markets/bitcoin-is-halfway-to-the-next-halving)
+- [Bitcoin Hash Rate, Mining Difficulty Hit New All-Time Highs](https://bitcoinmagazine.com/markets/bitcoin-hash-rate-mining-difficulty-hit-new-all-time-highs)
 
 ## Research
 - [Package Relay proposal (ML)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-May/020493.html)
 - [OP_TX proposal (ML)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-May/020450.html)
 - [Private authentication protocols](https://github.com/sipa/writeups/tree/main/private-authentication-protocols)
+- [ROAST: Robust Asynchronous Schnorr Threshold Signatures](https://eprint.iacr.org/2022/550)
 
 ## InfoSec
+
+- [ICE tracks warrantlessly 3 in 4 adults in USA](https://americandragnet.org/)
 
 ## Pull Requests and repo updates
 
@@ -81,6 +86,7 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 ## Mining
 
+- [Nathaniel Harmon: Turning Ocean Thermal to Hashrate](https://www.youtube.com/watch?v=ZaXfoAKnrcM)
 - [Bitcoin ASIC Prices Have Fallen to the Lowest Levels since 2021](https://blog.hashrateindex.com/bitcoin-mining-asic-prices-have-revisited-post-china-ban-lows/)
 - [Bitcoin Hashrate returns to China](https://www.jbs.cam.ac.uk/insight/2022/bitcoin-mining-new-data-reveal-a-surprising-resurgence/)
 - [Economics of Immersion Cooling for Bitcoin Miners](https://braiins.com/blog/economics-immersion-cooling-bitcoin-miners)
@@ -88,5 +94,10 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 - [The Future of Energy Markets According to Bitcoin Miners](https://bitcoinmagazine.com/markets/future-of-energy-markets-bitcoin-miners)
 
 ## Miscellaneous
+
+- [Super Testnet Bitcoin Chess: Using Key Tweaking](https://www.thrillerbitcoin.com/supertestnet-bitcoinchess/)
+- [What Terra's Collapse Teaches About 'Crypto' and Bitcoin](https://bitcoinmagazine.com/markets/terra-collapse-teaches-about-crypto-and-bitcoin)
+- [How El Salvador Introduced 44 Countries To Bitcoin This Week](https://bitcoinmagazine.com/culture/el-salvador-brought-44-countries-to-bitcoin)
+- Spiral: [A Framework for Sustainable Open-Source Bitcoin Development](https://spiral.xyz/blog/a-framework-for-sustainable-open-source-bitcoin-development/)
 
 - [Bitcoin Core v23 2.3% faster](https://twitter.com/lopp/status/1520367263039336449)
