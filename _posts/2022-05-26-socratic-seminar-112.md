@@ -23,10 +23,10 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 #### dlc-dev
 
 ### Optech
-- [Newsletter #199](https://bitcoinops.org/en/newsletters/2022/05/04)
-- [Newsletter #200](https://bitcoinops.org/en/newsletters/2022/05/11)
-- [Newsletter #201](https://bitcoinops.org/en/newsletters/2022/05/18)
-- [Newsletter #202](https://bitcoinops.org/en/newsletters/2022/05/25)
+- [Newsletter #198](https://bitcoinops.org/en/newsletters/2022/05/04)
+- [Newsletter #199](https://bitcoinops.org/en/newsletters/2022/05/11)
+- [Newsletter #200](https://bitcoinops.org/en/newsletters/2022/05/18)
+- [Newsletter #201](https://bitcoinops.org/en/newsletters/2022/05/25)
 
 ### Meetings
 - Bitcoin PR Review Club
@@ -45,7 +45,8 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 - dlc-specs meetings
 	- [May 10th](https://github.com/discreetlogcontracts/dlcspecs/pull/195)
 - Lightning specification meetings
-    - No minutes found
+    - [May 9th](https://github.com/lightning/bolts/issues/986)
+    - [May 23th](https://github.com/lightning/bolts/issues/992)
 
 ## Network Data
 - [Binance Consolidation Dump](https://twitter.com/murchandamus/status/1524918688993927169)
