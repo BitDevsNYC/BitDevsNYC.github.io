@@ -59,3 +59,4 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 - [Seed Tool](https://bitcoiner.guide/seed/)
 - [How much blockspace would it take to spend the complete UTXO set?](https://bitcoin.stackexchange.com/questions/114043/how-much-blockspace-would-it-take-to-spend-the-complete-utxo-set)
 - [ln.cash sats deaddrop](https://ln.cash/5aqQWyNb1JNTzX5Mr8wVF5)
+- [add glozow to trusted-keys](https://github.com/bitcoin/bitcoin/pull/25524)
