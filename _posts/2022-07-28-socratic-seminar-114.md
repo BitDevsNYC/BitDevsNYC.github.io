@@ -50,13 +50,23 @@ refreshments and event space.
 
 ## Network Data
 
+- [How much blockspace would it take to spend the complete UTXO set?](https://bitcoin.stackexchange.com/q/114043)
+
 ### Research
+
+- [Half-Aggregation of BIP 340 Signatures](https://blog.blockstream.com/half-aggregation-of-bip-340-signatures/)
+- [A Lightning Node’s Problem with Hats](https://sphinx.chat/2022/06/27/a-lightning-nodes-problem-with-hats/)
 
 ### InfoSec
 
 ## Pull Requests and repo updates
 
 ### Bitcoin Core
+
+- [Gloria Zhao becomes maintainer](https://github.com/bitcoin/bitcoin/pull/25524)
+- [Pieter Wuille drops maintainership](https://github.com/bitcoin/bitcoin/pull/25568)
+- [Add a -mempoolfullrbf node setting](https://github.com/bitcoin/bitcoin/pull/25353)
+- [Miniscript support in Output Descriptors](https://github.com/bitcoin/bitcoin/pull/24148)
 
 ### rust-bitcoin
 
