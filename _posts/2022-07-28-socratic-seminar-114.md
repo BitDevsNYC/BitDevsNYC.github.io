@@ -26,10 +26,11 @@ refreshments and event space.
 #### dlc-ml
 
 ### Meetings
+
 - Bitcoin PR Review Club
- 	- [25077 Fix chain tip data race and corrupt rest response (validation)](https://bitcoincore.reviews/25077)
- 	- [25380 Detect and ignore transactions that were CPFP'd in the fee estimator (mempool)](https://bitcoincore.reviews/25380)
- 	- [25218 Introduce generic 'Result' class and connect it to CreateTransaction and GetNewDestination (refactoring)](https://bitcoincore.reviews/25218)
+    - [25077 Fix chain tip data race and corrupt rest response (validation)](https://bitcoincore.reviews/25077)
+    - [25380 Detect and ignore transactions that were CPFP'd in the fee estimator (mempool)](https://bitcoincore.reviews/25380)
+    - [25218 Introduce generic 'Result' class and connect it to CreateTransaction and GetNewDestination (refactoring)](https://bitcoincore.reviews/25218)
     - [24858 incorrect blk file size calculation during reindex results in recoverable blk file corruption (block storage)](https://bitcoincore.reviews/24858)
 
 - Bitcoin Core general developer meetings

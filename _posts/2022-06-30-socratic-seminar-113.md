@@ -23,11 +23,12 @@ refreshments and event space.
 #### dlc-ml
 
 ### Meetings
+
 - Bitcoin PR Review Club
- 	- [25228 Add BIP-125 rule 5 testcase with default mempool (tests)](https://bitcoincore.reviews/25228)
+    - [25228 Add BIP-125 rule 5 testcase with default mempool (tests)](https://bitcoincore.reviews/25228)
     - [22778 net processing: Reduce resource usage for inbound block-relay-only connections (p2p)](https://bitcoincore.reviews/22778)
     - [24170 Manual block-relay-only connections with addnode (rpc/rest/zmq, p2p)](https://bitcoincore.reviews/24170)
- 	- [23418 Fix signed integer overflow in prioritisetransaction RPC (rpc/rest/zmq, mempool)](https://bitcoincore.reviews/23418)
+    - [23418 Fix signed integer overflow in prioritisetransaction RPC (rpc/rest/zmq, mempool)](https://bitcoincore.reviews/23418)
     - [24832 Verify the block filter hash when reading the filter from disk. (utxo db and indexes)](https://bitcoincore.reviews/24832)
 
 - Bitcoin Core general developer meetings

@@ -43,7 +43,7 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 - Bitcoin Core wallet meetings
   - [May 20th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-05-20.html#l-254)
 - dlc-specs meetings
-	- [May 10th](https://github.com/discreetlogcontracts/dlcspecs/pull/195)
+    - [May 10th](https://github.com/discreetlogcontracts/dlcspecs/pull/195)
 - Lightning specification meetings
     - [May 9th](https://github.com/lightning/bolts/issues/986)
     - [May 23th](https://github.com/lightning/bolts/issues/992)
@@ -99,6 +99,5 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 - [Super Testnet Bitcoin Chess: Using Key Tweaking](https://www.thrillerbitcoin.com/supertestnet-bitcoinchess/)
 - [What Terra's Collapse Teaches About 'Crypto' and Bitcoin](https://bitcoinmagazine.com/markets/terra-collapse-teaches-about-crypto-and-bitcoin)
 - [How El Salvador Introduced 44 Countries To Bitcoin This Week](https://bitcoinmagazine.com/culture/el-salvador-brought-44-countries-to-bitcoin)
-- Spiral: [A Framework for Sustainable Open-Source Bitcoin Development](https://spiral.xyz/blog/a-framework-for-sustainable-open-source-bitcoin-development/)
-
+- [A Framework for Sustainable Open-Source Bitcoin Development](https://spiral.xyz/blog/a-framework-for-sustainable-open-source-bitcoin-development/)
 - [Bitcoin Core v23 2.3% faster](https://twitter.com/lopp/status/1520367263039336449)
