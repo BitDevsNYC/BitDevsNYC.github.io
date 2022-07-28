@@ -37,7 +37,7 @@ refreshments and event space.
     - [July 7th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-07-07.html#390)
     - [July 14th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-07-14.html#247)
     - [July 21th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-07-21.html#181)
-    - [July 28th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-07-28.html#TODO)
+    - [July 28th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-07-28.html#276)
 - Bitcoin Core wallet meetings
     - [July 1st](https://www.erisian.com.au/bitcoin-core-dev/log-2022-07-01.html#332)
     - [July 15th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-07-01.html#259)
