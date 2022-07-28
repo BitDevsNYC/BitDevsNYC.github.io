@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar 113"
+title: "Socratic Seminar 113 (draft)"
 meetup: https://www.meetup.com/bitdevsnyc/events/286657962/
 ---
 
