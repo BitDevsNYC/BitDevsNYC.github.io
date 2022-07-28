@@ -17,6 +17,10 @@ refreshments and event space.
 
 #### bitcoin-dev
 
+- [BIP Proposal: Receiving and Change Derivation Paths in a Single Descriptor](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-July/020791.html)
+- [BIP draft: Half-Aggregation of BIP-340 Signatures](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-July/020662.html)
+- [Surprisingly, Tail Emission Is Not Inflationary](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-July/020665.html)
+
 #### lightning-dev
 
 #### dlc-ml
@@ -67,6 +71,8 @@ refreshments and event space.
 - [Pieter Wuille drops maintainership](https://github.com/bitcoin/bitcoin/pull/25568)
 - [Add a -mempoolfullrbf node setting](https://github.com/bitcoin/bitcoin/pull/25353)
 - [Miniscript support in Output Descriptors](https://github.com/bitcoin/bitcoin/pull/24148)
+- [Adding a restore wallet option in the GUI](https://github.com/bitcoin-core/gui/pull/471)
+- [GUIX reproducible for 7 of 9 target architectures when building cross-architecture](https://github.com/bitcoin/bitcoin/issues/21194#issuecomment-1189536659)
 
 ### rust-bitcoin
 
