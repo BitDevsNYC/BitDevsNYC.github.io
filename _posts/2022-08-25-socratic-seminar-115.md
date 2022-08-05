@@ -25,7 +25,15 @@ TODO
 
 ### Optech
 
+- [Newsletter #211](https://bitcoinops.org/en/newsletters/2022/08/03/)
+- [Newsletter #212](https://bitcoinops.org/en/newsletters/2022/08/10/)
+- [Newsletter #213](https://bitcoinops.org/en/newsletters/2022/08/17/)
+- [Newsletter #214](https://bitcoinops.org/en/newsletters/2022/08/24/)
+
 ### Meetings
+
+- Bitcoin Core general developer meetings
+    - [Aug 4th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-08-04.html#211)
 
 ## Network Data
 
