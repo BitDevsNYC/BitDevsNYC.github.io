@@ -71,3 +71,4 @@ TODO
 
 ## Miscellaneous
 
+- [US Treasury blacklists Tornado Cash](https://www.coindesk.com/policy/2022/08/08/crypto-mixing-service-tornado-cash-blacklisted-by-us-treasury/)
