@@ -42,3 +42,4 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 
 
 - [Fedimint](https://fedimint.org/)
+- [Hal Finney discusses secp256k1](https://bitcointalk.org/index.php?topic=2699.0)
