@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic Seminar 9"
-meetup: https://www.meetup.com/triangle-bitdevs/events/PLACEHOLDER/
+meetup: https://www.meetup.com/triangle-bitdevs/events/287432448/
 ---
 
 We will start with introductions, some basic ground rules, and jump into technical discussions. 
@@ -16,6 +16,7 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 ## Bitcoin Protocol
 
 
+- [BIP152 Compact Block Relay](https://github.com/bitcoin/bips/blob/master/bip-0152.mediawiki)
 
 
 ## Lightning
@@ -31,22 +32,13 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 - [Private Authentication Protocols](https://github.com/sipa/writeups/tree/main/private-authentication-protocols)
 
 
-## Security
-
-
-
-
 ## Scaling
 
 
 - [CoinPool: efficient off-chain payment pools for Bitcoin](https://coinpool.dev/v0.1.pdf)
 
 
-## DLC
-
-
-
-
 ## Miscellaneous
 
 
+- [Fedimint](https://fedimint.org/)
