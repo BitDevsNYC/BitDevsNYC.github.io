@@ -24,12 +24,19 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 
 - [The Scaling Problem For Lightning Lab’s Taro On The Bitcoin Blockchain](https://bitcoinmagazine.com/technical/scaling-problem-for-lightning-labs-taro)
 - [\[Lightning-dev\] Advances in Channel Jamming research](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-August/003673.html)
+- [\[LND\] taproot errwhere](https://github.com/lightningnetwork/lnd/pull/6810)
 
 
 ## Scaling
 
 
 - [CoinPool: efficient off-chain payment pools for Bitcoin](https://coinpool.dev/v0.1.pdf)
+
+
+## Privacy
+
+
+- [[bitcoin-dev] joinstr: coinjoin implementation using nostr](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-August/020875.html)
 
 
 ## DLC
@@ -43,3 +50,4 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 
 
 - [Block Hardware Wallet Security Model](https://wallet.build/losing-your-keys-without-losing-your-coins/)
+- [\[bitcoin-dev\] BIP Proposal: Wallet Labels Export Format](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-August/020887.html)
