@@ -23,11 +23,7 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 
 
 - [The Scaling Problem For Lightning Lab’s Taro On The Bitcoin Blockchain](https://bitcoinmagazine.com/technical/scaling-problem-for-lightning-labs-taro)
-
-
-## Privacy
-
-
+- [\[Lightning-dev\] Advances in Channel Jamming research](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-August/003673.html)
 
 
 ## Scaling
@@ -46,3 +42,4 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 ## Miscellaneous
 
 
+- [Block Hardware Wallet Security Model](https://wallet.build/losing-your-keys-without-losing-your-coins/)
