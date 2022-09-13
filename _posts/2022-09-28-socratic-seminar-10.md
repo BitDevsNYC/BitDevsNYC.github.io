@@ -9,6 +9,9 @@ We will start with introductions, some basic ground rules, and jump into technic
 We will cover aspects of the bitcoin protocol, new research developments, recent news, and
 software developments.
 
+This month we will have [Varun Madathil](https://twitter.com/Varun_2703) join us to describe his 
+research on a new cryptographic primitive (VweTS) and its application to DLC oracle signatures!
+
 Note: This is a preliminary agenda. It is subject to change before the event date.
 
 
