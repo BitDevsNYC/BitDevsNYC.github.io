@@ -51,3 +51,4 @@ Note: This is a preliminary agenda. It is subject to change before the event dat
 
 - [Block Hardware Wallet Security Model](https://wallet.build/losing-your-keys-without-losing-your-coins/)
 - [\[bitcoin-dev\] BIP Proposal: Wallet Labels Export Format](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-August/020887.html)
+- [TriangleBitDevs won a Geyser Grant!](https://twitter.com/geyserfund/status/1567542543843205121)
