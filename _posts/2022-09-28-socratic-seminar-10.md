@@ -2,15 +2,19 @@
 layout: post
 type: socratic
 title: "Socratic Seminar 10"
-meetup: https://www.meetup.com/triangle-bitdevs/events/PLACEHOLDER/
+meetup: https://www.meetup.com/triangle-bitdevs/events/288481404/
 ---
 
 We will start with introductions, some basic ground rules, and jump into technical discussions. 
 We will cover aspects of the bitcoin protocol, new research developments, recent news, and
 software developments.
 
+Please note the new meeting location at the Durham Main Library Conference Room #3214. You can 
+also join us remotely at [https://meet.jit.si/TriangleBitDevs](https://meet.jit.si/TriangleBitDevs).
+
 This month we will have [Varun Madathil](https://twitter.com/Varun_2703) join us to describe his 
-research on a new cryptographic primitive (VweTS) and its application to DLC oracle signatures!
+research on a new cryptographic primitive (VweTS) and its application to DLC oracle signatures! 
+
 
 Note: This is a preliminary agenda. It is subject to change before the event date.
 
