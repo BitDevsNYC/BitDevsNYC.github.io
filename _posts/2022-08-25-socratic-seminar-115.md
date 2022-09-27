@@ -37,13 +37,20 @@ TODO
 
 ## Network Data
 
+- [New biggest block: 748,918 with 2.765,062 B](https://twitter.com/murchandamus/status/1557782865622056961)
+
 ## Research
+
+- [BLS and announcement free DLCs](https://mailmanlists.org/pipermail/dlc-dev/2022-August/000149.html)
+- [Advances in Channel Jamming research](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-August/003673.html)
 
 ## InfoSec
 
 ## Pull Requests and repo updates
 
 ### Bitcoin Core
+
+- [Wladimir van der Laan steps down as Maintainer](https://www.erisian.com.au/bitcoin-core-dev/log-2022-08-11.html#l-219)
 
 ### rust-bitcoin
 
@@ -58,6 +65,8 @@ TODO
 ### c-lightning
 
 ### lnd
+
+- [Use Taproot everywhere](https://github.com/lightningnetwork/lnd/pull/6810)
 
 ### rust-lightning
 
