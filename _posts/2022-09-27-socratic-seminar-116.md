@@ -29,6 +29,7 @@ TODO
 - [Newsletter #216](https://bitcoinops.org/en/newsletters/2022/09/07/)
 - [Newsletter #217](https://bitcoinops.org/en/newsletters/2022/09/14/)
 - [Newsletter #218](https://bitcoinops.org/en/newsletters/2022/09/21/)
+- New: Twitter Space to recap the newsletter on Thursdays at 11am, also available later
 
 ### Meetings
 
@@ -40,6 +41,10 @@ TODO
 
 ## Network Data
 
+- [V1 Transactions increasing](https://twitter.com/murchandamus/status/1572938455876833281)
+- [40% of outputs are P2WPKH](https://twitter.com/murchandamus/status/1570050758220947463)
+- [How many transactions fit in a block](https://twitter.com/murchandamus/status/1567941598817681411)
+
 ## Research
 
 ## InfoSec
@@ -47,6 +52,10 @@ TODO
 ## Pull Requests and repo updates
 
 ### Bitcoin Core
+
+- [Bitcoin Core 24.0rc1 is out](https://github.com/bitcoin/bitcoin/issues/26175)
+- [p2p: Implement anti-DoS headers sync](https://github.com/bitcoin/bitcoin/issues/25717)
+- [wallet: Migrate legacy wallets to descriptor wallets](https://github.com/bitcoin/bitcoin/issues/19602)
 
 ### rust-bitcoin
 
@@ -74,3 +83,4 @@ TODO
 
 ## Miscellaneous
 
+- [Bitcoin Stack Exchange gets new look](https://twitter.com/murchandamus/status/1570843851119792128)
