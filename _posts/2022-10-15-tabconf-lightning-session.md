@@ -59,6 +59,6 @@ It's very pretty. [See for yourself](https://mempool.space/lightning).
 
 ### Miscellaneous
 
-[\[Lightning-dev\] Fee Ratecards (your gateway to negativity)](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-September/003685.html)
+- [\[Lightning-dev\] Fee Ratecards (your gateway to negativity)](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-September/003685.html)
 [satsoverflow](https://satsoverflow.io/)
-
+- [\[Lightning-dev\] Supporting a custodial user who wishes to withdraw all sats from the account...](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-August/003674.html)
