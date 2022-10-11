@@ -1,3 +1,10 @@
+---
+layout: post
+type: socratic
+title: "TABConf 2022: The BitDevs Socratic Village"
+meetup: https://tabconf.com/the-socratic-village/
+---
+
 # **Sponsored by [CardCoins](https://cardcoins.co)**
 
 [TABConf 2022](https://2022.tabconf.com) is a Bitcoin conference for building communities, providing education, and supporting developers. At the conference there will be villages, modeled after those present at [DEF CON](https://en.wikipedia.org/wiki/DEF_CON#Villages); each village can be considered a mini-conference within the wider confernece, as it will have its own theme and agenda separate from the main stage. [Ben Carman](https://twitter.com/benthecarman/) of [Austin BitDevs](austinbitdevs.com/), [Evan Price](https://twitter.com/vnprc) of [Triangle BitDevs](https://trianglebitdevs.org/), J of [BitDevs NYC](https://bitdevs.org) and [Ras](https://twitter.com/coinward) of [BitDevs Miami](https://miamibitdevs.org/) have organized a BitDevs-styled Socratic Village, which is decribed below.
