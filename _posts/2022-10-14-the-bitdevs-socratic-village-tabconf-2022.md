@@ -69,7 +69,7 @@ Panelists: Antoine Riard, Clara Shikhelman
 - 3:30 - 3:45 - Break
 - 3:45 - 4:15 - **Talk - Eltoo on LN: Idea to Implementation**
   - Description: Eltoo was an idea proposed over 4 years ago in order to simplify certain smart contracting protocols such as the Lightning Network and Statechains. Only in 2022 has interest in proving out the idea picked up. I will present a brief history as well as a status update on the project to bring Eltoo to life in the Lightning Network.
-  - Speaker: instagibbs
+  - Speaker: Gregory Sanders
 - 4:15 - 6:00 - Closing Ceremony and Remarks on Main Stage
 - 6:00 - 7:00 - **Trivia**
   - Description: A followup to last year's hardcore Bitcoin trivia. This year there will be two rounds: one on Bitcoin Lore/History, and another on Bitcoin/Lightning technical questions. Multiple choice. Get ready to rumble! Prizes sponsored by CardCoins!  
