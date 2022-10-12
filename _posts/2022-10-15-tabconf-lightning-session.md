@@ -27,8 +27,12 @@ Very exciting PR [enabling taproot by default](https://github.com/lightningnetwo
 [Karla Kirk-Cohen](https://twitter.com/actuallycarlakc) has created [boltlnd](https://github.com/carlaKC/boltnd) a library that can be used in combination with a [fork](https://github.com/carlaKC/lnd/tree/offers-boltnd) of LND to support BOLT12. Given Karla's [proof of work](https://github.com/carlaKC) all (one) of the organizers of TriangleBitDevs expect she will absolutely [crush it](https://media.tenor.com/x_I_Ubn-ZyMAAAAC/the-rascals-kid.gif).
 
 
-### Onion Messages and Asynchronous Lightning Payments
+### Rapid Gossip Sync
 
+LDK developer [Arik Sosman](https://twitter.com/arikaleph) has been working on [Rapid Gossip Sync](https://lightningdevkit.org/blog/announcing-rapid-gossip-sync/), a semi-trusted server that offloads the processing of lightning gossip messages to provide a compressed digest to mobile wallets. This provides an alternative to the LSP model which compromises mobile wallet user privacy in favor of UX. 
+
+
+### Onion Messages and Asynchronous Lightning Payments
 [LDK](https://lightningdevkit.org/) developer [vallywal](https://twitter.com/vallywal) explains how onion messages not only unlock bolt12 offers and blinded routes, but the combination of onion messages and PTLCs [enable async payments](https://lightningdevkit.org/blog/onion-messages-demystified/) over lightning that don't lock up network liquidity. Really tho, the awesomest part of this blog post is all the 🔥 diagrams.
 
 
