@@ -56,9 +56,9 @@ It's very pretty. [See for yourself](https://mempool.space/lightning).
 [New CLN release](https://blog.blockstream.com/core-lightning-v0-12-0/) includes lots of new plugins. Bookkeeper helps you with your accounting. Commando enables remote node management, even via the lightning network itself. Chanbackup ports LND's popular static channel backup feature, called emergency recover on CLN. This version also adds support for zero conf channels and zero reserve channels.
 
 
-### The Power of Valves for Better Flow Control
+### Validating Lightning Signer
 
-[Rene Pickhardt](https://twitter.com/renepickhardt) released a [research report](https://blog.bitmex.com/the-power-of-htlc_maximum_msat-as-a-control-valve-for-better-flow-control-improved-reliability-and-lower-expected-payment-failure-rates-on-the-lightning-network/) on using valves for flow control in the lightning network. He adapts a tool from fluid networks to the lightning network. This report is super long so I still need to read it and update this blurb. lul
+[Validating Lightning Signer](https://vls.tech/intro/) is a kick ass new project from [Sphinx Chat](https://sphinx.chat/) that segregates lightning wallet private keys onto a secure hardware environment. This is accomplished by enforcing a set of validation rules against each commitment transaction before signing. This model requires some overlap in logic between the node software and the policy signer. Check out the [docs](https://gitlab.com/lightning-signer/docs) or go straight to the [code](https://gitlab.com/lightning-signer/validating-lightning-signer). If you want to know what this has to do with chat over LN, you are not alone.
 
 
 ### Miscellaneous
@@ -66,3 +66,4 @@ It's very pretty. [See for yourself](https://mempool.space/lightning).
 - [\[Lightning-dev\] Fee Ratecards (your gateway to negativity)](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-September/003685.html)
 [satsoverflow](https://satsoverflow.io/)
 - [\[Lightning-dev\] Supporting a custodial user who wishes to withdraw all sats from the account...](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-August/003674.html)
+- [The Power of Valves for Better Flow Control](https://blog.bitmex.com/the-power-of-htlc_maximum_msat-as-a-control-valve-for-better-flow-control-improved-reliability-and-lower-expected-payment-failure-rates-on-the-lightning-network/)
