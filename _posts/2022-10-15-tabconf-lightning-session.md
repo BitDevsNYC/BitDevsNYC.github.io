@@ -24,7 +24,7 @@ Very exciting PR [enabling taproot by default](https://github.com/lightningnetwo
 
 ### Bolt12 LND Fork
 
-[Karla Kirk-Cohen](https://twitter.com/actuallycarlakc) has created [boltlnd](https://github.com/carlaKC/boltnd) a library that can be used in combination with a [fork](https://github.com/carlaKC/lnd/tree/offers-boltnd) of LND to support BOLT12. Given Karla's [proof of work](https://github.com/carlaKC) all (one) of the organizers of TriangleBitDevs expect she will absolutely [crush it](https://media.tenor.com/x_I_Ubn-ZyMAAAAC/the-rascals-kid.gif).
+[Carla Kirk-Cohen](https://twitter.com/actuallycarlakc) has created [boltlnd](https://github.com/carlaKC/boltnd) a library that can be used in combination with a [fork](https://github.com/carlaKC/lnd/tree/offers-boltnd) of LND to support BOLT12. Given Carla's [proof of work](https://github.com/carlaKC) all (one) of the organizers of TriangleBitDevs expect she will absolutely [crush it](https://media.tenor.com/x_I_Ubn-ZyMAAAAC/the-rascals-kid.gif).
 
 
 ### Rapid Gossip Sync
