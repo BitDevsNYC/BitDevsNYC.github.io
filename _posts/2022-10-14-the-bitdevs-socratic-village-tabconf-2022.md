@@ -67,7 +67,7 @@ Panelists: Antoine Riard, Clara Shikhelman
 - 1:00 - 1:30 - Break
 - 1:30 - 2:30 - **Socratic Panel: Federated L2 Schemes**
   - Description: 2022 has seen renewed interest in federated layer two schemes. This panel will be an exploration of two such schemes: the Mercury statechain protocol and Fedimint. Will will discuss their designs, the challenges of implementation, their respective privacy models, security tradeoffs and what roles they will play in scaling Bitcoin.
-  - Panelists: J, Justin Moon, Ruben Somsen
+  - Panelists: Jeremy Rubin, Eric Sirion, Ruben Somsen
   - Moderator: Evan Price
 - 2:30 - 3:00 - Break
 - 3:00 - 3:30 - **Talk: Braidpools**
