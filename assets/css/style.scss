@@ -158,7 +158,7 @@ h4 {
     }
 
     img {
-      height: 6vh;
+      height: 3.5rem;
       vertical-align: bottom;
     }
   }
@@ -190,6 +190,7 @@ h4 {
   }
 
   &-posts {
+    margin-top: 3rem;
     margin-bottom: 4rem;
 
     &:last-child {
@@ -233,8 +234,8 @@ h4 {
   }
 
   .meetup-link {
-    font-size: 4vh;
-    padding-bottom: 2vh;
+    font-size: 2rem;
+    padding-bottom: 1rem;
   }
 
   &-info {
