@@ -15,6 +15,14 @@ layout: default
         </span>
       {% endif %}
     </div>
-    <div class="Post-content">{{ content }}</div>
+    <div class="Post-content">
+      <div class="meetup-link">
+          <a href="{{ page.meetup }}" target="_blank" rel="noopener nofollow">
+            Sign up at meetup.com
+          </a>
+      </div>
+      {{ content }}
+    </div>
+
   </div>
 </section>

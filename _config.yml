@@ -1,7 +1,7 @@
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title
+permalink: /:title
 plugins: [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 url: https://dcbitdevs.org
 
