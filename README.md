@@ -27,7 +27,7 @@ following information:
 layout: post # Always post
 type: socratic # or whitepaper for a whitepaper series
 title: "Name of the Post"
-meetup: https://www.meetup.com/DCBitDevs/events/[event id here]/
+meetup: https://www.meetup.com/dc-bit-devs/events/[event id here]/
 ---
 ```
 
