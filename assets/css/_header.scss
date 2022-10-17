@@ -20,6 +20,11 @@
     @media (max-width: $small-screen) {
       font-size: 1.8rem;
     }
+
+    img {
+      height: 6vh;
+      vertical-align: bottom;
+    }
   }
 
   &-nav {

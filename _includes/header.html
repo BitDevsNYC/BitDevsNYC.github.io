@@ -1,7 +1,10 @@
 <header class="Header">
   <div class="Header-inner">
     <div class="Header-logo">
-      <a href="{{ site.github.url }}/">{{ site.data.settings.title }}</a>
+      <a href="{{ site.github.url }}/">
+        <img class="logo" height=100 src="/img/logo.png" />
+        {{ site.data.settings.title }}
+      </a>
     </div>
     <nav class="Header-nav">
       {% for item in site.data.settings.menu %}
