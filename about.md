@@ -4,8 +4,14 @@ layout: default
 
 BitDevs is a community for those interested in discussing and participating in
 the research and development of Bitcoin and related protocols. You can be well
-versed with or new to the topics, all are welcome. Be advised: discussion will
-be technical.
+versed with or new to the topics, all are welcome. 
+
+BitDevs was first started in NYC and has since spread to many cities around the world.
+The institution is time honored, and has served to prompt many rewarding discussion
+about Bitcoin's technical scene for many years now.
+
+Be advised: discussion will be technical! But don't let that dissuade you from coming;
+all levels of familiarity with Bitcoin are encouraged to participate.
 
 ### Socratic Seminars
 
@@ -29,27 +35,3 @@ Please contact the organizers if you'd like to present at a future Socratic
 event or have a recommended topic for discussion: dcbitdevs at gmail. There
 are different requirements for presentations depending on the nature of the
 project.
-
-### Whitepaper Series
-
-A journal club to discuss specific topics in the Bitcoin ecosystem. This is an
-academic-style journal club where one person chooses a topic or paper and
-presents it. Participants are expected to have read the paper or other material
-suggested by the discussion leader. The discussion leader doesn’t have to be an
-expert on the subject, but should be interested enough in it to read the paper
-thoroughly so as to give a decent presentation. After informally presenting the
-topic, the group can then ask questions or open discussion surrounding the
-topic. The presentation should be informal (slides are allowed, but
-whiteboard/chalkboard is preferred), and this should be a discussion, not a
-one-way transmission of information by the presenter. The reading material
-doesn’t have to be a whitepaper. In the case of widely-known topics (such as
-Elliptic Curve encryption) a chapter of a textbook, Wikipedia article, or other
-material can be suggested.
-
-To propose a topic to present or volunteer to present a paper, please contact
-dcbitdevs at gmail.
-
-### Debate Series
-
-Our debate series is dedicated to the investigation of controversial technical
-topics. The structure of the event is dependent on the topic of interest.
