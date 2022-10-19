@@ -6,9 +6,9 @@ BitDevs is a community for those interested in discussing and participating in
 the research and development of Bitcoin and related protocols. You can be well
 versed with or new to the topics, all are welcome. 
 
-BitDevs was first started in NYC and has since spread to many cities around the world.
-The institution is time honored, and has served to prompt many rewarding discussion
-about Bitcoin's technical scene for many years now.
+BitDevs was first [started in New York City](https://bitdevs.org) and has since spread
+to many cities around the world. The institution is time honored: it has facilitated
+many rewarding discussions about Bitcoin's technical scene for many years.
 
 Be advised: discussion will be technical! But don't let that dissuade you from coming;
 all levels of familiarity with Bitcoin are encouraged to participate.
