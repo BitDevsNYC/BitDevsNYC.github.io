@@ -7,8 +7,8 @@ the research and development of Bitcoin and related protocols. You can be well
 versed with or new to the topics, all are welcome. 
 
 BitDevs was first [started in New York City](https://bitdevs.org) and has since spread
-to many cities around the world. The institution is time honored: it has facilitated
-many rewarding discussions about Bitcoin's technical scene for many years.
+to cities around the world. The institution is time honored: it has facilitated
+rewarding discussions about Bitcoin's technical scene for many years.
 
 Be advised: discussion will be technical! But don't let that dissuade you from coming;
 all levels of familiarity with Bitcoin are encouraged to participate.
