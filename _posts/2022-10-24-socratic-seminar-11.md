@@ -14,6 +14,17 @@ Our newest Triangle BitDevs cohost, Jesse, will talk to us about bitcoin privacy
 Please note the new meeting location at [Carimus](https://goo.gl/maps/rBeeJa5iSqDAx7eY8).
 
 
+# Announcements
+
+- no pictures or recordings
+- chatham house rules
+- don't be a dick
+- new meetup for bitcoin builders - stay tuned
+- thank you to our sponsors Carimus and Lolli
+- [Legends of Lightning](https://makers.bolt.fun/tournaments/1/overview)
+- introductions
+
+
 # Bitcoin Core
 
 #### Bitcoin Core 24.0 Release Candidate Testing Guide
