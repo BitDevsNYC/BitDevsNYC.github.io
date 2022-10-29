@@ -5,5 +5,5 @@ menu:
   - {name: 'About', url: '/about'}
   - {name: 'Events', url: '/events'}
   - {name: 'Blog', url: '/blog'}
-  - {name: 'Meetup', url: 'https://www.meetup.com/NorfolkBitDevs/', external: true}
+  - {name: 'Meetup', url: 'https://www.meetup.com/norfolk-bitdevs/', external: true}
   - {name: 'Cities', url: '/cities'}
