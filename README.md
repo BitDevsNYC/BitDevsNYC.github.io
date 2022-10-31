@@ -21,9 +21,9 @@ following information:
 ```md
 ---
 layout: post # Always post
-type: socratic # or whitepaper for a whitepaper series
+type: socratic # or reading for a reading group series
 title: "Name of the Post"
-meetup: https://www.meetup.com/BitDevsNYC/events/[event id here]/
+meetup: https://www.meetup.com/NorfolkBitDevs/events/[event id here]/
 ---
 ```
 
