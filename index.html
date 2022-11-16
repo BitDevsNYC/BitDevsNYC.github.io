@@ -5,7 +5,7 @@ title: Home
 
 <div class="Home">
   <p class="Home-about">
-    BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.
+    Norfolk BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.
   </p>
 
   <div class="Home-posts">
@@ -13,7 +13,7 @@ title: Home
     {% assign event_posts = 7 %}
     {% assign counter = 0 %}
     {% for post in site.posts %}
-      {% if post.type == "socratic" or post.type == "whitepaper"%}
+      {% if post.type == "workshop" or post.type == "socratic" or post.type == "whitepaper"%}
         <div class="Home-posts-post">
           <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
           <span class="Home-posts-post-arrow">&raquo;</span>

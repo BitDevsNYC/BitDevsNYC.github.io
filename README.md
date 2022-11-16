@@ -21,7 +21,7 @@ following information:
 ```md
 ---
 layout: post # Always post
-type: socratic # or reading for a reading group series
+type: socratic # reading or workshop for a reading/workshop group series
 title: "Name of the Post"
 meetup: https://www.meetup.com/NorfolkBitDevs/events/[event id here]/
 ---
