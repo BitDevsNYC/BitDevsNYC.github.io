@@ -1,4 +1,4 @@
-# BitDevs NYC
+# BitDevs Amsterdam
 
 Simple Jekyll site for hosting all of the links from meetups past and future.
 
@@ -23,7 +23,7 @@ following information:
 layout: post # Always post
 type: socratic # or whitepaper for a whitepaper series
 title: "Name of the Post"
-meetup: https://www.meetup.com/BitDevsNYC/events/[event id here]/
+meetup: https://www.meetup.com/bitdevs-amsterdam/events/[event id here]/
 ---
 ```
 
