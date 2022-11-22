@@ -4,9 +4,15 @@ title: Home
 ---
 
 <div class="Home">
-  <p class="Home-about">
+    <p class="Home-about"><i>
     BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.
-  </p>
+    </i></p>
+
+    <p>BitDevs was first started in New York City and has since spread to cities around the world. The format has facilitated rewarding discussions about Bitcoin's technical scene for many years.</p>
+
+    <p>It is engaging and open: each meetup is led by a panel of active Bitcoin contributors, but audience participation is encouraged for a bidirectional exploration of current topics in the Bitcoin ecosystem.</p>
+
+    <p>All levels of technical ability and familiarity with Bitcoin are encouraged to come and participate. We're here to discuss the state of the network from fundamentals up.</p> 
 
   <div class="Home-posts">
     <h2 class="Home-posts-title">Upcoming and Recent Events</h2>
@@ -26,24 +32,5 @@ title: Home
       {% endif %}
     {% endfor %}
     <p><a href="/events.html">See all events</a></p>
-  </div>
-  <div class="Home-posts">
-    <h2 class="Home-posts-title">Recent Blog Posts</h2>
-    {% assign blog_posts = 3 %}
-    {% assign counter = 0 %}
-    {% for post in site.posts %}
-      {% if post.type == "blog" %}
-        <div class="Home-posts-post">
-          <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
-          &raquo;
-          <a class="Home-posts-post-title" href="{{ post.url }}">{{ post.title }}</a>
-        </div>
-        {% assign counter = counter | plus: 1 %}
-        {% if counter == blog_posts %}
-          {% break %} {% comment %}exit the for loop{% endcomment %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-    <p><a href="/blog.html">See all blog posts</a></p>
   </div>
 </div>
