@@ -4,6 +4,4 @@ tagline: 'BitDevs is a community for those interested in discussing and particip
 menu:
   - {name: 'About', url: '/about'}
   - {name: 'Events', url: '/events'}
-  - {name: 'Blog', url: '/blog'}
   - {name: 'Meetup', url: 'https://www.meetup.com/bitdevs-amsterdam/', external: true}
-  - {name: 'Cities', url: '/cities'}
