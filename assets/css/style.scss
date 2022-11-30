@@ -245,26 +245,40 @@ h4 {
     margin-left: 0.7rem;
   }
 
-  .meetup-link {
-    font-size: 2rem;
-    padding-bottom: 1rem;
+  .meetup-signup-link {
+    font-size: 1.4rem;
   }
 
-  &-info {
+  div.title-container {
     display: flex;
-    font-size: 0.8rem;
-    opacity: 0.7;
-    margin-bottom: 2rem;
+    flex-direction: row;
+    margin-bottom: 3rem;
 
-    > * {
-      &:after {
-        content: '·';
-        margin: 0 0.5rem;
-        opacity: 0.5;
-      }
+    div.left {
+      flex-basis: 50%;
+    }
 
-      &:last-child:after {
-        display: none;
+    div.right {
+      float: right;
+      text-align: right;
+      flex-basis: 50%;
+    }
+
+    .Post-info {
+      display: flex;
+      opacity: 0.7;
+      margin-bottom: 2rem;
+
+      > * {
+	&:after {
+	  content: '·';
+	  margin: 0 0.5rem;
+	  opacity: 0.5;
+	}
+
+	&:last-child:after {
+	  display: none;
+	}
       }
     }
   }
