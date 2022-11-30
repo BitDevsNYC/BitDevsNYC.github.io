@@ -1,8 +1,8 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar 118 (draft)"
-meetup: TODO
+title: "Socratic Seminar 118"
+meetup: https://www.meetup.com/bitdevsnyc/events/289485929/
 ---
 
 
@@ -53,10 +53,14 @@ Labs](https://chaincode.com) for food, refreshments and event space.
 ### Optech
 
 - [Newsletter #224](https://bitcoinops.org/en/newsletters/2022/11/02/)
+- [Audio Recap #224](https://twitter.com/bitcoinoptech/status/1588184133263626241)
 - [Newsletter #225](https://bitcoinops.org/en/newsletters/2022/11/09/)
+- [Audio Recap #225](https://twitter.com/bitcoinoptech/status/1590720275985108992)
 - [Newsletter #226](https://bitcoinops.org/en/newsletters/2022/11/16/)
-- [Newsletter #228](https://bitcoinops.org/en/newsletters/2022/11/23/)
-- [Newsletter #229](https://bitcoinops.org/en/newsletters/2022/11/30/)
+- [Audio Recap #226](https://twitter.com/bitcoinoptech/status/1593257546806091776)
+- [Newsletter #227](https://bitcoinops.org/en/newsletters/2022/11/23/)
+- [Audio Recap #227](https://twitter.com/bitcoinoptech/status/1595431309077352448)
+- [Newsletter #228](https://bitcoinops.org/en/newsletters/2022/11/30/)
 
 ## Network Data
 
