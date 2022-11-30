@@ -7,7 +7,7 @@ meetup: https://www.meetup.com/bitdevsnyc/events/289485929/
 
 
 ## Announcements
-Please join us for our next Socratic Seminar. We have two exciting announcements this month! Now that Andre and Zebedee have left for BitDevs LA, we have a new moderator, Matthew Zipkin, as well as a new pizza sponsor, [Wolf NYC](https://wolfnyc.com/). We'll also be meeting at the Chaincode Labs this month as opposed to the DuMonth building. Please make sure you are RSVP'd, an identifier (but not a full name) is required for entry. 
+Please join us for our next Socratic Seminar. We have two exciting announcements this month! Now that Andre and Zebedee have left for BitDevs LA, we have a new moderator, Matthew Zipkin, as well as a new pizza sponsor, [Wolf NYC](https://wolfnyc.com/). We'll also be meeting at the Chaincode Labs office this month as opposed to the DuMonth building. Please make sure you are RSVP'd, an identifier (but not a full name) is required for entry.
 
 As always, a special thank you to our other sponsors [CardCoins](https://cardcoins.co) and [Chaincode Labs](https://chaincode.com) for refreshments and event space.
 
