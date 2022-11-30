@@ -1,5 +1,4 @@
 # Build settings
-baseurl: /bitdevsamsterdam.github.io
 url: https://bitdevsamsterdam.github.io
 markdown: kramdown
 highlighter: rouge
