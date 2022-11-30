@@ -7,7 +7,7 @@ meetup: https://www.meetup.com/bitdevsnyc/events/289485929/
 
 
 ## Announcements
-Please join us for our next Socratic Seminar. We have two exciting announcements this month! Now that Andre and Zebedee have left for BitDevs LA, we have a new moderator, Matthew Zipkin, as well as a new pizza sponsor, [Wolf NYC](https://wolfnyc.com/). We'll also be meeting at the Chaincode Labs office this month as opposed to the DuMonth building. Please make sure you are RSVP'd, an identifier (but not a full name) is required for entry.
+Please join us for our next Socratic Seminar. We have two exciting announcements this month! Now that Andre and Zebedee have left for BitDevs LA, we have a new moderator, [Matthew Zipkin](https://twitter.com/MatthewZipkin), as well as a new pizza sponsor, [Wolf NYC](https://wolfnyc.com/). We'll also be meeting at the Chaincode Labs office this month as opposed to the DuMonth building. Please make sure you are RSVP'd, an identifier (but not a full name) is required for entry.
 
 As always, a special thank you to our other sponsors [CardCoins](https://cardcoins.co) and [Chaincode Labs](https://chaincode.com) for refreshments and event space.
 
@@ -30,6 +30,8 @@ As always, a special thank you to our other sponsors [CardCoins](https://cardcoi
 
 #### dlc-ml
 
+- [DLC without pre-committed R values](https://mailmanlists.org/pipermail/dlc-dev/2022-November/000167.html)
+
 ### Meetings
 - Bitcoin PR Review Club
   - [26140 Move CNodeState members guarded by g_msgproc_mutex to Peer (p2p, refactoring)](https://bitcoincore.reviews/26140)
@@ -40,12 +42,9 @@ As always, a special thank you to our other sponsors [CardCoins](https://cardcoi
   - [November 3rd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-11-03.html#l-263)
   - [November 10th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-11-10.html#l-348)
   - [November 17th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-11-17.html#l-180)
-  - November 24th – no meeting
 - Bitcoin Core wallet meetings
   - [November 4th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-11-04.html#l-237)
   - [November 18th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-11-18.html#l-244)
-- dlc-specs meetings
-  - No meeting notes
 - Lightning specification meetings
   - [November 7th](https://github.com/lightning/bolts/issues/1038)
   - [November 21th](https://github.com/lightning/bolts/issues/1041)
@@ -132,6 +131,17 @@ Anonymity Schemes Used by Cryptocurrencies](https://arxiv.org/pdf/2201.11860.pdf
 - [Accept feerate increases even if they aren't high enough for us](https://github.com/lightningdevkit/rust-lightning/pull/1852)
 
 ## New Releases
+
+- [bdk v0.24.0](https://github.com/bitcoindevkit/bdk/releases/tag/v0.24.0) - signature grinding
+- [bitcoin-s 1.9.7](https://github.com/bitcoin-s/bitcoin-s/releases/tag/1.9.7) - support v0 dlc format 
+- [Bitcoin Core v24.0](https://github.com/bitcoin/bitcoin/releases/tag/v24.0) - mempoolfullrbf, sendall rpc, DoS fixes, more
+- [blixt-wallet v0.6.0](https://github.com/hsjoberg/blixt-wallet/releases/tag/v0.6.0) - taproot support
+- [elements v 22.0.2](https://github.com/ElementsProject/elements/releases/tag/elements-22.0.2) - bring up to date with Bitcoin Core v22.0, improvements to PSET
+- [getAlby v1.19.0](https://github.com/getAlby/lightning-browser-extension/releases/tag/v1.19.0) - Core Lightning support
+- [jet v1.5.3](https://github.com/itsneski/lightning-jet/releases/tag/v1.5.3-liquidity), [v1.5.4](https://github.com/itsneski/lightning-jet/releases/tag/v1.5.4-probes) - liquidity allocation optimization, liquidity discovery tool
+- [lnd v0.15.5-beta.rc2](https://github.com/lightningnetwork/lnd/releases/tag/v0.15.5-beta.rc2) - taproot change addresses default
+- [nolooking](https://github.com/chaincase-app/nolooking) - open multiple channels in one transaction
+- [RTL v0.13.2-beta](https://github.com/Ride-The-Lightning/RTL/releases/tag/v0.13.2) - taproot receive addresses, AMP invoices, more
 
 ## Events and Podcasts
 
