@@ -32,14 +32,23 @@ Labs](https://chaincode.com) for food, refreshments and event space.
 
 ### Meetings
 - Bitcoin PR Review Club
-
+  - [26140 Move CNodeState members guarded by g_msgproc_mutex to Peer (p2p, refactoring)](https://bitcoincore.reviews/26140)
+  - [23897 Move calculation logic out from `CheckSequenceLocksAtTip()` (refactoring, validation, mempool)](https://bitcoincore.reviews/23897)
+  - [25261 fetch multiple headers in getblockheader() (rpc)](https://bitcoincore.reviews/25261)
+  - [26152 Bump unconfirmed ancestor transactions to target feerate (wallet)](https://bitcoincore.reviews/26152)
 - Bitcoin Core general developer meetings
-
+  - [November 3rd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-11-03.html#l-263)
+  - [November 10th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-11-10.html#l-348)
+  - [November 17th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-11-17.html#l-180)
+  - November 24th – no meeting
 - Bitcoin Core wallet meetings
-
+  - [November 4th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-11-04.html#l-237)
+  - [November 18th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-11-18.html#l-244)
 - dlc-specs meetings
-
+  - No meeting notes
 - Lightning specification meetings
+  - [November 7th](https://github.com/lightning/bolts/issues/1038)
+  - [November 21th](https://github.com/lightning/bolts/issues/1041)
 
 ### Optech
 
