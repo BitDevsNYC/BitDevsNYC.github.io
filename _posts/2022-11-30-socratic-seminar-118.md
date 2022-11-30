@@ -95,13 +95,10 @@ Anonymity Schemes Used by Cryptocurrencies](https://arxiv.org/pdf/2201.11860.pdf
 
 - [Improve runtime performance of --reindex](https://github.com/bitcoin/bitcoin/pull/16981)
 
-### secp256k1-zkp
-
-- [Enable non-experimental modules by default](https://github.com/bitcoin-core/secp256k1/pull/993)
-
 ### secp256k1
 
 - [Enable non-experimental modules by default](https://github.com/bitcoin-core/secp256k1/pull/993)
+- [https://github.com/bitcoin-core/secp256k1/pull/1156](https://github.com/bitcoin-core/secp256k1/pull/1156)
 
 ### lnd
 
