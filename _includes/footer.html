@@ -3,8 +3,10 @@
     ==============================================================================================================================================================
   </div>
   <div class="Footer-inner">
-    <div class="Footer-source">
-      <a href="https://github.com/BitDevs-Amsterdam/bitdevsamsterdam.github.io" target="_blank" rel="noopener nofollow">Source available on Github</a>
+    <div class="Footer-social">
+        {% for item in site.data.settings.social %}
+            <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+        {% endfor %}
     </div>
     <div class="Footer-rss">
       <a href="/feed.xml">RSS Feed</a>

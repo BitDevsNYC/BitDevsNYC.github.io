@@ -5,3 +5,9 @@ menu:
   - {name: 'About', url: '/about'}
   - {name: 'Events', url: '/events'}
   - {name: 'Meetup', url: 'https://www.meetup.com/bitdevs-amsterdam/', external: true}
+
+social:
+  - {icon: 'github', link: 'https://www.github.com/bitdevsamsterdam/bitdevsamsterdam.github.io'}
+  - {icon: 'twitter', link: 'https://twitter.com/BitDevsAms'}
+  - {icon: 'envelope', link: 'mailto:bitdevsamsterdam@proton.me'}
+  - {icon: 'meetup', link: 'https://www.meetup.com/bitdevs-amsterdam'}
