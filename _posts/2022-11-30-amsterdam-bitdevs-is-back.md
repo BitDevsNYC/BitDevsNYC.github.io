@@ -43,9 +43,9 @@ within the event.
 * [BIP324](https://github.com/bitcoin/bips/pull/1378) - v2 P2P transport protocol
 
 ## Research
-* Merkalize All The Things (MATT) - covenant proposal
+* Merkleize All The Things (MATT) - covenant proposal
   * [https://merkle.fun/](https://merkle.fun/)
-* Bitcoin Contracting Primatives working group
+* Bitcoin Contracting Primitives working group
   * [https://github.com/ariard/bitcoin-contracting-primitives-wg](https://github.com/ariard/bitcoin-contracting-primitives-wg)
 
 ## Misc
