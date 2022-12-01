@@ -26,7 +26,7 @@ recorded. It is recommended that you have a firm grasp of the basics of Bitcoin
 in order to extract the most value from our Socratic events.
 
 Please contact the organizers if you'd like to present at a future Socratic
-event or have a recommended topic for discussion: bitdevsnyc at gmail. There
+event or have a recommended topic for discussion: **bitdevsamsterdam at proton.me**. There
 are different requirements for presentations depending on the nature of the
 project.
 
@@ -47,7 +47,7 @@ Elliptic Curve encryption) a chapter of a textbook, Wikipedia article, or other
 material can be suggested.
 
 To propose a topic to present or volunteer to present a paper, please contact
-bitdevsnyc at gmail.
+**bitdevsamsterdam at proton.me**.
 
 ### Debate Series
 
