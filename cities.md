@@ -15,6 +15,7 @@ As a disclaimer, BitDevs NYC has no official associations with or oversight of t
 - [Atlanta](https://atlantabitdevs.org/)
 - [Austin](https://austinbitdevs.com/)
 - [Berlin](https://bitdevs.berlin/)
+- [Boston](https://bostonbitdevs.org/)
 - [Chicago](https://chibitdevs.org/)
 - [Denver](http://denverbitdevs.com/)
 - [Honolulu](http://www.honolulubitdevs.com/)
