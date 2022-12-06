@@ -26,3 +26,4 @@ As a disclaimer, BitDevs NYC has no official associations with or oversight of t
 - [Taipei](https://bitdevs.tw/)
 - [Tampa](https://tampabitdevs.io/)
 - [Vancouver](https://bitdevs.ca/)
+- [Washington, D.C.](https://dcbitdevs.org/)
