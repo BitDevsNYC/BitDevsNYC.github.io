@@ -28,20 +28,20 @@ We will be meeting at the Chaincode Labs office this month as opposed to the DuM
 
 - Bitcoin PR Review Club
     - [25574 Improve error handling when VerifyDB fails due to insufficient dbcache (validation)](https://bitcoincore.reviews/25574)
-    - TODO: Dec 14th meeting
+    - [26631 add coverage for dust mempool policy (-dustrelayfee setting) (tests)](https://bitcoincore.reviews/26631)
 - Bitcoin Core general developer meetings
-	- [December 1st](https://www.erisian.com.au/bitcoin-core-dev/log-2021-12-01.html#255)
-	- [December 8th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-12-08.html#TODO)
+	- [December 1st](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-01.html#255)
+	- [December 8th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-08.html#206)
 - Bitcoin Core wallet meetings
-	- [December 2nd](https://www.erisian.com.au/bitcoin-core-dev/log-2021-12-02.html#313)
+	- [December 2nd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-02.html#313)
 - Lightning Specification meeting
     - [December 5th](https://github.com/lightning/bolts/issues/1046)
 
 ### Optech
 
 - [Newsletter #228 audio recap](https://twitter.com/bitcoinoptech/status/1598330653958963207)
-- [Newsletter #229](https://bitcoinops.org/en/newsletters/2022/12/07/), [audio recap](TODO)
-- [Newsletter #230](https://bitcoinops.org/en/newsletters/2022/12/14/), [audio recap](TODO)
+- [Newsletter #229](https://bitcoinops.org/en/newsletters/2022/12/07/), [audio recap](https://twitter.com/bitcoinoptech/status/1600867081225764864)
+- [Newsletter #230](https://bitcoinops.org/en/newsletters/2022/12/14/), [audio recap](https://twitter.com/bitcoinoptech/status/1602978833057161216)
 
 ## Network Data
 
