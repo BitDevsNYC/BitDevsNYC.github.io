@@ -11,7 +11,7 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 We will be meeting at the Chaincode Labs office again! Please make sure you are RSVP'd, an identifier (but not a full name) is required for entry.
 
-If you can't make it to the main event please join us at PUBKEY around 9:30PM EST. **Learn about this awesome new establishment [here](https://ny.eater.com/2022/12/13/23494423/pubkey-opening-manhattan-bitcoin-bar).**
+If you can't make it to the main event please join us at PUBKEY around 9:30PM. **Learn about this awesome new establishment [here](https://ny.eater.com/2022/12/13/23494423/pubkey-opening-manhattan-bitcoin-bar).**
 
 ## Presentation
 
@@ -145,7 +145,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM ES
 - [Coinmetric's State of the Network’s Q4 2022 Mining Data Special](https://coinmetrics.substack.com/p/state-of-the-network-issue-185#new_tab)
 - [How Does the Current Bitcoin Mining Bear Market Compare to Previous Ones?](https://hashrateindex.com/blog/how-does-the-current-bitcoin-mining-bear-market-compare-to-previous-ones/)
 - [November monthly performance: Argo, Bitfarms, DMG and more](https://compassmining.io/education/mining-stock-roundup-november-monthly-numbers/)
-- [Old signature posted on bitcointalk](https://bitcointalk.org/index.php?topic=5421158.msg61353840#msg61353840)
 
 ## Miscellaneous
 
@@ -158,6 +157,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM ES
 - [LiquiDEX v1: Solving the Range Proof Issue](https://blog.blockstream.com/liquidex-v1-solving-the-rangeproof-issue/)
 - [Merged Mining Part 1](https://bitslog.com/2022/11/22/merged-mining-part-i/)
 - [NYDIG research on bitcoin development](https://assets-global.website-files.com/614e11536f66309636c98688/63208342664438223226c3de_NYDIG%20-%20Developers%20of%20Bitcoin%202022.pdf)
+- [Old signature posted on bitcointalk](https://bitcointalk.org/index.php?topic=5421158.msg61353840#msg61353840)
 - [Scaling Bitcoin with Lightning as a Service (LaaS)](https://medium.com/breez-technology/scaling-bitcoin-with-lightning-as-a-service-laas-369e7e6f6cb2)
 - [Someone trolling Martin Shkreli with Hal Finney's private key](https://martinshkreli.substack.com/p/paul-le-roux-is-satoshi)
 - [This Month in Bitcoin Privacy](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/November_2022/)
