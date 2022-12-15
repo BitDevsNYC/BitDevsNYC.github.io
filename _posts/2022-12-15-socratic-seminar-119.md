@@ -133,6 +133,12 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM ES
 
 ## Events and Podcasts
 
+- [APAC BitDevs - Cryptographic Oracle-Based Conditional Payments](https://www.youtube.com/watch?v=hCjbStBKCEQ)
+- [Bitcoin, Explained 69: The Tornado Cash Trial](https://anchor.fm/bitcoin-explained/episodes/Bitcoin--Explained-69-The-Tornado-Cash-Trial-e1rl2lp)
+- [CD82: Bitcoin Lightning Privacy Research + Browser Based Mutiny Wallet with Ben Carman, Paul Miller, and Tony](https://www.podpage.com/citadeldispatch/cd82-bitcoin-lightning-privacy-research-browser-based-mutiny-wallet-with-ben-carman-paul-miller-and-tony/)
+- [CoreDev.tech 2022 Transcripts](https://diyhpl.us/wiki/transcripts/bitcoin-core-dev-tech/)
+- [SLP438 Lawrence Nahum - RBF, Green, Jade, BuildonL2](https://anchor.fm/stephan-livera/episodes/SLP438-Lawrence-Nahum---RBF--Green--Jade--BuildonL2-e1rtm3o)
+- [SLP439 Federico Tenga - What is RGB for Bitcoin? & Iris wallet](https://anchor.fm/stephan-livera/episodes/SLP439-Federico-Tenga---What-is-RGB-for-Bitcoin---Iris-wallet-e1ruvr5)
 
 ## Mining
 
