@@ -7,7 +7,7 @@ meetup: https://www.meetup.com/norfolk-bitdevs/events/
 
 ## Announcements
 
-👋 Please join us for our **first ever** Socratic Seminar. A special thank you to [AssemblyNFK](https://cardcoins.co) for the event space! 🙏
+👋 Please join us for our **first ever** Socratic Seminar. A special thank you to [AssemblyNFK](https://www.assemblynfk.com) for the event space! 🙏
 
 We will be meeting at Assembly again! Please make sure you are RSVP'd for entry via Meetup.
 
