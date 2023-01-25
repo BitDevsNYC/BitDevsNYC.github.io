@@ -16,10 +16,15 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
-- <!--- TODO: https://lists.linuxfoundation.org/pipermail/bitcoin-dev --->
+
+- [OP_VAULT: a new vault proposal](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021318.html) 
+- [Serverless Payjoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021364.html)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
+
+- [Swap-in-Potentiam: Moving Onchain Funds "Instantly" To Lightning](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003810.html)
+- [Efficient Factories For Lightning Channels](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003827.html)
+- [A security review of Validating Lightning Signer architecture and code](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003829.html)
 
 #### [dlc-dev](https://mailmanlists.org/pipermail/dlc-dev)
 -
@@ -51,7 +56,10 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 -
 
 ### InfoSec
--
+
+- [LastPass hacked](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/)
+- [LukeDashjr server hacked, postmortem analysis by "lordx64"](https://lordx64.medium.com/multiple-linux-backdoors-discovered-targeting-bitcoin-core-developer-technical-analysis-793f8491f561)
+
 
 ## Pull Requests and repo updates
 ### [BDK](https://github.com/bitcoindevkit/bdk)
@@ -61,7 +69,10 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 -
 
 ### [BLIPs](https://github.com/lightning/blips)
--
+
+- [Inbound routing fees using `channel_update` by Joost Jager](https://github.com/lightning/blips/pull/18)
+- [Backwards-compatible inbound fees using `inbound_fees_update` by Matt Corallo](https://github.com/lightning/blips/pull/22)
+
 
 ### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
 -
@@ -110,4 +121,5 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 -
 
 ## Miscellaneous
--
+
+- [Layer 2 Labs raises $3M to build drivechains](https://www.coindesk.com/tech/2022/12/20/bitcoin-development-company-layer-2-labs-raises-3m-to-bring-drivechains-to-network/)
