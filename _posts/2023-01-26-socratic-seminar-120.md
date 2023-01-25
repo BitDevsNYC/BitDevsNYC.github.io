@@ -8,7 +8,7 @@ meetup: "https://www.meetup.com/bitdevsnyc/events/290899790/"
 ## Announcements
 Please join us for our next Socratic Seminar. A special thank you to our sponsors [CardCoins](https://cardcoins.co), [Chaincode Labs](https://chaincode.com) and [Wolf NYC](https://wolfnyc.com) for food, refreshments and event space.
 
-If you can't make it to the main event please join us at PUBKEY around 9:30PM. **Learn about this awesome new establishment [here](https://ny.eater.com/2022/12/13/23494423/pubkey-opening-manhattan-bitcoin-bar).**
+If you can’t make it to the main event please join us at PUBKEY around 9:30PM. **Learn about this awesome new establishment [here](https://ny.eater.com/2022/12/13/23494423/pubkey-opening-manhattan-bitcoin-bar).**
 
 ## Presentation
 -
@@ -17,7 +17,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
 
-- [OP_VAULT: a new vault proposal](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021318.html) 
+- [OP\_VAULT: a new vault proposal](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021318.html)
 - [Serverless Payjoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021364.html)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
@@ -31,22 +31,31 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-    - <!--- TODO replace: [25574 Improve error handling when VerifyDB fails due to insufficient dbcache (validation)](https://bitcoincore.reviews/25574) --->
+    - [26695 bench BlockAssembler on a mempool with packages (bench)](https://bitcoincore.reviews/26695)
+    - [26742 Track active requests and wait for last to finish (rpc/rest/zmq)](https://bitcoincore.reviews/26742)
+    - [26697 logging: use std::bitset for categories (utils/log/libs)](https://bitcoincore.reviews/26697)
+    - [26347 wallet: ensure the wallet is unlocked when needed for rescanning (wallet)](https://bitcoincore.reviews/26347)
 - Bitcoin Core general developer meetings
-    - <!--- TODO replace: [December 1st](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-01.html#255) --->
+	- [December 15th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-15.html#197)
+	- [December 22nd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-15.html#206)
+	- [January 5th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-05.html#115)
+	- [January 12th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-12.html#314)
+	- [January 19th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-19.html#337)
+	- [January 26th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-26.html#337) <!---TODO: fix line --->
 - Bitcoin Core wallet meetings
-    - <!--- TODO replace: [December 2nd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-02.html#313) --->
+	- [December 16th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-16.html#281)
+	- [January 13th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-13.html#404)
 - Lightning Specification meeting
-    - <!--- TODO replace: [December 5th](https://github.com/lightning/bolts/issues/1046) --->
-- Core Lightning Developer Call
-    - <!--- TODO replace: [September 20th](https://diyhpl.us/wiki/transcripts/c-lightning/2021-09-20-developer-call/) --->
-- dlc-specs meetings
-    - <!--- TODO replace: [October 5th](https://github.com/discreetlogcontracts/dlcspecs/pull/175) --->
-- Lightning specification meetings
-    - <!--- TODO replace: [October 11th](https://github.com/lightningnetwork/lightning-rfc/issues/920) --->
+    - [December 19th](https://github.com/lightning/bolts/issues/1047)
+    - [January 2nd](https://github.com/lightning/bolts/issues/1048)
+    - [January 16th](https://github.com/lightning/bolts/issues/1050)
 
 ### Optech
-- <!--- TODO replace: [Newsletter #229](https://bitcoinops.org/en/newsletters/2022/12/07/), [audio recap](https://twitter.com/bitcoinoptech/status/1600867081225764864) --->
+- [Newsletter #231: 2022 Year-in-Review Special](https://bitcoinops.org/en/newsletters/2022/12/21/), [audio recap](https://twitter.com/bitcoinoptech/status/1605941173452824576)
+- [Newsletter #232](https://bitcoinops.org/en/newsletters/2023/01/04/), [audio recap](https://twitter.com/bitcoinoptech/status/1611014435962855427)
+- [Newsletter #233](https://bitcoinops.org/en/newsletters/2023/01/11/), [audio recap](https://twitter.com/bitcoinoptech/status/1613551393628995584)
+- [Newsletter #234](https://bitcoinops.org/en/newsletters/2023/01/18/), [audio recap](https://twitter.com/bitcoinoptech/status/1616087744077508613)
+- [Newsletter #235](https://bitcoinops.org/en/newsletters/2023/01/25/), [audio recap](https://twitter.com/bitcoinoptech/status/1618203837000749056)
 
 ## Network Data
 -
@@ -123,3 +132,4 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 ## Miscellaneous
 
 - [Layer 2 Labs raises $3M to build drivechains](https://www.coindesk.com/tech/2022/12/20/bitcoin-development-company-layer-2-labs-raises-3m-to-bring-drivechains-to-network/)
+- [rot13maxi’s thread on BSV’s confiscation transactions](https://twitter.com/rot13maxi/status/1613721169257021442)
