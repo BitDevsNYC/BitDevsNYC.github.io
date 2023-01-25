@@ -11,8 +11,6 @@ meetup: "https://www.meetup.com/BitDevsNYC/"
 ## Announcements
 Please join us for our next Socratic Seminar. A special thank you to our sponsors [CardCoins](https://cardcoins.co), [Chaincode Labs](https://chaincode.com) and [Wolf NYC](https://wolfnyc.com) for food, refreshments and event space.
 
-We will be meeting at the Chaincode Labs office again! Please make sure you are RSVP'd, an identifier (but not a full name) is required for entry.
-
 If you can't make it to the main event please join us at PUBKEY around 9:30PM. **Learn about this awesome new establishment [here](https://ny.eater.com/2022/12/13/23494423/pubkey-opening-manhattan-bitcoin-bar).**
 
 ## Presentation
@@ -71,9 +69,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 ### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
 -
 
-### [BTCPay Server](https://github.com/btcpayserver/btcpayserver)
--
-
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 -
 
@@ -83,13 +78,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 ### [HWI](https://github.com/bitcoin-core/HWI)
 -
 
-### [Joinmarket](https://github.com/JoinMarket-Org/joinmarket-clientserver)
--
-
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
-
-### [Wasabi](https://github.com/zkSNACKs/WalletWasabi)
 -
 
 ### [dlcspecs](https://github.com/discreetlogcontracts/dlcspecs)
