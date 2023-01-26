@@ -173,14 +173,19 @@ Efficient DeFi Applications on Bitcoin-based Blockchains](https://eprint.iacr.or
 -
 
 ## Events and Podcasts
+- [Bitcoin Explained 70: Bitcoin Core v24 Bug](https://anchor.fm/bitcoin-explained/episodes/Bitcoin-Explained-70-Bitcoin-Core-v24-Bug-e1st05o)
 - [Bitcoin, Explained 71: Timelocks](https://anchor.fm/bitcoin-explained/episodes/Bitcoin--Explained-71-Timelocks-e1tp0ml)
+- [CD86: Miniscript with Rob, Vivek, and NVK](https://anchor.fm/citadeldispatch/episodes/CD86-Miniscript-with-Rob--Vivek--and-NVK-e1tbrso)
 - [Kevin Rooke E89 - Ben Carman on Lightning Privacy, Building Mutiny, and Browser-Based Lightning Wallets ](https://www.youtube.com/watch?v=LLH2QYnyDZg)
+- [Kevin Rooke E90 - Evan Kaloudis on Building Zeus, Lightning Self Custody, Open Source Funding, Tor, and Taro](https://www.youtube.com/watch?v=3ZwulMdW8uY)
+- [Kevin Rooke E91 - Calle on Open Source Software, Lightning Development, LNBits, Cashu, & More](https://www.youtube.com/watch?v=Ikhf5GwVD8Y)
 - [Kevin Rooke E92 - John Carvalho on Synonym, Blocktank, Bitkit, Pear Credit, Slashtags, and Hyper-Bitcoinization](https://www.youtube.com/watch?v=mKVc53JlQcE)
 - [Kevin Rooke E93 - Drivechain and the Side Effects of Bitcoin's Blocksize War](https://www.youtube.com/watch?v=ofsgd-Wa1Wo), [Crypto Voice 142](https://podcasts.apple.com/us/podcast/show-142-paul-sztorc-layer-2-labs/id1193136560?i=1000591694691)
 - [SLP449 James O’Beirne OP_Vault - A New Way to HODL?](https://anchor.fm/stephan-livera/episodes/SLP449-James-OBeirne-OP_Vault---A-New-Way-to-HODL-e1tfo3j), [TFTC 388](https://anchor.fm/tales-from-the-crypt/episodes/388-OP_VAULT-and-Bitcoin-Governance-with-James-OBeirne-e1tipug)
 - [SLP450 Bitcoin Developer Education Overview with Josibake](https://anchor.fm/stephan-livera/episodes/SLP450-Bitcoin-Developer-Education-Overview-with-Josibake-e1tleku)
 - [SLP452 Bitcoin Miniscript and what it enables - with Antoine Poinsot & Salvatore Ingala](https://anchor.fm/stephan-livera/episodes/SLP452-Bitcoin-Miniscript-and-what-it-enables---with-Antoine-Poinsot--Salvatore-Ingala-e1tsvt7)
 - [TABConf 2022](https://www.youtube.com/@tabconf/videos)
+- [TFTC #387: Building Lightning Network Infrastructure with Graham Krizek from Voltage](https://anchor.fm/tales-from-the-crypt/episodes/387-Building-Lightning-Network-Infrastructure-with-Graham-Krizek-from-Voltage-e1tbuf3)
 - [The Summer of Bitcoin Experience - EP1 - Anmol Sharma](https://www.youtube.com/watch?v=lDm-YPzacxU)
 - [Vancouver BitDevs Socratic Seminar 008](https://www.youtube.com/watch?v=4-ApUBo4FcY)
 
