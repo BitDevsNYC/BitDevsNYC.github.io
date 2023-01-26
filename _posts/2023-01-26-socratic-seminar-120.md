@@ -173,14 +173,23 @@ Efficient DeFi Applications on Bitcoin-based Blockchains](https://eprint.iacr.or
 -
 
 ## Events and Podcasts
--
+- [Bitcoin, Explained 71: Timelocks](https://anchor.fm/bitcoin-explained/episodes/Bitcoin--Explained-71-Timelocks-e1tp0ml)
+- [Kevin Rooke E89 - Ben Carman on Lightning Privacy, Building Mutiny, and Browser-Based Lightning Wallets ](https://www.youtube.com/watch?v=LLH2QYnyDZg)
+- [Kevin Rooke E92 - John Carvalho on Synonym, Blocktank, Bitkit, Pear Credit, Slashtags, and Hyper-Bitcoinization](https://www.youtube.com/watch?v=mKVc53JlQcE)
+- [Kevin Rooke E93 - Drivechain and the Side Effects of Bitcoin's Blocksize War](https://www.youtube.com/watch?v=ofsgd-Wa1Wo), [Crypto Voice 142](https://podcasts.apple.com/us/podcast/show-142-paul-sztorc-layer-2-labs/id1193136560?i=1000591694691)
+- [SLP449 James O’Beirne OP_Vault - A New Way to HODL?](https://anchor.fm/stephan-livera/episodes/SLP449-James-OBeirne-OP_Vault---A-New-Way-to-HODL-e1tfo3j), [TFTC 388](https://anchor.fm/tales-from-the-crypt/episodes/388-OP_VAULT-and-Bitcoin-Governance-with-James-OBeirne-e1tipug)
+- [SLP450 Bitcoin Developer Education Overview with Josibake](https://anchor.fm/stephan-livera/episodes/SLP450-Bitcoin-Developer-Education-Overview-with-Josibake-e1tleku)
+- [SLP452 Bitcoin Miniscript and what it enables - with Antoine Poinsot & Salvatore Ingala](https://anchor.fm/stephan-livera/episodes/SLP452-Bitcoin-Miniscript-and-what-it-enables---with-Antoine-Poinsot--Salvatore-Ingala-e1tsvt7)
+- [TABConf 2022](https://www.youtube.com/@tabconf/videos)
+- [The Summer of Bitcoin Experience - EP1 - Anmol Sharma](https://www.youtube.com/watch?v=lDm-YPzacxU)
+- [Vancouver BitDevs Socratic Seminar 008](https://www.youtube.com/watch?v=4-ApUBo4FcY)
 
 ## Mining
 - Bitcon Mining Around the World - [Sweden](https://hashrateindex.com/blog/bitcoin-mining-around-the-world-sweden/), [Norway](https://hashrateindex.com/blog/bitcoin-mining-around-the-world-norway/)
 - [Canada Has Declared A Local War On Bitcoin Mining](https://bitcoinmagazine.com/business/canada-cracking-down-on-bitcoin-mining)
 - [Debt Capital Markets in Bitcoin Mining (Part 1)](https://braiins.com/blog/debt-capital-markets-in-bitcoin-mining-part-1)
 - [First nuclear-powered data centre at Susquehanna completed](https://www.world-nuclear-news.org/Articles/First-nuclear-powered-data-centre-at-Susquehanna-c)
-- [Gorillas, militias, and Bitcoin: Why Congo’s most famous national park is betting big on crypto](https://www.technologyreview.com/2023/01/13/1066820/cryptocurrency-bitcoin-mining-congo-virunga-national-park/)
+- [Gorillas, militias, and Bitcoin: Why Congo’s most famous national park is betting big on crypto](https://www.technologyreview.com/2023/01/13/1066820/cryptocurrency-bitcoin-mining-congo-virunga-national-park/), [podcast](https://anchor.fm/tales-from-the-crypt/episodes/389-Hydroelectric-Bitcoin-Mining-is-Changing-Lives-in-Congos-National-Park-with-Adam-Popescu-e1tk9np)
 - [Hashrate Index 2022 Year In
 Review](https://hashrateindex.com/blog/hashrate-index-2022-bitcoin-mining-year-in-review/)
 - [Japan’s Largest Power Company Will Mine Bitcoin With Excess Energy ](https://www.btctimes.com/news/japans-largest-power-company-will-mine-bitcoin-with-excess-energy)
