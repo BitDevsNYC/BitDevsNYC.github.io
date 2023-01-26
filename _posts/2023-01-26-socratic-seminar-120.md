@@ -83,52 +83,55 @@ If you can’t make it to the main event please join us at PUBKEY around 9:30PM.
 
 
 ## Pull Requests and repo updates
-### [BDK](https://github.com/bitcoindevkit/bdk)
--
-
 ### [BIPs](https://github.com/bitcoin/bips)
 - [Add BIP324: v2 P2P Transport Protocol](https://github.com/bitcoin/bips/pull/1378)
 - [Wallet Labels Export Format](https://github.com/bitcoin/bips/pull/1383)
 
 ### [BLIPs](https://github.com/lightning/blips)
-
 - [Inbound routing fees using `channel_update` by Joost Jager](https://github.com/lightning/blips/pull/18)
 - [Backwards-compatible inbound fees using `inbound_fees_update` by Matt Corallo](https://github.com/lightning/blips/pull/22)
 
-
-### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
--
-
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
--
+- [I2P: Limit transient addresses](https://github.com/bitcoin/bitcoin/issues/26754)
+- [rpc: Enable wallet import on pruned nodes and add test](https://github.com/bitcoin/bitcoin/pull/24865)
+- [rpc: add minconf/maxconf options to sendall and fund transaction calls](https://github.com/bitcoin/bitcoin/pull/25375)
+- [Reduce default mempool size in -blocksonly mode](https://github.com/bitcoin/bitcoin/pull/26471)
+- [validation, bugfix: provide more info in *MempoolAcceptResult](https://github.com/bitcoin/bitcoin/pull/26646)
+- [wallet: For feebump, ignore abandoned descendant spends](https://github.com/bitcoin/bitcoin/pull/26675) 
 
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
--
+- [cln-plugin: make available the configuration in plugin](https://github.com/ElementsProject/lightning/pull/5738)
+- [Deprecate newaddress p2sh](https://github.com/ElementsProject/lightning/pull/5751)
+- [ipdiscovery: adds custom port parameter](https://github.com/ElementsProject/lightning/pull/5842)
+- [channeld: remove dead HTLCs from htable and free them (eventually)](https://github.com/ElementsProject/lightning/pull/5882)
+- [gossip: Do not send warnings if we fail to parse a channel_update](https://github.com/ElementsProject/lightning/pull/5897)
 
-### [HWI](https://github.com/bitcoin-core/HWI)
--
-
-### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
-
-### [dlcspecs](https://github.com/discreetlogcontracts/dlcspecs)
--
+### [rust-lightning](https://github.com/lightningdevkit/rust-lightning)
+- [Store channels per-peer](https://github.com/lightningdevkit/rust-lightning/pull/1507)
+- [Router Optimizations](https://github.com/lightningdevkit/rust-lightning/pull/1799)
+- [Parameterize ChannelManager by a Router](https://github.com/lightningdevkit/rust-lightning/pull/1812)
+- [Allow configurable min_final_cltv_expiry_delta](https://github.com/lightningdevkit/rust-lightning/pull/1878)
+- [Support opening anchor channels and test end-to-end unilateral close](https://github.com/lightningdevkit/rust-lightning/pull/1860)
+- [BOLT 12 invoice encoding and building](https://github.com/lightningdevkit/rust-lightning/pull/1926), [#1927](https://github.com/lightningdevkit/rust-lightning/pull/1927)
+- [Allow specifying an error when failing back HTLC](https://github.com/lightningdevkit/rust-lightning/pull/1948)
 
 ### [eclair](https://github.com/ACINQ/eclair/)
--
+- [Add tlv stream to onion failures](https://github.com/ACINQ/eclair/pull/2455)
+- [Send payments to blinded routes](https://github.com/ACINQ/eclair/pull/2482)
+- [Dual funding latest changes](https://github.com/ACINQ/eclair/pull/2536)
+ - [Rework data model for splices](https://github.com/ACINQ/eclair/pull/2540)
+- [Wait for tx to be published for zero-conf](https://github.com/ACINQ/eclair/pull/2558)
+- [Allow keysend payments without a payment secret](https://github.com/ACINQ/eclair/pull/2573)
 
 ### [libsecp](https://github.com/bitcoin-core/secp256k1)
--
+- [Switch to exhaustive groups with small B coefficient](https://github.com/bitcoin-core/secp256k1/pull/1192)
 
 ### [lnd](https://github.com/lightningnetwork/lnd)
--
-
-### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
--
-
-### [secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp)
--
-
+- [watchtower: reduce AckedUpdate storage footprint](https://github.com/lightningnetwork/lnd/pull/7055)
+- [multi: Add ability to handle protocol-range messages in Custom Message APIs](https://github.com/lightningnetwork/lnd/pull/7153)
+- [Sign/Verify messages and signatures for single addresses](https://github.com/lightningnetwork/lnd/pull/7231)
+- [discovery: ensure we prioritize sending out our own local announcements](https://github.com/lightningnetwork/lnd/pull/7239)
+- [kvdb: add sqlite](https://github.com/lightningnetwork/lnd/pull/7251)
 
 ## New Releases
 -
