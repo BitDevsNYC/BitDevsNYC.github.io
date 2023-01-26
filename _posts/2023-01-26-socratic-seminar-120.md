@@ -46,7 +46,7 @@ If you can’t make it to the main event please join us at PUBKEY around 9:30PM.
 	- [January 5th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-05.html#115)
 	- [January 12th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-12.html#314)
 	- [January 19th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-19.html#337)
-	- [January 26th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-26.html#337) <!---TODO: fix line --->
+	- [January 26th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-26.html#337)
 - Bitcoin Core wallet meetings
 	- [December 16th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-16.html#281)
 	- [January 13th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-13.html#404)
