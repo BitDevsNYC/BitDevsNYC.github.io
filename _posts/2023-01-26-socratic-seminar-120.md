@@ -17,7 +17,7 @@ If you can’t make it to the main event please join us at PUBKEY around 9:30PM.
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
 - [At least 17% of Bitcoin Core 24.x listening nodes are running full-rbf](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021296.html)
--[SIGHASH_GROUP vs Ephemeral anchors](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021334.html)
+- [SIGHASH_GROUP vs Ephemeral anchors](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021334.html)
 - [Why Full-RBF Makes DoS Attacks on Multiparty Protocols Significantly More Expensive](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021322.html)
 - [Serverless Payjoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021364.html)
 - [Wallet vaults with pre-signed transactions but no ephemeral keys](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021365.html)
