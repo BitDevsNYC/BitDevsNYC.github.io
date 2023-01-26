@@ -11,7 +11,7 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 If you can’t make it to the main event please join us at PUBKEY around 9:30PM. **Learn about this awesome new establishment [here](https://ny.eater.com/2022/12/13/23494423/pubkey-opening-manhattan-bitcoin-bar).**
 
 ## Presentation
--
+- [Sergi Delgado](https://twitter.com/sr_gi/) - Watchtowers: From Zero to Hero
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
@@ -32,7 +32,7 @@ If you can’t make it to the main event please join us at PUBKEY around 9:30PM.
 - [A security review of Validating Lightning Signer architecture and code](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003829.html)
 
 #### [dlc-dev](https://mailmanlists.org/pipermail/dlc-dev)
--
+- [Using OP_VAULT to improve DLCs](https://mailmanlists.org/pipermail/dlc-dev/2023-January/000170.html)
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
@@ -63,23 +63,59 @@ If you can’t make it to the main event please join us at PUBKEY around 9:30PM.
 - [Newsletter #235](https://bitcoinops.org/en/newsletters/2023/01/25/), [audio recap](https://twitter.com/bitcoinoptech/status/1618203837000749056)
 
 ## Network Data
+- [24hr taproot spending stats reach 1%](https://twitter.com/taproot_signal/status/1604250474894557185)
+- [Alameda funds on the move](https://twitter.com/ErgoBTC/status/1607912106921172993)
 - [Bitocin 2022 Annual Review](https://blog.lopp.net/bitcoin-2022-annual-review/)
+- [Bitcoin tied to Quadriga on the move](https://www.coindesk.com/policy/2022/12/19/bitcoin-addresses-tied-to-defunct-canadian-crypto-exchange-quadrigacx-wake-up/)
+- [first on-chain taprooty channel](https://twitter.com/roasbeef/status/1609009596034863104)
+- [full-rbf doublespend mined](https://mastodon.petertodd.org/@pete/109516427881528479)
+- [Lazarus group moving $63.5m from Harmony bridge hack through tornado cash and railgun](https://twitter.com/zachxbt/status/1614771861266792449)
+- [Lightning Network capacity reaches new all time BTC high](https://bitcoinvisuals.com/ln-capacity)
+- [new light bitcoin block explorer](https://fbbe.info/)
+- [patches of old utxos on the move](https://twitter.com/SteveUsingWords/status/1603362419639783424)
 - [Robosats passes 100 BTC of all-time volume](https://twitter.com/kerooke/status/1611505502738911234)
-- [Wallet of Satoshi exceeds 6 million payments](https://twitter.com/kerooke/status/1611505502738911234)
+- [top 2022 tor ln routing nodes according to bos](https://twitter.com/alexbosworth/status/1609580331862040576)
+- [tracking Binance outflows](https://mobile.twitter.com/ErgoBTC/status/1604289386442788864)
+- [Wallet of Satoshi exceeds 6 million payments](https://twitter.com/kerooke/status/1611505502738911234),[20k payments / day](https://twitter.com/kerooke/status/1612953910867632129)
+- [yalls.org LN revenues](https://twitter.com/alexbosworth/status/1609217848416604163)
+- [zcash spammer increased blockchain 6x in 2022](https://twitter.com/lopp/status/1607364827231522816)
 
 
 ## CVEs and Research
 ### Research
+- [(Concurrently Secure) Blind Schnorr from Schnorr](https://eprint.iacr.org/2022/1676)
+- [A framework for live host-based Bitcoin wallet forensics and triage](https://www.sciencedirect.com/science/article/pii/S2666281722001676)
+- [An analysis of the decentralization and effectiveness
+of Lightning Network](http://essay.utwente.nl/92624/1/Bachelor_Thesis.pdf)
+- [COVID-bit: Keep a Distance of (at least) 2m From My Air-Gap Computer!](https://arxiv.org/abs/2212.03520)
+- [BlindHub: Bitcoin-Compatible Privacy-Preserving Payment Channel Hubs Supporting Variable Amounts](https://eprint.iacr.org/2022/1735)
+[Diversification Across Mining Pools: Optimal Mining Strategies under PoW](https://arxiv.org/abs/1905.04624v3)
+- [CoinJoin protocols and implementations analysis](https://is.muni.cz/th/kbvx1/Master_Thesis.pdf)
+- [Daric: A Storage Efficient Payment Channel With Penalization Mechanism](https://eprint.iacr.org/2022/1295.pdf)
+- [DensePose From WiFi](https://vpnoverview.com/wp-content/uploads/densepose-from-wifi.pdf)
+- [Glimpse: On-Demand, Cross-Chain Communication for
+Efficient DeFi Applications on Bitcoin-based Blockchains](https://eprint.iacr.org/2022/1721.pdf)
+- [HotGate : trustless cross-chain settlement protocol](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0422684)
 - [OP_VAULT](https://jameso.be/vaults.pdf), [discussion](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021318.html)
+- [LightSwap: An Atomic Swap Does Not Require Timeouts At Both Blockchains](https://eprint.iacr.org/2022/1650)
+- [Ping-Pong Swaps](https://arxiv.org/abs/2211.13335v2)
+- [PMFault: Faulting and Bricking Server CPUs through Management Interfaces](http://pure-oai.bham.ac.uk/ws/portalfiles/portal/184604159/tches2023_2_final.pdf)
+- [SoK: Decentralized Finance (DeFi) Attacks](https://eprint.iacr.org/2022/1773)
+- [Strategic Analysis of Griefing Attack in Lightning Network](https://arxiv.org/abs/2203.10533v3)
+- [Three Birds with One Stone: Efficient Partitioning Attacks on Interdependent Cryptocurrency Networks](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b404/1Js0DVP9pp6)
+- [Topological Evolution Analysis of Payment Channels in the Lightning Network](https://www.gta.ufrj.br/ftp/gta/TechReports/CRS22b.pdf)
 
 ### InfoSec
-
 - [3Commas compromised, API keys stolen, later published](https://www.bleepingcomputer.com/news/security/crypto-platform-3commas-admits-hackers-stole-api-keys/)
-- [Two Git CVEs published](https://x41-dsec.de/security/research/news/2023/01/17/git-security-audit-ostif/)
+- [BitKeep APKs hijacked](https://decrypt.co/117920/crypto-wallet-bitkeep-points-malicious-apk-packages-8m-exploit)
 - [BTC.com mining pool hacked for $3M](https://btcm.group/news-detail?id=52667)
 - [CircleCI security alert: Rotate any secrets stored in CircleCI ](https://circleci.com/blog/january-4-2023-security-alert/)
-- [LastPass hacked](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/)
-- [LukeDashjr server hacked, postmortem analysis by "lordx64"](https://lordx64.medium.com/multiple-linux-backdoors-discovered-targeting-bitcoin-core-developer-technical-analysis-793f8491f561)
+- [Lastpass security incident](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/)
+- [Midas Capital suffers flash loan attack, $660k stolen](https://rekt.news/midas-capital-rekt/)
+- [Raydium liquidity pools drained of $4.4m](https://rekt.news/raydium-rekt/)
+- [RoeFinance suffers flash loan attack, $80k stolen](https://twitter.com/spreekaway/status/1613205435762495488)
+- [Threema messaging app's cryptographic protocols broken](https://breakingthe3ma.app/)
+- [Two Git CVEs published](https://x41-dsec.de/security/research/news/2023/01/17/git-security-audit-ostif/)
 
 
 ## Pull Requests and repo updates
@@ -148,9 +184,6 @@ Review](https://hashrateindex.com/blog/hashrate-index-2022-bitcoin-mining-year-i
 - [Mining in Paraguay](https://nicosmid.substack.com/p/mining-in-paraguay)
 - [The State of the ASIC market](https://nicosmid.substack.com/p/the-state-of-the-asic-market)
 - [The worst of Bitcoin mining in 2022](https://compassmining.io/education/the-worst-of-bitcoin-mining-in-2022/)
-
-## Privacy
--
 
 ## Miscellaneous
 - [An incomplete guide to stealth addresses](https://vitalik.ca/general/2023/01/20/stealth.html)
