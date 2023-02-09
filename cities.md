@@ -12,6 +12,7 @@ If you find yourself interested in tapping into your local Bitcoin community, we
 
 As a disclaimer, BitDevs NYC has no official associations with or oversight of these meetups. In some cases we have never even spoken to the organizers. An idea, much like a hash function, is one way. If you don't like what you see, feel free to [fork it](https://github.com/BitDevsNYC/BitDevsNYC.github.io/) and [run your own](https://bitdevs.org/running-a-great-socratic-seminar/).
 
+- [Amsterdam](https://bitdevsamsterdam.org/)
 - [Atlanta](https://atlantabitdevs.org/)
 - [Austin](https://austinbitdevs.com/)
 - [Berlin](https://bitdevs.berlin/)
@@ -22,9 +23,12 @@ As a disclaimer, BitDevs NYC has no official associations with or oversight of t
 - [London](https://londonbitdevs.org/)
 - [Los Angeles](https://bitdevsla.org/)
 - [Miami](https://miamibitdevs.org/)
+- [Paris](https://twitter.com/bitdevsfr)
+- [Portland](https://www.meetup.com/portlandbitdevs/)
 - [Raleigh / Durham / Chapel Hill](https://trianglebitdevs.org/)
 - [San Francisco](https://www.sfbitcoindevs.org/)
 - [San Juan](https://sanjuanbitdevs.org/)
+- [São Paulo](https://bitdevsportugues.org)
 - [Taipei](https://bitdevs.tw/)
 - [Tampa](https://tampabitdevs.io/)
 - [Vancouver](https://bitdevs.ca/)
