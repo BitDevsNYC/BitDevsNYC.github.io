@@ -31,7 +31,7 @@ Theres been a lot of discussion recently about covenants and how they might be i
     * [Full proposal](https://jameso.be/vaults.pdf)
   * OP\_CTV: a non-recursive covenant proposal
     * [Optech links](https://bitcoinops.org/en/topics/op_checktemplateverify/)
-  * OP\_APO: ANYPREVOUT, but for covenants, too!
+  * SIGHASH\_ANYPREVOUT: ANYPREVOUT, but for covenants, too!
     * [Mailing list post](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-April/020276.html)
   * OP\_TXHASH: a composable alternative for emulating OP\_CTV and OP\_APO
     * [Mailing list post](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019813.html)
