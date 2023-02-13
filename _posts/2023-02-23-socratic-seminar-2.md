@@ -3,7 +3,7 @@ layout: post
 published: true
 type: socratic
 title: "Socratic Seminar 2 ⚡️"
-meetup: https://www.meetup.com/norfolk-bitdevs/events/TODO
+meetup: https://www.meetup.com/norfolk-bitdevs/events/291237315/
 ---
 
 ## Announcements
