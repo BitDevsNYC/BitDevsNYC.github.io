@@ -16,7 +16,10 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
-- <!--- TODO: https://lists.linuxfoundation.org/pipermail/bitcoin-dev --->
+- [Costless bribes against time-sensitive protocols](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021395.html)
+- [Purely off-chain coin colouring](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021396.html)
+- [Unenforceable fee obligations in multiparty protocols with Taproot inputs](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021444.html)
+- [Codex32](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021469.html)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
