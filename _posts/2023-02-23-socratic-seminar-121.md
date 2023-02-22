@@ -22,7 +22,8 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Codex32](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021469.html)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
+- [Local Reputation to Mitigate Slow Jamming](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-February/003857.html)
+- [Highly Available Lightning Channels](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-February/003842.html)
 
 #### [dlc-dev](https://mailmanlists.org/pipermail/dlc-dev)
 -
