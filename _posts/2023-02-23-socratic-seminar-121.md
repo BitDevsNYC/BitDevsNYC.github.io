@@ -27,22 +27,30 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-    - <!--- TODO replace: [25574 Improve error handling when VerifyDB fails due to insufficient dbcache (validation)](https://bitcoincore.reviews/25574) --->
+    - [26347 wallet: ensure the wallet is unlocked when needed for rescanning (wallet)](https://bitcoincore.reviews/26347)
+    - [26847 Track AddrMan totals by network and table, improve precision of adding fixed seeds (p2p)](https://bitcoincore.reviews/26847)
+    - [bitcoin-inquisition #16: Activation logic for testing consensus changes (consensus)](https://bitcoincore.reviews/bitcoin-inquisition-16)
+    - [26441 add `addpermissionflags` RPC (rpc, p2p) ](https://bitcoincore.reviews/26441)
+    - [25038 nVersion=3 and Package RBF (tx fees and policy)](https://bitcoincore.reviews/25038)
 - Bitcoin Core general developer meetings
-  - <!--- TODO replace: [December 1st](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-01.html#255) --->
+    - [February 2nd](https://www.erisian.com.au/bitcoin-core-dev/log-2023-02-02.html#291)
+    - [February 9th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-02-09.html#246)
+    - [February 16th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-02-16.html#175)
 - Bitcoin Core wallet meetings
-  - <!--- TODO replace: [December 2nd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-02.html#313) --->
+    - [January 27th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-27.html#387)
+    - [February 10th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-02-10.html#182)
 - Lightning Specification meeting
-    - <!--- TODO replace: [December 5th](https://github.com/lightning/bolts/issues/1046) --->
-- Core Lightning Developer Call
-    - <!--- TODO replace: [September 20th](https://diyhpl.us/wiki/transcripts/c-lightning/2021-09-20-developer-call/) --->
-- dlc-specs meetings
-    - <!--- TODO replace: [October 5th](https://github.com/discreetlogcontracts/dlcspecs/pull/175) --->
+    - [January 30th](https://github.com/lightning/bolts/issues/1053)
+    - [February 13th](https://github.com/lightning/bolts/issues/1055)
 - Lightning Channel Jamming meetings
-    - <!--- TODO replace: [October 11th](https://github.com/lightningnetwork/lightning-rfc/issues/920) --->
+    - [January 23rd](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003834.html)
+    - [February 6th](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-February/003840.html)
 
 ### Optech
-- <!--- TODO replace: [Newsletter #229](https://bitcoinops.org/en/newsletters/2022/12/07/), [audio recap](https://twitter.com/bitcoinoptech/status/1600867081225764864) --->
+- [Newsletter #236](https://bitcoinops.org/en/newsletters/2023/02/01/), [audio recap](https://twitter.com/bitcoinoptech/status/1620798648601944064)
+- [Newsletter #237](https://bitcoinops.org/en/newsletters/2023/02/08/), [audio recap](https://twitter.com/bitcoinoptech/status/1623698159145811968)
+- [Newsletter #238](https://bitcoinops.org/en/newsletters/2023/02/15/), [audio recap](https://twitter.com/bitcoinoptech/status/1626234989900865543)
+- [Newsletter #239](https://bitcoinops.org/en/newsletters/2023/02/22/), [audio recap](https://twitter.com/bitcoinoptech/status/1628771459660128260)
 
 ## Network Data
 -
