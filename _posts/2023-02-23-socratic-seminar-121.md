@@ -49,10 +49,22 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ## CVEs and Research
 ### Research
--
+- [Flyover: A Repayment Protocol for Fast Bitcoin Transfers over Federated Pegs](https://eprint.iacr.org/2023/086)
+- [From Reality Keys to Oraclize. A Deep Dive into the History of Bitcoin Oracles](https://arxiv.org/abs/2302.07911v1)
+- [Maravedí: A Secure and Practical Protocol to Trade Risk for Instantaneous Finality](https://eprint.iacr.org/2023/183)
+- [Practical Security Analysis of Zero-Knowledge Proof Circuits](https://eprint.iacr.org/2023/190)
+- [tlock: Practical Timelock Encryption from Threshold BLS](https://eprint.iacr.org/2023/189)
+- [Two-Round Stateless Deterministic Two-Party Schnorr Signatures From Pseudorandom Correlation Functions](https://eprint.iacr.org/2023/216)
 
 ### InfoSec
--
+- [BonqDAO drained of $2m in oracle manipulation attack](https://rekt.news/bonq-rekt/)
+- [Coinbase cyberattack targeted employees with fake SMS alert](https://www.bleepingcomputer.com/news/security/coinbase-cyberattack-targeted-employees-with-fake-sms-alert/)
+- [Cloudflare mitigates record-breaking 71 million request-per-second DDoS attack](https://blog.cloudflare.com/cloudflare-mitigates-record-breaking-71-million-request-per-second-ddos-attack/), [more](https://www.bleepingcomputer.com/news/security/cloudflare-blocks-record-breaking-71-million-rps-ddos-attack/)
+- [Dexible DEX drained of $2M](https://rekt.news/dexible-rekt/)
+- [Lazarus hackers use new service to hide $100 million in stolen crypto](https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-new-service-to-hide-100-million-in-stolen-crypto/)
+- [Orion Protocol drained of $3m in reentrency exploit](https://twitter.com/SlowMist_Team/status/1621441874841206786)
+- [Platypus Finance suffers $8.5m flash loan attack](https://twitter.com/Platypusdefi/status/1626396538611310592)
+- [Tor and I2P networks hit by wave of ongoing DDoS attacks](https://www.bleepingcomputer.com/news/security/tor-and-i2p-networks-hit-by-wave-of-ongoing-ddos-attacks/)
 
 ## Pull Requests and repo updates
 
@@ -70,11 +82,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
 - [Peer storage feature](https://github.com/ElementsProject/lightning/pull/5361)
 - [hsmd: add preapprove invoice and keysend messages](https://github.com/ElementsProject/lightning/pull/5821)
-
-### [rust-lightning](https://github.com/lightningdevkit/rust-lightning)
-- [Limit the number of pending un-funded inbound channel](https://github.com/lightningdevkit/rust-lightning/pull/1988)
-- [Support auto-retrying keysend payments in ChannelManager](https://github.com/lightningdevkit/rust-lightning/pull/2002)
-- [Abandon payments on behalf of the user and remove manual retries](https://github.com/lightningdevkit/rust-lightning/pull/2008)
 
 ### [eclair](https://github.com/ACINQ/eclair/)
 - [Add support for paying offers](https://github.com/ACINQ/eclair/pull/2479)
@@ -94,6 +101,11 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 - [Weight prediction](https://github.com/rust-bitcoin/rust-bitcoin/pull/1636)
 - [Add methods for pushing locktimes](https://github.com/rust-bitcoin/rust-bitcoin/pull/1629)
+
+### [rust-lightning](https://github.com/lightningdevkit/rust-lightning)
+- [Limit the number of pending un-funded inbound channel](https://github.com/lightningdevkit/rust-lightning/pull/1988)
+- [Support auto-retrying keysend payments in ChannelManager](https://github.com/lightningdevkit/rust-lightning/pull/2002)
+- [Abandon payments on behalf of the user and remove manual retries](https://github.com/lightningdevkit/rust-lightning/pull/2008)
 
 ## New Releases
 -
