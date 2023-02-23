@@ -54,7 +54,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ## Network Data
 - Foundry nearing 40% network hashrate
-- [Benchamarking popular lightning implementations keysend performance](https://blog.getalby.com/lightning-benchmark/)
+- [Benchmarking popular lightning implementations keysend performance](https://blog.getalby.com/lightning-benchmark/)
 - [How many Bitcoin confirmations is enough?](https://blog.lopp.net/how-many-bitcoin-confirmations-is-enough/)
 - [Increase in USD denominated-ness of on-chain behavior](https://mobile.twitter.com/SteveUsingWords/status/1625482839327121408)
 - [Increasing number of Bitcoin nodes connected over privacy networks](https://twitter.com/jonatack/status/1621639185756033026), [more](https://twitter.com/jonatack/status/1625893284454232065)
@@ -64,7 +64,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 	- [Largest block mined with ordinals](https://twitter.com/LuxorTechTeam/status/1620922782845669378)
 	- [taproot discount ~4.4%](https://twitter.com/shesek/status/1622492148091219969)
 - [OXT Landscapes updated](https://twitter.com/oxt_btc/status/1192759714427408384)
-- [Public capacity of lightning network hits new ATH](https://twitter.com/kerooke/status/1619081327114076160), [exchanges account for 46% of public capcaity](https://twitter.com/kerooke/status/1620205074160193538)
+- [Public capacity of lightning network hits new ATH](https://twitter.com/kerooke/status/1619081327114076160), [exchanges account for 46% of public capacity](https://twitter.com/kerooke/status/1620205074160193538)
 
 ## CVEs and Research
 ### Research
@@ -174,6 +174,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Ordisrespector spam filter](https://minibolt.info/guide/bonus/bitcoin/ordisrespector.html)
 - [PoC - Highly Available Bitcoin Node](https://gildedpleb.github.io/hab-guide/poc)
 	- [Why is witness data downloaded during IBD in prune mode](https://bitcoin.stackexchange.com/questions/117057/why-is-witness-data-downloaded-during-ibd-in-prune-mode)
-- [Spiral issues grabt to the_charlatan to work on libbitcoinkernel](https://twitter.com/spiralbtc/status/1620828708918681601)
+- [Spiral issues grant to the_charlatan to work on libbitcoinkernel](https://twitter.com/spiralbtc/status/1620828708918681601)
 - [Technical Bitcoin Search](https://bitcoinsearch.xyz/), [context](https://twitter.com/adamcjonas/status/1620528638650376192)
 - [Why You Should Run Full-RBF On Your Node](https://petertodd.org/2023/why-you-should-run-mempoolfullrbf)
