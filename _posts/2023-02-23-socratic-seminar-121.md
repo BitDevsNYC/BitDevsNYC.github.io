@@ -86,7 +86,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Lazarus hackers use new service to hide $100 million in stolen crypto](https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-new-service-to-hide-100-million-in-stolen-crypto/)
 - [Orion Protocol drained of $3m in reentrency exploit](https://twitter.com/SlowMist_Team/status/1621441874841206786)
 - [Platypus Finance suffers $8.5m flash loan attack](https://twitter.com/Platypusdefi/status/1626396538611310592)
-- [Taproot's sighash implementation could cause blocks to take 60s or more to validate](https://github.com/bitcoin/bitcoin/pull/24105)
+- [Taproot's sighash implementation could cause blocks to take 60s or more to validate](https://github.com/bitcoin/bitcoin/pull/24105), [context](https://twitter.com/JeremyRubin/status/1618994157552570368)
 - [Tor and I2P networks hit by wave of ongoing DDoS attacks](https://www.bleepingcomputer.com/news/security/tor-and-i2p-networks-hit-by-wave-of-ongoing-ddos-attacks/)
 
 ## Pull Requests and repo updates
