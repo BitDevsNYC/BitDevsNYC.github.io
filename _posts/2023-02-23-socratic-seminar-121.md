@@ -140,7 +140,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ## Events and Podcasts
 - [btcpp cdmx presentations](https://www.youtube.com/@Base58btc/videos)
-- [STARKs on Bitcoin: From Outside In | Olaoluwa Osuntokun](https://www.youtube.com/watch?v=pStJqHrJhVs)
+- [STARKs on Bitcoin: From Outside In - Olaoluwa Osuntokun](https://www.youtube.com/watch?v=pStJqHrJhVs)
 
 ## Mining
 - Bitcoin Mining Around the World - [Iceland](https://hashrateindex.com/blog/bitcoin-mining-around-the-world-iceland/), [Paraguay](https://hashrateindex.com/blog/bitcoin-mining-around-the-world-paraguay/)
