@@ -50,6 +50,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 ## Research
 ## Misc
 
+* 30th Anniversary of the [Cypherpunk Manifesto](https://www.activism.net/cypherpunk/manifesto.html)
 * [Marco stepping down as maintainer](https://twitter.com/MarcoFalke/status/1627987123788824576)
 * [LDK Roadmap](https://twitter.com/lightningdevkit/status/1635392924463804417)
 * [BitcoinSearch.xyz](bitcoinsearch.xyz)
