@@ -6,7 +6,7 @@ meetup: https://www.meetup.com/bitdevs-amsterdam/events/291954851/
 published: true
 ---
 
-## BitDevs Amsterdam meeting 003!
+## BitDevs Amsterdam meeting 004!
 
 It's time for another BitDevs! A big thanks to [Bitonic](https://bitonic.nl/) for sponsoring us with the meeting space and snacks! Drinks and light snacks will be provided, so please ensure you have some dinner beforehand or bring it along to the seminar.
 
