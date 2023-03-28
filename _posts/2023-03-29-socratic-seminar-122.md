@@ -67,13 +67,14 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 -
 
 ### [BIPs](https://github.com/bitcoin/bips)
--
+- [BIP327: MuSig 2](https://github.com/bitcoin/bips/pull/1372)
+- [BIP93: Codex32](https://github.com/bitcoin/bips/pull/1425)
 
 ### [BLIPs](https://github.com/lightning/blips)
 -
 
 ### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
--
+- [Route Blinding (Feature 24/25)](https://github.com/lightning/bolts/pull/765)
 
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 -
