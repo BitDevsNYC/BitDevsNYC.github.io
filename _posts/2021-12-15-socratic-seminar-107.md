@@ -33,8 +33,8 @@ refreshments and event space.
 	- [23443 - Erlay support signaling](https://bitcoincore.reviews/23443)
 	- [23724 - add systemtap's sys/sdt.h as depends for GUIX builds with USDT tracepoints](https://bitcoincore.reviews/23724)
 - Bitcoin Core general developer meetings
-	- [December 2nd](https://www.erisian.com.au/bitcoin-core-dev/log-2021-12-02.html#435)
-	- [December 9th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-12-09.html#518)
+	- [December 2nd](https://www.erisian.com.au/bitcoin-core-dev/log-2021-12-02.html#l-435)
+	- [December 9th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-12-09.html#l-518)
 - c-lightning meetings
 	- [December 13th](https://btctranscripts.com/c-lightning/2021-12-13-developer-call/)
 - dlc-specs metings

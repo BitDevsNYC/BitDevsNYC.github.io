@@ -33,12 +33,12 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
     - [26441 add `addpermissionflags` RPC (rpc, p2p) ](https://bitcoincore.reviews/26441)
     - [25038 nVersion=3 and Package RBF (tx fees and policy)](https://bitcoincore.reviews/25038)
 - Bitcoin Core general developer meetings
-    - [February 2nd](https://www.erisian.com.au/bitcoin-core-dev/log-2023-02-02.html#291)
-    - [February 9th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-02-09.html#246)
-    - [February 16th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-02-16.html#175)
+    - [February 2nd](https://www.erisian.com.au/bitcoin-core-dev/log-2023-02-02.html#l-291)
+    - [February 9th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-02-09.html#l-246)
+    - [February 16th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-02-16.html#l-175)
 - Bitcoin Core wallet meetings
-    - [January 27th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-27.html#387)
-    - [February 10th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-02-10.html#182)
+    - [January 27th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-27.html#l-387)
+    - [February 10th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-02-10.html#l-182)
 - Lightning Specification meeting
     - [January 30th](https://github.com/lightning/bolts/issues/1053)
     - [February 13th](https://github.com/lightning/bolts/issues/1055)
