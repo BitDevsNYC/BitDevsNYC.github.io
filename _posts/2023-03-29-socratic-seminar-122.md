@@ -37,20 +37,24 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [25325 Add pool based memory resource](https://bitcoincore.reviews/25325)
 - [25038 nVersion=3 and Package RBF](https://bitcoincore.reviews/25038-2)
 - Bitcoin Core general developer meetings
-  - <!--- TODO replace: [December 1st](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-01.html#255) --->
+  - [March 2nd](https://www.erisian.com.au/bitcoin-core-dev/log-2023-03-02.html#l-192)
+  - [March 9th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-03-09.html#l-182)
+  - [March 16th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-03-16.html#l-340)
+  - [March 23rd](https://www.erisian.com.au/bitcoin-core-dev/log-2023-03-23.html#l-196)
 - Bitcoin Core wallet meetings
-  - <!--- TODO replace: [December 2nd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-02.html#313) --->
+  - [March 10th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-03-10.html#l-197)
+  - March 24th: no Meeting
 - Lightning Specification meeting
-    - <!--- TODO replace: [December 5th](https://github.com/lightning/bolts/issues/1046) --->
-- Core Lightning Developer Call
-    - <!--- TODO replace: [September 20th](https://diyhpl.us/wiki/transcripts/c-lightning/2021-09-20-developer-call/) --->
-- dlc-specs meetings
-    - <!--- TODO replace: [October 5th](https://github.com/discreetlogcontracts/dlcspecs/pull/175) --->
-- Lightning specification meetings
-    - <!--- TODO replace: [October 11th](https://github.com/lightningnetwork/lightning-rfc/issues/920) --->
+  - [February 27th](https://github.com/lightning/bolts/issues/1057)
+  - [March 13th](https://github.com/lightning/bolts/issues/1058)
+  - [March 27th](https://github.com/lightning/bolts/issues/1060)
 
 ### Optech
-- <!--- TODO replace: [Newsletter #229](https://bitcoinops.org/en/newsletters/2022/12/07/), [audio recap](https://twitter.com/bitcoinoptech/status/1600867081225764864) --->
+- [Newsletter #240](https://bitcoinops.org/en/newsletters/2023/03/01/), [audio recap](https://twitter.com/bitcoinoptech/status/1631308426738388997)
+- [Newsletter #241](https://bitcoinops.org/en/newsletters/2023/03/08/), [audio recap](https://twitter.com/bitcoinoptech/status/1633845257489252356)
+- [Newsletter #242](https://bitcoinops.org/en/newsletters/2023/03/15/), [audio recap](https://twitter.com/bitcoinoptech/status/1636355587003801607)
+- [Newsletter #243](https://bitcoinops.org/en/newsletters/2023/03/22/), [audio recap](https://twitter.com/bitcoinoptech/status/1638903093709479939)
+- [Newsletter #244](https://bitcoinops.org/en/newsletters/2023/03/29/), [audio recap](https://twitter.com/bitcoinoptech/status/1641028263953813505)
 
 ## Network Data
 - [500 new nodes from two hosts, likely sybils](https://twitter.com/mattthias0/status/1638498177660735489)
