@@ -53,14 +53,32 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - <!--- TODO replace: [Newsletter #229](https://bitcoinops.org/en/newsletters/2022/12/07/), [audio recap](https://twitter.com/bitcoinoptech/status/1600867081225764864) --->
 
 ## Network Data
--
+- [500 new nodes from two hosts, likely sybils](https://twitter.com/mattthias0/status/1638498177660735489)
+- [Anomalous HTLC resolutions times across Lightning Network](https://twitter.com/roasbeef/status/1633544951895293952)
+- [Celcius WBTC moving through FalconX](https://twitter.com/ErgoBTC/status/1630327333772042240)
+- [Majority of nostr zaps collected by custodial lightning wallets](https://twitter.com/benthecarman/status/1638006709741289474)
+- [mempool reaches record 928MB in size](https://twitter.com/murchandamus/status/1638952405415895044)
+- [More hashes in 24 seconds than grains of sand on earth](https://twitter.com/w_s_bitcoin/status/1633512005431697408)
+- [Ordinals data dashboard](https://dune.com/dgtl_assets/bitcoin-ordinals-analysis)
+- [Ordinal inscriptions trigger resurgence in counterparty bare multisig data encoding](https://twitter.com/mononautical/status/1639095507338530817)
+- [Portion of seized Silk Road Bitcoin on the move](https://twitter.com/glassnode/status/1633243962457878538)
+- Multiple stale blocks - [781277](https://forkmonitor.info/stale/btc/781277), context - [1](https://twitter.com/mattthias0/status/1638574154453483520), [2](https://twitter.com/jamesob/status/1637191706691903488); [781487](https://forkmonitor.info/stale/btc/781487)
+- [Wallet of Satoshi approaching 1m payments per month](https://twitter.com/kerooke/status/1638893386852646915)
 
 ## CVEs and Research
 ### Research
 -
 
 ### InfoSec
--
+- [147 Block Reorg on Polygon](https://forum.polygon.technology/t/157-block-reorg-at-block-height-39599624/11388)
+- [aCropalypse: Recovering Truncated PNGs](https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html)
+- [Bitbns allegedly covers up $7.5m hack](https://twitter.com/zachxbt/status/1630665458134163476)
+- [BitGo Ethereum TSS key extraction vulnerability](https://www.fireblocks.com/blog/bitgo-wallet-zero-proof-vulnerability)
+- [ChipMixer taken down by joint task force](https://www.justice.gov/opa/pr/justice-department-investigation-leads-takedown-darknet-cryptocurrency-mixer-processed-over-3), [seizure funds associated with Hydra seizure](https://twitter.com/ErgoBTC/status/1638702389938262016)
+- [Edge Wallet leaks private keys in logs sent to server, funds stolen](https://edge.app/blog/company-news/edge-security-incident-urgent-notice/)
+- [Further details of the LastPass hack](https://support.lastpass.com/help/incident-2-additional-details-of-the-attack)
+- [GeneralBytes BTM secuity incident](https://generalbytes.atlassian.net/wiki/spaces/ESD/pages/2885222430/Security+Incident+March+17-18th+2023)
+- [Jumpo Crypto counter-hacks Wormhole exploiter](https://www.blockworksresearch.com/research/we-do-a-little-counter-exploit)
 
 ## Pull Requests and repo updates
 ### [BDK](https://github.com/bitcoindevkit/bdk)
@@ -120,4 +138,12 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 -
 
 ## Miscellaneous
--
+- [BraiinsOS no longer open source?](https://twitter.com/ajtowns/status/1629280539583877122)
+- [Draft PR integrating Simplicity into Elements](https://github.com/ElementsProject/elements/pull/1219)
+- [Early implementation of Musig2 in scala](https://github.com/fiatjaf/scoin/pull/14)
+- [lnproxy back online](https://twitter.com/lnproxy/status/1634896344383930372)
+- Spiral grants - [okjodom](https://twitter.com/spiralbtc/status/1633141813555986433)
+- [Payjoin.org](http://payjoin.org/)
+- [The Breez Open-LSP Model: Scaling Lightning by Sharing ROI with 3rd-Party LSPs](https://medium.com/breez-technology/the-breez-open-lsp-model-scaling-lightning-by-sharing-roi-with-3rd-party-lsps-e2ef6e31562e)
+- [Tornado Cash and Blockchain Privacy: A Primer for Economists and Policymakers](https://research.stlouisfed.org/publications/review/2023/02/03/tornado-cash-and-blockchain-privacy-a-primer-for-economists-and-policymakers)
+
