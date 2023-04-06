@@ -43,12 +43,12 @@ refreshments and event space.
     - [23201 Allow users to specify input weights when funding a transaction (wallet, rpc/rest/zmq)](https://bitcoincore.reviews/23201)
     - [24007 Allow tx replacement by smaller witness (tx fees and policy, validation)](https://bitcoincore.reviews/24007)
 - Bitcoin Core general developer meetings
-    - [December 16th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-12-16.html#364)
-    - [January 6th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-01-06.html#295)
-    - [January 13th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-01-13.html#445)
-    - [January 20th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-01-20.html#297)
+    - [December 16th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-12-16.html#l-346)
+    - [January 6th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-01-06.html#l-295)
+    - [January 13th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-01-13.html#l-445)
+    - [January 20th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-01-20.html#l-297)
 - Bitcoin Core wallet meetings
-    - [December 17th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-12-17.html#418)
+    - [December 17th](https://www.erisian.com.au/bitcoin-core-dev/log-2021-12-17.html#l-418)
 - dlc-specs meetings
     - [January 11th](https://github.com/discreetlogcontracts/dlcspecs/pull/184)
 - Lightning specification meetings

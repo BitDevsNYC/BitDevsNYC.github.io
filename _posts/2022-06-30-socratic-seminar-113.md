@@ -32,14 +32,14 @@ refreshments and event space.
     - [24832 Verify the block filter hash when reading the filter from disk. (utxo db and indexes)](https://bitcoincore.reviews/24832)
 
 - Bitcoin Core general developer meetings
-    - [June 2nd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-06-02.html#293)
-    - [June 9th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-06-09.html#173)
-    - [June 16th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-06-16.html#382)
-    - [June 23rd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-06-23.html#291)
-    - [June 30th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-06-30.html#1)
+    - [June 2nd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-06-02.html#l-293)
+    - [June 9th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-06-09.html#l-173)
+    - [June 16th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-06-16.html#l-382)
+    - [June 23rd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-06-23.html#l-291)
+    - [June 30th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-06-30.html#l-1)
 - Bitcoin Core wallet meetings
-    - [June 3rd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-06-03.html#184)
-    - [June 17th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-06-17.html#207)
+    - [June 3rd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-06-03.html#l-184)
+    - [June 17th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-06-17.html#l-207)
 - dlc-specs meetings
     - [June 8th](https://github.com/discreetlogcontracts/dlcspecs/pull/197)
 - Lightning specification meetings

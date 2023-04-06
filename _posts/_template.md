@@ -31,9 +31,9 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
     - <!--- TODO replace: [25574 Improve error handling when VerifyDB fails due to insufficient dbcache (validation)](https://bitcoincore.reviews/25574) --->
 - Bitcoin Core general developer meetings
-	- <!--- TODO replace: [December 1st](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-01.html#255) --->
+	- <!--- TODO replace: [December 1st](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-01.html#l-255) --->
 - Bitcoin Core wallet meetings
-	- <!--- TODO replace: [December 2nd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-02.html#313) --->
+	- <!--- TODO replace: [December 2nd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-02.html#l-313) --->
 - Lightning Specification meeting
     - <!--- TODO replace: [December 5th](https://github.com/lightning/bolts/issues/1046) --->
 - Core Lightning Developer Call

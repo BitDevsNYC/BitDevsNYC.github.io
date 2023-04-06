@@ -41,15 +41,15 @@ If you can’t make it to the main event please join us at PUBKEY around 9:30PM.
     - [26697 logging: use std::bitset for categories (utils/log/libs)](https://bitcoincore.reviews/26697)
     - [26347 wallet: ensure the wallet is unlocked when needed for rescanning (wallet)](https://bitcoincore.reviews/26347)
 - Bitcoin Core general developer meetings
-	- [December 15th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-15.html#197)
-	- [December 22nd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-15.html#206)
-	- [January 5th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-05.html#115)
-	- [January 12th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-12.html#314)
-	- [January 19th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-19.html#337)
-	- [January 26th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-26.html#337)
+	- [December 15th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-15.html#l-197)
+	- [December 22nd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-15.html#l-206)
+	- [January 5th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-05.html#l-115)
+	- [January 12th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-12.html#l-314)
+	- [January 19th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-19.html#l-337)
+	- [January 26th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-26.html#l-337)
 - Bitcoin Core wallet meetings
-	- [December 16th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-16.html#281)
-	- [January 13th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-13.html#404)
+	- [December 16th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-16.html#l-281)
+	- [January 13th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-13.html#l-404)
 - Lightning Specification meeting
     - [December 19th](https://github.com/lightning/bolts/issues/1047)
     - [January 2nd](https://github.com/lightning/bolts/issues/1048)

@@ -34,13 +34,13 @@ refreshments and event space.
     - [24858 incorrect blk file size calculation during reindex results in recoverable blk file corruption (block storage)](https://bitcoincore.reviews/24858)
 
 - Bitcoin Core general developer meetings
-    - [July 7th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-07-07.html#390)
-    - [July 14th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-07-14.html#247)
-    - [July 21th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-07-21.html#181)
-    - [July 28th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-07-28.html#276)
+    - [July 7th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-07-07.html#l-390)
+    - [July 14th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-07-14.html#l-247)
+    - [July 21th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-07-21.html#l-181)
+    - [July 28th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-07-28.html#l-276)
 - Bitcoin Core wallet meetings
-    - [July 1st](https://www.erisian.com.au/bitcoin-core-dev/log-2022-07-01.html#332)
-    - [July 15th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-07-01.html#259)
+    - [July 1st](https://www.erisian.com.au/bitcoin-core-dev/log-2022-07-01.html#l-332)
+    - [July 15th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-07-01.html#l-259)
 - dlc-specs meetings
     - [July 12th](https://github.com/discreetlogcontracts/dlcspecs/pull/198)
 - Lightning specification meetings

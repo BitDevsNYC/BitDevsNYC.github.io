@@ -38,10 +38,10 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
     - [25574 Improve error handling when VerifyDB fails due to insufficient dbcache (validation)](https://bitcoincore.reviews/25574)
     - [26631 add coverage for dust mempool policy (-dustrelayfee setting) (tests)](https://bitcoincore.reviews/26631)
 - Bitcoin Core general developer meetings
-	- [December 1st](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-01.html#255)
-	- [December 8th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-08.html#206)
+	- [December 1st](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-01.html#l-255)
+	- [December 8th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-08.html#l-206)
 - Bitcoin Core wallet meetings
-	- [December 2nd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-02.html#313)
+	- [December 2nd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-02.html#l-313)
 - Lightning Specification meeting
     - [December 5th](https://github.com/lightning/bolts/issues/1046)
 
