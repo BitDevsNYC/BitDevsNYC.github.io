@@ -10,9 +10,6 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 If you can't make it to the main event please join us at PUBKEY around 9:30PM. **Learn about this awesome new establishment [here](https://ny.eater.com/2022/12/13/23494423/pubkey-opening-manhattan-bitcoin-bar).**
 
-## Presentation
--
-
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
@@ -27,7 +24,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Payment correlation attacks](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-March/003890.html)
 
 #### [dlc-dev](https://mailmanlists.org/pipermail/dlc-dev)
--
+- [Solving the Free Option Problem for Onchain DLCs Inbox](https://mailmanlists.org/pipermail/dlc-dev/2023-March/000172.html)
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
@@ -102,48 +99,49 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Verichains Discovers Critical Key Extraction Attacks in Popular Threshold Signature Scheme for MPC Wallets and Digital Asset Custody ](https://blog.verichains.io/p/verichains-discovers-critical-key)
 
 ## Pull Requests and repo updates
-### [BDK](https://github.com/bitcoindevkit/bdk)
--
 
 ### [BIPs](https://github.com/bitcoin/bips)
 - [BIP327: MuSig 2](https://github.com/bitcoin/bips/pull/1372)
 - [BIP93: Codex32](https://github.com/bitcoin/bips/pull/1425)
 
-### [BLIPs](https://github.com/lightning/blips)
--
-
 ### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
 - [Route Blinding (Feature 24/25)](https://github.com/lightning/bolts/pull/765)
 
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
--
+- [Optimize SelectCoinsBnB by tracking the selection by index rather than by position](https://github.com/bitcoin/bitcoin/pull/13226)
+- [net: respect -onlynet= when making outbound connections](https://github.com/bitcoin/bitcoin/pull/22834)
+- [p2p: Serialize cmpctblock at most once in NewPoWValidBlock](https://github.com/bitcoin/bitcoin/pull/23880)
+- [net: open p2p connections to nodes that listen on non-default ports](https://github.com/bitcoin/bitcoin/pull/23542)
+- [Add (sorted)multi_a descriptor for k-of-n multisig inside tr](https://github.com/bitcoin/bitcoin/pull/24043)
+- [Add 'sendall' RPC née sweep](https://github.com/bitcoin/bitcoin/pull/24118)
+- [p2p: extend inbound eviction protection by network to CJDNS peers](https://github.com/bitcoin/bitcoin/pull/24165)
+- [miner: always assume we can build witness blocks](https://github.com/bitcoin/bitcoin/pull/24421)
+- [wallet: don't create long chains by default](https://github.com/bitcoin/bitcoin/pull/24502)
 
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
--
-
-### [HWI](https://github.com/bitcoin-core/HWI)
--
+- [Update libwally to 0.8.8, Support PSBTv2 and PSETv2](https://github.com/ElementsProject/lightning/pull/5898)
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
-
-### [dlcspecs](https://github.com/discreetlogcontracts/dlcspecs)
--
+- [BOLT 12 deserialization fuzzers](https://github.com/lightningdevkit/rust-lightning/pull/1977)
+- [Allow overshooting final htlc amount and expiry #2062](https://github.com/lightningdevkit/rust-lightning/pull/2062)
 
 ### [eclair](https://github.com/ACINQ/eclair/)
--
+- [Add limit for incoming connections from peers without channels](https://github.com/ACINQ/eclair/pull/2601)
 
 ### [libsecp](https://github.com/bitcoin-core/secp256k1)
--
+- [Native jacobi symbol algorithm](https://github.com/bitcoin-core/secp256k1/pull/979)
+- [build: Add CMake-based build system](https://github.com/bitcoin-core/secp256k1/pull/1113)
 
 ### [lnd](https://github.com/lightningnetwork/lnd)
--
+- [Replace FundingLocked with ChannelReady](https://github.com/lightningnetwork/lnd/pull/7517)
+- [Check for nonWitness UTXO or witness UTXO data in the psbt inputs](https://github.com/lightningnetwork/lnd/pull/7529)
+- [watchtower: let client recover after data loss](https://github.com/lightningnetwork/lnd/pull/7541)
 
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
--
+- [Implement support for Hidden nodes in taproot trees and Fix taproot serde bugs](https://github.com/rust-bitcoin/rust-bitcoin/pull/1533)
 
 ### [secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp)
--
+- [Bulletproofs++: Norm argument](https://github.com/BlockstreamResearch/secp256k1-zkp/pull/205)
 
 
 ## New Releases
@@ -158,8 +156,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Hedging renewable energy investments with Bitcoin mining](https://www.sciencedirect.com/science/article/abs/pii/S1364032120308054)
 - [Terawulf Brings First Fully Nuclear-Powered Bitcoin Mining Operation In America Online](https://bitcoinmagazine.com/business/terawulf-first-fully-nuclear-powered-bitcoin-mining)
 
-## Privacy
--
 
 ## Miscellaneous
 - [A History of Bitcoin Maximalism](https://blog.lopp.net/history-of-bitcoin-maximalism/)
