@@ -10,8 +10,6 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 If you can't make it to the main event please join us at PUBKEY around 9:30PM. **Learn about this awesome new establishment [here](https://ny.eater.com/2022/12/13/23494423/pubkey-opening-manhattan-bitcoin-bar).**
 
-## Presentation
--
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
@@ -54,14 +52,26 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - <!--- TODO replace: [Newsletter #229](https://bitcoinops.org/en/newsletters/2022/12/07/), [audio recap](https://twitter.com/bitcoinoptech/status/1600867081225764864) --->
 
 ## Network Data
--
+- [Destination of THNDR Games lightning payments](https://twitter.com/kerooke/status/1644409881192005632)
+- [F2Pool mines two invalid blocks](https://twitter.com/provoost/status/1642157884552146945)
+- [Inscriptions near 80MB of block space in 24 hour period](https://twitter.com/taproot_signal/status/1643010921810239492)
+- [Surge in Ordinal inscriptions, daily ATH](https://dune.com/dgtl_assets/bitcoin-ordinals-analysis)
+- [Wallet of Satoshi processing over 30k payments per day](https://twitter.com/kerooke/status/1645417151048691713)
 
 ## CVEs and Research
 ### Research
--
+- [Deep Bribe: Predicting the Rise of Bribery in Blockchain Mining with Deep RL](https://eprint.iacr.org/2023/472)
+- [Delay Impact on Stubborn Mining Attack Severity in Imperfect Bitcoin Network](https://arxiv.org/abs/2304.06963v1)
+- [EF/CF: High Performance Smart Contract Fuzzing for Exploit Generation](https://arxiv.org/abs/2304.06341v1)
+- [Practically-exploitable Cryptographic Vulnerabilities in Matrix](https://eprint.iacr.org/2023/485)
+- [SPRINT: High-Throughput Robust Distributed Schnorr Signatures](https://eprint.iacr.org/2023/427)
+- [Subset-optimized BLS Multi-signature with Key Aggregation](https://eprint.iacr.org/2023/498)
 
 ### InfoSec
--
+- [3CX supply chain attack](https://securelist.com/gopuram-backdoor-deployed-through-3cx-supply-chain-attack/109344/)
+- [DDoS attackers switching from IoT devices to VPS-based infrastructure to launch attacks](https://blog.cloudflare.com/ddos-threat-report-2023-q1/)
+- [LUKS using weak KDF](https://mjg59.dreamwidth.org/66429.html?ref=nobsbitcoin.com)
+- [MEV-Boost-Relay attacked, MEV searchers exploited](https://twitter.com/BlockSecTeam/status/1642971478458249227)
 
 ## Pull Requests and repo updates
 ### [BDK](https://github.com/bitcoindevkit/bdk)
@@ -111,13 +121,22 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 -
 
 ## Events and Podcasts
--
+- [PMing Bitcoin Core](https://twitter.com/moneyball/status/1644007145753698305)
 
 ## Mining
--
+- [Bitcoin Mining around the world: Kyrgyzstan](https://hashrateindex.com/blog/bitcoin-mining-around-the-world-kyrgyzstan/)
+- [Foundry no longer offering free pool service](https://www.bloomberg.com/news/articles/2023-04-06/dcg-s-bitcoin-mining-firm-foundry-to-stop-offering-free-services)
+- [Intel Discontinues Bitcoin-Mining Blockscale Chips, No Future Gens Announced](https://www.tomshardware.com/news/intel-discontinues-bitcoin-mining-blockscale-chips-no-future-gens-announced)
 
-## Privacy
--
 
 ## Miscellaneous
--
+- [Bitcoin STAMPs](https://github.com/mikeinspace/stamps/blob/main/BitcoinStamps.md)
+- [Chivo wallet flagging Wasabi coinjoins](https://twitter.com/Bitcoinbeach/status/1642878147472527362)
+- [Flow 2.0: A New LSP Focused on Just-In-Time Liquidity](https://voltage.cloud/blog/voltage-announcements/introducing-flow-v2/)
+- [LDK Roadmap](https://lightningdevkit.org/blog/ldk-roadmap/)
+- [ordislow network attack](https://twitter.com/oomahq/status/1642993852654182400)
+- [Spiral grant awarded to Matt Morehouse](https://twitter.com/spiralbtc/status/1643283047565914113)
+- [Small Transactions](https://www.truthcoin.info/blog/small-txns/)
+- [Stratumv2 update](https://stratumprotocol.org/blog/stratumv2-jn-announcement/)
+- [The Bitcoin Whitepaper Is Hidden in Every Modern Copy of macOS](https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/)
+- [Trezor add supports for Wasabi CoinJoins](https://blog.trezor.io/coinjoin-privacy-for-bitcoin-11aaf291f23)
