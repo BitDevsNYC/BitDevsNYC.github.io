@@ -25,31 +25,12 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Proposed changes to the splicing specification](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-April/003897.html)
 - [Splice Lock Race Condition Solution](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-April/003903.html)
 
-#### [dlc-dev](https://mailmanlists.org/pipermail/dlc-dev)
--
-
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
     - [26403: Ephemeral Anchors](https://bitcoincore.reviews/26403)
     - [27255: MiniTapscript: port Miniscript to Tapscript](https://bitcoincore.reviews/27255)
     - [27255: MiniTapscript: port Miniscript to Tapscript (Part 2)](https://bitcoincore.reviews/27255-2)
     - [27039: Blockstorage: do not flush block to disk if it is already there](https://bitcoincore.reviews/27039)
-
-- Bitcoin Core general developer meetings
-  - <!--- TODO replace: [December 1st](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-01.html#l-255) --->
-- Bitcoin Core wallet meetings
-  - <!--- TODO replace: [December 2nd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-02.html#l-313) --->
-- Lightning Specification meeting
-    - <!--- TODO replace: [December 5th](https://github.com/lightning/bolts/issues/1046) --->
-- Core Lightning Developer Call
-    - <!--- TODO replace: [September 20th](https://diyhpl.us/wiki/transcripts/c-lightning/2021-09-20-developer-call/) --->
-- dlc-specs meetings
-    - <!--- TODO replace: [October 5th](https://github.com/discreetlogcontracts/dlcspecs/pull/175) --->
-- Lightning specification meetings
-    - <!--- TODO replace: [October 11th](https://github.com/lightningnetwork/lightning-rfc/issues/920) --->
-
-### Optech
-- <!--- TODO replace: [Newsletter #229](https://bitcoinops.org/en/newsletters/2022/12/07/), [audio recap](https://twitter.com/bitcoinoptech/status/1600867081225764864) --->
 
 ## Network Data
 - [Destination of THNDR Games lightning payments](https://twitter.com/kerooke/status/1644409881192005632)
@@ -74,51 +55,24 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [MEV-Boost-Relay attacked, MEV searchers exploited](https://twitter.com/BlockSecTeam/status/1642971478458249227)
 
 ## Pull Requests and repo updates
-### [BDK](https://github.com/bitcoindevkit/bdk)
--
-
-### [BIPs](https://github.com/bitcoin/bips)
--
-
-### [BLIPs](https://github.com/lightning/blips)
--
-
-### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
--
-
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
--
+- [policy / validation: CPFP fee bumping within packages](https://github.com/bitcoin/bitcoin/pull/24152)
 
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
--
-
-### [HWI](https://github.com/bitcoin-core/HWI)
--
-
-### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
-
-### [dlcspecs](https://github.com/discreetlogcontracts/dlcspecs)
--
+- [listclosedchannels command](https://github.com/ElementsProject/lightning/pull/5967)
+- [pyln: gossmap ... all the way](https://github.com/ElementsProject/lightning/pull/6012)
+- [gossip: improve handling of self-generated gossip when sending to peers ](https://github.com/ElementsProject/lightning/pull/6134)
+- [Blinded payments are no longer experimental (and other BOLT updates along the way)](https://github.com/ElementsProject/lightning/pull/6138)
 
 ### [eclair](https://github.com/ACINQ/eclair/)
--
+- [Add offer manage](https://github.com/ACINQ/eclair/pull/2566)
+- [Add support for splices](https://github.com/ACINQ/eclair/pull/2584)
+- [Add listreceivedpayments RPC call](https://github.com/ACINQ/eclair/pull/2607)
+- [Dynamic funding pubkeys](https://github.com/ACINQ/eclair/pull/2634)
+- [Add padding to blinded payment routes](https://github.com/ACINQ/eclair/pull/2638)
 
 ### [libsecp](https://github.com/bitcoin-core/secp256k1)
-- [libsecp256k1 0.3.1 released](https://github.com/bitcoin-core/secp256k1/releases/tag/v0.3.1)
-
-### [lnd](https://github.com/lightningnetwork/lnd)
--
-
-### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
--
-
-### [secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp)
--
-
-
-## New Releases
--
+- [Add x-only ecmult_const version with x specified as n/d](https://github.com/bitcoin-core/secp256k1/pull/1118)
 
 ## Events and Podcasts
 - [PMing Bitcoin Core](https://twitter.com/moneyball/status/1644007145753698305)
@@ -127,7 +81,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Bitcoin Mining around the world: Kyrgyzstan](https://hashrateindex.com/blog/bitcoin-mining-around-the-world-kyrgyzstan/)
 - [Foundry no longer offering free pool service](https://www.bloomberg.com/news/articles/2023-04-06/dcg-s-bitcoin-mining-firm-foundry-to-stop-offering-free-services)
 - [Intel Discontinues Bitcoin-Mining Blockscale Chips, No Future Gens Announced](https://www.tomshardware.com/news/intel-discontinues-bitcoin-mining-blockscale-chips-no-future-gens-announced)
-
 
 ## Miscellaneous
 - [Bitcoin STAMPs](https://github.com/mikeinspace/stamps/blob/main/BitcoinStamps.md)
