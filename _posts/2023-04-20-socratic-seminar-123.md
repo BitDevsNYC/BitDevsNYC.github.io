@@ -18,7 +18,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Civ Kit: A Peer-to-Peer Electronic Market System](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021556.html)
 - [Conjectures on solving the high interactivity issue in payment pools and channel factories](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021560.html)
 - [Proposal to Remove BIP35 P2P 'mempool' Message](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021562.html)
-- [Bitcoin Core maintainers and communication on merge decisions](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021565.html)
+
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 - [Resizing Lightning Channels Off-Chain With Hierarchical Channels](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-April/003896.html)
@@ -57,7 +57,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
-- [policy / validation: CPFP fee bumping within packages](https://github.com/bitcoin/bitcoin/pull/24152)
+- TODO
 
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
 - [listclosedchannels command](https://github.com/ElementsProject/lightning/pull/5967)
