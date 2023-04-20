@@ -53,6 +53,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [DDoS attackers switching from IoT devices to VPS-based infrastructure to launch attacks](https://blog.cloudflare.com/ddos-threat-report-2023-q1/)
 - [LUKS using weak KDF](https://mjg59.dreamwidth.org/66429.html?ref=nobsbitcoin.com)
 - [MEV-Boost-Relay attacked, MEV searchers exploited](https://twitter.com/BlockSecTeam/status/1642971478458249227)
+- [Apple Releases Updates to Address Zero-Day Flaws in iOS, iPadOS, macOS, and Safari](https://thehackernews.com/2023/04/apple-releases-updates-to-address-zero.html)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
