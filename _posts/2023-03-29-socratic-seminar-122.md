@@ -58,31 +58,48 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ## Network Data
 - [500 new nodes from two hosts, likely sybils](https://twitter.com/mattthias0/status/1638498177660735489)
-- [Anomalous HTLC resolutions times across Lightning Network](https://twitter.com/roasbeef/status/1633544951895293952)
+- [Anomoalous HTLC resolutions times across Lightning Network](https://twitter.com/roasbeef/status/1633544951895293952)
 - [Celcius WBTC moving through FalconX](https://twitter.com/ErgoBTC/status/1630327333772042240)
 - [Majority of nostr zaps collected by custodial lightning wallets](https://twitter.com/benthecarman/status/1638006709741289474)
-- [mempool reaches record 928MB in size](https://twitter.com/murchandamus/status/1638952405415895044)
+- [mempool reaches record 928MB in size](https://mobile.twitter.com/murchandamus/status/1638952405415895044)
 - [More hashes in 24 seconds than grains of sand on earth](https://twitter.com/w_s_bitcoin/status/1633512005431697408)
 - [Ordinals data dashboard](https://dune.com/dgtl_assets/bitcoin-ordinals-analysis)
-- [Ordinal inscriptions trigger resurgence in counterparty bare multisig data encoding](https://twitter.com/mononautical/status/1639095507338530817)
+- [Ordinal inscribers rebroadcasting evicted collections](https://twitter.com/mononautical/status/1641923195040153601)
+- [Ordinal inscriptions trigger resurgence counterparty bare multisig data encoding](https://twitter.com/mononautical/status/1639095507338530817)
 - [Portion of seized Silk Road Bitcoin on the move](https://twitter.com/glassnode/status/1633243962457878538)
-- Multiple stale blocks - [781277](https://forkmonitor.info/stale/btc/781277), context - [1](https://twitter.com/mattthias0/status/1638574154453483520), [2](https://twitter.com/jamesob/status/1637191706691903488); [781487](https://forkmonitor.info/stale/btc/781487)
+- Multiple stale blocks - [781277](https://forkmonitor.info/stale/btc/781277), context - [1](https://twitter.com/mattthias0/status/1638574154453483520), [2](https://twitter.com/jamesob/status/1637191706691903488), [781487](https://forkmonitor.info/stale/btc/781487)
 - [Wallet of Satoshi approaching 1m payments per month](https://twitter.com/kerooke/status/1638893386852646915)
 
 ## CVEs and Research
 ### Research
--
+- [BIP32-Compatible Threshold Wallets](https://eprint.iacr.org/2023/312)
+- [Bitcoin Network Topology Discovery Using Timing Analysis](https://repositum.tuwien.at/handle/20.500.12708/154417)
+- [Exploring Unconfirmed Transactions for Effective Bitcoin Address Clustering](https://arxiv.org/abs/2303.01012)
+- [Fully Adaptive Schnorr Threshold Signatures](https://eprint.iacr.org/2023/445)
+- [Making Classical (Threshold) Signatures Post-Quantum for Single Use on a Public Ledger](https://eprint.iacr.org/2023/420)
+- [New Records in Collision Attacks on RIPEMD-160 and SHA-256](https://eprint.iacr.org/2023/285)
+- [Price of Anarchy in the Lightning Network](https://raw.githubusercontent.com/sebulino/ThesisSimulation/e477ed11852a70f988ea93326717feebbdc0f28f/Price_of_Anarchy_in_the_Lightning_Network_Sebastian_Alscher_20230320.pdf)
+- [Red Team vs. Blue Team: A Real-World Hardware Trojan Detection Case Study Across Four Modern CMOS Technology Generations](https://eprint.iacr.org/2022/1720)
+- [Research on Elliptic Curve Crypto Systemwith Bitcoin Curves – SECP256k1, NIST256p, NIST521p and LLL](https://journals.riverpublishers.com/index.php/JCSANDM/article/view/15085/17499)
+- [SGXonerated: Finding (and Partially Fixing) Privacy Flaws in TEE-based Smart Contract Platforms Without Breaking the TEE](https://eprint.iacr.org/2023/378)
 
 ### InfoSec
 - [147 Block Reorg on Polygon](https://forum.polygon.technology/t/157-block-reorg-at-block-height-39599624/11388)
 - [aCropalypse: Recovering Truncated PNGs](https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html)
+- [The red pill attack](https://zengo.com/zengo-uncovers-security-vulnerabilities-in-popular-web3-transaction-simulation-solutions-the-red-pill-attack/)
 - [Bitbns allegedly covers up $7.5m hack](https://twitter.com/zachxbt/status/1630665458134163476)
 - [BitGo Ethereum TSS key extraction vulnerability](https://www.fireblocks.com/blog/bitgo-wallet-zero-proof-vulnerability)
+- [CASPER: Covert Channel Using Internal Speakers](https://www.mdpi.com/1424-8220/23/6/2970)
 - [ChipMixer taken down by joint task force](https://www.justice.gov/opa/pr/justice-department-investigation-leads-takedown-darknet-cryptocurrency-mixer-processed-over-3), [seizure funds associated with Hydra seizure](https://twitter.com/ErgoBTC/status/1638702389938262016)
 - [Edge Wallet leaks private keys in logs sent to server, funds stolen](https://edge.app/blog/company-news/edge-security-incident-urgent-notice/)
+- [Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues](https://papers.mathyvanhoef.com/usenix2023-wifi.pdf)
 - [Further details of the LastPass hack](https://support.lastpass.com/help/incident-2-additional-details-of-the-attack)
 - [GeneralBytes BTM secuity incident](https://generalbytes.atlassian.net/wiki/spaces/ESD/pages/2885222430/Security+Incident+March+17-18th+2023)
+- [Github updates RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
+- [Multiple CVEs in threshold cryptography implementations](https://research.kudelskisecurity.com/2023/03/23/multiple-cves-in-threshold-cryptography-implementations/)
+- [Polynonce: A Tale of a Novel ECDSA Attack and Bitcoin Tears](https://research.kudelskisecurity.com/2023/03/06/polynonce-a-tale-of-a-novel-ecdsa-attack-and-bitcoin-tears/)
 - [Jumpo Crypto counter-hacks Wormhole exploiter](https://www.blockworksresearch.com/research/we-do-a-little-counter-exploit)
+- [Verichains Discovers Critical Key Extraction Attacks in Popular Threshold Signature Scheme for MPC Wallets and Digital Asset Custody ](https://blog.verichains.io/p/verichains-discovers-critical-key)
 
 ## Pull Requests and repo updates
 ### [BDK](https://github.com/bitcoindevkit/bdk)
@@ -130,24 +147,36 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 
 ## New Releases
--
+- [BTCPayServer Wabisabi CoinJoin Plugin](https://github.com/Kukks/BTCPayServerPlugins/blob/736b7a8d2dd4d4f017da8ed55a0cbae4eeb64e46/Plugins/BTCPayServer.Plugins.Wabisabi/readme.md)
+- [libsecp256k1 v0.3.0](https://github.com/bitcoin-core/secp256k1/releases/tag/v0.3.0) - cmake support
 
 ## Events and Podcasts
--
+- [The Chaincode Podcast: Andrew Chow – Bitcoin Core wallet](https://podcast.chaincode.com/2023/03/09/andrew-chow.html)
+- [The Chaincode Podcast: Tadge Dryja - Lightning History and everything else ](https://podcast.chaincode.com/2023/03/20/tadge-dryja.html)
 
 ## Mining
--
+- [Hedging renewable energy investments with Bitcoin mining](https://www.sciencedirect.com/science/article/abs/pii/S1364032120308054)
+- [Terawulf Brings First Fully Nuclear-Powered Bitcoin Mining Operation In America Online](https://bitcoinmagazine.com/business/terawulf-first-fully-nuclear-powered-bitcoin-mining)
 
 ## Privacy
 -
 
 ## Miscellaneous
+- [A History of Bitcoin Maximalism](https://blog.lopp.net/history-of-bitcoin-maximalism/)
+- [Bitcoin CoreDev reflections 2022-2023](https://adamjonas.com/bitcoin/coredev/retro/coredev-2022-retro/)
 - [BraiinsOS no longer open source?](https://twitter.com/ajtowns/status/1629280539583877122)
 - [Draft PR integrating Simplicity into Elements](https://github.com/ElementsProject/elements/pull/1219)
-- [Early implementation of Musig2 in scala](https://github.com/fiatjaf/scoin/pull/14)
+- [eclair splice specification proposal](https://gist.github.com/t-bast/1ac31f4e27734a10c5b9847d06db8d86#file-splice-flows-md)
+- [Introducing Floresta, a Utreexo-powered Electrum Server implementation](https://medium.com/vinteum-org/introducing-floresta-an-utreexo-powered-electrum-server-implementation-60feba8e179d)
+- [Lightning Prisms](https://dergigi.com/2023/03/12/lightning-prisms/)
+- [LinkingLion: An entity linking Bitcoin transactions to IPs?](https://b10c.me/observations/06-linkinglion/)
 - [lnproxy back online](https://twitter.com/lnproxy/status/1634896344383930372)
 - Spiral grants - [okjodom](https://twitter.com/spiralbtc/status/1633141813555986433)
 - [Payjoin.org](http://payjoin.org/)
 - [The Breez Open-LSP Model: Scaling Lightning by Sharing ROI with 3rd-Party LSPs](https://medium.com/breez-technology/the-breez-open-lsp-model-scaling-lightning-by-sharing-roi-with-3rd-party-lsps-e2ef6e31562e)
+- [The Mining Development Kit - Unlocking Innovation in Bitcoin Mining](https://www.mining.build/the-mining-development-kit-unlocking-innovation-in-bitcoin-mining/)
 - [Tornado Cash and Blockchain Privacy: A Primer for Economists and Policymakers](https://research.stlouisfed.org/publications/review/2023/02/03/tornado-cash-and-blockchain-privacy-a-primer-for-economists-and-policymakers)
+- [Toy implementation of Musig2 in scala](https://github.com/fiatjaf/scoin/pull/14)
+- [We are the Bitcoin Product Community](https://bitcoinproduct.substack.com/p/we-are-the-bitcoin-product-community)
+- [Zerosync Association formally announces chain compression project](https://zerosync.org/assets/downloads/zerosync_press_release_28.03.23.pdf)
 
