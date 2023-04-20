@@ -108,15 +108,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Route Blinding (Feature 24/25)](https://github.com/lightning/bolts/pull/765)
 
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
-- [Optimize SelectCoinsBnB by tracking the selection by index rather than by position](https://github.com/bitcoin/bitcoin/pull/13226)
-- [net: respect -onlynet= when making outbound connections](https://github.com/bitcoin/bitcoin/pull/22834)
-- [p2p: Serialize cmpctblock at most once in NewPoWValidBlock](https://github.com/bitcoin/bitcoin/pull/23880)
-- [net: open p2p connections to nodes that listen on non-default ports](https://github.com/bitcoin/bitcoin/pull/23542)
-- [Add (sorted)multi_a descriptor for k-of-n multisig inside tr](https://github.com/bitcoin/bitcoin/pull/24043)
-- [Add 'sendall' RPC née sweep](https://github.com/bitcoin/bitcoin/pull/24118)
-- [p2p: extend inbound eviction protection by network to CJDNS peers](https://github.com/bitcoin/bitcoin/pull/24165)
-- [miner: always assume we can build witness blocks](https://github.com/bitcoin/bitcoin/pull/24421)
-- [wallet: don't create long chains by default](https://github.com/bitcoin/bitcoin/pull/24502)
+- TODO
 
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
 - [Update libwally to 0.8.8, Support PSBTv2 and PSETv2](https://github.com/ElementsProject/lightning/pull/5898)
