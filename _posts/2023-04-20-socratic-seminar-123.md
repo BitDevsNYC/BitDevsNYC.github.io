@@ -31,6 +31,22 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
     - [27255: MiniTapscript: port Miniscript to Tapscript](https://bitcoincore.reviews/27255)
     - [27255: MiniTapscript: port Miniscript to Tapscript (Part 2)](https://bitcoincore.reviews/27255-2)
     - [27039: Blockstorage: do not flush block to disk if it is already there](https://bitcoincore.reviews/27039)
+- Bitcoin Core  Meetings
+    - [March 30th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-03-30.html#l-211)
+    - [April 6th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-04-06.html#l-214)
+    - [April 13th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-04-13.html#l-295)
+    - [April 20th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-04-20.html#l-162)
+- Bitcoin Core Wallet Meeting
+    - [April 7th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-04-07.html#l-228)
+- Bitcoin Contracting Primitives WG 
+    - [April 18th](https://github.com/ariard/bitcoin-contracting-primitives-wg/blob/main/meetings/meetings-18-04.md)
+- Lightning Specification Meeting
+    - [April 10th](https://github.com/lightning/bolts/issues/1065)
+
+### Optech
+- [Optech Newsletter #245](https://bitcoinops.org/en/newsletters/2023/04/05/), [audio recap](https://bitcoinops.org/en/podcast/2023/04/06)
+- [Optech Newsletter #246](https://bitcoinops.org/en/newsletters/2023/04/12/)
+- [Optech Newsletter #247](https://bitcoinops.org/en/newsletters/2023/04/19/)
 
 ## Network Data
 - [Destination of THNDR Games lightning payments](https://twitter.com/kerooke/status/1644409881192005632)
