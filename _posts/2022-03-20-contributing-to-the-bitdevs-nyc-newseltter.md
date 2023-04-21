@@ -191,7 +191,7 @@ This section highlights noteworthy pull requests in projects that play a signifi
 #### Stylistic Notes
 
 - Order the pull requests by PR number
-- Order the repositories as specified above
+- Order the repositories as displayed in the [template](https://github.com/BitDevsNYC/BitDevsNYC.github.io/blob/master/_posts/_template.md#pull-requests-and-repo-updates)
 - Include the full PR title as the link text for the link unless a more descriptive title is required
 
 #### Content Notes
