@@ -42,6 +42,8 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
     - <!--- TODO replace: [October 5th](https://github.com/discreetlogcontracts/dlcspecs/pull/175) --->
 - Lightning specification meetings
     - <!--- TODO replace: [October 11th](https://github.com/lightningnetwork/lightning-rfc/issues/920) --->
+- Bitcoin Contracting Primitives Working Group
+	- <!--- TODO replace: [April 18th](https://github.com/ariard/bitcoin-contracting-primitives-wg/blob/main/meetings/meetings-18-04.md) --->
 
 ### Optech
 - <!--- TODO replace: [Newsletter #229](https://bitcoinops.org/en/newsletters/2022/12/07/), [audio recap](https://twitter.com/bitcoinoptech/status/1600867081225764864) --->
@@ -57,7 +59,37 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 -
 
 ## Pull Requests and repo updates
+### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
+-
+
 ### [BDK](https://github.com/bitcoindevkit/bdk)
+-
+
+### [HWI](https://github.com/bitcoin-core/HWI)
+-
+
+### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
+-
+
+### [libsecp](https://github.com/bitcoin-core/secp256k1)
+-
+
+### [secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp)
+-
+
+### [dlcspecs](https://github.com/discreetlogcontracts/dlcspecs)
+-
+
+### [Core Lightning](https://github.com/ElementsProject/lightning)
+-
+
+### [eclair](https://github.com/ACINQ/eclair/)
+-
+
+### [LDK](https://github.com/lightningdevkit/rust-lightning)
+-
+
+### [lnd](https://github.com/lightningnetwork/lnd)
 -
 
 ### [BIPs](https://github.com/bitcoin/bips)
@@ -69,37 +101,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 ### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
 -
 
-### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
--
-
-### [Core Lightning](https://github.com/ElementsProject/lightning)
--
-
-### [HWI](https://github.com/bitcoin-core/HWI)
--
-
-### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
-
-### [dlcspecs](https://github.com/discreetlogcontracts/dlcspecs)
--
-
-### [eclair](https://github.com/ACINQ/eclair/)
--
-
-### [libsecp](https://github.com/bitcoin-core/secp256k1)
--
-
-### [lnd](https://github.com/lightningnetwork/lnd)
--
-
-### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
--
-
-### [secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp)
--
-
-
 ## New Releases
 -
 
@@ -107,9 +108,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 -
 
 ## Mining
--
-
-## Privacy
 -
 
 ## Miscellaneous
