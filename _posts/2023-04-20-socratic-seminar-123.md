@@ -57,7 +57,9 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
-- TODO
+- [addrman: Enable selecting addresses by network](https://github.com/bitcoin/bitcoin/pull/27214)
+- [Add pool based memory resource](https://github.com/bitcoin/bitcoin/pull/25325)
+- [p2p: update hardcoded mainnet seeds for 25.x](https://github.com/bitcoin/bitcoin/pull/27488)
 
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
 - [listclosedchannels command](https://github.com/ElementsProject/lightning/pull/5967)
