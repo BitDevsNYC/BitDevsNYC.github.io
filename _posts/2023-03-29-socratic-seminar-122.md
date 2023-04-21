@@ -108,7 +108,11 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Route Blinding (Feature 24/25)](https://github.com/lightning/bolts/pull/765)
 
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
-- TODO
+- [assumeutxo: background validation completion](https://github.com/bitcoin/bitcoin/pull/25740)
+- [wallet: group outputs only once, decouple it from Coin Selection](https://github.com/bitcoin/bitcoin/pull/25806)
+- [refactor / kernel: Move non-gArgs chainparams functionality to kernel](https://github.com/bitcoin/bitcoin/pull/26177)
+- [p2p: Improve diversification of new connections](https://github.com/bitcoin/bitcoin/pull/27264)
+- [Remove MarcoFalke fingerprint, update trusted-git-root](https://github.com/bitcoin/bitcoin/pull/27135)
 
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
 - [Update libwally to 0.8.8, Support PSBTv2 and PSETv2](https://github.com/ElementsProject/lightning/pull/5898)
