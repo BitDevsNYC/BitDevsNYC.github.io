@@ -38,7 +38,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
     - [April 20th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-04-20.html#l-162)
 - Bitcoin Core Wallet Meeting
     - [April 7th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-04-07.html#l-228)
-- Bitcoin Contracting Primitives WG 
+- Bitcoin Contracting Primitives WG
     - [April 18th](https://github.com/ariard/bitcoin-contracting-primitives-wg/blob/main/meetings/meetings-18-04.md)
 - Lightning Specification Meeting
     - [April 10th](https://github.com/lightning/bolts/issues/1065)

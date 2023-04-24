@@ -55,8 +55,8 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ## Network Data
 - [500 new nodes from two hosts, likely sybils](https://twitter.com/mattthias0/status/1638498177660735489)
-- [Anomoalous HTLC resolutions times across Lightning Network](https://twitter.com/roasbeef/status/1633544951895293952)
-- [Celcius WBTC moving through FalconX](https://twitter.com/ErgoBTC/status/1630327333772042240)
+- [Anomalous HTLC resolutions times across Lightning Network](https://twitter.com/roasbeef/status/1633544951895293952)
+- [Celsius WBTC moving through FalconX](https://twitter.com/ErgoBTC/status/1630327333772042240)
 - [Majority of nostr zaps collected by custodial lightning wallets](https://twitter.com/benthecarman/status/1638006709741289474)
 - [mempool reaches record 928MB in size](https://mobile.twitter.com/murchandamus/status/1638952405415895044)
 - [More hashes in 24 seconds than grains of sand on earth](https://twitter.com/w_s_bitcoin/status/1633512005431697408)
@@ -77,7 +77,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [New Records in Collision Attacks on RIPEMD-160 and SHA-256](https://eprint.iacr.org/2023/285)
 - [Price of Anarchy in the Lightning Network](https://raw.githubusercontent.com/sebulino/ThesisSimulation/e477ed11852a70f988ea93326717feebbdc0f28f/Price_of_Anarchy_in_the_Lightning_Network_Sebastian_Alscher_20230320.pdf)
 - [Red Team vs. Blue Team: A Real-World Hardware Trojan Detection Case Study Across Four Modern CMOS Technology Generations](https://eprint.iacr.org/2022/1720)
-- [Research on Elliptic Curve Crypto Systemwith Bitcoin Curves – SECP256k1, NIST256p, NIST521p and LLL](https://journals.riverpublishers.com/index.php/JCSANDM/article/view/15085/17499)
+- [Research on Elliptic Curve Crypto System with Bitcoin Curves – SECP256k1, NIST256p, NIST521p and LLL](https://journals.riverpublishers.com/index.php/JCSANDM/article/view/15085/17499)
 - [SGXonerated: Finding (and Partially Fixing) Privacy Flaws in TEE-based Smart Contract Platforms Without Breaking the TEE](https://eprint.iacr.org/2023/378)
 
 ### InfoSec
@@ -91,8 +91,8 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Edge Wallet leaks private keys in logs sent to server, funds stolen](https://edge.app/blog/company-news/edge-security-incident-urgent-notice/)
 - [Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues](https://papers.mathyvanhoef.com/usenix2023-wifi.pdf)
 - [Further details of the LastPass hack](https://support.lastpass.com/help/incident-2-additional-details-of-the-attack)
-- [GeneralBytes BTM secuity incident](https://generalbytes.atlassian.net/wiki/spaces/ESD/pages/2885222430/Security+Incident+March+17-18th+2023)
-- [Github updates RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
+- [GeneralBytes BTM security incident](https://generalbytes.atlassian.net/wiki/spaces/ESD/pages/2885222430/Security+Incident+March+17-18th+2023)
+- [GitHub updates RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
 - [Multiple CVEs in threshold cryptography implementations](https://research.kudelskisecurity.com/2023/03/23/multiple-cves-in-threshold-cryptography-implementations/)
 - [Polynonce: A Tale of a Novel ECDSA Attack and Bitcoin Tears](https://research.kudelskisecurity.com/2023/03/06/polynonce-a-tale-of-a-novel-ecdsa-attack-and-bitcoin-tears/)
 - [Jumpo Crypto counter-hacks Wormhole exploiter](https://www.blockworksresearch.com/research/we-do-a-little-counter-exploit)
@@ -119,7 +119,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
 - [BOLT 12 deserialization fuzzers](https://github.com/lightningdevkit/rust-lightning/pull/1977)
-- [Allow overshooting final htlc amount and expiry #2062](https://github.com/lightningdevkit/rust-lightning/pull/2062)
+- [Allow overshooting final HTLC amount and expiry #2062](https://github.com/lightningdevkit/rust-lightning/pull/2062)
 
 ### [eclair](https://github.com/ACINQ/eclair/)
 - [Add limit for incoming connections from peers without channels](https://github.com/ACINQ/eclair/pull/2601)
@@ -130,7 +130,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ### [lnd](https://github.com/lightningnetwork/lnd)
 - [Replace FundingLocked with ChannelReady](https://github.com/lightningnetwork/lnd/pull/7517)
-- [Check for nonWitness UTXO or witness UTXO data in the psbt inputs](https://github.com/lightningnetwork/lnd/pull/7529)
+- [Check for nonWitness UTXO or witness UTXO data in the PSBT inputs](https://github.com/lightningnetwork/lnd/pull/7529)
 - [watchtower: let client recover after data loss](https://github.com/lightningnetwork/lnd/pull/7541)
 
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
@@ -168,7 +168,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [The Breez Open-LSP Model: Scaling Lightning by Sharing ROI with 3rd-Party LSPs](https://medium.com/breez-technology/the-breez-open-lsp-model-scaling-lightning-by-sharing-roi-with-3rd-party-lsps-e2ef6e31562e)
 - [The Mining Development Kit - Unlocking Innovation in Bitcoin Mining](https://www.mining.build/the-mining-development-kit-unlocking-innovation-in-bitcoin-mining/)
 - [Tornado Cash and Blockchain Privacy: A Primer for Economists and Policymakers](https://research.stlouisfed.org/publications/review/2023/02/03/tornado-cash-and-blockchain-privacy-a-primer-for-economists-and-policymakers)
-- [Toy implementation of Musig2 in scala](https://github.com/fiatjaf/scoin/pull/14)
+- [Toy implementation of Musig2 in Scala](https://github.com/fiatjaf/scoin/pull/14)
 - [We are the Bitcoin Product Community](https://bitcoinproduct.substack.com/p/we-are-the-bitcoin-product-community)
 - [Zerosync Association formally announces chain compression project](https://zerosync.org/assets/downloads/zerosync_press_release_28.03.23.pdf)
 
