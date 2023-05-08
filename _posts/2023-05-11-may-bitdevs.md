@@ -61,3 +61,4 @@ These rules exist so that BitDevs participants can speak freely within the event
   * New time for #bitcoin-core-dev IRC meeting
   * `ryanofsky` proposed as new maintainer
   * Project priorities
+  * The ["Doubling"](https://mempool.space/block/00000000000000000000a2ebd1f41ec71b7864162216279406c47c6429783f01)
