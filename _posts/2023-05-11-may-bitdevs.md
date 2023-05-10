@@ -24,7 +24,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 ## CoreDev Recap
 
-* Selected notes: [bitcointranscripts](https://github.com/bitcointranscripts/bitcointranscripts/pull/247/files)
+* Selected notes: [bitcointranscripts](https://btctranscripts.com/bitcoin-core-dev-tech/)
 * Highlights:
   * `libbitcoinkernel` updates
   * Mempool Clustering
