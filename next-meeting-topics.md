@@ -8,5 +8,9 @@
 - MATT vaults vs. OP_VAULT
   - <https://www.mail-archive.com/bitcoin-dev@lists.linuxfoundation.org/msg12595.html>
 
-- ETH fail
+- Consensus is hard (ETH fails)
   - <https://twitter.com/adamscochran/status/1657090996708990979>
+  - <https://twitter.com/kennyog/status/1658057298634309638?t=8FJkGI3tq0L7gl_v0zJwng&s=19>
+
+- Mempool full
+  - <https://twitter.com/murchandamus/status/1654969825309892614>
