@@ -7,7 +7,7 @@ meetup: https://www.meetup.com/miami-bitdevs/events/292999676/
 
 In a joint effort between [BitDevs NYC](https://bitdevs.org), [Triangle Bitdevs](https://trianglebitdevs.org), and [Miami BitDevs](https://miamibitdevs.org), we are hosting our 17th Socratic Seminar on the day before the Bitcoin 2023 conference.
 
-A special thanks to our sponsors [Bitcoin Builders Conference](https://www.bitcoinbuildersconf.com), [CardCoins](https://www.cardcoins.co/), [Wolf](https://wolfnyc.com/), [Reactor](https://reactor.xyz), [Frontier Fund](https://www.btcfrontier.fund/), and [Hodler Gallery](https://www.hodlergallery.com/) for food, beverage and event space.
+A special thanks to our sponsors [Bitcoin Builders Conference](https://www.bitcoinbuildersconf.com), [CardCoins](https://www.cardcoins.co/), [Wolf](https://wolfnyc.com/), [Reactor](https://reactor.xyz), [Frontier Fund](https://www.btcfrontier.fund/), and [BitBasel](https://bitbasel.com/) for food, beverage and event space.
 
 Please join us for a great discussion. If you've never been to a Socratic Seminar before, please learn about the event format [here](https://miamibitdevs.org/about).
 
