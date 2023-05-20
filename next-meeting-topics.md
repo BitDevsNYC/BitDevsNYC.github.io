@@ -14,3 +14,6 @@
 
 - Mempool full
   - <https://twitter.com/murchandamus/status/1654969825309892614>
+
+- Cluster mempool
+  - <https://github.com/bitcoin/bitcoin/issues/27677>
