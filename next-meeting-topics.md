@@ -17,3 +17,6 @@
 
 - Cluster mempool
   - <https://github.com/bitcoin/bitcoin/issues/27677>
+
+- Decoy Issue in Monero
+  - <https://twitter.com/AnonIndustries_/status/1663229977456967681?t=KmW_4HVNC4NE5kVap0eXsA&s=19>
