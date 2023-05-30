@@ -43,35 +43,31 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-    - [#27145 When a block is disconnected, update transactions that are no longer conflicted](https://bitcoincore.reviews/27145)
-    - [Testing Bitcoin Core 25.0 Release Candidates](https://bitcoincore.reviews/v25-rc-testing)
-    - [#27600 Allow inbound whitebind connections to more aggressively evict peers when slots are full](https://bitcoincore.reviews/27600)
-    - [#26485 Accept options as named-only parameters](https://bitcoincore.reviews/26485)
+    - [#27460 Add importmempool RPC (rpc/rest/zmq)](https://bitcoincore.reviews/27460)
     - [#27501 Add getprioritisationmap, delete a mapDeltas entry when delta==0](https://bitcoincore.reviews/27501)
+    - [#26485 Accept options as named-only parameters](https://bitcoincore.reviews/26485)
+    - [#27600 Allow inbound whitebind connections to more aggressively evict peers when slots are full](https://bitcoincore.reviews/27600)
+    - [Testing Bitcoin Core 25.0 Release Candidates](https://bitcoincore.reviews/v25-rc-testing)
+
 
 - Bitcoin Core general developer meetings
+    - April 27: No meeting
     - [May 4](https://www.erisian.com.au/bitcoin-core-dev/log-2023-05-04.html#l-246)
     - [May 11](https://www.erisian.com.au/bitcoin-core-dev/log-2023-05-11.html#l-184)
     - [May 18](https://www.erisian.com.au/bitcoin-core-dev/log-2023-05-18.html#l-196)
     - [May 25](https://www.erisian.com.au/bitcoin-core-dev/log-2023-05-25.html#l-180)
 
 - Lightning Specification meeting
-    - <!--- TODO replace: [December 5th](https://github.com/lightning/bolts/issues/1046) --->
-- Core Lightning Developer Call
-    - <!--- TODO replace: [September 20th](https://diyhpl.us/wiki/transcripts/c-lightning/2021-09-20-developer-call/) --->
-- dlc-specs meetings
-    - <!--- TODO replace: [October 5th](https://github.com/discreetlogcontracts/dlcspecs/pull/175) --->
-- Lightning specification meetings
-    - <!--- TODO replace: [October 11th](https://github.com/lightningnetwork/lightning-rfc/issues/920) --->
-- Bitcoin Contracting Primitives Working Group
-	- <!--- TODO replace: [April 18th](https://github.com/ariard/bitcoin-contracting-primitives-wg/blob/main/meetings/meetings-18-04.md) --->
+    - [April 24th](https://github.com/lightning/bolts/issues/1067)
+    - [May 8th](https://github.com/lightning/bolts/issues/1076)
+    - [May 22nd](https://github.com/lightning/bolts/issues/1082)
 
 ### Optech
-- [Bitcoin Optech Newsletter #252](https://bitcoinops.org/en/newsletters/2023/05/24/)
-- [Bitcoin Optech Newsletter #251](https://bitcoinops.org/en/newsletters/2023/05/17/)
-- [Bitcoin Optech Newsletter #250](https://bitcoinops.org/en/newsletters/2023/05/10/)
-- [Bitcoin Optech Newsletter #249](https://bitcoinops.org/en/newsletters/2023/05/03/)
-
+- [Bitcoin Optech Newsletter #248](https://bitcoinops.org/en/newsletters/2023/04/26/), [Audio Recap (Podcast)](https://bitcoinops.org/en/podcast/2023/04/27/)
+- [Bitcoin Optech Newsletter #249](https://bitcoinops.org/en/newsletters/2023/05/03/), [Audio Recap (Podcast)](https://bitcoinops.org/en/podcast/2023/05/03/)
+- [Bitcoin Optech Newsletter #250](https://bitcoinops.org/en/newsletters/2023/05/10/), [Audio Recap (Podcast)](https://bitcoinops.org/en/podcast/2023/05/10/)
+- [Bitcoin Optech Newsletter #251](https://bitcoinops.org/en/newsletters/2023/05/17/), [Audio Recap (Twitter)](https://twitter.com/bitcoinoptech/status/1659166740734001153)
+- [Bitcoin Optech Newsletter #252](https://bitcoinops.org/en/newsletters/2023/05/24/), [Audio Recap (Twitter)](https://twitter.com/bitcoinoptech/status/1661748867925446657)
 
 ## Network Data
 -
