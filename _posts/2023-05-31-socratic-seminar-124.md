@@ -10,9 +10,6 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 If you can't make it to the main event please join us at PUBKEY around 9:30PM. **Learn about this awesome new establishment [here](https://ny.eater.com/2022/12/13/23494423/pubkey-opening-manhattan-bitcoin-bar).**
 
-## Presentation
--
-
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
@@ -39,7 +36,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 
 #### [dlc-dev](https://mailmanlists.org/pipermail/dlc-dev)
-
+- [Off-Chain DLC Maker/Taker Network](https://mailmanlists.org/pipermail/dlc-dev/2023-April/000175.html)
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
@@ -98,46 +95,38 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [rpc: Fix invalid bech32 address handling](https://github.com/bitcoin/bitcoin/pull/27727)
 
 ### [BDK](https://github.com/bitcoindevkit/bdk)
--
-
-### [HWI](https://github.com/bitcoin-core/HWI)
--
-
-### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
--
+- [Introduce redesigned bdk_chain structures](https://github.com/bitcoindevkit/bdk/pull/926)
 
 ### [libsecp](https://github.com/bitcoin-core/secp256k1)
--
+- [schnorrsig: Add test vectors for variable-length messages](https://github.com/bitcoin-core/secp256k1/pull/1133)
 
 ### [secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp)
--
-
-### [dlcspecs](https://github.com/discreetlogcontracts/dlcspecs)
--
-
-### [Core Lightning](https://github.com/ElementsProject/lightning)
--
+- [Norm arg: allow X and R to be point at infinity](https://github.com/BlockstreamResearch/secp256k1-zkp/pull/218)
 
 ### [eclair](https://github.com/ACINQ/eclair/)
--
+- [Add cpfp-bump-fees API](https://github.com/ACINQ/eclair/pull/1783)
+- [Accept closing fee above commit fee](https://github.com/ACINQ/eclair/pull/2662)
+- [Relax reserve requirements on HTLC receiver](https://github.com/ACINQ/eclair/pull/2666)
+- [Add upper bound on fees paid during force-close](https://github.com/ACINQ/eclair/pull/2668)
+- [Ignore non-relayed incoming HTLCs when closing](https://github.com/ACINQ/eclair/pull/2672)
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
+- [Dual funding and interactive tx construction wire messages](https://github.com/lightningdevkit/rust-lightning/pull/1794)
+- [Post-anchor: do not aggregate claim of revoked output](https://github.com/lightningdevkit/rust-lightning/pull/1841)
+- [Stateless BOLT 12 message verification](https://github.com/lightningdevkit/rust-lightning/pull/1989)
+- [Limit route hints to three channels](https://github.com/lightningdevkit/rust-lightning/pull/2044)
+- [Blinded pathfinding groundwork](https://github.com/lightningdevkit/rust-lightning/pull/2146)
+- [Support for custom feature bits](https://github.com/lightningdevkit/rust-lightning/pull/2204)
+- [Implement pending claim rebroadcast on force-closed channels](https://github.com/lightningdevkit/rust-lightning/pull/2208)
+- [Support broadcasting multiple transactions at once](https://github.com/lightningdevkit/rust-lightning/pull/2272)
+- [Create and Sign PSBTs for spendable outputs](https://github.com/lightningdevkit/rust-lightning/pull/2286)
 
 ### [lnd](https://github.com/lightningnetwork/lnd)
--
-
-### [BIPs](https://github.com/bitcoin/bips)
--
-
-### [BLIPs](https://github.com/lightning/blips)
--
-
-### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
--
-
-## New Releases
--
+- [[2/?] - input: add taproot chan scripts, control block logic, and spending routines](https://github.com/lightningnetwork/lnd/pull/7333)
+- [watchtower: replace in-mem task queue with a disk over-flow queue](https://github.com/lightningnetwork/lnd/pull/7380)
+- [sweep+lnrpc: enforce provided fee rate is no less than relay fee](https://github.com/lightningnetwork/lnd/pull/7645)
+- [Add config options for custom feature bits](https://github.com/lightningnetwork/lnd/pull/7568)
+- [multi: accept memo note when opening channel](https://github.com/lightningnetwork/lnd/pull/7668)
 
 ## Events and Podcasts
 -
