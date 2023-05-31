@@ -90,7 +90,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [p2p: Avoid prematurely clearing download state for other peers](https://github.com/bitcoin/bitcoin/pull/27608)
 - [Parallel compact block downloads, take 3](https://github.com/bitcoin/bitcoin/pull/27626)
 - [Improve performance of p2p inv to send queues](https://github.com/bitcoin/bitcoin/pull/27610)
-- [Parallel compact block downloads, take 3](https://github.com/bicoin/bitcoin/pull/27626)
 - [p2p: Log addresses of stalling peers](https://github.com/bitcoin/bitcoin/pull/27761)
 - [rpc: Fix invalid bech32 address handling](https://github.com/bitcoin/bitcoin/pull/27727)
 
