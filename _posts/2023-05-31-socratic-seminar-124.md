@@ -81,13 +81,21 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
-- [p2p: Log addresses of stalling peers](https://github.com/bitcoin/bitcoin/pull/27761)
-- [rpc: Fix invalid bech32 address handling](https://github.com/bitcoin/bitcoin/pull/27727)
-- [Parallel compact block downloads, take 3](https://github.com/bitcoin/bitcoin/pull/27626)
-- [Improve performance of p2p inv to send queues](https://github.com/bitcoin/bitcoin/pull/27610)
+- [Add pool based memory resource](https://github.com/bitcoin/bitcoin/pull/25325)
+- [mempool: disallow txns under min relay fee, even in packages](https://github.com/bitcoin/bitcoin/pull/26933)
+- [Implement Mini version of BlockAssembler to calculate mining scores](https://github.com/bitcoin/bitcoin/pull/27021)
+- [blockstorage: Adjust fastprune limit if block exceeds blockfile size](https://github.com/bitcoin/bitcoin/pull/27191)
+- [bumpfee: allow send coins back to yourself](https://github.com/bitcoin/bitcoin/pull/27195)
+- [addrman: Enable selecting addresses by network](https://github.com/bitcoin/bitcoin/pull/27214)
+- [wallet: improve IBD sync time by skipping block scanning prior birth time](https://github.com/bitcoin/bitcoin/pull/27469)  
+- [p2p: update hardcoded mainnet seeds for 25.x](https://github.com/bitcoin/bitcoin/pull/27488)
 - [add ryanofsky to trusted-keys](https://github.com/bitcoin/bitcoin/pull/27604)
 - [p2p: Avoid prematurely clearing download state for other peers](https://github.com/bitcoin/bitcoin/pull/27608)
-
+- [Parallel compact block downloads, take 3](https://github.com/bitcoin/bitcoin/pull/27626)
+- [Improve performance of p2p inv to send queues](https://github.com/bitcoin/bitcoin/pull/27610)
+- [Parallel compact block downloads, take 3](https://github.com/bicoin/bitcoin/pull/27626)
+- [p2p: Log addresses of stalling peers](https://github.com/bitcoin/bitcoin/pull/27761)
+- [rpc: Fix invalid bech32 address handling](https://github.com/bitcoin/bitcoin/pull/27727)
 
 ### [BDK](https://github.com/bitcoindevkit/bdk)
 -
