@@ -71,10 +71,12 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ## CVEs and Research
 ### Research
--
+- [Lightning Network Economics: Topology](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4439190)
 
 ### InfoSec
--
+- [Ledger Recover](https://www.ledger.com/recover)
+- [GUIX full bootstrap](https://guix.gnu.org/en/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
+
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -134,4 +136,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 -
 
 ## Miscellaneous
--
+- [Tornado Cash governance attack](https://twitter.com/samczsun/status/1660012956632104960)
+- [Attacks against STX sidechain](https://twitter.com/blockworksres/status/1659228801384194049)
+- [Lightning Payments – When Are They Too Small To Secure?](https://blog.bitmex.com/lightning-payments-when-are-they-too-small-to-secure/)
