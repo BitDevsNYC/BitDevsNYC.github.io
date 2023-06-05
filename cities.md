@@ -24,6 +24,7 @@ As a disclaimer, BitDevs NYC has no official associations with or oversight of t
 - [Los Angeles](https://bitdevsla.org/)
 - [Miami](https://miamibitdevs.org/)
 - [Minneapolis](https://bitdevsmpls.org)
+- [Norfolk](https://norfolkbitdevs.org/)
 - [Paris](https://twitter.com/bitdevsfr)
 - [Portland](https://www.meetup.com/portlandbitdevs/)
 - [Raleigh / Durham / Chapel Hill](https://trianglebitdevs.org/)
