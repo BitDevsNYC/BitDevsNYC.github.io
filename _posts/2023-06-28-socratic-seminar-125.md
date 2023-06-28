@@ -10,9 +10,6 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 If you can't make it to the main event please join us at PUBKEY around 9:30PM. **Learn about this awesome new establishment [here](https://ny.eater.com/2022/12/13/23494423/pubkey-opening-manhattan-bitcoin-bar).**
 
-## Presentation
--
-
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
@@ -43,10 +40,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Potential vulnerability in Lightning backends: BOLT-11 "payment hash" does not commit to payment!](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003983.html)
 - [LN Summit 2024 Organization](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003994.html)
 
-
-#### [dlc-dev](https://mailmanlists.org/pipermail/dlc-dev)
-
-
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
     - [#27307 Track mempool conflicts with wallet transactions](https://bitcoincore.reviews/27307)
@@ -70,16 +63,28 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Bitcoin Optech Newsletter #256](https://bitcoinops.org/en/newsletters/2023/06/21/)
 - [Bitcoin Optech Newsletter #257](https://bitcoinops.org/en/newsletters/2023/06/28/)
 
-
 ## Network Data
--
+- [OKX being looted of uncommon ordinal sats](https://twitter.com/mononautical/status/1666079581374230529)
+- [River Lightning node routes over 2M transactions](https://twitter.com/River_LN/status/1670856573340774400)
 
 ## CVEs and Research
 ### Research
--
+- [Multi-block MEV](https://arxiv.org/abs/2303.04430v2)
+- [Musketeer: Incentive-Compatible Rebalancing for Payment Channel Networks](https://eprint.iacr.org/2023/938)
+- [Proof of reserves and non-double spends for Chaumian Mints](https://arxiv.org/abs/2306.12783v2)
+- [Timed Commitments Revisited](https://eprint.iacr.org/2023/977)
+- [The curious case of the half-half Bitcoin ECDSA nonces](https://eprint.iacr.org/2023/841)https://eprint.iacr.org/2023/841
+- [When is Slower Block Propagation More Profitable for Large Miners?](https://eprint.iacr.org/2023/891)https://eprint.iacr.org/2023/891
 
 ### InfoSec
--
+- [Atlantis Loans hit by governance attack, drained of $2.5M](https://rekt.news/atlantis-loans-rekt/)
+- [Curve founder borrows $110M in stablecoins against his curve stash, ~50% of supply](https://twitter.com/apes_prologue/status/1669121532356902913)
+- [Freaky Leaky SMS: Extracting User Locations by Analyzing SMS Timings](https://arxiv.org/pdf/2306.07695.pdf)
+- [Lazarus group linked to the $35 million Atomic Wallet heist](https://www.bleepingcomputer.com/news/security/lazarus-hackers-linked-to-the-35-million-atomic-wallet-heist/)
+-[List of top white-hat discovered DeFi vulnerabilities](https://github.com/sirhashalot/SCV-List)
+- [Recovering secret keys from devices using video footage of their power LED](https://www.nassiben.com/video-based-crypta)
+- [Speculative Denial-of-Service Attacks in Ethereum](https://www.researchgate.net/publication/371641235_Speculative_Denial-of-Service_Attacks_in_Ethereum)
+- [Sturdy Finance drained of $800k in price manipulation exploit](https://rekt.news/sturdy-rekt/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -88,7 +93,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [p2p: give seednodes time before falling back to fixed seeds](https://github.com/bitcoin/bitcoin/pull/27577)
 - [Fee estimation: avoid serving stale fee estimate ](https://github.com/bitcoin/bitcoin/pull/27622)
 - [p2p: Stop relaying non-mempool txs](https://github.com/bitcoin/bitcoin/pull/27625)
-
 
 ### [BDK](https://github.com/bitcoindevkit/bdk)
 - [create taproot descriptor template](https://github.com/bitcoindevkit/bdk/pull/840)
@@ -132,15 +136,32 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 ### [BIPs](https://github.com/bitcoin/bips)
 - [Mark bech32m as final](https://github.com/bitcoin/bips/pull/1454)
 
-
 ## New Releases
--
-
-## Events and Podcasts
--
+- [greenlight - self soverign node in the cloud](https://github.com/Blockstream/greenlight)
+- [mostro - nostr based comms for purchase/sale of goods over lightning](https://github.com/MostroP2P/mostro)
+- [munstr - MuSig wallet with Nostr comms for signing orchestration](https://github.com/0xBEEFCAF3/munstr)
+- [tapism - bitcoin tapscript debugger](https://github.com/halseth/tapsim)
 
 ## Mining
--
+- [Brooklyn bathhouse heats water with Bitcoin mining](https://www.datacenterdynamics.com/en/news/brooklyn-bathhouse-heats-water-with-bitcoin-mining/)
 
 ## Miscellaneous
--
+- [A Proof of Liabilities Scheme for Ecash Mints](https://gist.github.com/callebtc/ed5228d1d8cbaade0104db5d1cf63939)
+- [Announcing LDK Node](https://lightningdevkit.org/blog/announcing-ldk-node/)
+- [Announcing MercuryLayer](https://twitter.com/gregory_nico/status/1666795977137700866)
+- [Binance Pool Launches BTC Transaction Accelerator](https://pool.binance.com/en/acceleration)
+- [Brink receives $5M pledge from Jack Dorsey and #startsmall](https://twitter.com/bitcoinbrink/status/1669012369727537152)
+- [Brink renews Sebastian Falbesoner's grant](https://brink.dev/blog/2023/06/20/bip324/)
+- [BTC Warp: succinct, verifiable proof of Bitcoin block headers to solve light node syncing](https://blog.succinct.xyz/blog/btc-warp)
+- [Miner Fee Gathering Capability (Part 2) – Out of Band Fees](https://blog.bitmex.com/miner-fee-gathering-capability-part-2-out-of-band-fees/)
+- [Modifying FROST Signers and Threshold](https://gist.github.com/nickfarrow/64c2e65191cde6a1a47bbd4572bf8cf8)
+- [Musig playground](https://supertestnet.github.io/musig-playground/)
+- [Normal operation and closure of a pre-taproot LN channel](https://ellemouton.com/posts/normal-operation-pre-taproot/)
+- [Open source research project on prehistory of Bitcoin](https://twitter.com/aaronvanw/status/1659935693890547712)
+- [Russian Nationals Charged With Hacking One Cryptocurrency Exchange And Illicitly Operating Another](https://www.justice.gov/usao-sdny/pr/russian-nationals-charged-hacking-one-cryptocurrency-exchange-and-illicitly-operating)
+- [Securing a $100M Lightning node](https://acinq.co/blog/securing-a-100M-lightning-node)
+- [Simplicity: Holes and Side Effects](https://blog.blockstream.com/simplicity-holes-and-side-effects/)
+- [Some Day Peg](https://gist.github.com/RobinLinus/1102fce176f3b5466180addac5d26313)
+- [Spiral announces grant for Matthew Ramsden](https://twitter.com/spiralbtc/status/1671917963526520833)
+- [Spiral renews grant for Daniel Nordh](https://twitter.com/spiralbtc/status/1673741459604881420)
+- [Spiral renews grant for Pavlenex](https://twitter.com/spiralbtc/status/1672276639282069504)
