@@ -56,8 +56,8 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Musketeer: Incentive-Compatible Rebalancing for Payment Channel Networks](https://eprint.iacr.org/2023/938)
 - [Proof of reserves and non-double spends for Chaumian Mints](https://arxiv.org/abs/2306.12783v2)
 - [Timed Commitments Revisited](https://eprint.iacr.org/2023/977)
-- [The curious case of the half-half Bitcoin ECDSA nonces](https://eprint.iacr.org/2023/841)https://eprint.iacr.org/2023/841
-- [When is Slower Block Propagation More Profitable for Large Miners?](https://eprint.iacr.org/2023/891)https://eprint.iacr.org/2023/891
+- [The curious case of the half-half Bitcoin ECDSA nonces](https://eprint.iacr.org/2023/841)
+- [When is Slower Block Propagation More Profitable for Large Miners?](https://eprint.iacr.org/2023/891)
 
 ### InfoSec
 - [Atlantis Loans hit by governance attack, drained of $2.5M](https://rekt.news/atlantis-loans-rekt/)
