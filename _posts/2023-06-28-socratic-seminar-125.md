@@ -29,15 +29,10 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
-- [Bitcoin mail list needs an explicit moderation policy](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003967.html)
-- [Lightning Network](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003969.html)
-- [In Response to Peter Todd - secureanonymoussurfing.com](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003971.html)
-- [Today’s Spam](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003973.html)
 - [Liquidity griefing for 0-conf dual-funded txs](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003974.html)
 - [Proposal: Bundled payments](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003977.html)
 - [HTLC Endorsement for Jamming Mitigation](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003984.html)
 - [Potential vulnerability in Lightning backends: BOLT-11 "payment hash" does not commit to payment!](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003983.html)
-- [LN Summit 2024 Organization](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003994.html)
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
