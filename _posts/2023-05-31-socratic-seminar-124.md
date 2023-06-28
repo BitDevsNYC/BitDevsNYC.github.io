@@ -23,7 +23,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [ZeroSync: Introducing Validity Proofs to Bitcoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021679.html)
 - [Stake Certificates and Web-of-Stakes: privacy-preserving proving UTXOs attributes in P2P systems](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021686.html)
 - [Ark: An Alternative Privacy-preserving Second Layer Solution](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021694.html)
-- [Coinjoin with less steps using ALL|ANYONECANPAY](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021696.html)
+- [Coinjoin with less steps using ALL / ANYONECANPAY](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021696.html)
 - [Bitcoin Transaction Relay over Nostr](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021700.html)
 
 
