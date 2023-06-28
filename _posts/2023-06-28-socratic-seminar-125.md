@@ -21,9 +21,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [BIP for Silent Payments](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-June/021750.html)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
-- [Liquidity griefing for 0-conf dual-funded txs](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003974.html)
 - [Proposal: Bundled payments](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003977.html)
-- [HTLC Endorsement for Jamming Mitigation](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003984.html)
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
