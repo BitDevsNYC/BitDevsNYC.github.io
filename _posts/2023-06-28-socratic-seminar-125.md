@@ -60,21 +60,15 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
     - [June 15](https://www.erisian.com.au/bitcoin-core-dev/log-2023-06-15.html#l-354)
     - [June 22](https://www.erisian.com.au/bitcoin-core-dev/log-2023-06-22.html#l-255)
 
-- Lightning Specification meeting
-    - <!--- TODO replace: [December 5th](https://github.com/lightning/bolts/issues/1046) --->
-- Core Lightning Developer Call
-    - <!--- TODO replace: [September 20th](https://diyhpl.us/wiki/transcripts/c-lightning/2021-09-20-developer-call/) --->
-- dlc-specs meetings
-    - <!--- TODO replace: [October 5th](https://github.com/discreetlogcontracts/dlcspecs/pull/175) --->
 - Lightning specification meetings
-    - <!--- TODO replace: [October 11th](https://github.com/lightningnetwork/lightning-rfc/issues/920) --->
-- Bitcoin Contracting Primitives Working Group
-	- <!--- TODO replace: [April 18th](https://github.com/ariard/bitcoin-contracting-primitives-wg/blob/main/meetings/meetings-18-04.md) --->
+    - [June 5](https://github.com/lightning/bolts/issues/1085)
+    - [June 19](https://github.com/lightning/bolts/issues/1088)
 
 ### Optech
+- [Bitcoin Optech Newsletter #254](https://bitcoinops.org/en/newsletters/2023/06/07/), [Recap Podcast #254](https://bitcoinops.org/en/podcast/2023/06/08/)
+- [Bitcoin Optech Newsletter #255](https://bitcoinops.org/en/newsletters/2023/06/14/), [Recap Podcast #255](https://bitcoinops.org/en/podcast/2023/06/15/)
 - [Bitcoin Optech Newsletter #256](https://bitcoinops.org/en/newsletters/2023/06/21/)
-- [Bitcoin Optech Newsletter #255](https://bitcoinops.org/en/newsletters/2023/06/14/)
-- [Bitcoin Optech Newsletter #254](https://bitcoinops.org/en/newsletters/2023/06/07/)
+- [Bitcoin Optech Newsletter #257](https://bitcoinops.org/en/newsletters/2023/06/28/)
 
 
 ## Network Data
