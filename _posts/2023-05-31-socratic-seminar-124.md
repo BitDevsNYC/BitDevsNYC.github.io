@@ -67,15 +67,47 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Bitcoin Optech Newsletter #252](https://bitcoinops.org/en/newsletters/2023/05/24/), [Audio Recap (Twitter)](https://twitter.com/bitcoinoptech/status/1661748867925446657)
 
 ## Network Data
--
+- [Analyzing nonce patterns of ASIC miners](https://coinmetrics.io/special-insights/bitcoin-nonce-analysis/)
+- [Atypically low mempool variance during business hours](https://twitter.com/murchandamus/status/1655166575618543617)
+- [Muun wallet experiences downtime in high feerate environment](https://twitter.com/MuunWallet/status/1657100878866792448)
+- [Preturino: full-text search for Bitcoin](https://preturnio.com)
+- [rare double-RBF](https://twitter.com/mononautical/status/1655752625525075971)
+- Stale blocks - [788212](https://twitter.com/0xB10C/status/1654027294778834948), [788687](https://twitter.com/0xB10C/status/1655325623445860352), [more](https://twitter.com/BitMEXResearch/status/1656406489987264514)
+- [Tornado cash malicious proposal causes hostile takeover](https://twitter.com/samczsun/status/1660012956632104960)
+- [Xen spamming blockchain with brc-20 mints](https://twitter.com/ercwl/status/1655321332043612160)
 
 ## CVEs and Research
 ### Research
+- [A Novel Related Nonce Attack for ECDSA](https://eprint.iacr.org/2023/305), [summary](https://research.kudelskisecurity.com/2023/03/06/polynonce-a-tale-of-a-novel-ecdsa-attack-and-bitcoin-tears/)
+- [Ethereum's Proposer-Builder Separation: Promises and Realities](https://arxiv.org/abs/2305.19037v1)
+- [High resolution modeling and analysis of cryptocurrency mining’s impact on power grids: Carbon footprint, reliability, and electricity price](https://www.sciencedirect.com/science/article/pii/S266679242300015X)
 - [Lightning Network Economics: Topology](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4439190)
+- [LNMesh: Who Said You need Internet to send Bitcoin? Offline Lightning Network Payments using Community Wireless Mesh Networks](https://arxiv.org/abs/2304.14559)
+- [Novel bribery mining attacks in the bitcoin system and the bribery miner's dilemma](https://arxiv.org/abs/2305.07381v1)
+- [On Sustainable Ring-based Anonymous Systems](https://eprint.iacr.org/2023/743)
+- [Optimal Hub Placement and Deadlock-Free Routing for Payment Channel Network Scalability](https://arxiv.org/abs/2305.19182v2)
+- [Security of Nakamoto Consensus under Congestion](https://arxiv.org/abs/2303.09113v2)
+- [Time to Bribe: Measuring Block Construction Market](https://arxiv.org/abs/2305.16468v2)
+- [The centralizing effects of private order flow on proposer-builder separation](https://arxiv.org/abs/2305.19150v1)
+- [Twisted by the Pools: Detection of Selfish Anomalies in Proof-of-Work Mining](https://arxiv.org/abs/2208.05748v2)
+
 
 ### InfoSec
-- [Ledger Recover](https://www.ledger.com/recover)
-- [GUIX full bootstrap](https://guix.gnu.org/en/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
+- [A cryptographic near miss - elliptic vulnerability in Go](https://words.filippo.io/dispatches/near-miss/)
+- [Attacks against STX sidechain](https://twitter.com/blockworksres/status/1659228801384194049)
+- [Deus DAO drained of ~$6.5M and DEI depegged](https://rekt.news/deus-dao-r3kt/)
+- [Ethereum finality failures](https://offchain.medium.com/post-mortem-report-ethereum-mainnet-finality-05-11-2023-95e271dfd8b2)
+- [Flashbots unbundling attack](https://collective.flashbots.net/t/disclosure-mitigation-of-block-equivocation-strategy-with-early-getpayload-calls-for-proposers/1705)
+- [i2pd failing under ddos](https://github.com/PurpleI2P/i2pd/discussions/1918)
+- [Intel OEM BootGuard keys leaked through MSI](https://twitter.com/matrosov/status/1654560343295934464)
+- [Jimbo's Protocol suffers flash loan attack](https://rekt.news/jimbo-rekt/)
+- [Ledger vulnerability disclosure](https://wizardsardine.com/blog/ledger-vulnerability-disclosure/), [more](https://donjon.ledger.com/lsb/019/)
+- [Level Finance drained of $1.1M)](https://rekt.news/level-finance-rekt/)
+- [Monero decoy selection privacy bug](https://github.com/monero-project/monero/issues/8872)
+- [off-by-one bug found in ordinals explorers](https://github.com/supertestnet/breaker-of-jpegs), [attack transaction](https://blockstream.info/tx/2814d0a3c9e6dd5b88911a6280fc3899391f5c47072eb11593af2838160fad2f)
+- [Review and analysis of fake Trezor ](https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet)
+- [Trustwallet Browser extension vulnerability](https://community.trustwallet.com/t/browser-extension-wasm-vulnerability-postmortem/750787)
+
 
 
 ## Pull Requests and repo updates
@@ -130,12 +162,43 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [multi: accept memo note when opening channel](https://github.com/lightningnetwork/lnd/pull/7668)
 
 ## Events and Podcasts
--
+- [Bitcoin Core Dev Tech 2023 Transcripts](https://github.com/bitcointranscripts/bitcointranscripts/tree/master/bitcoin-core-dev-tech)
+- Bitcoin 2023 Open Source Stage - [Day 1](https://www.youtube.com/watch?v=RiLP79eJvqw), [Day 2](https://www.youtube.com/watch?v=mn9Xhp5QLjo)
 
 ## Mining
--
+- [70 Landfilles mining Bitcoin](https://batcoinz.com/50-landfills-mining-bitcoin-a-zero-emission-bitcoin-network/)
+- [Marathon Hit with SEC Subpoena in Montana Data Center Probe](https://blockworks.co/news/marathon-sec-subpoena-montana)
+- [The Kingdom Of Bhutan Has Been Quietly Mining Bitcoin For Years](https://www.forbes.com/sites/iainmartin/2023/04/30/bhutan-bitcoin-mining-crypto/)
 
 ## Miscellaneous
-- [Tornado Cash governance attack](https://twitter.com/samczsun/status/1660012956632104960)
-- [Attacks against STX sidechain](https://twitter.com/blockworksres/status/1659228801384194049)
+- [Amboss - Chain Surveillance Selling Your Data?](https://stacker.news/items/182218)
+- [Bitcoin Core 25.0 Release Candidate Testing Guide](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/25.0-Release-Candidate-Testing-Guide)
+- [Bitcoin, CTV Covenants, and Enigma](https://app.sigle.io/polydeuces.id.stx/bo-iHio5_4iTlvWwXwZ9l)
+- [Roman Sterlingov, accused operator of Bitcoin Fog, claims chainalysis methodology faulty](https://twitter.com/JackTracante/status/1661114322469134362)
+- [Bitcoin PVP meta (standardness battles)](https://twitter.com/roasbeef/status/1654251520538423296)
+- [Brink receives $50k from BitMEX](https://blog.bitmex.com/brink-sponsorship/?ref=nobsbitcoin.com)
+- [Chainalysis Releases Report Identifying Russian Military Bitcoin Activity Then Deletes It](https://www.nobsbitcoin.com/surveillance-firm-chainalysis-releases-report-identifying-russian-military-bitcoin-activity-then-deletes-it/)
+- [Darkpool (tarpit) [WIP]](https://gist.github.com/moonsettler/6a214f5d01148ea204e9131b86a35382)
+- [Introducing Ark](https://burakkeceli.medium.com/introducing-ark-6f87ae45e272), [Simplest Ark Explanation](https://gist.github.com/RubenSomsen/a394beb1dea9e47e981216768e007454)
+- [Interactive Payment Batching is Better](https://payjoin.substack.com/p/interactive-payment-batching-is-better)
+- [Ledger Recover](https://twitter.com/sethforprivacy/status/1658544658761277447), [white paper](https://www.ledger.com/blog/announcing-the-ledger-recover-cryptographic-protocol-white-paper)
 - [Lightning Payments – When Are They Too Small To Secure?](https://blog.bitmex.com/lightning-payments-when-are-they-too-small-to-secure/)
+- [Marathon Digital Holdings Collaborates with Brink To Raise Up to $1 Million To Support Bitcoin Core Developers](https://ir.mara.com/news-events/press-releases/detail/1314/marathon-digital-holdings-collaborates-with-brink-to-raise)
+- [Mempool.space announces transaction accelerator](https://twitter.com/mempool/status/1659619347910803466)
+- [New Spiral Grantee: Amiti Uttarwar](https://www.nobsbitcoin.com/spiral-grantee-amiti-uttarwar/)
+- [New SRI update with Job Negotiator - allowing miners to select transactions](https://stratumprotocol.org/blog/stratumv2-jn-announcement/)
+- [Nostr-based package relay](https://twitter.com/joostjgr/status/1658487013237211155)
+- [OpenSats Receives Additional Funding of $10m from Jack Dorsey](https://opensats.org/blog)
+- [Public launch of the Bitcoin Legal Defense Fund](https://twitter.com/morcosa/status/1650849979064262657)
+- [Putting the B in BTC](https://www.erisian.com.au/wordpress/2023/06/21/putting-the-b-in-btc)
+- [PyPI was subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
+- [Screens are not a Panacea](https://bitkey.build/screens-are-not-a-panacea/)
+- [Solo ckpool code open sourced](https://twitter.com/ckpooldev/status/1662794659259891712)
+- [Spiral is hiring bitcoin wizards](https://spiral.xyz/blog/spiral-is-hiring-bitcoin-wizards/)
+- [Standarndess Policy Zoo](https://gist.github.com/instagibbs/ee32be0126ec132213205b25b80fb3e8)
+- [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/en/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
+- [Tracking Growth in Payjoin Adoption](https://payjoin.substack.com/p/tracking-growth-in-payjoin-adoption?sd=pf&ref=nobsbitcoin.com)
+- [Tornado Cash developer questions chainalysis data](https://www.coindesk.com/policy/2023/05/24/tornado-cash-dev-facing-dutch-charges-to-question-chainalysis-data-alleging-criminal-links/)
+- [Understanding Bitcoin Miniscript](https://shiftcrypto.ch/blog/understanding-bitcoin-miniscript-part-1/)
+- [Whirlpool surge cycles](https://twitter.com/SamouraiDev/status/1658020576491978752)
+- [zkTimechain](https://gist.github.com/RobinLinus/d036511015caea5a28514259a1bab119#user-content-fn-3-475b9f93e16ce8710df2f6963a54ef28)
