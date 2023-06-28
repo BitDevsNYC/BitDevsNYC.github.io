@@ -18,20 +18,12 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Vaults in the MATT framework](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-June/021730.html)
 - [Standardisation of an unstructured taproot annex](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-June/021731.html)
 - [Conceptual package relay using taproot annex](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-June/021748.html)
-- [Formosa --- proposed improvement upon BIP39](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-June/021749.html)
 - [BIP for Silent Payments](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-June/021750.html)
-- [ZeroSync: Introducing Validity Proofs to Bitcoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-June/021752.html)
-- [postr: p2n payjoin using nostr](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-June/021760.html)
-- [CivKit Node v0.0.1 release - "Sic itur ad astra"](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-June/021779.html)
-- [New transaction policies (nVersion=3) for contracting protocols](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-June/021780.html)
-- [Some Day Peg: A crazy two-way peg bridging BTC to other chains Raw](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-June/021781.html)
-
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 - [Liquidity griefing for 0-conf dual-funded txs](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003974.html)
 - [Proposal: Bundled payments](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003977.html)
 - [HTLC Endorsement for Jamming Mitigation](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003984.html)
-- [Potential vulnerability in Lightning backends: BOLT-11 "payment hash" does not commit to payment!](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003983.html)
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
@@ -133,6 +125,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [greenlight - self soverign node in the cloud](https://github.com/Blockstream/greenlight)
 - [mostro - nostr based comms for purchase/sale of goods over lightning](https://github.com/MostroP2P/mostro)
 - [munstr - MuSig wallet with Nostr comms for signing orchestration](https://github.com/0xBEEFCAF3/munstr)
+- [postr - payjoin communications over nostr](https://gitlab.com/1440000bytes/postr)
 - [tapism - bitcoin tapscript debugger](https://github.com/halseth/tapsim)
 
 ## Mining
