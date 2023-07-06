@@ -3,6 +3,9 @@
 
 - BIP324: ElligatorSwift
   - <https://github.com/bitcoin/bitcoin/pull/27479>
+ 
+- DLCs on LN
+  - <https://10101.finance/blog/dlc-to-lightning-part-2>
 
 - Zero Fee anchors support in multiple implementations
   - <https://github.com/ElementsProject/lightning/pull/6334>
