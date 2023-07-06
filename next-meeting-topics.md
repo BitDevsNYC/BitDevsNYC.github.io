@@ -1,5 +1,8 @@
 - Reading secret keys from power LED
-- <https://www.nassiben.com/video-based-crypta>
+  - <https://www.nassiben.com/video-based-crypta>
+
+- BIP324: ElligatorSwift
+  - <https://github.com/bitcoin/bitcoin/pull/27479>
 
 - Zero Fee anchors support in multiple implementations
   - <https://github.com/ElementsProject/lightning/pull/6334>
