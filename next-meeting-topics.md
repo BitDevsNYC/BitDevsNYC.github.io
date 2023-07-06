@@ -16,3 +16,9 @@
  
 - Greenlight Launch (non-custodial LN node as a service)
   - <https://blockstream.com/lightning/greenlight/>
+
+- Verified Lightning Signer Beta
+  - <https://vls.tech/posts/vls-beta/>
+ 
+- Parallel Compact Blocks, Take 3
+  - <https://github.com/bitcoin/bitcoin/pull/27626>
