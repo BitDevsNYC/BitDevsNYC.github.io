@@ -1,3 +1,6 @@
+- Reading secret keys from power LED
+- <https://www.nassiben.com/video-based-crypta>
+
 - Zero Fee anchors support in multiple implementations
   - <https://github.com/ElementsProject/lightning/pull/6334>
  
@@ -22,3 +25,9 @@
  
 - Parallel Compact Blocks, Take 3
   - <https://github.com/bitcoin/bitcoin/pull/27626>
+
+- L402
+  - <https://twitter.com/lightning/status/1676972956193521665>
+ 
+- BTC ETF Applications
+  - <https://bitcoinmagazine.com/markets/the-arrival-of-blackrock-bitcoins-first-spot-etf>
