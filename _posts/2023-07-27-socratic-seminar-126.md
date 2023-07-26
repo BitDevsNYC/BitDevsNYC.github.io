@@ -97,7 +97,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
-- [key: Impl From<secp256k1::PublicKey> for bitcoin::PublicKey](https://github.com/rust-bitcoin/rust-bitcoin/pull/1949)
+- [key: Impl From secp256k1::PublicKey for bitcoin::PublicKey](https://github.com/rust-bitcoin/rust-bitcoin/pull/1949)
 - [Infrastructure fixes](https://github.com/rust-bitcoin/rust-bitcoin/pull/1935)
 - [bitcoin/bip32: add DerivationPath::to_u32_vec](https://github.com/rust-bitcoin/rust-bitcoin/pull/1946)
 - [witness: clean up Debug implementation](https://github.com/rust-bitcoin/rust-bitcoin/pull/1942)
