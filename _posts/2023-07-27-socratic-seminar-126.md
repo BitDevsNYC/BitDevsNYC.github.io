@@ -10,9 +10,6 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 If you can't make it to the main event please join us at PUBKEY around 9:30PM. **Learn about this awesome new establishment [here](https://ny.eater.com/2022/12/13/23494423/pubkey-opening-manhattan-bitcoin-bar).**
 
-## Presentation
--
-
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
@@ -62,14 +59,24 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 
 ## Network Data
--
+- [CoinsPaid (or their hacker) floods 30MB of CPFPs, raise fee floor to 58 sat/vB ](https://twitter.com/mempool/status/1682756397354872832), [more info](https://coinspaid.com/tpost/0zx28tmj51-coinspaid-is-back-to-processing-after-be)
+- [mempool.space announces v3 release with new visualizations](https://twitter.com/mempool/status/1683118489673027584)
+- [Miner gaming Stacks block construction](https://twitter.com/mononautical/status/1684129304568025089)
+- [Share of Bitcoin transactions created by bitcoind on the decline](https://txstats.coinmetrics.io/d/000000008/bitcoind-estimated-usage?orgId=1&from=now-5y&to=now)
+- [Wallet of Satoshi crosses 10m total payments](https://twitter.com/kerooke/status/1676968354253533186)
 
 ## CVEs and Research
 ### Research
 -
 
 ### InfoSec
--
+- [AzukiDAO governance token hacked via signature malleability](https://twitter.com/danielvf/status/1675825631240519680)
+- [Censoring transactions on Ethereum fo 12 seconds, cost 0.05 ETH](https://twitter.com/specialmech/status/1674482046826328065)
+- [Conic Finance drained of $4.2m](https://rekt.news/conic-finance-rekt/)
+- [Lazarus hackers linked to $60 million Alphapo cryptocurrency heist](https://www.bleepingcomputer.com/news/security/lazarus-hackers-linked-to-60-million-alphapo-cryptocurrency-heist/)
+- [Multichain hacked for $126m](https://rekt.news/multichain-rekt2/)
+[Poly Network drained of $4.4m](https://rekt.news/poly-network-rekt2/)
+- [Zenbleed - AMD speculative execution attack](https://lock.cmpxchg8b.com/zenbleed.html)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -159,15 +166,34 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
 
-
-## New Releases
--
-
-## Events and Podcasts
--
-
 ## Mining
--
+- [A Look Inside an Immersion and Hydro Cooled Bitcoin Mine](https://hashrateindex.com/blog/a-look-inside-an-immersion-and-hydro-bitcoin-mine/)
+- [Bitcoin Mining Around the World: United Arab Emirates](https://hashrateindex.com/blog/bitcoin-mining-around-the-world-united-arab-emirates/)
+- [Samsung 3nm process found in Whatsminer M56S++](https://www.tomshardware.com/news/samsung-first-3nm-chip-founc)
 
 ## Miscellaneous
--
+- [Binance adds support for Lightning Network](https://www.binance.com/en/support/announcement/binance-completes-integration-of-bitcoin-btc-on-lightning-network-opens-deposits-and-withdrawals-eefbfae2c0ae472d9e1e36f1a30bf340)
+- [Bitcoin denominated ecash without custodial risk](https://gist.github.com/moonsettler/42b588fa97a1da3ac0adea0dd16dadf2)
+- [Bitcoin Script Project](https://twitter.com/bergealex4/status/1674454861096660998)
+- [BitPac - Publicly auditable cooperatives that live on bitcoin](https://github.com/supertestnet/bitpac)
+- [Brink announces continued support for dergoegge - Learn about his work on fuzz testing](https://brink.dev/blog/2023/07/14/fuzzing/)
+- [Building Blocks of Simplicity: Values and Types](https://blog.blockstream.com/building-blocks-of-simplicity-values-and-types/)
+- [Chris Belcher needs our help](https://gist.github.com/chris-belcher/ca5051285c6f8d38693fd127575be44d#update)
+- [Convert BIP39 mnemonic to colors and vice versa](https://enteropositivo.github.io/bip39colors/#biptocolors)
+- [Covenants in Bitcoin: A Useful Review Taxonomy](https://rusty.ozlabs.org/2023/07/09/covenant-taxonomy.html)
+- [Covenants Via Signatures](https://rusty.ozlabs.org/2023/07/08/backdoor-to-covenants.html)
+- [Deep dive into Oracle-Based Conditional payments](https://lnmarkets.substack.com/p/deep-dive-into-oracle-based-conditional)
+- [f2pool launches transaction accelerator](https://f2pool.zendesk.com/hc/en-us/articles/20505561224089-f2pool-launches-Bitcoin-Transaction-Accelerator)
+- [Introducing the new Phoenix: a 3rd generation self-custodial Lightning wallet](https://acinq.co/blog/phoenix-splicing-update)
+- [Lightning Everywhere](https://tonygiorgio.com/lightning-everywhere/)
+- [OpenSats: Long-Term Support Program for Bitcoin Core Developers](https://opensats.org/blog/announcing-lts-grant-program-to-support-bitcoin-core-contributors)
+- [PDK: A Payjoin SDK](https://payjoindevkit.org/blog/pdk-an-sdk-for-payjoin-transactions/)
+- [Reducing Ark Interactivity Without a Soft Fork](https://gist.github.com/RubenSomsen/a394beb1dea9e47e981216768e007454?permalink_comment_id=4633382#gistcomment-4633382)
+- [Rusty's takeaways from Lightning Protocol Summit](https://twitter.com/rusty_twit/status/1676033353118801920)
+- [Simplicity: Holes and Side Effects](https://blog.blockstream.com/simplicity-holes-and-side-effects/)
+- [Spiral announces grant for Alyssa Hertig](https://twitter.com/spiralbtc/status/1682072838839103488)
+- [Spiral announces grant for Daniela Brozzoni](https://twitter.com/spiralbtc/status/1679888307709263873)
+- [Surfchains](https://gist.github.com/moonsettler/e0c24863fda418a2fb504a307fda8a19)
+- [The Bitcoin Forum - history of hacks and finances](https://blog.bitmex.com/the-bitcoin-forum/)
+- [The Rise of Lightning Service Providers](https://medium.com/synonym-to/the-rise-of-lightning-service-providers-6410274d5b70)
+- [Towards a trustless Bitcoin wallet with miniscript](https://www.ledger.com/blog/towards-a-trustless-bitcoin-wallet-with-miniscript)
