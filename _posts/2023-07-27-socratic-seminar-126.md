@@ -13,10 +13,8 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
-- [Denial of Service using Package Relay](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-July/021784.html)
 - [On the experiment of the Bitcoin Contracting Primitives WG and marking this community process "up for grabs"](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-July/021786.html)
 - [Blinded 2-party Musig2](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-July/021792.html)
-- [Concern about "Inscriptions".](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-July/021805.html)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 - [Computing Blinding Factors in a PTLC and Trampoline World](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003999.html)
