@@ -18,17 +18,12 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Blinded 2-party Musig2](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-July/021792.html)
 - [Concern about "Inscriptions".](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-July/021805.html)
 
-
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 - [Computing Blinding Factors in a PTLC and Trampoline World](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003999.html)
 - [Potential vulnerability in Lightning backends: BOLT-11 "payment hash" does not commit to payment!](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003983.html)
 - [An Open Source Framework to Collect Lightning Network Metrics](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-July/004011.html)
 - [option_simple_close for "unfailable" closing](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-July/004013.html)
 - [LN Summit 2023 Notes](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-July/004014.html)
-
-
-#### [dlc-dev](https://mailmanlists.org/pipermail/dlc-dev)
-
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
@@ -39,17 +34,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
     - [July 6](https://www.erisian.com.au/bitcoin-core-dev/log-2023-07-06.html#l-190)
     - [July 13](https://www.erisian.com.au/bitcoin-core-dev/log-2023-07-13.html#l-306)
     - [July 20](https://www.erisian.com.au/bitcoin-core-dev/log-2023-07-20.html#l-262)
-
-- Lightning Specification meeting
-    - <!--- TODO replace: [December 5th](https://github.com/lightning/bolts/issues/1046) --->
-- Core Lightning Developer Call
-    - <!--- TODO replace: [September 20th](https://diyhpl.us/wiki/transcripts/c-lightning/2021-09-20-developer-call/) --->
-- dlc-specs meetings
-    - <!--- TODO replace: [October 5th](https://github.com/discreetlogcontracts/dlcspecs/pull/175) --->
-- Lightning specification meetings
-    - <!--- TODO replace: [October 11th](https://github.com/lightningnetwork/lightning-rfc/issues/920) --->
-- Bitcoin Contracting Primitives Working Group
-	- <!--- TODO replace: [April 18th](https://github.com/ariard/bitcoin-contracting-primitives-wg/blob/main/meetings/meetings-18-04.md) --->
 
 ### Optech
 - [Bitcoin Optech Newsletter #261](https://bitcoinops.org/en/newsletters/2023/07/26/)
