@@ -2,6 +2,8 @@ Chainanalysis in United States v. STERLINGOV
   - <https://www.courtlistener.com/docket/59988850/149/1/united-states-v-sterlingov/>
 Mempool.space improvements
   - <https://twitter.com/mempool/status/1683118485206102017?t=gXQxQFTArGJ_c_d1n0d56A&s=19>
+HRF Bitcoin Bounty Challenge
+  - <https://twitter.com/gladstein/status/1684567095231778818>
 Worldcoin Launch
   - <https://twitter.com/worldcoin/status/1683372181428793344>
   - <https://twitter.com/AriDavidPaul/status/1683627646633013249>
