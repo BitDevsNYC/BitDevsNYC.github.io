@@ -57,7 +57,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Bitcoin Optech Newsletter #259](https://bitcoinops.org/en/newsletters/2023/07/12/), [#259 Recap Podcast](https://bitcoinops.org/en/podcast/2023/07/13/)
 - [Bitcoin Optech Newsletter #258](https://bitcoinops.org/en/newsletters/2023/07/05/), [#258 Recap Podcast](https://bitcoinops.org/en/podcast/2023/07/06/)
 
-
 ## Network Data
 - [CoinsPaid (or their hacker) floods 30MB of CPFPs, raise fee floor to 58 sat/vB ](https://twitter.com/mempool/status/1682756397354872832), [more info](https://coinspaid.com/tpost/0zx28tmj51-coinspaid-is-back-to-processing-after-be)
 - [mempool.space announces v3 release with new visualizations](https://twitter.com/mempool/status/1683118489673027584)
@@ -87,91 +86,57 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
-- [kernel: Remove UniValue from kernel library](https://github.com/bitcoin/bitcoin/pull/28113)
-- [descriptors: do not return top-level only funcs as sub descriptors](https://github.com/bitcoin/bitcoin/pull/28067)
-- [rpc: doc: Added `longpollid` and `data` params to `template_request`](https://github.com/bitcoin/bitcoin/pull/28056)
-- [subtree: update libsecp256k1 to latest master](https://github.com/bitcoin/bitcoin/pull/28093)
-- [guix: Remove librt usage from release binaries](https://github.com/bitcoin/bitcoin/pull/28069)
-- [kernel: Remove StartShutdown calls from validation code](https://github.com/bitcoin/bitcoin/pull/28048)
-- [test: refactor: deduplicate legacy ECDSA signing for tx inputs](https://github.com/bitcoin/bitcoin/pull/28025)
-- [test: indexes, fix on error infinite loop](https://github.com/bitcoin/bitcoin/pull/28044)
-- [wallet: address book migration bug fixes](https://github.com/bitcoin/bitcoin/pull/28038)
-- [docs: fixup honggfuzz fuzz patch](https://github.com/bitcoin/bitcoin/pull/28021)
-
-
-### [BDK](https://github.com/bitcoindevkit/bdk)
-- [Avoid pinning dependencies, use --precise in ci](https://github.com/bitcoindevkit/bdk/pull/1046)
-- [Bump version to 1.0.0-alpha.1](https://github.com/bitcoindevkit/bdk/pull/1026)
-
+- [bumpfee: Allow the user to choose which output is change](https://github.com/bitcoin/bitcoin/pull/26467)
+- [p2p: Restrict self-advertisements with privacy networks to avoid fingerprinting](https://github.com/bitcoin/bitcoin/pull/27411)
+- [index: make startup more efficient](https://github.com/bitcoin/bitcoin/pull/27607)
+- [addrman: select addresses by network follow-up](https://github.com/bitcoin/bitcoin/pull/27745)
+- [Add support for RFC8439 variant of ChaCha20](https://github.com/bitcoin/bitcoin/pull/27985)
+- [Descriptors: rule out unspendable miniscript descriptors](https://github.com/bitcoin/bitcoin/pull/27997)
 
 ### [HWI](https://github.com/bitcoin-core/HWI)
 - [Add vendor/device IDs for DIY Jade running on M5StickC-Plus and ESP32-Wrover-CAM](https://github.com/bitcoin-core/HWI/pull/674)
-- [Vendor bitbox02 library](https://github.com/bitcoin-core/HWI/pull/683)
 - [jade: update jade simulator build in line with current jade master](https://github.com/bitcoin-core/HWI/pull/679)
-
+- [Vendor bitbox02 library](https://github.com/bitcoin-core/HWI/pull/683)
 
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
-- [key: Impl From secp256k1::PublicKey for bitcoin::PublicKey](https://github.com/rust-bitcoin/rust-bitcoin/pull/1949)
-- [Infrastructure fixes](https://github.com/rust-bitcoin/rust-bitcoin/pull/1935)
-- [bitcoin/bip32: add DerivationPath::to_u32_vec](https://github.com/rust-bitcoin/rust-bitcoin/pull/1946)
-- [witness: clean up Debug implementation](https://github.com/rust-bitcoin/rust-bitcoin/pull/1942)
-
-
-### [libsecp](https://github.com/bitcoin-core/secp256k1)
-- [ellswift: fix probabilistic test failure when swapping sides](https://github.com/bitcoin-core/secp256k1/pull/1378)
-- [Add exhaustive tests for ellswift (with create+decode roundtrip)](https://github.com/bitcoin-core/secp256k1/pull/1371)
-- [build: Improvements to symbol visibility logic on Windows (attempt 3)](https://github.com/bitcoin-core/secp256k1/pull/1367)
-
-
-### [secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp)
-- [bppp: Fix and improve test for invalid sign byte](https://github.com/BlockstreamResearch/secp256k1-zkp/pull/248)
-
-
-### [dlcspecs](https://github.com/discreetlogcontracts/dlcspecs)
-
+- [Separate out bitcoinconsensus validation code](https://github.com/rust-bitcoin/rust-bitcoin/pull/1912)
 
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
+- [Taproot wallet support ](https://github.com/ElementsProject/lightning/pull/6035)
+- [Plugin event notification subscription wildcard support](https://github.com/ElementsProject/lightning/pull/6347)
+- [hsmtool: Add support for Signet network](https://github.com/ElementsProject/lightning/pull/6373)
+- [Remove --daemon from lightningd.service](https://github.com/ElementsProject/lightning/pull/6377)
 - [Avoid cascading failure: give up on incoming HTLCs in time if outgoing is stuck.](https://github.com/ElementsProject/lightning/pull/6378)
 - [channeld: Verify the signature sent by the counterparty (aka do not trust verify)](https://github.com/ElementsProject/lightning/pull/6384)
-- [blockheight bug](https://github.com/ElementsProject/lightning/pull/6434)
-- [gossipd: don't "unmark" dying channels' updates if we receive them.](https://github.com/ElementsProject/lightning/pull/6426)
-- [channeld: don't close connection on invalid badonion code (LND bug?)](https://github.com/ElementsProject/lightning/pull/6425)
-- [pay: Annotate both local alias and real scid with channel hints](https://github.com/ElementsProject/lightning/pull/6428)
+- [Notifications neaten format](https://github.com/ElementsProject/lightning/pull/6388)
 - [Ignore fees per channel](https://github.com/ElementsProject/lightning/pull/6398)
-- [build(deps): bump cryptography from 41.0.1 to 41.0.2](https://github.com/ElementsProject/lightning/pull/6402)
+- [dual-funding: final final final final??](https://github.com/ElementsProject/lightning/pull/6391)
+- [Self-pay support.](https://github.com/ElementsProject/lightning/pull/6399)
 - [Runes migration from commando to lightning](https://github.com/ElementsProject/lightning/pull/6403)
 - [Fix node announce self-advertize and advertize both sides of channels](https://github.com/ElementsProject/lightning/pull/6412)
 - [Don't gossip about recently-closed channels](https://github.com/ElementsProject/lightning/pull/6413)
 - [Removed Support for Python v3.7](https://github.com/ElementsProject/lightning/pull/6414)
-- [dual-funding: final final final final??](https://github.com/ElementsProject/lightning/pull/6391)
-- [hsmtool: Add support for Signet network](https://github.com/ElementsProject/lightning/pull/6373)
-- [Notifications neaten format](https://github.com/ElementsProject/lightning/pull/6388)
-- [Remove --daemon from lightningd.service](https://github.com/ElementsProject/lightning/pull/6377)
-
+- [channeld: don't close connection on invalid badonion code (LND bug?)](https://github.com/ElementsProject/lightning/pull/6425)
+- [gossipd: don't "unmark" dying channels' updates if we receive them.](https://github.com/ElementsProject/lightning/pull/6426)
+- [pay: Annotate both local alias and real scid with channel hints](https://github.com/ElementsProject/lightning/pull/6428)
+- [blockheight bug](https://github.com/ElementsProject/lightning/pull/6434)
 
 ### [eclair](https://github.com/ACINQ/eclair/)
-- [Ignore `commit_sig` for aborted splice](https://github.com/ACINQ/eclair/pull/2709)
-- [Use apache archives for mvn in docker build](https://github.com/ACINQ/eclair/pull/2706)
-- [Correctly fail blinded payments after restart](https://github.com/ACINQ/eclair/pull/2704)
-
+- [Add quiescence negotiation](https://github.com/ACINQ/eclair/pull/2680)
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
-
+- [Expose whether a channel is closing in ChannelDetails](https://github.com/lightningdevkit/rust-lightning/pull/2347)
+- [Bump dust exposure threshold](https://github.com/lightningdevkit/rust-lightning/pull/2354)
+- [Re-claim forwarded HTLCs on startup](https://github.com/lightningdevkit/rust-lightning/pull/2364)
+- [Add min mempool estimate for feerate updates on anchor channels](https://github.com/lightningdevkit/rust-lightning/pull/2415)
 
 ### [lnd](https://github.com/lightningnetwork/lnd)
+- [(6/?) - lnwallet+chancloser: update channel state machine and co-op close for musig2 flow ](https://github.com/lightningnetwork/lnd/pull/7345)
+- [(7/?) - funding: update funding manager w/ new musig2+taproot funding flow](https://github.com/lightningnetwork/lnd/pull/7346)
+- [(8/?) - lncli+lnrpc: add support for creating unadvertised taproot channels](https://github.com/lightningnetwork/lnd/pull/7347)
+- [sqldb: add invoice schema and sql queries](https://github.com/lightningnetwork/lnd/pull/7354)
+- [funding: fund channel with selected utxos](https://github.com/lightningnetwork/lnd/pull/7516)
 - [lnrpc: sync BatchOpenChannel and OpenChannel params](https://github.com/lightningnetwork/lnd/pull/7820)
-- [invoices/test: fix data race in TestMppPaymentWithOverpayment](https://github.com/lightningnetwork/lnd/pull/7826)
-- [scripts: add ViktorTigerstrom PGP key](https://github.com/lightningnetwork/lnd/pull/7817)
-
-
-### [BIPs](https://github.com/bitcoin/bips)
-- [clearer, more failure details, + use OP_TRUE](https://github.com/bitcoin/bips/pull/1477)
-
-
-### [BLIPs](https://github.com/lightning/blips)
-
-
-### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
 
 ## Mining
 - [A Look Inside an Immersion and Hydro Cooled Bitcoin Mine](https://hashrateindex.com/blog/a-look-inside-an-immersion-and-hydro-bitcoin-mine/)
