@@ -72,6 +72,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [p2p: Restrict self-advertisements with privacy networks to avoid fingerprinting](https://github.com/bitcoin/bitcoin/pull/27411)
 - [index: make startup more efficient](https://github.com/bitcoin/bitcoin/pull/27607)
 - [addrman: select addresses by network follow-up](https://github.com/bitcoin/bitcoin/pull/27745)
+- [(WIP) add a stratum v2 template provider](https://github.com/bitcoin/bitcoin/pull/27854)
 - [Add support for RFC8439 variant of ChaCha20](https://github.com/bitcoin/bitcoin/pull/27985)
 - [Descriptors: rule out unspendable miniscript descriptors](https://github.com/bitcoin/bitcoin/pull/27997)
 
