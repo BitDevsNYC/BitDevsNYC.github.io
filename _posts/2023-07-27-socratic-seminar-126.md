@@ -67,12 +67,19 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ## CVEs and Research
 ### Research
--
+- [Bulletproofs With Stochastic Equation Sets](https://eprint.iacr.org/2023/1090)
+- [Instant Zero Knowledge Proof of Reserve](https://eprint.iacr.org/2023/1156)
+- [Intmax2: A ZK-rollup with Minimal Onchain Data and Computation Costs Featuring Decentralized Aggregators](https://eprint.iacr.org/2023/1082)
+- [Lightning Creation Games](https://arxiv.org/abs/2306.16006v1)
+- [TariScript: Bringing dynamic scripting to Mimblewimble](https://eprint.iacr.org/2023/1127)
+- [The many faces of Schnorr](https://eprint.iacr.org/2023/1019)
+- [Towards a Formal Verification of the Lightning Network with TLA+](https://arxiv.org/abs/2307.02342v1)
 
 ### InfoSec
 - [AzukiDAO governance token hacked via signature malleability](https://twitter.com/danielvf/status/1675825631240519680)
 - [Censoring transactions on Ethereum fo 12 seconds, cost 0.05 ETH](https://twitter.com/specialmech/status/1674482046826328065)
 - [Conic Finance drained of $4.2m](https://rekt.news/conic-finance-rekt/)
+- [Firmware Extraction: Evil-Maid Attacks on Blockstream Jade Hardware Wallet](https://blog.ledger.com/blockstream/)
 - [Lazarus hackers linked to $60 million Alphapo cryptocurrency heist](https://www.bleepingcomputer.com/news/security/lazarus-hackers-linked-to-60-million-alphapo-cryptocurrency-heist/)
 - [Multichain hacked for $126m](https://rekt.news/multichain-rekt2/)
 [Poly Network drained of $4.4m](https://rekt.news/poly-network-rekt2/)
@@ -172,10 +179,13 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Samsung 3nm process found in Whatsminer M56S++](https://www.tomshardware.com/news/samsung-first-3nm-chip-founc)
 
 ## Miscellaneous
+- [AI for All: Powering APIs and Large Language Models with Lightning](https://lightning.engineering/posts/2023-07-05-l402-langchain/)
+- [Announcing the VLS Beta Release](https://vls.tech/posts/vls-beta/)
 - [Binance adds support for Lightning Network](https://www.binance.com/en/support/announcement/binance-completes-integration-of-bitcoin-btc-on-lightning-network-opens-deposits-and-withdrawals-eefbfae2c0ae472d9e1e36f1a30bf340)
 - [Bitcoin denominated ecash without custodial risk](https://gist.github.com/moonsettler/42b588fa97a1da3ac0adea0dd16dadf2)
 - [Bitcoin Script Project](https://twitter.com/bergealex4/status/1674454861096660998)
 - [BitPac - Publicly auditable cooperatives that live on bitcoin](https://github.com/supertestnet/bitpac)
+- [Bringing DLCs to Lightning Part 2](https://10101.finance/blog/dlc-to-lightning-part-2/)
 - [Brink announces continued support for dergoegge - Learn about his work on fuzz testing](https://brink.dev/blog/2023/07/14/fuzzing/)
 - [Building Blocks of Simplicity: Values and Types](https://blog.blockstream.com/building-blocks-of-simplicity-values-and-types/)
 - [Chris Belcher needs our help](https://gist.github.com/chris-belcher/ca5051285c6f8d38693fd127575be44d#update)
@@ -193,6 +203,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Simplicity: Holes and Side Effects](https://blog.blockstream.com/simplicity-holes-and-side-effects/)
 - [Spiral announces grant for Alyssa Hertig](https://twitter.com/spiralbtc/status/1682072838839103488)
 - [Spiral announces grant for Daniela Brozzoni](https://twitter.com/spiralbtc/status/1679888307709263873)
+- [Spiral hires first Bitcoin Wizard, Greg Sanders](https://twitter.com/spiralbtc/status/1681718510068592678)
 - [Surfchains](https://gist.github.com/moonsettler/e0c24863fda418a2fb504a307fda8a19)
 - [The Bitcoin Forum - history of hacks and finances](https://blog.bitmex.com/the-bitcoin-forum/)
 - [The Rise of Lightning Service Providers](https://medium.com/synonym-to/the-rise-of-lightning-service-providers-6410274d5b70)
