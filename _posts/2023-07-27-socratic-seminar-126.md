@@ -5,6 +5,9 @@ title: "Socratic Seminar 126"
 meetup: "https://www.meetup.com/bitdevsnyc/events/294791294/"
 ---
 
+## Presentation
+- Adam Jonas: [Bitcoin Search](https://bitcoinsearch.xyz/)
+
 ## Announcements
 Please join us for our next Socratic Seminar. A special thank you to our sponsors [CardCoins](https://cardcoins.co), [Chaincode Labs](https://chaincode.com) and [Wolf NYC](https://wolfnyc.com) for food, refreshments and event space.
 
