@@ -8,7 +8,7 @@ Worldcoin Launch
   - <https://twitter.com/worldcoin/status/1683372181428793344>
   - <https://twitter.com/AriDavidPaul/status/1683627646633013249>
 Pikckhardt Payments in CLN
-  - <https://twitter.com/renepickhardt/status/1683553061619335169>
+  - <https://twitter.com/renepickhardt/status/1686061536937230351>
 Splicing in the wild with Pheonix Wallet, CLN
   - <https://twitter.com/PhoenixWallet/status/1678781368309018624>
   - <https://github.com/ElementsProject/lightning/pull/6253>
