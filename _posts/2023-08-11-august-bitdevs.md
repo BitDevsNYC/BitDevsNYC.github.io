@@ -12,7 +12,7 @@ It's time for another BitDevs! A big thanks to [Bitonic](https://bitonic.nl/) fo
 
 ### Friday, August 11th 2023 @ 7PM
 
-Doors open at 6:30PM and we will try to start promptly at 7PM. As a reminder, the ground rules of BitDevs are as follows:
+Doors open at 6:00PM and we will try to start promptly at 7PM. As a reminder, the ground rules of BitDevs are as follows:
 
 1. No photos, videos, or recordings.
 1. [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule): you may
