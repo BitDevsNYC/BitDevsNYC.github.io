@@ -2,6 +2,7 @@ Chainanalysis in United States v. STERLINGOV
   - <https://www.courtlistener.com/docket/59988850/149/1/united-states-v-sterlingov/>
 Mempool.space improvements
   - <https://twitter.com/mempool/status/1683118485206102017?t=gXQxQFTArGJ_c_d1n0d56A&s=19>
+  - <https://mempool.space/rbf#fullrbf>
 HRF Bitcoin Bounty Challenge
   - <https://twitter.com/gladstein/status/1684567095231778818>
 Worldcoin Launch
@@ -12,6 +13,8 @@ Pikckhardt Payments in CLN
 Splicing in the wild with Pheonix Wallet, CLN
   - <https://twitter.com/PhoenixWallet/status/1678781368309018624>
   - <https://github.com/ElementsProject/lightning/pull/6253>
+Onion messages in LN spec merged
+  - <https://github.com/lightning/bolts/pull/759>
 TETRA radio backdoor
   - <https://www.wired.com/story/tetra-radio-encryption-backdoor/>
 Unknown "Carbon Negative Power Source" Miner
