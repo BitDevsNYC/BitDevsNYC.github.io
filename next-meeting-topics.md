@@ -17,6 +17,8 @@ Onion messages in LN spec merged
   - <https://github.com/lightning/bolts/pull/759>
 TETRA radio backdoor
   - <https://www.wired.com/story/tetra-radio-encryption-backdoor/>
+Intel Downfall Exploit
+  - <https://www.wired.com/story/downfall-flaw-intel-chips/>
 Unknown "Carbon Negative Power Source" Miner
   - <https://compassmining.io/education/unknown-miner-carbon-negative-messages-bitcoin/>
 FedNow
