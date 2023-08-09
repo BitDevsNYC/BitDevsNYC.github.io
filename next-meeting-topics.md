@@ -1,6 +1,7 @@
 Milksad
   - <https://milksad.info/>
   - <https://www.reddit.com/r/Bitcoin/comments/158nyuo/mass_hacking_of_over_1000_bitcoin_accounts/>
+  - <https://twitter.com/evoskuil/status/1688657656620167169>
 Chainanalysis in United States v. STERLINGOV
   - <https://www.courtlistener.com/docket/59988850/149/1/united-states-v-sterlingov/>
 Mempool.space improvements
