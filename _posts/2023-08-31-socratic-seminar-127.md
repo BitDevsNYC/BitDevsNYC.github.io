@@ -16,7 +16,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
-- [Announcing Libforesta](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021832.html)
 - [Pull-req to remove the arbitrary limits on OP_Return outputs](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021840.html)
 - [BIP352: Silent Payments](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021844.html)
 - [BIP-352 Silent Payments addresses should have an expiration time](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021849.html)
