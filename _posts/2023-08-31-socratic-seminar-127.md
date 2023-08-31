@@ -83,6 +83,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ### InfoSec
 - [CVE-2023-39910: Milk Sad - Libbitcoin Explorer `bx seed` subcommand is initialized with only 32 bits of entropy](https://milksad.info/)
+- [Tor: Introducing Proof-of-Work Defense for Onion Services](https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
