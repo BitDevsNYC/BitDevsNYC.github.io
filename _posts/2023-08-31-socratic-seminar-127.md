@@ -19,9 +19,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Pull-req to remove the arbitrary limits on OP_Return outputs](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021840.html)
 - [BIP352: Silent Payments](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021844.html)
 - [BIP-352 Silent Payments addresses should have an expiration time](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021849.html)
-- [Concrete MATT opcodes](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021856.html)
-- [Ark: An Alternative Privacy-preserving Second Layer Solution](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021858.html)
-- [Blinded 2-party Musig2](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021860.html)
+- [Concrete MATT opcodes](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-July/021827.html)
 - [BIP for Serverless Payjoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021868.html)
 - [Sentinel Chains: A Novel Two-Way Peg](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021894.html)
 - [Nucleus: Capital-efficient multipeer Lightning payment channels](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021897.html)
@@ -32,7 +30,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 - [Jamming Mitigation Dry Run](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-August/004034.html)
-- [LN Summit 2023 Notes](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-August/004035.html)
 - [Resumable channels using OP_CHECKSIGFROMSTACK](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-August/004043.html)
 - [LN Summit 2024 Organization](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-August/004056.html)
 - [Nucleus: Capital-efficient multipeer Lightning payment channels](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-August/004057.html)
