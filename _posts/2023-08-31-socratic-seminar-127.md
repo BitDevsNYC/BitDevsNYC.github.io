@@ -240,7 +240,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 
 ### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
-
+- [BOLT 7: Onion message support (features 38/39)](https://github.com/lightning/bolts/pull/759)
 
 ## New Releases
 -
