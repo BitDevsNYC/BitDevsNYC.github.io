@@ -235,6 +235,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 
 ### [BIPs](https://github.com/bitcoin/bips)
+- [Update to BIP300: Hashrate Escrows](https://github.com/bitcoin/bips/blob/master/bip-0300.mediawiki)
 
 
 ### [BLIPs](https://github.com/lightning/blips)
@@ -253,4 +254,5 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 -
 
 ## Miscellaneous
--
+- [Is there a well defined last block?](https://bitcoin.stackexchange.com/a/119228/5406)
+- [Is there an economic incentive to switch from P2WPKH to P2TR?](https://bitcoin.stackexchange.com/q/119301/5406)
