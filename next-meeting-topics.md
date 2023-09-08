@@ -24,3 +24,6 @@
 
 - LastPass keys getting popped?
   - <https://krebsonsecurity.com/2023/09/experts-fear-crooks-are-cracking-keys-stolen-in-lastpass-breach/>
+
+- codex32 booklet
+  - <https://twitter.com/Blockstream/status/1699888016725262652>
