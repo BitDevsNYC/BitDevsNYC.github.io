@@ -18,3 +18,9 @@
 
 - How to do a coin join
   - Add commons tools here, explain various kinds
+
+- Storm-0558 Key Acquisition
+  - <https://msrc.microsoft.com/blog/2023/09/results-of-major-technical-investigations-for-storm-0558-key-acquisition/>
+
+- LastPass keys getting popped?
+  - <https://krebsonsecurity.com/2023/09/experts-fear-crooks-are-cracking-keys-stolen-in-lastpass-breach/>
