@@ -12,3 +12,9 @@
  
 - Combined APO/CTV in TXHASH
   - <https://gist.github.com/reardencode/2aa98700b720174598d21989dd46e781>
+
+- "Sovereign" Rollups
+  - <https://decrypt.co/122833/rollkit-pitches-second-layer-for-bitcoin-sovereign-rollup>
+
+- How to do a coin join
+  - Add commons tools here, explain various kinds
