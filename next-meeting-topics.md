@@ -27,3 +27,6 @@
 
 - codex32 booklet
   - <https://twitter.com/Blockstream/status/1699888016725262652>
+
+- Bitcoin Fees Mistake
+  - <https://mempool.space/tx/d5392d474b4c436e1c9d1f4ff4be5f5f9bb0eb2e26b61d2781751474b7e870fd>
