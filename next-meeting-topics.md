@@ -30,3 +30,6 @@
 
 - Bitcoin Fees Mistake
   - <https://mempool.space/tx/d5392d474b4c436e1c9d1f4ff4be5f5f9bb0eb2e26b61d2781751474b7e870fd>
+
+- "Thundering Herd"
+  - <https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021943.html>
