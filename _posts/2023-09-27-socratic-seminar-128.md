@@ -63,6 +63,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 	- [Mints omitting signature check](https://twitter.com/mononautical/status/1705457795745595570)
 	- [Mints requiring users to grind specific txid prefix](https://twitter.com/mononautical/status/1705643867955958265)
 - [LNBig 60 node stats](https://gist.github.com/LNBIG-COM/015072b3f23a3900f7fe99f2e9fde4b4), [explainer](https://primal.net/e/note1jtam9m3h03xs7pszfs9we3p8usd7j76vrf0904s2e3uduxvd9pmqjwss8c)
+- [MARAPool mines invalid block on mainnet after mining multiple invalid blocks on testnet](https://twitter.com/0xB10C/status/1706937041739530556)
 - [UTXOracle.py - generate historical price data by analyzing UTXO sizes](https://utxo.live/oracle/)
 
 ## CVEs and Research
