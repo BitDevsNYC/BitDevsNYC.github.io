@@ -17,7 +17,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Compressed Bitcoin Transactions](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021924.html)
 - [BIP-????: The Taproot Assets Protocol](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021938.html)
 - [Parameters in BIP21 URIs](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021940.html)
-- [Scaling Lightning With Simple Covenants](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021941.html)
 - [Actuarial System To Reduce Interactivity In N-of-N (N &gt; 2) Multiparticipant Offchain Mechanisms](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021942.html)
 - [Formosa - Expansion on BIP39 as proposed BIP](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021945.html)
 - [New BIP to align descriptors, xpub derivation and miniscript](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021946.html)
@@ -33,15 +32,9 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Practical PTLCs, a little more concretely](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-September/004088.html)
 - [blip-0029: Taproot Asset Protocol Channels](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-September/004089.html)
 - [Scaling Lightning With Simple Covenants](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-September/004092.html)
-- [CLBOSS v0.13 aka "Born to Run" Release](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-September/004094.html)
 - [Sidepools For Improving Payment Reliability At Scale](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-September/004099.html)
-- [Bitcoin Research Day 2023](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-September/004100.html)
 - [Announcing the Lightning Network Interoperability Initiative](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-September/004101.html)
 - [Payment Splitting &amp; Switching and its impact on Balance Discovery Attacks (preprint)](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-September/004114.html)
-
-
-#### [dlc-dev](https://mailmanlists.org/pipermail/dlc-dev)
-
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
@@ -54,25 +47,13 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 - Lightning Specification meeting
     - <!--- TODO replace: [December 5th](https://github.com/lightning/bolts/issues/1046) --->
-- Core Lightning Developer Call
-    - <!--- TODO replace: [September 20th](https://diyhpl.us/wiki/transcripts/c-lightning/2021-09-20-developer-call/) --->
-- dlc-specs meetings
-    - <!--- TODO replace: [October 5th](https://github.com/discreetlogcontracts/dlcspecs/pull/175) --->
-- Lightning specification meetings
-    - <!--- TODO replace: [October 11th](https://github.com/lightningnetwork/lightning-rfc/issues/920) --->
-- Bitcoin Contracting Primitives Working Group
-	- <!--- TODO replace: [April 18th](https://github.com/ariard/bitcoin-contracting-primitives-wg/blob/main/meetings/meetings-18-04.md) --->
+
 
 ### Optech
-- [Bitcoin Optech Newsletter #269](https://bitcoinops.org/en/newsletters/2023/09/20/)
-- [Bitcoin Optech Newsletter #268](https://bitcoinops.org/en/newsletters/2023/09/13/)
-- [Bitcoin Optech Newsletter #267](https://bitcoinops.org/en/newsletters/2023/09/06/)
-- [Bitcoin Optech Newsletter #266](https://bitcoinops.org/en/newsletters/2023/08/30/)
-- [Bitcoin Optech Newsletter #269 Recap Podcast](https://bitcoinops.org/en/podcast/2023/09/21/)
-- [Bitcoin Optech Newsletter #268 Recap Podcast](https://bitcoinops.org/en/podcast/2023/09/14/)
-- [Bitcoin Optech Newsletter #267 Recap Podcast](https://bitcoinops.org/en/podcast/2023/09/07/)
+- [Bitcoin Optech Newsletter #269](https://bitcoinops.org/en/newsletters/2023/09/20/), [audio recap]((https://bitcoinops.org/en/podcast/2023/09/21/))
+- [Bitcoin Optech Newsletter #268](https://bitcoinops.org/en/newsletters/2023/09/13/), [audio recap]((https://bitcoinops.org/en/podcast/2023/09/14/))
+- [Bitcoin Optech Newsletter #267](https://bitcoinops.org/en/newsletters/2023/09/06/), [audio recap](https://bitcoinops.org/en/podcast/2023/09/07/)
 - [Bitcoin Optech Podcast Special: Waiting for confirmation](https://bitcoinops.org/en/podcast/2023/09/waiting-for-confirmation/)
-- [Bitcoin Optech Newsletter #266 Recap Podcast](https://bitcoinops.org/en/podcast/2023/08/31/)
 
 ## Network Data
 - [Accidental 20BTC tx fee](https://mempool.space/tx/d5392d474b4c436e1c9d1f4ff4be5f5f9bb0eb2e26b61d2781751474b7e870fd)
@@ -102,49 +83,22 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
-- [RPC: `descriptorprocesspsbt` returns hex encoded tx if complete](https://github.com/bitcoin/bitcoin/pull/28492)
 - [Fix virtual size limit enforcement in transaction package context](https://github.com/bitcoin/bitcoin/pull/28471)
-- [rpc, test: `addnode` improv + add test coverage for invalid command](https://github.com/bitcoin/bitcoin/pull/26366)
 - [rpc: Add test-only RPC getaddrmaninfo for new/tried table address count](https://github.com/bitcoin/bitcoin/pull/27511)
 - [Remove MemPoolAccept::m_limits to avoid mutating it in package evaluation](https://github.com/bitcoin/bitcoin/pull/28472)
-- [build: Produce a `.zip` for macOS distribution](https://github.com/bitcoin/bitcoin/pull/28432)
-- [wallet: bugfix, disallow migration of invalid scripts](https://github.com/bitcoin/bitcoin/pull/28125)
-- [wallet: Use CTxDestination in CRecipient instead of just scriptPubKey](https://github.com/bitcoin/bitcoin/pull/28246)
-- [ci: Reintroduce fixed "test-each-commit" job](https://github.com/bitcoin/bitcoin/pull/28497)
-- [tests: fix incorrect assumption in v2transport_test](https://github.com/bitcoin/bitcoin/pull/28489)
 - [Bump unconfirmed ancestor transactions to target feerate](https://github.com/bitcoin/bitcoin/pull/26152)
-- [test: Add unit & functional test coverage for blockstore](https://github.com/bitcoin/bitcoin/pull/27850)
-- [kernel: Remove protocol.h/netaddress.h/compat.h from kernel headers](https://github.com/bitcoin/bitcoin/pull/28423)
 - [validation: fix coins disappearing mid-package evaluation](https://github.com/bitcoin/bitcoin/pull/28251)
-- [doc, refactor: changing -torcontrol help to specify that a default port is used](https://github.com/bitcoin/bitcoin/pull/28101)
-- [wallet rpc: return final tx hex from walletprocesspsbt if complete](https://github.com/bitcoin/bitcoin/pull/28414)
-- [doc: Clarify that -fstack-reuse=all bugs exist on all versions of GCC](https://github.com/bitcoin/bitcoin/pull/28105)
-- [rpc: Deprecate rpcserialversion=0](https://github.com/bitcoin/bitcoin/pull/28448)
 - [index: coinstats reorg, fail when block cannot be reversed](https://github.com/bitcoin/bitcoin/pull/28427)
 - [BIP324 connection support](https://github.com/bitcoin/bitcoin/pull/28196)
-- [net: Use serialization parameters for CAddress serialization](https://github.com/bitcoin/bitcoin/pull/25284)
-- [log: log wtxids when possible, add TXPACKAGES category](https://github.com/bitcoin/bitcoin/pull/28364)
 - [fuzz: introduce and use `ConsumePrivateKey` helper](https://github.com/bitcoin/bitcoin/pull/28419)
 - [Wallet: estimate the size of signed inputs using descriptors](https://github.com/bitcoin/bitcoin/pull/26567)
 - [blockstorage: Drop legacy -txindex check](https://github.com/bitcoin/bitcoin/pull/28195)
 - [Update libsecp256k1 subtree to release 0.4.0](https://github.com/bitcoin/bitcoin/pull/28404)
-- [test: p2p: check that `getaddr` msgs are only responded once per connection](https://github.com/bitcoin/bitcoin/pull/28396)
-- [Update translations for 26.0 soft translation string freeze](https://github.com/bitcoin/bitcoin/pull/28383)
-- [Log explicit error message when coindb is found in inconsistent state](https://github.com/bitcoin/bitcoin/pull/28350)
 - [doc: Fill in the required skills in the good_first_issue template](https://github.com/bitcoin/bitcoin/pull/28369)
-- [test: Support powerpc64le in get_previous_releases.py](https://github.com/bitcoin/bitcoin/pull/28352)
-- [ci, windows: Do not run extended functional tests for pull requests](https://github.com/bitcoin/bitcoin/pull/28360)
 
 ### [BDK](https://github.com/bitcoindevkit/bdk)
-- [fix(esplora): use saturating_add in update_tx_graph()](https://github.com/bitcoindevkit/bdk/pull/1110)
-- [Update documentation for fee_rate and fee_absolute methods in tx_builder.rs](https://github.com/bitcoindevkit/bdk/pull/969)
-- [Enhance bdk chain structures](https://github.com/bitcoindevkit/bdk/pull/1084)
 - [fix: spks_of_all_keychains() shouldn't return an infinite iterator for non-wildcard descriptors](https://github.com/bitcoindevkit/bdk/pull/1093)
-- [Add cli esplora example](https://github.com/bitcoindevkit/bdk/pull/1040)
 - [ Remove TransactionDetails from Wallet API](https://github.com/bitcoindevkit/bdk/pull/1048)
-
-### [HWI](https://github.com/bitcoin-core/HWI)
-- [ci: Replace Cirrus CI with GitHub Actions](https://github.com/bitcoin-core/HWI/pull/707)
 
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 - [Add `Witness::p2wpkh` constructor](https://github.com/rust-bitcoin/rust-bitcoin/pull/2084)
