@@ -44,6 +44,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
     - [August 31](https://www.erisian.com.au/bitcoin-core-dev/log-2023-08-31.html#l-277)
     - [September 7](https://www.erisian.com.au/bitcoin-core-dev/log-2023-09-07.html#l-81)
     - [September 14](https://www.erisian.com.au/bitcoin-core-dev/log-2023-09-14.html#l-120)
+    - September 21 – no meeting
 
 - Lightning Specification meeting
     - [September 11]([https://github.com/lightning/bolts/issues/1107)
@@ -64,7 +65,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 	- [Mints requiring users to grind specific txid prefix](https://twitter.com/mononautical/status/1705643867955958265)
 - [LNBig 60 node stats](https://gist.github.com/LNBIG-COM/015072b3f23a3900f7fe99f2e9fde4b4), [explainer](https://primal.net/e/note1jtam9m3h03xs7pszfs9we3p8usd7j76vrf0904s2e3uduxvd9pmqjwss8c)
 - [MARAPool mines invalid block on mainnet after mining multiple invalid blocks on testnet](https://twitter.com/0xB10C/status/1706937041739530556)
-- [UTXOracle.py - generate historical price data by analyzing UTXO sizes](https://utxo.live/oracle/)
+- [UTXOracle.py - generate historical price data by analyzing UTXO amounts](https://utxo.live/oracle/)
 
 ## CVEs and Research
 ### Research
@@ -89,7 +90,8 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [validation: fix coins disappearing mid-package evaluation](https://github.com/bitcoin/bitcoin/pull/28251)
 - [index: coinstats reorg, fail when block cannot be reversed](https://github.com/bitcoin/bitcoin/pull/28427)
 - [BIP324 connection support](https://github.com/bitcoin/bitcoin/pull/28196)
-- [Wallet: estimate the size of signed inputs using descriptors](https://github.com/bitcoin/bitcoin/pull/26567)- [blockstorage: Drop legacy -txindex check](https://github.com/bitcoin/bitcoin/pull/28195)
+- [Wallet: estimate the size of signed inputs using descriptors](https://github.com/bitcoin/bitcoin/pull/26567)
+- [blockstorage: Drop legacy -txindex check](https://github.com/bitcoin/bitcoin/pull/28195)
 - [Update libsecp256k1 subtree to release 0.4.0](https://github.com/bitcoin/bitcoin/pull/28404)
 
 ### [BDK](https://github.com/bitcoindevkit/bdk)
