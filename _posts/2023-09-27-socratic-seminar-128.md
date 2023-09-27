@@ -123,9 +123,9 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Add RPC to bump local commit fees](https://github.com/ACINQ/eclair/pull/2743)
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
-- [https://github.com/lightningdevkit/rust-lightning/pull/2371](https://github.com/lightningdevkit/rust-lightning/pull/2371)
-- [https://github.com/lightningdevkit/rust-lightning/pull/2413](https://github.com/lightningdevkit/rust-lightning/pull/2413)
-- [https://github.com/lightningdevkit/rust-lightning/pull/2417](https://github.com/lightningdevkit/rust-lightning/pull/2417)
+- [BOLT 12 Invoice payments](https://github.com/lightningdevkit/rust-lightning/pull/2371)
+- [Route blinding MVP](https://github.com/lightningdevkit/rust-lightning/pull/2413)
+- [Add config option to set maximum total routing fee](https://github.com/lightningdevkit/rust-lightning/pull/2417)
 - [Batch funding for v1 channel establishments](https://github.com/lightningdevkit/rust-lightning/pull/2486)
 
 ### [lnd](https://github.com/lightningnetwork/lnd)
