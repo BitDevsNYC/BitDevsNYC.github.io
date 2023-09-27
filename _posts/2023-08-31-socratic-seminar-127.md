@@ -114,13 +114,21 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Propagate next remote commit failed htlcs upstream](https://github.com/ACINQ/eclair/pull/2718)
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
-
+- [Smooth out channel liquidity bounds decay](https://github.com/lightningdevkit/rust-lightning/pull/1789)
+- [Route blinding groundwork ](https://github.com/lightningdevkit/rust-lightning/pull/2128)
+- [Add support for custom HTLC TLVs](https://github.com/lightningdevkit/rust-lightning/pull/2308)
+- [Support third-party watchtowers in persistence pipeline](https://github.com/lightningdevkit/rust-lightning/pull/2337)
+- [Support constructing blinded path onion keys](https://github.com/lightningdevkit/rust-lightning/pull/2411)
+- [Add API for constructing blinded payment paths](https://github.com/lightningdevkit/rust-lightning/pull/2412)
+- [Support signing BOLT 12 messages in NodeSigner](https://github.com/lightningdevkit/rust-lightning/pull/2432)
+  
 ### [lnd](https://github.com/lightningnetwork/lnd)
+- [funding: fix channel type negotiation bug](https://github.com/lightningnetwork/lnd/pull/7177)
+- [sqldb: new package supporting sql backends](https://github.com/lightningnetwork/lnd/pull/7343)
+- [[9/9] multi: add full on chain resolution support for simple taproot channels](https://github.com/lightningnetwork/lnd/pull/7472)
 
 ### [BIPs](https://github.com/bitcoin/bips)
 - [Update to BIP300: Hashrate Escrows](https://github.com/bitcoin/bips/blob/master/bip-0300.mediawiki)
-
-### [BLIPs](https://github.com/lightning/blips)
 
 ### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
 - [BOLT 7: Onion message support (features 38/39)](https://github.com/lightning/bolts/pull/759)
