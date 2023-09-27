@@ -10,9 +10,6 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 If you can't make it to the main event please join us at PUBKEY around 9:30PM. **Learn about this awesome new establishment [here](https://ny.eater.com/2022/12/13/23494423/pubkey-opening-manhattan-bitcoin-bar).**
 
-## Presentation
--
-
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
@@ -77,16 +74,31 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Bitcoin Optech Podcast Special: Waiting for confirmation](https://bitcoinops.org/en/podcast/2023/09/waiting-for-confirmation/)
 - [Bitcoin Optech Newsletter #266 Recap Podcast](https://bitcoinops.org/en/podcast/2023/08/31/)
 
-
 ## Network Data
--
+- [Accidental 20BTC tx fee](https://mempool.space/tx/d5392d474b4c436e1c9d1f4ff4be5f5f9bb0eb2e26b61d2781751474b7e870fd)
+	- [f2pool offers to return funds](https://twitter.com/satofishi/status/1701042302238724512), [paxos claims funds](https://bitcoinmagazine.com/markets/paypal-reportedly-overpaid-510750-in-the-largest-usd-bitcoin-transaction-fee-ever-), [funds returned](https://mempool.space/tx/1b9adb2878fce5cd1b6a11a011e3965f904829228d57cf90ca6731cd501890c6)
+- [Alby reaches 1M monthly payments](https://blog.getalby.com/celebrating-1-000-000-monthly-bitcoin-payments/)
+- [BRC-20 minters using fullrbf](https://twitter.com/mononautical/status/1699440451118313955)
+	- [Mints omitting signature check](https://twitter.com/mononautical/status/1705457795745595570)
+	- [Mints requiring users to grind specific txid prefix](https://twitter.com/mononautical/status/1705643867955958265)
+- [LNBig 60 node stats](https://gist.github.com/LNBIG-COM/015072b3f23a3900f7fe99f2e9fde4b4), [explainer](https://primal.net/e/note1jtam9m3h03xs7pszfs9we3p8usd7j76vrf0904s2e3uduxvd9pmqjwss8c)
+- [UTXOracle.py - generate historical price data by analyzing UTXO sizes](https://utxo.live/oracle/)
 
 ## CVEs and Research
 ### Research
 - [Blockchain Privacy and Regulatory Compliance: Towards a Practical Equilibrium](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4563364)
+- [CHAUSSETTE: A Symbolic Verification of Bitcoin Scripts](https://orbi.uliege.be/handle/2268/305862)
+- [Undetectable Selfish Mining](https://arxiv.org/abs/2309.06847v1)
 
 ### InfoSec
+- [Coinkite Evil Maid extracts seed (DeepCover DS28C36: A Hardware Vulnerability Identification and Exploitation Using T-Test and Double Laser Fault Injection)](https://eprint.iacr.org/2023/1375)
+- [Don’t overextend your Oblivious Transfer](https://blog.trailofbits.com/2023/09/20/dont-overextend-your-oblivious-transfer/)	
+- Electrum Lightning vulnerabilities
+	- [payment_preimage validation is skipped on Android ](https://github.com/spesmilo/electrum/security/advisories/GHSA-9gpc-prj9-89x7)
+	- [partial MPP might be accepted](https://github.com/spesmilo/electrum/security/advisories/GHSA-8r85-vp7r-hjxf)
+- [Experts Fear Crooks are Cracking Keys Stolen in LastPass Breach](https://krebsonsecurity.com/2023/09/experts-fear-crooks-are-cracking-keys-stolen-in-lastpass-breach/)
 - [NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
+- [Results of Major Technical Investigations for Storm-0558 Key Acquisition ](https://msrc.microsoft.com/blog/2023/09/results-of-major-technical-investigations-for-storm-0558-key-acquisition/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -123,7 +135,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [test: Support powerpc64le in get_previous_releases.py](https://github.com/bitcoin/bitcoin/pull/28352)
 - [ci, windows: Do not run extended functional tests for pull requests](https://github.com/bitcoin/bitcoin/pull/28360)
 
-
 ### [BDK](https://github.com/bitcoindevkit/bdk)
 - [fix(esplora): use saturating_add in update_tx_graph()](https://github.com/bitcoindevkit/bdk/pull/1110)
 - [Update documentation for fee_rate and fee_absolute methods in tx_builder.rs](https://github.com/bitcoindevkit/bdk/pull/969)
@@ -132,10 +143,8 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Add cli esplora example](https://github.com/bitcoindevkit/bdk/pull/1040)
 - [ Remove TransactionDetails from Wallet API](https://github.com/bitcoindevkit/bdk/pull/1048)
 
-
 ### [HWI](https://github.com/bitcoin-core/HWI)
 - [ci: Replace Cirrus CI with GitHub Actions](https://github.com/bitcoin-core/HWI/pull/707)
-
 
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 - [Add `Witness::p2wpkh` constructor](https://github.com/rust-bitcoin/rust-bitcoin/pull/2084)
@@ -157,7 +166,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Introduce a basic justfile](https://github.com/rust-bitcoin/rust-bitcoin/pull/2018)
 - [Fix witness display bug](https://github.com/rust-bitcoin/rust-bitcoin/pull/1999)
 
-
 ### [libsecp](https://github.com/bitcoin-core/secp256k1)
 - [ci/cirrus: Add native ARM64 jobs](https://github.com/bitcoin-core/secp256k1/pull/1426)
 - [tests: simplify `random_fe_non_zero` (remove loop limit and unneeded normalize)](https://github.com/bitcoin-core/secp256k1/pull/1395)
@@ -165,13 +173,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [doc: Align documented scripts with CI ones](https://github.com/bitcoin-core/secp256k1/pull/1416)
 - [tests: Replace counting_illegal_callbacks with CHECK_ILLEGAL_VOID](https://github.com/bitcoin-core/secp256k1/pull/1390)
 - [ci/gha: Add ARM64 QEMU jobs for clang and clang-snapshot](https://github.com/bitcoin-core/secp256k1/pull/1414)
-
-
-### [secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp)
-
-
-### [dlcspecs](https://github.com/discreetlogcontracts/dlcspecs)
-
 
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
 - [`configure`: recognize `--disable-ub-sanitizer` option](https://github.com/ElementsProject/lightning/pull/6705)
@@ -234,23 +235,29 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [multi: ensure link is always torn down due to db failures, add exponential back off for sql-kvdb failures](https://github.com/lightningnetwork/lnd/pull/7927)
 - [peer: eliminate circular waiting by calling maybeSendNodeAnn async](https://github.com/lightningnetwork/lnd/pull/7938)
 
-
-### [BLIPs](https://github.com/lightning/blips)
-
-
 ### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
 - [Clarify the semantics of `max_htlc_value_in_flight_msat`](https://github.com/lightning/bolts/pull/1113)
 - [CONTRIBUTING.md: modern feature bit assignment.](https://github.com/lightning/bolts/pull/1108)
 
-
 ## New Releases
-- [libsecp256k1 v0.4.0](https://github.com/bitcoin-core/secp256k1/releases/tag/v0.4.0)
+- [opvault-demo](https://github.com/jamesob/opvault-demo)
+- [StaticWire: Rent Internet Protocol Subnets Using Bitcoin's Lightning Network](https://github.com/AndySchroder/StaticWire)
 
 ## Events and Podcasts
--
+- [Anchor Outputs with LDK](https://www.youtube.com/watch?v=03nzJYOUjks)
+- [Baltic Honeybadger](https://www.youtube.com/watch?v=V3vvybsc1A4)
+- [James O'Beirne on OP_VAULT](https://brink.dev/blog/2023/08/23/eng-call-opvault/)
 
 ## Mining
--
+- [Antpool celebrates KYC](https://twitter.com/AntPoolofficial/status/1679311358205255680)
+- [Bitmain reveals Antminer S21](https://hashrateindex.com/blog/what-is-the-antminer-s21-everything-to-know-about-bitmains-latest-asic-miner/)
+- [Flared Gas Bitcoin Mining: When it Does (and Doesn't) Make Sense](https://hashrateindex.com/blog/flared-gas-bitcoin-mining-101/)
+- [Riot Responds to Recent Inquiries Regarding Its Power Strategy (ERCOT power buybacks)](https://www.riotplatforms.com/news-media/press-releases/detail/160/riot-responds-to-recent-inquiries-regarding-its-power)
 
 ## Miscellaneous
--
+- [An introduction to Spiderchain](https://blog.lopp.net/an-introduction-to-spiderchain/)
+- [Codex32: A Shamir Secret Sharing Scheme](https://blog.blockstream.com/codex32-a-shamir-secret-sharing-scheme/)
+- [Drivechains Introduce New Incentive Dynamics To Bitcoin](https://bitcoinmagazine.com/technical/drivechains-introduce-new-incentive-dynamics-to-bitcoin))
+- [Private Collaborative Custody with FROST](https://gist.github.com/nickfarrow/4be776782bce0c12cca523cbc203fb9d/#private-collaborative-custody-with-frost)
+- [Spiral grant for Yuval Kogman](https://twitter.com/spiralbtc/status/1704905217974665340)
+- [Zerosync produces STARK proof of Bitocoin's header chain](https://github.com/ZeroSync/header_chain)
