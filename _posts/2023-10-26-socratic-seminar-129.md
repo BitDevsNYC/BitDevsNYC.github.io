@@ -253,7 +253,10 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 
 ## New Releases
--
+- [BDK 0.29.0](https://github.com/bitcoindevkit/bdk/releases/tag/v0.29.0)
+- [Bitcoin Core 25.1](https://github.com/bitcoin/bitcoin/releases/tag/v25.1)
+- [LDK 0.0.117](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.117)
+- [LND v0.17.0-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.17.0-beta)
 
 ## Events and Podcasts
 -
