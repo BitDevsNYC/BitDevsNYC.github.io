@@ -82,7 +82,8 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ## CVEs and Research
 ### Research
--
+- [How Does a Lightning Replacement Cycling Attack Work - Illustrated Primer](https://www.nobsbitcoin.com/how-does-a-lightning-replacement-cycling-attack-work/)
+- [Drivechains: A Detailed Analysis by Peter Todd](https://petertodd.org/2023/drivechains)
 
 ### InfoSec
 -
@@ -261,4 +262,4 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 -
 
 ## Miscellaneous
--
+- [Announcing the $12k NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
