@@ -70,11 +70,11 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 	- <!--- TODO replace: [April 18th](https://github.com/ariard/bitcoin-contracting-primitives-wg/blob/main/meetings/meetings-18-04.md) --->
 
 ### Optech
-- [Bitcoin Optech Newsletter #274](https://bitcoinops.org/en/newsletters/2023/10/25/)
-- [Bitcoin Optech Newsletter #273](https://bitcoinops.org/en/newsletters/2023/10/18/) [Recap Podcast](https://bitcoinops.org/en/podcast/2023/10/19/)
-- [Bitcoin Optech Newsletter #272](https://bitcoinops.org/en/newsletters/2023/10/11/) [Recap Podcast](https://bitcoinops.org/en/podcast/2023/10/12/)
-- [Bitcoin Optech Newsletter #271](https://bitcoinops.org/en/newsletters/2023/10/04/) [Recap Podcast](https://bitcoinops.org/en/podcast/2023/10/05/)
 - [Bitcoin Optech Newsletter #270](https://bitcoinops.org/en/newsletters/2023/09/27/) [Recap Podcast](https://bitcoinops.org/en/podcast/2023/09/28/)
+- [Bitcoin Optech Newsletter #271](https://bitcoinops.org/en/newsletters/2023/10/04/) [Recap Podcast](https://bitcoinops.org/en/podcast/2023/10/05/)
+- [Bitcoin Optech Newsletter #272](https://bitcoinops.org/en/newsletters/2023/10/11/) [Recap Podcast](https://bitcoinops.org/en/podcast/2023/10/12/)
+- [Bitcoin Optech Newsletter #273](https://bitcoinops.org/en/newsletters/2023/10/18/) [Recap Podcast](https://bitcoinops.org/en/podcast/2023/10/19/)
+- [Bitcoin Optech Newsletter #274](https://bitcoinops.org/en/newsletters/2023/10/25/)
 
 
 ## Network Data
