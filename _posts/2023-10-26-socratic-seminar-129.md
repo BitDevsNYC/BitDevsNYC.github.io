@@ -11,7 +11,7 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 If you can't make it to the main event please join us at PUBKEY around 9:30PM. **Learn about this awesome new establishment [here](https://ny.eater.com/2022/12/13/23494423/pubkey-opening-manhattan-bitcoin-bar).**
 
 ## Presentation
--
+- Dan Gould: Payjoin v2: Oblivious, Serverless, Asynchronous Batching
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
@@ -34,17 +34,12 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Ordinals BIP PR](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-October/022065.html)
 - [On solving pinning, replacement cycling and mempool issues for bitcoin second-layers](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-October/022059.html)
 
-
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 - [SimLN: Simulate active test networks](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-October/004120.html)
 - [Full Disclosure: CVE-2023-40231 / CVE-2023-40232 / CVE-2023-40233 / CVE-2023-40234 "All your mempool are belong to us"](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-October/004122.html)
 - [Batch exchange withdrawal to lightning requires covenants](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-October/004126.html)
 - [Removing channel reserve for mobile wallet users](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-October/004136.html)
 - [On solving pinning, replacement cycling and mempool issues for bitcoin second-layers](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-October/004158.html)
-
-
-#### [dlc-dev](https://mailmanlists.org/pipermail/dlc-dev)
-
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
@@ -59,15 +54,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
     - [October 19](https://www.erisian.com.au/bitcoin-core-dev/log-2023-10-19.html#l-187)
 
 - Lightning Specification meeting
-    - <!--- TODO replace: [December 5th](https://github.com/lightning/bolts/issues/1046) --->
-- Core Lightning Developer Call
-    - <!--- TODO replace: [September 20th](https://diyhpl.us/wiki/transcripts/c-lightning/2021-09-20-developer-call/) --->
-- dlc-specs meetings
-    - <!--- TODO replace: [October 5th](https://github.com/discreetlogcontracts/dlcspecs/pull/175) --->
-- Lightning specification meetings
-    - <!--- TODO replace: [October 11th](https://github.com/lightningnetwork/lightning-rfc/issues/920) --->
-- Bitcoin Contracting Primitives Working Group
-	- <!--- TODO replace: [April 18th](https://github.com/ariard/bitcoin-contracting-primitives-wg/blob/main/meetings/meetings-18-04.md) --->
+    - [October 23rd](https://github.com/lightning/bolts/issues/1115)
 
 ### Optech
 - [Bitcoin Optech Newsletter #270](https://bitcoinops.org/en/newsletters/2023/09/27/) [Recap Podcast](https://bitcoinops.org/en/podcast/2023/09/28/)
@@ -78,15 +65,28 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 
 ## Network Data
--
+- [BitMEX consolidates 100k UTXOs](https://twitter.com/BitMEXResearch/status/1716830803509092619?s=20)
+- [ClarkMoody adds inscription data](https://twitter.com/clarkmoody/status/1708981583481315509)
+- [Frontrunning brc-20 inscriptions with malicious mints](https://twitter.com/rot13maxi/status/1709011253350334887)
+- [Hunting the Real Bitcoin Network Hashrate](https://blog.lopp.net/hunting-the-real-bitcoin-network-hashrate/)
+- [Invalid MARAPool block 809478](https://b10c.me/observations/07-invalid-block-809478/)
+- [LightningTipBot loses 30% of its channels in force-close incident](https://twitter.com/callebtc/status/1699073731577127264)
+- [OKX consolidating legacy 2 of 3 multisig outputs](https://twitter.com/mononautical/status/1709830309078847516), [more](https://twitter.com/mononautical/status/1710524562390065215?s=20)
+- [River has routed 3 million lightning payments](https://twitter.com/Leishman/status/1709643941404889358)
+- [The Lightning Network Grew by 1212% in 2 Years](https://blog.river.com/the-lightning-network-in-2023/)
 
 ## CVEs and Research
 ### Research
-- [How Does a Lightning Replacement Cycling Attack Work - Illustrated Primer](https://www.nobsbitcoin.com/how-does-a-lightning-replacement-cycling-attack-work/)
-- [Drivechains: A Detailed Analysis by Peter Todd](https://petertodd.org/2023/drivechains)
+- [Evicting and filling attack for linking multiple network addresses of Bitcoin nodes](https://cybersecurity.springeropen.com/articles/10.1186/s42400-023-00182-9)
+- [Naysayer proofs](https://eprint.iacr.org/2023/1472), [discussion](https://twitter.com/salvatoshi/status/1712772143753408824)
+- [One-time and Revocable Ring Signature with Logarithmic Size in Blockchain](https://eprint.iacr.org/2023/1633)
+- [The Centralizing Effects of Private Order Flow on Proposer-Builder Separation](https://arxiv.org/abs/2305.19150v2)
 
 ### InfoSec
--
+- [Don’t overextend your Oblivious Transfer](https://blog.trailofbits.com/2023/09/20/dont-overextend-your-oblivious-transfer/)
+- [“EtherHiding” — Hiding Web2 Malicious Code in Web3 Smart Contracts](https://labs.guard.io/etherhiding-hiding-web2-malicious-code-in-web3-smart-contracts-65ea78efad16)
+- [HTX suffers a $8M hack](https://twitter.com/justinsuntron/status/1706311251024822748)
+- [Security researcher stopped at US border for investigating crypto scam](https://www.bleepingcomputer.com/news/security/security-researcher-stopped-at-us-border-for-investigating-crypto-scam/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -258,11 +258,25 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [LDK 0.0.117](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.117)
 - [LND v0.17.0-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.17.0-beta)
 
-## Events and Podcasts
--
-
-## Mining
--
-
 ## Miscellaneous
 - [Announcing the $12k NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
+- [Bitcoin Knowledge and Perceptions: Chapter II](https://block.xyz/inside/report-bitcoin-survey-2023)
+- [Covenants: Dealing with Amounts in Bitcoin Script](https://rusty.ozlabs.org/2023/10/22/amounts-in-script.html)
+- [Covenants: Examining ScriptPubkeys in Bitcoin Script](https://rusty.ozlabs.org/2023/10/20/examining-scriptpubkey-in-script.html)
+- [Covenants tools softfork](https://delvingbitcoin.org/t/covenant-tools-softfork/98)
+- [Current state of validity rollups on Bitcoin](https://twitter.com/lightcoin/status/1713948187944194339?s=20)
+- [Doppler – A Lightning Domain-Specific Language](https://voltage.cloud/blog/bitcoin-development-platform/doppler-a-lightning-domain-specific-language/)
+- [Drivechains: A Detailed Analysis](https://petertodd.org/2023/drivechains), [rebuttal](https://twitter.com/Truthcoin/status/1712814820267802712?s=20)
+	- [Drivechains: From a Bitcoin Miners’ Perspective](https://bitcoinmagazine.com/business/drivechains-from-a-bitcoin-miners-perspective)
+	- [Merged Mining and Decentralization](https://medium.com/iovlabs-innovation-stories/merged-mining-and-decentralization-7c2590f928ed)
+- [FinCEN Seeks to Impose Strict Surveillance Requirements onto Broadly Defined Class of 'Bitcoin Mixers'](https://www.nobsbitcoin.com/fincen-wants-to-outlaw-certain-bitcoin-on-chain-transactions/)
+- [Hal Finney Was Not Satoshi Nakamoto](https://blog.lopp.net/hal-finney-was-not-satoshi-nakamoto/)
+- [HRF gifts ~19BTC via its Bitcoin Development Fund](https://bitcoinmagazine.com/business/human-rights-foundation-donates-over-500000-to-15-global-bitcoin-projects)
+- [OpenSats Announces Long-Term Support for Gleb Naumenko](https://opensats.org/blog/gleb-naumenko-receives-lts-grant)
+- [OpenSats Announcest Long-Term Support for Matt Morehouse](https://opensats.org/blog/matt-morehouse-lightning-security-lts-grant)
+- [OpenSats Announces Third Wave of Nostr Grants](https://opensats.org/blog/nostr-grants-october-2023)
+- [Our Data Driven Approach to Fixing Payment Reliability](https://blog.mutinywallet.com/fixing-payment-reliability/)
+- [OP_CHECKSEPARATESIG And Actuaries: Fixing Multiparty Channel Factories](https://bitcoinmagazine.com/technical/op-checkseparatesig-and-actuaries-fixing-multiparty-channel-factories)
+- [Runes](https://rodarmor.com/blog/runes/)
+- [Taproot Assets on Mainnet: A New Era for Bitcoin and Beyond](https://lightning.engineering/posts/2023-10-18-taproot-assets-v0.3/)
+- [Warnet - Monitor and analyze the emergent behaviors of P2P networks](https://warnet.vercel.app/)
