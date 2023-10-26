@@ -63,7 +63,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM.
 - [Bitcoin Optech Newsletter #273](https://bitcoinops.org/en/newsletters/2023/10/18/) [Recap Podcast](https://bitcoinops.org/en/podcast/2023/10/19/)
 - [Bitcoin Optech Newsletter #274](https://bitcoinops.org/en/newsletters/2023/10/25/)
 
-
 ## Network Data
 - [BitMEX consolidates 100k UTXOs](https://twitter.com/BitMEXResearch/status/1716830803509092619?s=20)
 - [ClarkMoody adds inscription data](https://twitter.com/clarkmoody/status/1708981583481315509)
@@ -109,66 +108,24 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM.
 - [net: Drop v2 garbage authentication packet](https://github.com/bitcoin/bitcoin/pull/28525)
 - [Add package evaluation fuzzer](https://github.com/bitcoin/bitcoin/pull/28450)
 
-
-
-
-
 ### [BDK](https://github.com/bitcoindevkit/bdk)
-- [ref(chain): Rename direct_conflicts_of_tx to direct_conflitcs](https://github.com/bitcoindevkit/bdk/pull/1164)
 - [Add `bitcoind_rpc` chain source module.](https://github.com/bitcoindevkit/bdk/pull/1041)
-- [fix(wallet_esplora): missing_heights uses the graph update](https://github.com/bitcoindevkit/bdk/pull/1152)
-- [Better tests for transaction conflict handling](https://github.com/bitcoindevkit/bdk/pull/1064)
-- [fix: Remove dependency on unnecessary bdk_chain features](https://github.com/bitcoindevkit/bdk/pull/1146)
-- [fix: Add the pinning of time/cc in README](https://github.com/bitcoindevkit/bdk/pull/1137)
-- [fix: bump electrum version to 0.18](https://github.com/bitcoindevkit/bdk/pull/1132)
-- [ci: Pin time, cc in order to keep MSRV](https://github.com/bitcoindevkit/bdk/pull/1135)
-- [fix(esplora): use saturating_add in update_tx_graph()](https://github.com/bitcoindevkit/bdk/pull/1110)
-
-
 
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
-- [encode: Implement encoding traits on Vec<BlockHeader>](https://github.com/rust-bitcoin/rust-bitcoin/pull/2131)
-- [Implement manual fmt::Debug for BlockHeader to include block hash](https://github.com/rust-bitcoin/rust-bitcoin/pull/2126)
-- [Tracking PR for release `v0.31.0-rc1`](https://github.com/rust-bitcoin/rust-bitcoin/pull/2118)
-- [Use `Target` as type for `pow_limit`](https://github.com/rust-bitcoin/rust-bitcoin/pull/2107)
 - [Upgrade secp dependency](https://github.com/rust-bitcoin/rust-bitcoin/pull/2098)
 - [Update bech32 dependency](https://github.com/rust-bitcoin/rust-bitcoin/pull/2117)
-- [Remove private hex test macro](https://github.com/rust-bitcoin/rust-bitcoin/pull/1986)
-- [Add wasm dev-deps using CI script](https://github.com/rust-bitcoin/rust-bitcoin/pull/2104)
 - [Audit error types code base wide](https://github.com/rust-bitcoin/rust-bitcoin/pull/2101)
-- [rand-std should enable std](https://github.com/rust-bitcoin/rust-bitcoin/pull/2102)
-- [Add `PartialMerkleTree::calc_tree_height` method](https://github.com/rust-bitcoin/rust-bitcoin/pull/1389)
 - [Feature: Psbt fee checks](https://github.com/rust-bitcoin/rust-bitcoin/pull/2064)
-- [hashes: Remove unnecessary dependencies](https://github.com/rust-bitcoin/rust-bitcoin/pull/2087)
 - [Re-write the weight/size API](https://github.com/rust-bitcoin/rust-bitcoin/pull/2076)
 - [Add `Witness::p2wpkh` constructor](https://github.com/rust-bitcoin/rust-bitcoin/pull/2084)
 
-
-
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
 - [Restore any missing psbt metadata that resource constrained signers strip](https://github.com/ElementsProject/lightning/pull/6767)
-- [lightningd: don't re-enter transaction if we have to call plugin_exclusive_loop](https://github.com/ElementsProject/lightning/pull/6812)
 - [Simplify use of channel_update](https://github.com/ElementsProject/lightning/pull/6786)
 - [Plugin and broadcast cleanups](https://github.com/ElementsProject/lightning/pull/6751)
-- [psbt: fix PSBT mutation in the changeset](https://github.com/ElementsProject/lightning/pull/6762)
 - [Allow even unknown messages, by registration, and allow sending them](https://github.com/ElementsProject/lightning/pull/6689)
-- [splice: signer must be informed of splice params](https://github.com/ElementsProject/lightning/pull/6746)
-- [hsmd: name the hsmd_ready_channel to hsmd_setup_channel](https://github.com/ElementsProject/lightning/pull/6724)
-- [runes: bug fix for db failure to upgrade due to runes table alteratio…](https://github.com/ElementsProject/lightning/pull/6781)
-- [bolt11: fix crashes and memory safety errors](https://github.com/ElementsProject/lightning/pull/6789)
-- [Closingd invalid fix](https://github.com/ElementsProject/lightning/pull/6787)
-- [Real checkrune fix](https://github.com/ElementsProject/lightning/pull/6782)
-- [cln-grpc: do not generate cerficates when no autostart.](https://github.com/ElementsProject/lightning/pull/6755)
-- [runes: fix `checkrune` when `method` parameter is the empty string.](https://github.com/ElementsProject/lightning/pull/6759)
-- [fuzz: test bolt11 decoding](https://github.com/ElementsProject/lightning/pull/6750)
-- [contrib: add `developer` option to config file in startup_regtest.sh.](https://github.com/ElementsProject/lightning/pull/6754)
-- [Begin weaning code off assumption that unannounced channels are in gossip store](https://github.com/ElementsProject/lightning/pull/6697)
 - [addpsbtoutput: New onchain command for PSBT output and splice_out tests](https://github.com/ElementsProject/lightning/pull/6676)
-- [Print steal tracking when a memleak is detected](https://github.com/ElementsProject/lightning/pull/6744)
-- [lightningd: fix assertion when funding depth changes fast.](https://github.com/ElementsProject/lightning/pull/6737)
-- [runes: Use next id from runes table not `runes_uniqueid` from `vars`](https://github.com/ElementsProject/lightning/pull/6715)
 - [runes: Reimplement `rate` in terms of `per`](https://github.com/ElementsProject/lightning/pull/6710)
-
 
 ### [eclair](https://github.com/ACINQ/eclair/)
 - [Ignore disabled edges for routing messages](https://github.com/ACINQ/eclair/pull/2750)
@@ -185,44 +142,19 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM.
 - [Allow splicing on non dual-funded channels](https://github.com/ACINQ/eclair/pull/2727)
 - [Fix tests that expect network minimum feerate to be less than other rates](https://github.com/ACINQ/eclair/pull/2751)
 
-
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
 
-
 ### [lnd](https://github.com/lightningnetwork/lnd)
-- [build: prep for Go 1.22 by using GOEXPERIMENT=loopvar for tests](https://github.com/lightningnetwork/lnd/pull/8014)
 - [multi: pong enforcement](https://github.com/lightningnetwork/lnd/pull/7828)
-- [htlcswitch: fuzz onion encoding/decoding](https://github.com/lightningnetwork/lnd/pull/7967)
 - [invoices: refactor `InvoiceDB` to eliminate `ScanInvoices`](https://github.com/lightningnetwork/lnd/pull/8081)
-- [gomod: update btcwallet re rescan race fix](https://github.com/lightningnetwork/lnd/pull/8094)
 - [Add more information when a co-op close is failing.](https://github.com/lightningnetwork/lnd/pull/8090)
 - [input+sweep: make sure input with no fee rate is not added to cluster](https://github.com/lightningnetwork/lnd/pull/7824)
 - [sweeper: relax anchor sweeping when there's no deadline pressure](https://github.com/lightningnetwork/lnd/pull/7965)
-- [multi: extend `InvoiceDB` methods with a context argument](https://github.com/lightningnetwork/lnd/pull/8066)
-- [htlcswitch/hop: use InvalidOnionVersion for replayed packets](https://github.com/lightningnetwork/lnd/pull/7937)
-- [scripts: kill lnd on windows to access log files](https://github.com/lightningnetwork/lnd/pull/8076)
 - [tlv: fuzz test encoding/decoding](https://github.com/lightningnetwork/lnd/pull/7889)
-- [funding: remove dead code and sanity check pending chan ID](https://github.com/lightningnetwork/lnd/pull/7887)
-- [Add instructions to generate type hints](https://github.com/lightningnetwork/lnd/pull/8025)
-- [lncli: fix description of connect/disconnect peer](https://github.com/lightningnetwork/lnd/pull/8053)
 - [funding: wait for coinbase maturity before sending channel_ready](https://github.com/lightningnetwork/lnd/pull/7925)
 - [lnwallet+rpcserver: fix weight calculation for taproot channels](https://github.com/lightningnetwork/lnd/pull/8037)
 - [peer: launch persistent peer pruning in background goroutine](https://github.com/lightningnetwork/lnd/pull/8041)
 - [chanacceptor+lnrpc: add simple taproot channel support](https://github.com/lightningnetwork/lnd/pull/8031)
-- [contractcourt: modify the incoming contest resolver to use concurrent…](https://github.com/lightningnetwork/lnd/pull/8024)
-
-
-### [BIPs](https://github.com/bitcoin/bips)
-- [bip324: Remove garbage authentication packet (breaking change)](https://github.com/bitcoin/bips/pull/1498)
-
-
-### [BLIPs](https://github.com/lightning/blips)
-
-
-### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
-- [BOLT4: Specify max HTLC nLocktime for expiry_too_far](https://github.com/lightning/bolts/pull/1086)
-- [BOLT 1: define what `offered` and `negotiated` mean.](https://github.com/lightning/bolts/pull/1109)
-
 
 ## New Releases
 - [BDK 0.29.0](https://github.com/bitcoindevkit/bdk/releases/tag/v0.29.0)
