@@ -8,7 +8,7 @@ meetup: "https://www.meetup.com/bitdevsnyc/events/296435823/"
 ## Announcements
 Please join us for our next Socratic Seminar. A special thank you to our sponsors [CardCoins](https://cardcoins.co), [Chaincode Labs](https://chaincode.com) and [Wolf NYC](https://wolfnyc.com) for food, refreshments and event space.
 
-If you can't make it to the main event please join us at PUBKEY around 9:30PM. **Learn about this awesome new establishment [here](https://ny.eater.com/2022/12/13/23494423/pubkey-opening-manhattan-bitcoin-bar).**
+If you can't make it to the main event please join us at PUBKEY around 9:30PM. 
 
 ## Presentation
 - Dan Gould: Payjoin v2: Oblivious, Serverless, Asynchronous Batching
@@ -90,52 +90,24 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
-- [Bump python minimum supported version to 3.9](https://github.com/bitcoin/bitcoin/pull/28211)
 - [wallet: Reload watchonly and solvables wallets after migration](https://github.com/bitcoin/bitcoin/pull/28609)
-- [coinstats, assumeutxo: fix hash_serialized2 calculation](https://github.com/bitcoin/bitcoin/pull/28685)
-- [fuzz: Delete i2p fuzz test](https://github.com/bitcoin/bitcoin/pull/28692)
-- [I2P: also sleep after errors in Accept() & destroy the session if we get an unexpected error](https://github.com/bitcoin/bitcoin/pull/28077)
-- [Handle CJDNS from LookupSubNet()](https://github.com/bitcoin/bitcoin/pull/27071)
-- [test: Add Wallet Unlock Context Manager](https://github.com/bitcoin/bitcoin/pull/28617)
-- [test: assumeutxo file with unknown block hash](https://github.com/bitcoin/bitcoin/pull/28666)
 - [Make miniscript GetWitnessSize accurate for tapscript](https://github.com/bitcoin/bitcoin/pull/28651)
 - [assumeutxo: fail early if snapshot block hash doesn't match AssumeUTXO parameters](https://github.com/bitcoin/bitcoin/pull/28652)
 - [lib: add taproot support to libconsensus](https://github.com/bitcoin/bitcoin/pull/28539)
 - [Implement `CCoinsViewErrorCatcher::HaveCoin` and check disk space periodically](https://github.com/bitcoin/bitcoin/pull/26331)
 - [rpc: add hidden getrawaddrman RPC to list addrman table entries](https://github.com/bitcoin/bitcoin/pull/28523)
-- [devtools: test_utxo_snapshots.sh sleep cleanup and documentation](https://github.com/bitcoin/bitcoin/pull/28631)
-- [test: exempt previous release binaries from valgrind](https://github.com/bitcoin/bitcoin/pull/27228)
-- [test: BIP324: add check for detection of missing garbage terminator](https://github.com/bitcoin/bitcoin/pull/28634)
-- [ci: Install Qt's default Android API platform](https://github.com/bitcoin/bitcoin/pull/28633)
-- [test: check that loading snapshot not matching AssumeUTXO parameters fails](https://github.com/bitcoin/bitcoin/pull/28625)
 - [descriptors: Disallow hybrid and uncompressed keys when inferring](https://github.com/bitcoin/bitcoin/pull/28602)
-- [github actions: Fix test-one-commit when parent of head is merge commit](https://github.com/bitcoin/bitcoin/pull/28573)
-- [test: Use feerate higher than minrelay fee in wallet_fundraw](https://github.com/bitcoin/bitcoin/pull/28604)
 - [AssumeUTXO follow-ups](https://github.com/bitcoin/bitcoin/pull/28562)
 - [rpc: allow submitpackage to be called outside of regtest](https://github.com/bitcoin/bitcoin/pull/27609)
 - [BIP324 integration](https://github.com/bitcoin/bitcoin/pull/28331)
 - [assumeutxo (2)](https://github.com/bitcoin/bitcoin/pull/27596)
 - [MiniTapscript: port Miniscript to Tapscript](https://github.com/bitcoin/bitcoin/pull/27255)
-- [test: display abrupt shutdown errors in console output](https://github.com/bitcoin/bitcoin/pull/28253)
 - [descriptors: disallow hybrid public keys](https://github.com/bitcoin/bitcoin/pull/28587)
-- [test: Bump walletpassphrase timeouts to avoid intermittent issues](https://github.com/bitcoin/bitcoin/pull/28403)
-- [test: BIP324: add checks for v1 prefix matching / wrong network magic detection](https://github.com/bitcoin/bitcoin/pull/28588)
 - [Add headerssync tuning parameters optimization script to repo](https://github.com/bitcoin/bitcoin/pull/25970)
 - [net: raise V1_PREFIX_LEN from 12 to 16](https://github.com/bitcoin/bitcoin/pull/28577)
-- [ci: Only run functional tests on native windows in master](https://github.com/bitcoin/bitcoin/pull/28567)
-- [bench: Add SHA256 implementation specific benchmarks](https://github.com/bitcoin/bitcoin/pull/27598)
 - [http: bugfix: allow server shutdown in case of remote client disconnection](https://github.com/bitcoin/bitcoin/pull/28551)
-- [Remove Sock::Get() and Sock::Sock()](https://github.com/bitcoin/bitcoin/pull/26312)
-- [tests: add coverage to feature_addrman.py](https://github.com/bitcoin/bitcoin/pull/28176)
-- [Prevent default/invalid CKey objects from allocating secure memory](https://github.com/bitcoin/bitcoin/pull/28500)
-- [test: check for specific bip157 disconnect reasons, add test coverage](https://github.com/bitcoin/bitcoin/pull/28227)
-- [test: Avoid test failure on Linux root without cap-add LINUX_IMMUTABLE](https://github.com/bitcoin/bitcoin/pull/28545)
-- [test: add unit test coverage for Python ECDSA implementation](https://github.com/bitcoin/bitcoin/pull/27653)
-- [blockstorage: Return on fatal flush errors](https://github.com/bitcoin/bitcoin/pull/27866)
 - [net: Drop v2 garbage authentication packet](https://github.com/bitcoin/bitcoin/pull/28525)
-- [rpc: bumpfee, improve doc for 'reduce_output' arg](https://github.com/bitcoin/bitcoin/pull/28505)
 - [Add package evaluation fuzzer](https://github.com/bitcoin/bitcoin/pull/28450)
-- [refactor: Return CAutoFile from BlockManager::Open*File()](https://github.com/bitcoin/bitcoin/pull/28483)
 
 
 
