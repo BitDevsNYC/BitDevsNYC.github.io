@@ -194,7 +194,12 @@ Bitcoin Payments](https://robinlinus.com/bitstream.pdf)
 - [Block-dn](https://block-dn.org/)
 
 ## Events and Podcasts
+- [Bitcoin Explained Episode 85: Bitcoin Core 26.0 (And F2Pool’s OFAC Compliant Mining Policy)](https://podcasters.spotify.com/pod/show/bitcoin-explained/episodes/Episode-85-Bitcoin-Core-26-0-And-F2Pools-OFAC-Compliant-Mining-Policy-e2ca98p)
+- [BR054 - Cashu, Mutiny, ChatBTC, BitVM, Smart Vaults, lnbits + MORE ft. Carman, Calle & Rijndael](https://bitcoin.review/podcast/episode-54/)
+- [BR055 - Sparrow, SATSLINK, Vulnerability Hell (RPI, ESP32,26₿ gone)+MORE, Craig Raw, Odell, Rijndael](https://bitcoin.review/podcast/episode-55/)
 - [Lugano's Plan B](https://www.youtube.com/@luganoplanb9435/videos)
+- [SLP528 - Bitcoin Mining Decentralisation with Ocean - Bitcoin Mechanic](https://podcasters.spotify.com/pod/show/stephan-livera/episodes/Bitcoin-Mining-Decentralisation-with-Ocean---Bitcoin-Mechanic-SLP528-e2ci8gg)
+- [TLS125 - Christian Decker on Blockstream Greenlight, Custody on Lightning, and More](https://www.youtube.com/watch?v=G3fGnOtT19I)
 
 ## Mining
 - [Bhutan Built A Bitcoin Mine On The Site Of 
@@ -219,7 +224,7 @@ Its Failed ‘Education City’](https://www.forbes.com/sites/iainmartin/2023/11
 - [Lightning Terminal adds inbound liquidity reports](https://twitter.com/MichaelLevin/status/1727342588271980567)
 - [Opcodes Explained - encyclopedia of all current opcodes](https://opcodeexplained.com/)
 - [Payjoin for a Better Bitcoin Future](https://brandonlucas.net/articles/bitcoin/payjoin)
-- Spiral grants - [Will Clark](https://twitter.com/spiralbtc/status/1722668822115619151), [Ruben Somsen](https://twitter.com/spiralbtc/status/1727358293205721505), [WalletScrutiny](https://twitter.com/spiralbtc/status/1725245018997174349), and [ZeroSync](https://twitter.com/spiralbtc/status/1724842619589517677)
+- Spiral grants - [Will Clark](https://twitter.com/spiralbtc/status/1722668822115619151), [Ruben Somsen](https://twitter.com/spiralbtc/status/1727358293205721505), [WalletScrutiny](https://twitter.com/spiralbtc/status/1725245018997174349), [ZeroSync](https://twitter.com/spiralbtc/status/1724842619589517677), and [VLSProject](https://twitter.com/spiralbtc/status/1729904249989980205)
 - [Spoofing wallet fingerprints](https://gitlab.com/-/snippets/3611229)
 - [Stakwork 6.5MM bounty claimed by Steven Roose for BitVM script interpreter](https://twitter.com/stakwork/status/1722325849201053986?s=46)
 - [The Story Behind the Alternative Genesis Block of Bitcoin](https://serhack.me/articles/story-behind-alternative-genesis-block-bitcoin/)
