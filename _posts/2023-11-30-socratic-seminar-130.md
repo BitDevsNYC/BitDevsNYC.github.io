@@ -15,7 +15,7 @@ If you can't make it to the main event please join us at [PUBKEY](https://pubkey
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
-- [The Pinning &amp; Replacement Problem Set](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022111.html)=
+- [The Pinning &amp; Replacement Problem Set](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022111.html)
 - [Cold channels and PathCoin redux](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022123.html)
 - [Future of the bitcoin-dev mailing list](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022134.html)
 - [A proposal for a "PSBT for descriptors" format](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022184.html)
@@ -64,7 +64,7 @@ If you can't make it to the main event please join us at [PUBKEY](https://pubkey
 
 ## Network Data
 - [AntPool mines 83.7 BTC transaction fee](https://mempool.space/tx/b5a2af5845a8d3796308ff9840e567b14cf6bb158ff26c999e6f9a1f5448f9aa), [claimed by hack victim](https://twitter.com/mononautical/status/1728946778798793126)
-- [ANYONECANPAY|ALL usage increasing](https://twitter.com/darosior/status/1724460971094053223)
+- [ANYONECANPAY - ALL usage increasing](https://twitter.com/darosior/status/1724460971094053223)
 - [Bitcoin outstrips Ethereum in daily transaction fees for first time since 2020](https://cryptoslate.com/insights/bitcoin-outstrips-ethereum-in-daily-transaction-fees-for-first-time-since-2020/)
 - [BRC-20 "Bear" token driving congestion](https://twitter.com/mononautical/status/1723869210806190128)
 - [BRC-20 November fee data](https://twitter.com/mononautical/status/1726255251479789782)
