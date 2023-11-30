@@ -10,7 +10,7 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 If you can't make it to the main event please join us at [PUBKEY](https://pubkey.bar) around 9:30PM. 
 
-**Please note the addition of a new section, [Delving Bitcoin](https://delvingbitcoin.org). This forum has proven itself to draw high quality content and instigate meaningful discussions.** 
+**Please note the addition of a new section, [Delving Bitcoin](https://delvingbitcoin.org). This forum has proven itself as a watering hole for high quality content and meaningful discussions.** 
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
