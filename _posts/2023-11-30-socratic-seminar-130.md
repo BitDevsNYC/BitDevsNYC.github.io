@@ -190,8 +190,10 @@ Bitcoin Payments](https://robinlinus.com/bitstream.pdf)
 - [contractcourt: stop lnd when received witness is empty](https://github.com/lightningnetwork/lnd/pull/7811)
 
 ## New Releases
-- [BitEscrow](https://github.com/BitEscrow/escrow-core), [context](https://stacker.news/items/300057))
+- [BitEscrow](https://github.com/BitEscrow/escrow-core), [context](https://stacker.news/items/300057)
 - [Block-dn](https://block-dn.org/)
+- [Core Lightning v23.11](https://blog.blockstream.com/core-lightning-v23-11-bitcoin-orangepaper/)
+- [Zeus v0.8.0](https://blog.zeusln.com/zeus-v0-8-0-open-beta/)
 
 ## Events and Podcasts
 - [Bitcoin Explained Episode 85: Bitcoin Core 26.0 (And F2Pool’s OFAC Compliant Mining Policy)](https://podcasters.spotify.com/pod/show/bitcoin-explained/episodes/Episode-85-Bitcoin-Core-26-0-And-F2Pools-OFAC-Compliant-Mining-Policy-e2ca98p)
@@ -205,7 +207,7 @@ Bitcoin Payments](https://robinlinus.com/bitstream.pdf)
 - [Bhutan Built A Bitcoin Mine On The Site Of 
 Its Failed ‘Education City’](https://www.forbes.com/sites/iainmartin/2023/11/22/bhutan-secret-bitcoin-mine-locations/)
 - [Braiins Pool transitioning to FPPS](https://braiins.com/blog/goodbye-luck-hello-consistency-big-news-from-braiins-pool)
-- [New mining pool, DEMAND, will use Stratumv2](https://bitcoinmagazine.com/business/demand-launches-worlds-first-stratum-v2-bitcoin-mining-pool)
+- [New mining pool--DEMAND--will use Stratumv2](https://bitcoinmagazine.com/business/demand-launches-worlds-first-stratum-v2-bitcoin-mining-pool)
 - [Hot Slice - digital boiler powered by Bitcoin miners](https://twitter.com/mintgreenhq/status/1722403608983937176)
 - [Meet the MDK Hashboard](https://www.mining.build/meet-the-mdk-hashboard/)
 - [Nigerian Bitcoin Miner, Trojan Mining, Launch 500KW Hydro Mining Site](https://www.forbes.com/sites/digital-assets/2023/11/20/nigerian-bitcoin-miner-trojan-mining-launch-500kw-hydro-mining-site/)
@@ -214,7 +216,7 @@ Its Failed ‘Education City’](https://www.forbes.com/sites/iainmartin/2023/11
 ## Miscellaneous
 - [Apple Deactivates Zeus Developer Account Following Antitrust Lawsuit by Cash App & Venmo Users](https://www.nobsbitcoin.com/apple-deactivates-zeus-developer-account/)
 - [Before They Were Cool: Covenants in Production on Liquid](https://blog.blockstream.com/covenants-in-production-on-liquid/)
-- [Bitcoin Core's Development Priorities in 2023](https://yakihonne.com/article/naddr1qq24zd24x9xhqkpnt98rxdr4ge8ns533xcer2q3q6vzjeglr653mrmyqvu0trwaq29az753wr9th3hyrm5p63kz2zu8qxpqqqp65wzxcszp#user-content-fn-1))
+- [Bitcoin Core's Development Priorities in 2023](https://yakihonne.com/article/naddr1qq24zd24x9xhqkpnt98rxdr4ge8ns533xcer2q3q6vzjeglr653mrmyqvu0trwaq29az753wr9th3hyrm5p63kz2zu8qxpqqqp65wzxcszp#user-content-fn-1)
 - [Bitcoin Rollup research news aggregator](https://www.bitcoinrollups.io)
 - BitVM - [Primer](https://github.com/twhit223/bitvm_primer), [SHA256 function](https://twitter.com/super_testnet/status/1726772975544807913)
 - [BBQr](https://bbqr.org/)
