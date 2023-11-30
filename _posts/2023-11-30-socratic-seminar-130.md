@@ -381,4 +381,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 -
 
 ## Miscellaneous
--
+- [83 BTC fee paid with stolen funds](https://twitter.com/83_5BTC)
+- [Ocen Mining Pool launches](https://miningocean.org/)
+- [BitStream: Decentralized File Hosting Incentivised via Bitcoin Payments](https://robinlinus.com/bitstream.pdf)
+- [KeyBleed: more low-entropy wallet attacks](https://www.keybleed.com/)
