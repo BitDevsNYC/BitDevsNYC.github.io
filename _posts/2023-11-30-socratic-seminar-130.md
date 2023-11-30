@@ -12,34 +12,19 @@ If you can't make it to the main event please join us at [PUBKEY](https://pubkey
 
 **Please note the addition of a new section, [Delving Bitcoin](https://delvingbitcoin.org). This forum has proven itself to draw high quality content and instigate meaningful discussions.** 
 
-
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
-- [OP_Expire and Coinbase-Like Behavior: Making HTLCs Safer by Letting Transactions Expire Safely](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022108.html)
-- [The Pinning &amp; Replacement Problem Set](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022111.html)
-- [Should we as developers reject non-standard Taproot transactions from full nodes?](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022116.html)
-- [Bitcoin Core 26.0 release candidate 2 available](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022118.html)
-- [ossification and misaligned incentive concerns](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022119.html)
+- [The Pinning &amp; Replacement Problem Set](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022111.html)=
 - [Cold channels and PathCoin redux](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022123.html)
-- [a simple and easy-to-remember personalized mnemonic generation scheme](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022135.html)
 - [Future of the bitcoin-dev mailing list](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022134.html)
-- [bitcoin-dev Digest, Vol 102, Issue 15](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022145.html)
-- [Implementing Blake3 in Bitcoin Script](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022154.html)
-- [bitcoin-dev Digest, Vol 102, Issue 20](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022159.html)
-- [Purely off-chain coin colouring](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022176.html)
 - [A proposal for a "PSBT for descriptors" format](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022184.html)
-- [Bitcoin Core 26.0 release candidate 3 available](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022185.html)
-
+- [HTLC output aggregation as a mitigation for tx recycling, jamming, and on-chain efficiency (covenants)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-October/022093.html)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
-- [OP_Expire and Coinbase-Like Behavior: Making HTLCs Safer by Letting Transactions Expire Safely](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-November/004184.html)
-- [LN Summit 2024 Organization](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-November/004190.html)
-- [delvingbitcoin.org discourse forum](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-November/004197.html)
 - [Proposal: Bundled payments](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-November/004198.html)
 - [Lightning Address in a Bolt 12 world](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-November/004204.html)
 - [Liquidity Ads: Updated Spec Posted, please review](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-November/004217.html)
-- [HTLC output aggregation as a mitigation for tx recycling, jamming, and on-chain efficiency (covenants)](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-November/004218.html)
 - [Mailing List Future](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-November/004223.html)
 
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
@@ -48,7 +33,7 @@ If you can't make it to the main event please join us at [PUBKEY](https://pubkey
 - [Segwit Ephemeral Anchors](https://delvingbitcoin.org/t/segwit-ephemeral-anchors/160/1)
 - [Linearization post-processing (O(n^2) fancy chunking](https://delvingbitcoin.org/t/linearization-post-processing-o-n-2-fancy-chunking/201)
 - [Merging incomparable linearizations](https://delvingbitcoin.org/t/merging-incomparable-linearizations/209)
-- [Off Chain DLC Ticketing Systems](https://delvingbitcoin.org/t/off-chain-dlc-ticketing-systems/214), [original post](https://conduition.io/scriptless/lottery/), dlc-dev post](https://mailmanlists.org/pipermail/dlc-dev/2023-November/000182.html)
+- [Off Chain DLC Ticketing Systems](https://delvingbitcoin.org/t/off-chain-dlc-ticketing-systems/214), [original post](https://conduition.io/scriptless/lottery/), [dlc-dev](https://mailmanlists.org/pipermail/dlc-dev/2023-November/000182.html)
 - [Post-clustermempool package RBF: per-chunk processing](https://delvingbitcoin.org/t/post-clustermempool-package-rbf-per-chunk-processing/190)
 - [Timewarp, Miners Harvesting and Vaults](https://delvingbitcoin.org/t/timewarp-miners-harvesting-and-vaults/218)
 
@@ -64,15 +49,8 @@ If you can't make it to the main event please join us at [PUBKEY](https://pubkey
     - [November 16](https://www.erisian.com.au/bitcoin-core-dev/log-2023-11-16.html#l-167)
 
 - Lightning Specification meeting
-    - <!--- TODO replace: [December 5th](https://github.com/lightning/bolts/issues/1046) --->
-- Core Lightning Developer Call
-    - <!--- TODO replace: [September 20th](https://diyhpl.us/wiki/transcripts/c-lightning/2021-09-20-developer-call/) --->
-- dlc-specs meetings
-    - <!--- TODO replace: [October 5th](https://github.com/discreetlogcontracts/dlcspecs/pull/175) --->
-- Lightning specification meetings
-    - <!--- TODO replace: [October 11th](https://github.com/lightningnetwork/lightning-rfc/issues/920) --->
-- Bitcoin Contracting Primitives Working Group
-	- <!--- TODO replace: [April 18th](https://github.com/ariard/bitcoin-contracting-primitives-wg/blob/main/meetings/meetings-18-04.md) --->
+    - [November 6](https://github.com/lightning/bolts/issues/1116)
+    - [November 20](https://github.com/lightning/bolts/issues/1118)
 
 ### Optech
 - [Bitcoin Optech Newsletter #278](https://bitcoinops.org/en/newsletters/2023/11/22/)
@@ -182,7 +160,6 @@ Bitcoin Payments](https://robinlinus.com/bitstream.pdf)
 - [Extend the capability of `decode` RPC to decrypt the contents of emergency.recover file.](https://github.com/ElementsProject/lightning/pull/6773)
 - [lightningd: use CPFP on peer's commitment tx if we can't broadcast our own](https://github.com/ElementsProject/lightning/pull/6752)
 
-
 ### [eclair](https://github.com/ACINQ/eclair/)
 - [Add hints when features check fail](https://github.com/ACINQ/eclair/pull/2777)
 - [Add support for sciddir_or_pubkey](https://github.com/ACINQ/eclair/pull/2752)
@@ -242,7 +219,6 @@ Its Failed ‘Education City’](https://www.forbes.com/sites/iainmartin/2023/11
 - [Lightning Terminal adds inbound liquidity reports](https://twitter.com/MichaelLevin/status/1727342588271980567)
 - [Opcodes Explained - encyclopedia of all current opcodes](https://opcodeexplained.com/)
 - [Payjoin for a Better Bitcoin Future](https://brandonlucas.net/articles/bitcoin/payjoin)
-- [PathCoin](https://gist.github.com/AdamISZ/b462838cbc8cc06aae0c15610502e4da)
 - Spiral grants - [Will Clark](https://twitter.com/spiralbtc/status/1722668822115619151), [Ruben Somsen](https://twitter.com/spiralbtc/status/1727358293205721505), [WalletScrutiny](https://twitter.com/spiralbtc/status/1725245018997174349), and [ZeroSync](https://twitter.com/spiralbtc/status/1724842619589517677)
 - [Spoofing wallet fingerprints](https://gitlab.com/-/snippets/3611229)
 - [Stakwork 6.5MM bounty claimed by Steven Roose for BitVM script interpreter](https://twitter.com/stakwork/status/1722325849201053986?s=46)
