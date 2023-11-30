@@ -6,12 +6,12 @@ meetup: "https://www.meetup.com/bitdevsnyc/events/297099079/"
 ---
 
 ## Announcements
-Please join us for our next Socratic Seminar. A special thank you to our sponsors [CardCoins](https://cardcoins.co), [Chaincode Labs](https://chaincode.com) and [Wolf NYC](https://wolfnyc.com) for food, refreshments and event space.
+Please join us for our next Socratic Seminar. A special thank you to our sponsors [CardCoins](https://cardcoins.co), [Chaincode Labs](https://chaincode.com) and [Wolf NYC](https://wolfnyc.com) for food, refreshments and event space. 
 
-If you can't make it to the main event please join us at PUBKEY around 9:30PM. **Learn about this awesome new establishment [here](https://ny.eater.com/2022/12/13/23494423/pubkey-opening-manhattan-bitcoin-bar).**
+If you can't make it to the main event please join us at [PUBKEY](https://pubkey.bar) around 9:30PM. 
 
-## Presentation
--
+**Please note the addition of a new section, [Delving Bitcoin](https://delvingbitcoin.org). This forum has proven itself to draw high quality content and instigate meaningful discussions.** 
+
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
@@ -45,6 +45,15 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 #### [dlc-dev](https://mailmanlists.org/pipermail/dlc-dev)
 
+#### [Delving Bitcoin](https://delvingbitcoin.org/)
+- [Clustermempool definitions & theory](https://delvingbitcoin.org/t/clustermempool-definitions-theory/202)
+- [Cluster Mempool RBF Thoughts](https://delvingbitcoin.org/t/cluster-mempool-rbf-thoughts/156)
+- [Segwit Ephemeral Anchors](https://delvingbitcoin.org/t/segwit-ephemeral-anchors/160/1)
+- [Linearization post-processing (O(n^2) fancy chunking](https://delvingbitcoin.org/t/linearization-post-processing-o-n-2-fancy-chunking/201)
+- [Merging incomparable linearizations](https://delvingbitcoin.org/t/merging-incomparable-linearizations/209)
+- [Off Chain DLC Ticketing Systems](https://delvingbitcoin.org/t/off-chain-dlc-ticketing-systems/214)
+- [Post-clustermempool package RBF: per-chunk processing](https://delvingbitcoin.org/t/post-clustermempool-package-rbf-per-chunk-processing/190)
+- [Timewarp, Miners Harvesting and Vaults](https://delvingbitcoin.org/t/timewarp-miners-harvesting-and-vaults/218)
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
@@ -80,14 +89,43 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 
 ## Network Data
--
+- [AntPool mines 83.7 BTC transaction fee](https://mempool.space/tx/b5a2af5845a8d3796308ff9840e567b14cf6bb158ff26c999e6f9a1f5448f9aa), [claimed by hack victim](https://twitter.com/mononautical/status/1728946778798793126)
+- [ANYONECANPAY|ALL usage increasing](https://twitter.com/darosior/status/1724460971094053223)
+- [Bitcoin outstrips Ethereum in daily transaction fees for first time since 2020](https://cryptoslate.com/insights/bitcoin-outstrips-ethereum-in-daily-transaction-fees-for-first-time-since-2020/)
+- [BRC-20 "Bear" token driving congestion](https://twitter.com/mononautical/status/1723869210806190128)
+- [BRC-20 November fee data](https://twitter.com/mononautical/status/1726255251479789782)
+- [First mainnet transaction having a Blake3 hashlock implemented in Bitcoin script (BitVM opcode)](https://twitter.com/robin_linus/status/1721969594686926935)
+- [Increase in stale blocks](https://twitter.com/BitMEXResearch/status/1721498272232050968)
+- [More than 70% of all Bitcoin has not moved in over a year](https://twitter.com/w_s_bitcoin/status/1726296303712587842)
+- [Six OFAC-sanctioned transactions missing](https://b10c.me/observations/08-missing-sanctioned-transactions/), [context](https://www.nobsbitcoin.com/f2pool-disables-transaction-filtering-patch/)
+- [Wallet of Satoshi on pace to process over 1.1 million Lighting payments in November](https://twitter.com/kerooke/status/1727365023981240550)
 
 ## CVEs and Research
 ### Research
--
+- [BitStream: Decentralized File Hosting Incentivised via
+Bitcoin Payments](https://robinlinus.com/bitstream.pdf)
+- [CREATE2 used to bypass Ethereum wallet security alerts, $60m stolen in 6 months](https://drops.scamsniffer.io/post/wallet-drainers-starts-using-create2-bypass-wallet-security-alert/))
+- [Durabit - A Bitcoin-native Incentive Mechanism for Data Distribution](https://github.com/4de67a207019fd4d855ef0a188b4519c/Durabit/blob/main/Durabit%20-%20A%20Bitcoin-native%20Incentive%20Mechanism%20for%20Data%20Distribution.pdf)
+- [Heuristics for Detecting CoinJoin Transactions on the Bitcoin Blockchain](https://arxiv.org/abs/2311.12491v1)
+- [M&M'S: Mix and Match Attacks on Schnorr-type Blind Signatures with Repetition](https://eprint.iacr.org/2023/1588)
+- [On the (Not So) Surprising Impact of Multi-Path Payments on Performance and Privacy in the Lightning Network](https://eprint.iacr.org/2023/1624)
 
 ### InfoSec
--
+- [Armed Bitcoin Robberies Surge In Sweden Due to Open Data on Citizens](https://www.nobsbitcoin.com/wave-of-armed-robberies-sweden/)
+- [BitcoinJS flag leaves $1B in cryptocurrency exposed](https://twitter.com/bax1337/status/1724534339206033532)
+- [dYdX insurance fund drained of 9m in price manipulation attack](https://rekt.news/dydx-rekt/)
+- [Fraudsters make $50,000 a day by spoofing crypto researchers](https://www.bleepingcomputer.com/news/security/fraudsters-make-50-000-a-day-by-spoofing-crypto-researchers/)
+- [KANDYKORN malware targeting cryptocurrency engineers](https://www.elastic.co/security-labs/elastic-catches-dprk-passing-out-kandykorn)
+- [KeyBleed: more low-entropy wallet attacks](https://www.keybleed.com/)
+- [Kronos Research loses $26m](https://twitter.com/ResearchKronos/status/1726203102842466650)
+- [Kyberswap drained of over $48m](https://rekt.news/kyberswap-rekt/)
+- [MEV bot drianed of $2m](https://twitter.com/spreekaway/status/1722040126614761790)
+- [Onyx Protocol loses $2.1m in rounding-error exploit](https://twitter.com/al_onyxprotocol/status/1719698066020733063)
+- [Poloniex hacked for $126m](https://rekt.news/poloniex-rekt/)
+- [Postmortem of Monero CCS Hack: A Transaction Graph Analysis](https://moonstoneresearch.com/2023/11/03/Postmortem-of-Monero-CCS-Hack.html)
+- [Raft depegs in infinite mint exploit](https://rekt.news/raft-rekt/)
+- [Researchers extract RSA keys from SSH server signing errors](https://www.bleepingcomputer.com/news/security/researchers-extract-rsa-keys-from-ssh-server-signing-errors/)
+- [Stealing the Bitlocker key from a TPM](https://astralvx.com/stealing-the-bitlocker-key-from-a-tpm/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -372,16 +410,46 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 
 ## New Releases
--
+- [BitEscrow](https://github.com/BitEscrow/escrow-core), [context](https://stacker.news/items/300057))
+- [Block-dn](https://block-dn.org/)
 
 ## Events and Podcasts
--
+- [Lugano's Plan B](https://www.youtube.com/@luganoplanb9435/videos)
 
 ## Mining
--
+- [Bhutan Built A Bitcoin Mine On The Site Of 
+Its Failed ‘Education City’](https://www.forbes.com/sites/iainmartin/2023/11/22/bhutan-secret-bitcoin-mine-locations/)
+- [Braiins Pool transitioning to FPPS](https://braiins.com/blog/goodbye-luck-hello-consistency-big-news-from-braiins-pool)
+- [New mining pool, DEMAND, will use Stratumv2](https://bitcoinmagazine.com/business/demand-launches-worlds-first-stratum-v2-bitcoin-mining-pool)
+- [Hot Slice - digital boiler powered by Bitcoin miners](https://twitter.com/mintgreenhq/status/1722403608983937176)
+- [Meet the MDK Hashboard](https://www.mining.build/meet-the-mdk-hashboard/)
+- [Nigerian Bitcoin Miner, Trojan Mining, Launch 500KW Hydro Mining Site](https://www.forbes.com/sites/digital-assets/2023/11/20/nigerian-bitcoin-miner-trojan-mining-launch-500kw-hydro-mining-site/)
+- [Ocean announces itself as rebranded Eligius, will use Stratumv2](https://ocean.xyz/), [running Knots](https://twitter.com/reardencode/status/1730049406781866047)
 
 ## Miscellaneous
-- [83 BTC fee paid with stolen funds](https://twitter.com/83_5BTC)
-- [Ocen Mining Pool launches](https://miningocean.org/)
-- [BitStream: Decentralized File Hosting Incentivised via Bitcoin Payments](https://robinlinus.com/bitstream.pdf)
-- [KeyBleed: more low-entropy wallet attacks](https://www.keybleed.com/)
+- [A Provably Fair Off-Chain Lottery](https://conduition.io/scriptless/lottery/)
+- [Apple Deactivates Zeus Developer Account Following Antitrust Lawsuit by Cash App & Venmo Users](https://www.nobsbitcoin.com/apple-deactivates-zeus-developer-account/)
+- [Before They Were Cool: Covenants in Production on Liquid](https://blog.blockstream.com/covenants-in-production-on-liquid/)
+- [Bitcoin Core's Development Priorities in 2023](https://yakihonne.com/article/naddr1qq24zd24x9xhqkpnt98rxdr4ge8ns533xcer2q3q6vzjeglr653mrmyqvu0trwaq29az753wr9th3hyrm5p63kz2zu8qxpqqqp65wzxcszp#user-content-fn-1))
+- [Bitcoin Rollup research news aggregator](https://www.bitcoinrollups.io)
+- BitVM - [Primer](https://github.com/twhit223/bitvm_primer), [SHA256 function](https://twitter.com/super_testnet/status/1726772975544807913)
+- [BBQr](https://bbqr.org/)
+- [Deep dive into BitVM -Computing paradigm to express Turing-complete Bitcoin contracts-](https://medium.com/crypto-garage/deep-dive-into-bitvm-computing-paradigm-to-express-turing-complete-bitcoin-contracts-1c6cb05edfca)
+- [Exploring Bitcoin Miniscript with Liana and the BitBox02](https://bitbox.swiss/blog/exploring-bitcoin-miniscript-with-liana-and-the-bitbox02/)
+- [Lightning’s Future — A New Era of Interoperability with LSP Specs](https://medium.com/synonym-to/lightnings-future-a-new-era-of-interoperability-with-lsp-specs-0869fc062339)
+- [Lightning Terminal adds inbound liquidity reports](https://twitter.com/MichaelLevin/status/1727342588271980567)
+- [Opcodes Explained - encyclopedia of all current opcodes](https://opcodeexplained.com/)
+- [Payjoin for a Better Bitcoin Future](https://brandonlucas.net/articles/bitcoin/payjoin)
+- [PathCoin](https://gist.github.com/AdamISZ/b462838cbc8cc06aae0c15610502e4da)
+- Spiral grants - [Will Clark](https://twitter.com/spiralbtc/status/1722668822115619151), [Ruben Somsen](https://twitter.com/spiralbtc/status/1727358293205721505) and [WalletScrutiny](https://twitter.com/spiralbtc/status/1725245018997174349), [ZeroSync](https://twitter.com/spiralbtc/status/1724842619589517677)
+- [Spoofing wallet fingerprints](https://gitlab.com/-/snippets/3611229)
+- [Stakwork 6.5MM bounty claimed by Steven Roose for BitVM script interpreter](https://twitter.com/stakwork/status/1722325849201053986?s=46)
+- [The Story Behind the Alternative Genesis Block of Bitcoin](https://serhack.me/articles/story-behind-alternative-genesis-block-bitcoin/)
+- [Timeout Trees: A Solution To Scaling Lightning Network LSPs](https://bitcoinmagazine.com/technical/timeout-trees-a-solution-to-scaling-lightning-network-lsps)
+- [The Stable is the Aesthetic](https://rodarmor.com/blog/the-stable-is-the-aesthetic/)
+- [They Cracked the Code to a Locked USB Drive Worth $235 Million in Bitcoin. Then It Got Weird](https://www.wired.com/story/unciphered-ironkey-password-cracking-bitcoin/)
+- [This Month in Bitcoin Privacy](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/October_2023/#project-atlas)
+- [Tor Project removes relays because of for-profit, risky activity](https://www.bleepingcomputer.com/news/security/tor-project-removes-relays-because-of-for-profit-risky-activity/)
+- [Treasury Sanctions Mixer Used by the DPRK to Launder Stolen Virtual Currency](https://home.treasury.gov/news/press-releases/jy1933)
+- [Wallet of Satoshi stops service US customers](https://nostr.com/note1cu575mfy2xdakh9aklhghhn8vmluwkh79anrh09vmexgw5m3tyrq2edm2z)
+- [Why mempool.space block templates are not matching production blocks](https://twitter.com/mononautical/status/1719829869582749839)
