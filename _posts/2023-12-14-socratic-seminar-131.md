@@ -6,12 +6,14 @@ meetup: "https://www.meetup.com/bitdevsnyc/events/297823600/"
 ---
 
 ## Announcements
-Please join us for our next Socratic Seminar. A special thank you to our sponsors [CardCoins](https://cardcoins.co), [Chaincode Labs](https://chaincode.com) and [Wolf NYC](https://wolfnyc.com) for food, refreshments and event space.
+Please join us for our next Socratic Seminar. A special thank you to our sponsors [CardCoins](https://cardcoins.co), [Chaincode Labs](https://chaincode.com) and [Wolf NYC](https://wolfnyc.com) for food, refreshments and event space. If you can't make it to the main event please join us at PUBKEY around 9:30PM. 
 
-If you can't make it to the main event please join us at PUBKEY around 9:30PM. **Learn about this awesome new establishment [here](https://ny.eater.com/2022/12/13/23494423/pubkey-opening-manhattan-bitcoin-bar).**
+Please note the addition of a new section, [Delving Bitcoin](https://delvingbitcoin.org/). This forum has proven itself as a watering hole for high quality content and meaningful discussions.
+
+### **START YOUR CAREER IN BITCOIN FOSS @ Chaincode Labs: [APPLY NOW](https://learning.chaincode.com/#FOSS)**
 
 ## Presentation
--
+- [Pieter Wuille](https://github.com/lightning/bolts/issues/1122) - Cluster Mempool
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
@@ -20,14 +22,9 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Altruistic Rebroadcasting - A Partial Replacement Cycling Mitigation](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-December/022188.html)
 - [bip-0127 "Simple Proof-of-Reserves Transactions"](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-December/022190.html)
 
-
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 - [Liquidity Ads and griefing subtleties](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-December/004227.html)
 - [The remote anchor of anchor channels is redundant](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-December/004246.html)
-
-
-#### [dlc-dev](https://mailmanlists.org/pipermail/dlc-dev)
-
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
@@ -39,15 +36,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
     - [December 7](https://www.erisian.com.au/bitcoin-core-dev/log-2023-12-07.html#l-144)
 
 - Lightning Specification meeting
-    - <!--- TODO replace: [December 5th](https://github.com/lightning/bolts/issues/1046) --->
-- Core Lightning Developer Call
-    - <!--- TODO replace: [September 20th](https://diyhpl.us/wiki/transcripts/c-lightning/2021-09-20-developer-call/) --->
-- dlc-specs meetings
-    - <!--- TODO replace: [October 5th](https://github.com/discreetlogcontracts/dlcspecs/pull/175) --->
-- Lightning specification meetings
-    - <!--- TODO replace: [October 11th](https://github.com/lightningnetwork/lightning-rfc/issues/920) --->
-- Bitcoin Contracting Primitives Working Group
-	- <!--- TODO replace: [April 18th](https://github.com/ariard/bitcoin-contracting-primitives-wg/blob/main/meetings/meetings-18-04.md) --->
+    - [December 4](https://github.com/lightning/bolts/issues/1122)
 
 ### Optech
 - [Bitcoin Optech Newsletter #281](https://bitcoinops.org/en/newsletters/2023/12/13/)
@@ -55,16 +44,32 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Bitcoin Optech Newsletter #280 Recap Podcast](https://bitcoinops.org/en/podcast/2023/12/07/)
 - [Bitcoin Optech Newsletter #279 Recap Podcast](https://bitcoinops.org/en/podcast/2023/11/30/)
 
-
 ## Network Data
--
+- [Atomicals inscriptions filling mempool](https://twitter.com/mononautical/status/1730422865164705982)
+- [Ethereum "builder" OFAC censorship reaches 80%](http://censorship.pics/)
+- [Ocean finds their first block](https://twitter.com/mononautical/status/1730493025221292219)
+	- [Coin Age prioritization](https://twitter.com/LukeDashjr/status/1731352141359419827), [not including inscriptions](https://twitter.com/mononautical/status/1732230375509004622), [txs with op_return data >40 bytes being filtered, including whirlpool](https://twitter.com/SamouraiWallet/status/1732584011803852983)
+- [Ordinal-style PSBT trades are currently using almost as much blockspace as fresh inscriptions.](https://twitter.com/mononautical/status/1734999756789739949)
+- [ordpool.space](https://ordpool.space/mempool-block/0)
+- [Runes (op_return) adoption increasing](https://twitter.com/mononautical/status/1732224537230741562)
+- [Significant portion of hashrate sending funds to custodian?](https://twitter.com/mononautical/status/1731467093860819137)
+- [State of the Network’s Q4 2023 Mining Data Special](https://coinmetrics.substack.com/p/state-of-the-network-issue-237#new_tab)
 
 ## CVEs and Research
 ### Research
--
+- [BNS: A Detection System to Find Nodes in the Bitcoin Network](https://www.mdpi.com/2227-7390/11/24/4885)
+- [Cache Side-Channel Attacks Through Electromagnetic Emanations of DRAM Accesses](https://eprint.iacr.org/2023/1864)
+- [Crystal: Enhancing Blockchain Mining Transparency with Quorum Certificate](https://arxiv.org/abs/2312.00741v1)
+- [Demystifying DeFi MEV Activities in Flashbots Bundle](https://eprint.iacr.org/2023/1855)
+- [Less Is More: Understanding Network Bias in Proof-of-Work Blockchains ](https://www.mdpi.com/2227-7390/11/23/4741)
+- [Multi-Signatures for Ad-hoc and Privacy-Preserving Group Signing](https://eprint.iacr.org/2023/1884)
+- [Optimizing Closed Payment Networks on the Lightning Network: Dual Central Node Approach](https://arxiv.org/pdf/2312.03920v1.pdf)
+- [RACED: Routing in Payment Channel Networks Using Distributed Hash Tables](https://arxiv.org/abs/2311.17668v1)
+- [Trade-off of Security, Latency, and Throughput of the Nakamoto Consensus](https://arxiv.org/abs/2312.05506v1)
+- [Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolic Fuzzing](https://arxiv.org/abs/2312.02642v1)
 
 ### InfoSec
--
+- [SLAM: Spectre based on Linear Address Masking](https://www.vusec.net/projects/slam/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -120,15 +125,12 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [ci: Reduce use of bash -c](https://github.com/bitcoin/bitcoin/pull/28954)
 - [guix: switch from `guix environment` to `guix shell`](https://github.com/bitcoin/bitcoin/pull/26077)
 
-
 ### [BDK](https://github.com/bitcoindevkit/bdk)
 - [Bump MSRV to 1.63.0](https://github.com/bitcoindevkit/bdk/pull/1183)
 - [doc(bdk): Clarify the absolute_fee docs](https://github.com/bitcoindevkit/bdk/pull/1158)
 - [build(esplora): Add async-https-rustls flag to esplora client](https://github.com/bitcoindevkit/bdk/pull/1179)
 
-
 ### [HWI](https://github.com/bitcoin-core/HWI)
-
 
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 - [Improve the `io` crate](https://github.com/rust-bitcoin/rust-bitcoin/pull/2264)
@@ -156,7 +158,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Introduce usage of TBD instead of NEXT-RELEASE](https://github.com/rust-bitcoin/rust-bitcoin/pull/2243)
 - [Inline io module in the io crate root](https://github.com/rust-bitcoin/rust-bitcoin/pull/2234)
 
-
 ### [libsecp](https://github.com/bitcoin-core/secp256k1)
 - [doc: improve secp256k1_fe_set_b32_mod doc](https://github.com/bitcoin-core/secp256k1/pull/1455)
 - [Add comment on length checks when parsing ECDSA sigs](https://github.com/bitcoin-core/secp256k1/pull/990)
@@ -165,13 +166,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Add group.h ge/gej equality functions](https://github.com/bitcoin-core/secp256k1/pull/1450)
 - [field: Remove x86_64 asm ](https://github.com/bitcoin-core/secp256k1/pull/1446)
 - [Implement new policy for VERIFY_CHECK and #ifdef VERIFY (issue #1381)](https://github.com/bitcoin-core/secp256k1/pull/1393)
-
-
-### [secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp)
-
-
-### [dlcspecs](https://github.com/discreetlogcontracts/dlcspecs)
-
 
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
 - [Implement `is_some` for `cln_rpc::options::Value`](https://github.com/ElementsProject/lightning/pull/6894)
@@ -185,16 +179,13 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [startup_regtest.sh: updates + improvements](https://github.com/ElementsProject/lightning/pull/6898)
 - [chore(CI): Increase the timeout to publish to test.pypi.org](https://github.com/ElementsProject/lightning/pull/6911)
 
-
 ### [eclair](https://github.com/ACINQ/eclair/)
 - [Dip into remote initiator reserve only for splices](https://github.com/ACINQ/eclair/pull/2797)
 - [Update logback-classic to 1.2.13](https://github.com/ACINQ/eclair/pull/2796)
 - [Use bitcoinheaders.net v2 format](https://github.com/ACINQ/eclair/pull/2787)
 - [Add a txOut field to our InteractiveTxBuilder.Input interface](https://github.com/ACINQ/eclair/pull/2791)
 
-
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
-
 
 ### [lnd](https://github.com/lightningnetwork/lnd)
 - [tlv: add new RecordT[T] utility type](https://github.com/lightningnetwork/lnd/pull/8121)
@@ -209,24 +200,16 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [routing: launch fetchFundingTx in goroutine so router can exit](https://github.com/lightningnetwork/lnd/pull/8151)
 - [routerrpc: optionally return the new payment status](https://github.com/lightningnetwork/lnd/pull/8177)
 
-
-### [BIPs](https://github.com/bitcoin/bips)
-
-
-### [BLIPs](https://github.com/lightning/blips)
-
-
-### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
-
-
-## New Releases
--
-
-## Events and Podcasts
--
-
-## Mining
--
-
 ## Miscellaneous
--
+- [Ark Developer Docs](https://arkdev.info/)
+- [Bitcoin Time Locks](https://blog.bitmex.com/bitcoin-time-locks/)
+- [Challenges with Estimating Transaction Fee Rates](https://hackmd.io/@kEyqkad6QderjWKtcBF5Hg/cChallengies-with-estimating-transaction-fees)
+- [Comparing the Lightning Network to validia chains and validity rollups](https://lightco.in/2023/12/13/lightning-validia-rollups/)
+- [Libre Relay](https://twitter.com/peterktodd/status/1732629820536741913)
+- [Package aware fee estimation](https://hackmd.io/@kEyqkad6QderjWKtcBF5Hg/rkYar2nNa)
+- [Perl Advent Calendar: Santa tackles Bitcoin, part one](https://perladvent.org/2023/2023-12-02.html)
+- [Review Technical Bitcoin Transcripts and Earn Sats](https://review.btctranscripts.com/)
+- [Spiral renews grant for Johannes Hoffman](https://twitter.com/spiralbtc/status/1730255124897890559)
+- [STARK proof for BitVM circuit execution](https://github.com/neocarmack/STARK/blob/main/STARK%20proof%20for%20BitVM%20circuit%20execution.pdf)
+- [Stratumv2 DEMAND POOL solo mining instructions](https://twitter.com/bitentrepreneur/status/1730350206317703648)
+- [TABConf 2024 Announced](https://twitter.com/tabconf/status/1722057400742466044)
