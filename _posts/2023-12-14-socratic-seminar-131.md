@@ -6,11 +6,12 @@ meetup: "https://www.meetup.com/bitdevsnyc/events/297823600/"
 ---
 
 ## Announcements
+### **START YOUR CAREER IN BITCOIN FOSS @ Chaincode Labs: [APPLY NOW](https://learning.chaincode.com/#FOSS)**
+
 Please join us for our next Socratic Seminar. A special thank you to our sponsors [CardCoins](https://cardcoins.co), [Chaincode Labs](https://chaincode.com) and [Wolf NYC](https://wolfnyc.com) for food, refreshments and event space. If you can't make it to the main event please join us at PUBKEY around 9:30PM. 
 
 Please note the addition of a new section, [Delving Bitcoin](https://delvingbitcoin.org/). This forum has proven itself as a watering hole for high quality content and meaningful discussions.
 
-### **START YOUR CAREER IN BITCOIN FOSS @ Chaincode Labs: [APPLY NOW](https://learning.chaincode.com/#FOSS)**
 
 ## Presentation
 - [Pieter Wuille](https://github.com/lightning/bolts/issues/1122) - Cluster Mempool
@@ -91,47 +92,38 @@ Please note the addition of a new section, [Delving Bitcoin](https://delvingbitc
 - [Fix: TxOut::minimal_non_dust and Script::dust_value](https://github.com/rust-bitcoin/rust-bitcoin/pull/2255)
 
 ### [libsecp](https://github.com/bitcoin-core/secp256k1)
-- [doc: improve secp256k1_fe_set_b32_mod doc](https://github.com/bitcoin-core/secp256k1/pull/1455)
-- [Add comment on length checks when parsing ECDSA sigs](https://github.com/bitcoin-core/secp256k1/pull/990)
 - [Add CONTRIBUTING.md](https://github.com/bitcoin-core/secp256k1/pull/1431)
-- [changelog: add entry for "field: Remove x86_64 asm"](https://github.com/bitcoin-core/secp256k1/pull/1451)
-- [Add group.h ge/gej equality functions](https://github.com/bitcoin-core/secp256k1/pull/1450)
 - [field: Remove x86_64 asm ](https://github.com/bitcoin-core/secp256k1/pull/1446)
-- [Implement new policy for VERIFY_CHECK and #ifdef VERIFY (issue #1381)](https://github.com/bitcoin-core/secp256k1/pull/1393)
 
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
 - [Implement `is_some` for `cln_rpc::options::Value`](https://github.com/ElementsProject/lightning/pull/6894)
-- [Doc fix invoice payment hook and notification](https://github.com/ElementsProject/lightning/pull/6925)
-- [docker: Creating docker `latest` image](https://github.com/ElementsProject/lightning/pull/6921)
-- [subd: Do not send feerate updates to non-channeld subds](https://github.com/ElementsProject/lightning/pull/6937)
-- [misc: Add Alex's gpg key](https://github.com/ElementsProject/lightning/pull/6908)
-- [misc: Add Shahana's gpg key](https://github.com/ElementsProject/lightning/pull/6907)
-- [startup_regtest: configure clnrest and generate rune](https://github.com/ElementsProject/lightning/pull/6860)
 - [coin_mvt: use the `lightning_hrp` for *all* coin movement currency](https://github.com/ElementsProject/lightning/pull/6888)
-- [startup_regtest.sh: updates + improvements](https://github.com/ElementsProject/lightning/pull/6898)
-- [chore(CI): Increase the timeout to publish to test.pypi.org](https://github.com/ElementsProject/lightning/pull/6911)
 
 ### [eclair](https://github.com/ACINQ/eclair/)
 - [Dip into remote initiator reserve only for splices](https://github.com/ACINQ/eclair/pull/2797)
-- [Update logback-classic to 1.2.13](https://github.com/ACINQ/eclair/pull/2796)
-- [Use bitcoinheaders.net v2 format](https://github.com/ACINQ/eclair/pull/2787)
 - [Add a txOut field to our InteractiveTxBuilder.Input interface](https://github.com/ACINQ/eclair/pull/2791)
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
+- [Direct connect for OnionMessage sending](https://github.com/lightningdevkit/rust-lightning/pull/2723)
+- [Route blinding: support forwarding as the intro node](https://github.com/lightningdevkit/rust-lightning/pull/2540)
+- [Support receiving to multi-hop blinded paths](https://github.com/lightningdevkit/rust-lightning/pull/2688)
+- [Refactor commitment broadcast to always go through OnchainTxHandler](https://github.com/lightningdevkit/rust-lightning/pull/2703)
+- [Provide inbound HTLC preimages to the EcdsaChannelSigner](https://github.com/lightningdevkit/rust-lightning/pull/2753)
 
 ### [lnd](https://github.com/lightningnetwork/lnd)
 - [tlv: add new RecordT[T] utility type](https://github.com/lightningnetwork/lnd/pull/8121)
 - [neutrino remove sweeptx](https://github.com/lightningnetwork/lnd/pull/7800)
 - [multi: query chan update timestamps](https://github.com/lightningnetwork/lnd/pull/8030)
 - [rpc: add gettx command to walletrpc](https://github.com/lightningnetwork/lnd/pull/7654)
-- [build: bump to fn/v1.0.0](https://github.com/lightningnetwork/lnd/pull/8266)
-- [fn: create new sub-module](https://github.com/lightningnetwork/lnd/pull/8259)
-- [wtclient: Tower Client Multiplexer](https://github.com/lightningnetwork/lnd/pull/7702)
-- [Fix amount field](https://github.com/lightningnetwork/lnd/pull/8097)
-- [gomod: update `btcwallet` version](https://github.com/lightningnetwork/lnd/pull/8232)
 - [routing: launch fetchFundingTx in goroutine so router can exit](https://github.com/lightningnetwork/lnd/pull/8151)
-- [routerrpc: optionally return the new payment status](https://github.com/lightningnetwork/lnd/pull/8177)
 
+### New Releases
+- [Bitcoin Core v26.0](https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-26.0.md)
+
+## Events and Podcasts
+- [Bitcoin Explained 086 - Ocean Tides](https://podcasters.spotify.com/pod/show/bitcoin-explained/episodes/Episode-86-Ocean-Tides-e2cspnp)
+- [SLP531 How Many People Can Use Lightning? with Severin Bühler](https://stephanlivera.com/episode/531/)
+  
 ## Miscellaneous
 - [Ark Developer Docs](https://arkdev.info/)
 - [Bitcoin Time Locks](https://blog.bitmex.com/bitcoin-time-locks/)
