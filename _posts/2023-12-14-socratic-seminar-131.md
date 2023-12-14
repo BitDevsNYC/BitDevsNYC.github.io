@@ -26,6 +26,15 @@ Please note the addition of a new section, [Delving Bitcoin](https://delvingbitc
 - [Liquidity Ads and griefing subtleties](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-December/004227.html)
 - [The remote anchor of anchor channels is redundant](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-December/004246.html)
 
+#### [Delving Bitcoin](https://delvingbitcoin.org/)
+- [Warnet Simulations](https://delvingbitcoin.org/t/warnet-simulations/232)
+- [LN OM-mixer services](https://delvingbitcoin.org/t/ln-om-mixer-services/228/1)
+- [Lamport signatures and other CAT tricks](https://delvingbitcoin.org/t/lamport-signatures-and-other-cat-tricks/236)
+- [Quick peer gossip catchup protocol](https://delvingbitcoin.org/t/quick-peer-gossip-catchup-protocol/251/1)
+- [Liquidity griefing in multi-party transaction protocols](https://delvingbitcoin.org/t/liquidity-griefing-in-multi-party-transaction-protocols/264)
+- [GutterGuard and CoinGrinder Simulation results](https://delvingbitcoin.org/t/gutterguard-and-coingrinder-simulation-results/279)
+- [A High-Privacy Key-Value Store](https://delvingbitcoin.org/t/a-high-privacy-key-value-store/253/1)
+
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
     - [#28690 Introduce internal kernel library](https://bitcoincore.reviews/28690)
