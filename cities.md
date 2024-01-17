@@ -22,6 +22,7 @@ As a disclaimer, BitDevs NYC has no official associations with or oversight of t
 - [Honolulu](http://www.honolulubitdevs.com/)
 - [London](https://londonbitdevs.org/)
 - [Los Angeles](https://bitdevsla.org/)
+- [Louisville](https://loubitdevs.org/)
 - [Miami](https://miamibitdevs.org/)
 - [Minneapolis](https://bitdevsmpls.org)
 - [Norfolk](https://norfolkbitdevs.org/)
