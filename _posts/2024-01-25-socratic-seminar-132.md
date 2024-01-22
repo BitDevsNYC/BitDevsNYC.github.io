@@ -44,6 +44,8 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
+- [B'SST: Bitcoin-like Script Symbolic Tracer v0.1.2 released](https://delvingbitcoin.org/t/bsst-bitcoin-like-script-symbolic-tracer-v0-1-2-released)
+- [Disclosure: Btcd consensus bugs due to usage of signed transaction version](https://delvingbitcoin.org/t/disclosure-btcd-consensus-bugs-due-to-usage-of-signed-transaction-version)
 - [Games in the head (and fraud proofs for the plebs)](https://delvingbitcoin.org/t/games-in-the-head-and-fraud-proofs-for-the-plebs)
 - [BIPBounty.org is Open for Your BIPs](https://delvingbitcoin.org/t/bipbounty-org-is-open-for-your-bips)
 - [OP_CHECKSIGFROMSTACKVERIFY ECDSA useful?](https://delvingbitcoin.org/t/op-checksigfromstackverify-ecdsa-useful)
@@ -62,8 +64,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [On consensus changes in bitcoin 2024](https://delvingbitcoin.org/t/on-consensus-changes-in-bitcoin-2024)
 - [[BUG]: spammers get Bitcoin blockspace at discounted price. Let's fix it](https://delvingbitcoin.org/t/bug-spammers-get-bitcoin-blockspace-at-discounted-price-lets-fix-it)
 - [Lampo v23.12-beta.1 aka Santa Claus lives in Area 51](https://delvingbitcoin.org/t/lampo-v23-12-beta-1-aka-santa-claus-lives-in-area-51)
-- [Denial-of-service bugs in LND's channel update gossip handling](https://delvingbitcoin.org/t/denial-of-service-bugs-in-lnds-channel-update-gossip-handling)
-- [Verification of RISC-V execution using OP_CCV](https://delvingbitcoin.org/t/verification-of-risc-v-execution-using-op-ccv)
 - [Package aware Fee estimator post cluster mempool](https://delvingbitcoin.org/t/package-aware-fee-estimator-post-cluster-mempool)
 - [Unspendable keys in descriptors](https://delvingbitcoin.org/t/unspendable-keys-in-descriptors)
 - [How to linearize your cluster](https://delvingbitcoin.org/t/how-to-linearize-your-cluster)
@@ -103,6 +103,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Bitcoin Optech Newsletter #285 Recap Podcast](https://bitcoinops.org/en/podcast/2024/01/18/)
 - [Bitcoin Optech Newsletter #284 Recap Podcast](https://bitcoinops.org/en/podcast/2024/01/11/)
 - [Bitcoin Optech Newsletter #283 Recap Podcast](https://bitcoinops.org/en/podcast/2024/01/04/)
+- [Bitcoin Optech Newsletter #282: 2023 Year-in-Review Special Recap Podcast](https://bitcoinops.org/en/podcast/2023/12/21/)
 - [Bitcoin Optech Newsletter #281 Recap Podcast](https://bitcoinops.org/en/podcast/2023/12/14/)
 
 
@@ -118,6 +119,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
+- [refactor: remove CTxMemPool::queryHashes()](https://github.com/bitcoin/bitcoin/pull/29260)
 - [depends: add NM output to gen_id](https://github.com/bitcoin/bitcoin/pull/29249)
 - [rpc: Fix race in loadtxoutset](https://github.com/bitcoin/bitcoin/pull/29262)
 - [test: Remove all-lint.py script](https://github.com/bitcoin/bitcoin/pull/29228)
@@ -196,6 +198,10 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 
 ### [BDK](https://github.com/bitcoindevkit/bdk)
+- [fix(readme): update examples](https://github.com/bitcoindevkit/bdk/pull/1277)
+- [doc(electrum_ext): fix docs for `RelevantTxids::into_confirmation_tim…](https://github.com/bitcoindevkit/bdk/pull/1289)
+- [doc(chain,esplora): minor documentation improvements](https://github.com/bitcoindevkit/bdk/pull/1291)
+- [doc(esplora): fix broken link in README](https://github.com/bitcoindevkit/bdk/pull/1288)
 - [doc(wallet): improve docs for `Wallet::sent_and_received`](https://github.com/bitcoindevkit/bdk/pull/1285)
 - [fix(store): Remove lifetime](https://github.com/bitcoindevkit/bdk/pull/1292)
 - [Introduce block-by-block API to `bdk::Wallet` and add RPC wallet example](https://github.com/bitcoindevkit/bdk/pull/1172)
@@ -229,6 +235,9 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
+- [Add automated labeler job](https://github.com/rust-bitcoin/rust-bitcoin/pull/2365)
+- [Bump actions/cache from 3 to 4](https://github.com/rust-bitcoin/rust-bitcoin/pull/2378)
+- [Add convenience constants to `Denomination`](https://github.com/rust-bitcoin/rust-bitcoin/pull/2268)
 - [Test: add invalid segwit transaction test](https://github.com/rust-bitcoin/rust-bitcoin/pull/2364)
 - [Add github action for llvm-cov coverage](https://github.com/rust-bitcoin/rust-bitcoin/pull/2361)
 - [Remove quadratic algorithm](https://github.com/rust-bitcoin/rust-bitcoin/pull/2358)
@@ -293,6 +302,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
+- [Refactor renepay](https://github.com/ElementsProject/lightning/pull/6879)
 - [rs: Remove breaking log test](https://github.com/ElementsProject/lightning/pull/6997)
 - [hsmd: Implement hsmd_forget_channel for Channel Deletion in HSMD](https://github.com/ElementsProject/lightning/pull/6988)
 - [py: Publish pyln-grpc-proto following new methods](https://github.com/ElementsProject/lightning/pull/6878)
@@ -343,9 +353,44 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
+- [Change v0.0.120 release name](https://github.com/lightningdevkit/rust-lightning/pull/2835)
+- [Cut 0.0.120](https://github.com/lightningdevkit/rust-lightning/pull/2834)
+- [Avoid retrying over previously failed blinded paths](https://github.com/lightningdevkit/rust-lightning/pull/2818)
+- [Move cryptographic algorithms and utilities to a new `crypto` mod](https://github.com/lightningdevkit/rust-lightning/pull/2828)
+- [Use consistent `cltv_expiry_delta` in `ForwardTlvs`](https://github.com/lightningdevkit/rust-lightning/pull/2831)
+- [Fix lightning-net-tokio sometimes dropping messages](https://github.com/lightningdevkit/rust-lightning/pull/2832)
+- [Complete route blinding support](https://github.com/lightningdevkit/rust-lightning/pull/2812)
+- [Fix typos](https://github.com/lightningdevkit/rust-lightning/pull/2824)
+- [Add channel funding txo to Channel Event::ChannelClosed](https://github.com/lightningdevkit/rust-lightning/pull/2800)
+- [Drop `PeerManager` type bound on `UtxoLookup` entirely](https://github.com/lightningdevkit/rust-lightning/pull/2822)
+- [#2128 follow-ups](https://github.com/lightningdevkit/rust-lightning/pull/2801)
+- [Test individual monitor update compl in chanmon_consistency fuzzer](https://github.com/lightningdevkit/rust-lightning/pull/2820)
+- [Expose `onion_message` items directly rather than via re-exports](https://github.com/lightningdevkit/rust-lightning/pull/2821)
+- [Follow-ups to #2688](https://github.com/lightningdevkit/rust-lightning/pull/2791)
+- [Clean Up Funding Error Handling and shutdown](https://github.com/lightningdevkit/rust-lightning/pull/2809)
+- [Doc and style followups from #2675](https://github.com/lightningdevkit/rust-lightning/pull/2748)
+- [Log the errors before we return them from ChannelManager::do_accept_inbound_channel ](https://github.com/lightningdevkit/rust-lightning/pull/2807)
+- [Feature-gate `time` use also in `ElectrumSyncClient`](https://github.com/lightningdevkit/rust-lightning/pull/2817)
+- [Move `CandidateRouteHop` enum variant fields into structs](https://github.com/lightningdevkit/rust-lightning/pull/2802)
+- [Fix various issues found in `full_stack_target` fuzzing](https://github.com/lightningdevkit/rust-lightning/pull/2808)
+- [Don't call system time in no-std](https://github.com/lightningdevkit/rust-lightning/pull/2799)
+- [Deny warnings in CI](https://github.com/lightningdevkit/rust-lightning/pull/2788)
+- [Cut 0.0.119](https://github.com/lightningdevkit/rust-lightning/pull/2794)
+- [Small API cleanups pre-0.0.119](https://github.com/lightningdevkit/rust-lightning/pull/2798)
+- [ Move channel -> peer tracking to OutPoints from Channel IDs](https://github.com/lightningdevkit/rust-lightning/pull/2795)
+- [Multi-hop `BlindedPath` creation interface](https://github.com/lightningdevkit/rust-lightning/pull/2781)
+- [Stop decaying liquidity information during scoring](https://github.com/lightningdevkit/rust-lightning/pull/2656)
+- [Fixes bug that causes incorrect conversion of JsonValue to Txid.](https://github.com/lightningdevkit/rust-lightning/pull/2796)
+- [Stop cleaning monitor updates on new block connect](https://github.com/lightningdevkit/rust-lightning/pull/2779)
+- [cfg-gate async signing logic](https://github.com/lightningdevkit/rust-lightning/pull/2792)
 
 
 ### [lnd](https://github.com/lightningnetwork/lnd)
+- [Fix case where Opening Channels get stuck forever.](https://github.com/lightningnetwork/lnd/pull/8406)
+- [Makefile: add `make help` command that describes goals](https://github.com/lightningnetwork/lnd/pull/8411)
+- [docs: add template for 0.17.4](https://github.com/lightningnetwork/lnd/pull/8413)
+- [fix: fix typo "(cltv_expiry" to "(cltv_expiry)" in `channeldb/channel.go` [skip ci]](https://github.com/lightningnetwork/lnd/pull/8407)
+- [docker: setup `bitcoind` docker image in the `docker-compose.yml` file](https://github.com/lightningnetwork/lnd/pull/8354)
 - [watchtower: support taproot channel commitments](https://github.com/lightningnetwork/lnd/pull/7733)
 - [config: pass tower manager pointer in to PopulateDependencies](https://github.com/lightningnetwork/lnd/pull/8403)
 - [ scripts: add gpg key for yyforyongyu [skip ci]](https://github.com/lightningnetwork/lnd/pull/8399)
@@ -383,10 +428,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 
 ### [BIPs](https://github.com/bitcoin/bips)
-- [ BIP-12: typo fix ](https://github.com/bitcoin/bips/pull/1523)
-- [BIP-380: correct fingerprint for invalid hardened indicators examples](https://github.com/bitcoin/bips/pull/1532)
-- [bip 2: allow markdown](https://github.com/bitcoin/bips/pull/1504)
-- [Update contact info for achow101](https://github.com/bitcoin/bips/pull/1527)
 
 
 ### [BLIPs](https://github.com/lightning/blips)
