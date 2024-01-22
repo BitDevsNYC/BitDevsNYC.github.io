@@ -6,9 +6,10 @@ meetup: "https://www.meetup.com/bitdevsnyc/events/298283874/"
 ---
 
 ## Announcements
-Please join us for our next Socratic Seminar. A special thank you to our sponsors [CardCoins](https://cardcoins.co), [Chaincode Labs](https://chaincode.com) and [Wolf NYC](https://wolfnyc.com) for food, refreshments and event space.
+Please join us for our next Socratic Seminar. A special thank you to our sponsors [Chaincode Labs](https://chaincode.com) and [Wolf NYC](https://wolfnyc.com) for food, refreshments and event space.
 
-If you can't make it to the main event please join us at PUBKEY around 9:30PM. **Learn about this awesome new establishment [here](https://ny.eater.com/2022/12/13/23494423/pubkey-opening-manhattan-bitcoin-bar).**
+If you can't make it to the main event please join us at [The Perfect Pint](https://theperfectpintnyc.com/) around 9:30PM.
+This bar is very close to Chaincode Labs: 123 W 45th St New York, NY 10036.
 
 ## Presentation
 -
