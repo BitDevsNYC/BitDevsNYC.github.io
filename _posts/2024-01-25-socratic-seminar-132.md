@@ -17,8 +17,7 @@ This bar is very close to Chaincode Labs: 123 W 45th St New York, NY 10036.
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
-- [Scaling Lightning Safely With Feerate-Dependent Timelocks](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-December/022191.html)
-- [BIP number request for wallet policies](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-December/022193.html)
+- [Scaling Lightning Safely With Feerate-Dependent Timelocks](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-December/022191.html), [lightning-dev post](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-December/004254.html)
 - [Addressing the possibility of profitable fee manipulation attacks](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-December/022195.html)
 - [BIP: output descriptors for PSBT](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-December/022200.html)
 - [Lamport scheme (not signature) to economize on L1](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-December/022201.html)
@@ -26,9 +25,6 @@ This bar is very close to Chaincode Labs: 123 W 45th St New York, NY 10036.
 - [Swift Activation - CTV](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-December/022215.html)
 - [V3 Transactions are still vulnerable to significant tx pinning griefing attacks](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-December/022211.html)
 - [libsecp256k1 v0.4.1 released](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-December/022220.html)
-- [[BUG]: Bitcoin blockspace price discrimination put simple transactions at disadvantage](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-December/022232.html)
-- [Ordinal Inscription Size Limits](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-December/022240.html)
-- [Future of the bitcoin-dev mailing list](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2024-January/022271.html)
 - [Compressed Bitcoin Transactions](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2024-January/022269.html)
 - [Introducing a version field to BIP39 mnemonic phrases](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2024-January/022275.html)
 - [MuSig2 derivation, descriptor, and PSBT field BIPs](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2024-January/022282.html)
@@ -37,10 +33,7 @@ This bar is very close to Chaincode Labs: 123 W 45th St New York, NY 10036.
 - [One-Shot Replace-By-Fee-Rate](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2024-January/022298.html)
 - [Full-RBF Peering Bitcoin Core v26.0 Released](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2024-January/022301.html)
 
-
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
-- [Scaling Lightning Safely With Feerate-Dependent Timelocks](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-December/004254.html)
-- [Lampo v23.12-beta.1 aka Santa Claus lives in Area 51](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-December/004261.html)
 - [SCIDADDRESS - a new address format?](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-December/004263.html)
 
 
@@ -437,8 +430,10 @@ This bar is very close to Chaincode Labs: 123 W 45th St New York, NY 10036.
 ### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
 
 
-## New Releases
--
+## New Releases [TODO]
+- secp
+- full rbf peering
+- lamp SDK
 
 ## Events and Podcasts
 -
