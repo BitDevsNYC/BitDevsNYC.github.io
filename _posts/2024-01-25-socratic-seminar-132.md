@@ -11,9 +11,6 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 If you can't make it to the main event please join us at [The Perfect Pint](https://theperfectpintnyc.com/) around 9:30PM.
 This bar is very close to Chaincode Labs: 123 W 45th St New York, NY 10036.
 
-## Presentation
--
-
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
@@ -36,7 +33,6 @@ This bar is very close to Chaincode Labs: 123 W 45th St New York, NY 10036.
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 - [SCIDADDRESS - a new address format?](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-December/004263.html)
 
-
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
 - [B'SST: Bitcoin-like Script Symbolic Tracer v0.1.2 released](https://delvingbitcoin.org/t/bsst-bitcoin-like-script-symbolic-tracer-v0-1-2-released)
 - [Disclosure: Btcd consensus bugs due to usage of signed transaction version](https://delvingbitcoin.org/t/disclosure-btcd-consensus-bugs-due-to-usage-of-signed-transaction-version)
@@ -53,19 +49,12 @@ This bar is very close to Chaincode Labs: 123 W 45th St New York, NY 10036.
 - [LNHANCE bips and implementation](https://delvingbitcoin.org/t/lnhance-bips-and-implementation)
 - [Emulating curve point scalar multiplication with OP_CAT](https://delvingbitcoin.org/t/emulating-curve-point-scalar-multiplication-with-op-cat)
 - [LN-Symmetry Project Recap](https://delvingbitcoin.org/t/ln-symmetry-project-recap)
-- [Should there be a "Network Data" category?](https://delvingbitcoin.org/t/should-there-be-a-network-data-category)
 - [V3 transaction policy for anti-pinning](https://delvingbitcoin.org/t/v3-transaction-policy-for-anti-pinning)
 - [On consensus changes in bitcoin 2024](https://delvingbitcoin.org/t/on-consensus-changes-in-bitcoin-2024)
-- [[BUG]: spammers get Bitcoin blockspace at discounted price. Let's fix it](https://delvingbitcoin.org/t/bug-spammers-get-bitcoin-blockspace-at-discounted-price-lets-fix-it)
-- [Lampo v23.12-beta.1 aka Santa Claus lives in Area 51](https://delvingbitcoin.org/t/lampo-v23-12-beta-1-aka-santa-claus-lives-in-area-51)
 - [Package aware Fee estimator post cluster mempool](https://delvingbitcoin.org/t/package-aware-fee-estimator-post-cluster-mempool)
 - [Unspendable keys in descriptors](https://delvingbitcoin.org/t/unspendable-keys-in-descriptors)
 - [How to linearize your cluster](https://delvingbitcoin.org/t/how-to-linearize-your-cluster)
 - [Warnet + Increase Tx Relay Rate](https://delvingbitcoin.org/t/warnet-increase-tx-relay-rate)
-
-
-#### [dlc-dev](https://mailmanlists.org/pipermail/dlc-dev)
-
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
@@ -77,29 +66,20 @@ This bar is very close to Chaincode Labs: 123 W 45th St New York, NY 10036.
     - [January 4](https://www.erisian.com.au/bitcoin-core-dev/log-2024-01-04.html#l-156)
     - [January 11](https://www.erisian.com.au/bitcoin-core-dev/log-2024-01-11.html#l-172)
     - [January 18](https://www.erisian.com.au/bitcoin-core-dev/log-2024-01-18.html#l-100)
-
 - Lightning Specification meeting
-    - <!--- TODO replace: [December 5th](https://github.com/lightning/bolts/issues/1046) --->
-- Core Lightning Developer Call
-    - <!--- TODO replace: [September 20th](https://diyhpl.us/wiki/transcripts/c-lightning/2021-09-20-developer-call/) --->
-- dlc-specs meetings
-    - <!--- TODO replace: [October 5th](https://github.com/discreetlogcontracts/dlcspecs/pull/175) --->
-- Lightning specification meetings
-    - <!--- TODO replace: [October 11th](https://github.com/lightningnetwork/lightning-rfc/issues/920) --->
-- Bitcoin Contracting Primitives Working Group
-	- <!--- TODO replace: [April 18th](https://github.com/ariard/bitcoin-contracting-primitives-wg/blob/main/meetings/meetings-18-04.md) --->
+    - [December 18th](https://github.com/lightning/bolts/issues/1124)
+    - [January 15th](https://github.com/lightning/bolts/issues/1127)
 
 ### Optech
-- [Bitcoin Optech Newsletter #285](https://bitcoinops.org/en/newsletters/2024/01/17/)
-- [Bitcoin Optech Newsletter #284](https://bitcoinops.org/en/newsletters/2024/01/10/)
-- [Bitcoin Optech Newsletter #283](https://bitcoinops.org/en/newsletters/2024/01/03/)
-- [Bitcoin Optech Newsletter #282: 2023 Year-in-Review Special](https://bitcoinops.org/en/newsletters/2023/12/20/)
-- [Bitcoin Optech Newsletter #285 Recap Podcast](https://bitcoinops.org/en/podcast/2024/01/18/)
-- [Bitcoin Optech Newsletter #284 Recap Podcast](https://bitcoinops.org/en/podcast/2024/01/11/)
-- [Bitcoin Optech Newsletter #283 Recap Podcast](https://bitcoinops.org/en/podcast/2024/01/04/)
-- [Bitcoin Optech Newsletter #282: 2023 Year-in-Review Special Recap Podcast](https://bitcoinops.org/en/podcast/2023/12/21/)
 - [Bitcoin Optech Newsletter #281 Recap Podcast](https://bitcoinops.org/en/podcast/2023/12/14/)
-
+- [Bitcoin Optech Newsletter #282: 2023 Year-in-Review Special](https://bitcoinops.org/en/newsletters/2023/12/20/)
+	- [Bitcoin Optech Newsletter #282: 2023 Year-in-Review Special Recap Podcast](https://bitcoinops.org/en/podcast/2023/12/21/)
+- [Bitcoin Optech Newsletter #283](https://bitcoinops.org/en/newsletters/2024/01/03/)
+	- [Bitcoin Optech Newsletter #283 Recap Podcast](https://bitcoinops.org/en/podcast/2024/01/04/)
+- [Bitcoin Optech Newsletter #284](https://bitcoinops.org/en/newsletters/2024/01/10/)
+	- [Bitcoin Optech Newsletter #284 Recap Podcast](https://bitcoinops.org/en/podcast/2024/01/11/)
+- [Bitcoin Optech Newsletter #285](https://bitcoinops.org/en/newsletters/2024/01/17/)
+	- [Bitcoin Optech Newsletter #285 Recap Podcast](https://bitcoinops.org/en/podcast/2024/01/18/)
 
 ## Network Data
 -
