@@ -8,7 +8,7 @@ meetup: "https://www.meetup.com/bitdevsnyc/events/298283874/"
 ## Announcements
 Please join us for our next Socratic Seminar. A special thank you to our sponsors [Chaincode Labs](https://chaincode.com) and [Wolf NYC](https://wolfnyc.com) for food, refreshments and event space.
 
-If you can't make it to the main event please join us at [The Perfect Pint East](https://theperfectpintnyc.com/) around 9:30PM.
+If you can't make it to the main event please join us at [The Perfect Pint East](https://theperfectpintnyc.com/east-midtown-nyc/) around 9:30PM.
 This bar is very close to Chaincode Labs: 203 East 45th Street New York, NY 10017
 
 ## Mailing Lists, Meetings and Bitcoin Optech
