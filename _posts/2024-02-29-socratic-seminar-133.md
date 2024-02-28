@@ -15,9 +15,13 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
-#### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
+#### [bitcoin-dev (deprecated)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
 - [BIP number request for wallet policies](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2024-January/022311.html)
 - [bitcoin-dev Mailing List Migration (Action Required)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2024-February/022327.html)
+#### [bitcoin-dev (current)](https://groups.google.com/g/bitcoindev)
+- [Scalable & Permissionless Bitcoin CA](https://groups.google.com/g/bitcoindev/c/SMhxncTZ5BI)
+- [Over Half of Replace-by-Fee-Rate Replacements Are Mined](https://groups.google.com/g/bitcoindev/c/FMj8alIJlus)
+- [Adding New BIP Editors](https://groups.google.com/g/bitcoindev/c/cuMZ77KEQAA)
 
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
