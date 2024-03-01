@@ -19,7 +19,7 @@ Want more information abot BitDevs NYC?
 
 https://bitdevs.org/about
 
-_"Socratic Seminars
+"Socratic Seminars
 
 Our monthly Socratic Seminar events are formatted to foster debate, information sharing and lively discussion. In the weeks preceding the event, discussion topics are collated by meetup members from a variety of sources: pull requests in popular git repositories (e.g. Bitcoin Core, lnd, c-lightning, Joinmarket, Elements Alpha and Electrum), research papers, technical blog posts, IRC logs, network monitors and more. After a period of discussion, some events will have presentations of open source projects, companies, research and other relevant content. A feedback and Q&A section follow. After the event the group gathers at a nearby restaurant to socialize.
 
@@ -35,4 +35,4 @@ To propose a topic to present or volunteer to present a paper, please contact bi
 
 Debate Series
 
-Our debate series is dedicated to the investigation of controversial technical topics. The structure of the event is dependent on the topic of interest."_
+Our debate series is dedicated to the investigation of controversial technical topics. The structure of the event is dependent on the topic of interest."
