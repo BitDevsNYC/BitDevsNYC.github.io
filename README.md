@@ -1,9 +1,16 @@
 > "BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols" - BitDevsNYC
 
+BitDevs Oslo has an ambition to organize BitDevs Oslo the first monday in every month (that's not a holiday)
+
+The second BitDevs Oslo will occur on Monday April 8, 2024 in the office space kindly offered by [Agens](https://agens.no).
+
+Event:
+https://www.meetup.com/bitcoin-developers-oslo/events/299810289/
+
 The first BitDevs Oslo was hosted by [Satoshi Consult](https://twitter.com/satoshiconsult) and [Bare Bitcoin](https://barebitcoin.no) on March 4th 2024, in locations kindly offered by [Agens](https://agens.no). Agens has previously hosted 8 OsloPlebs meetups, from June 2022 and onwards.
 
 Event:
-https://meetu.ps/c/56Gsz/14wSgL/a
+https://www.meetup.com/bitcoin-developers-oslo/events/299290841/
 
 BitDevs Organizers links:
 https://primal.net/p/npub1rznlzpg529u8j39a8qe7tapsygd54qp5qyr5jyue7whwpw79rsjqmzr4ly
