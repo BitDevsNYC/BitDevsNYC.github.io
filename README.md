@@ -4,12 +4,12 @@ BitDevs Oslo has an ambition to organize BitDevs Oslo the first monday in every 
 
 The second BitDevs Oslo will occur on Monday April 8, 2024 in the office space kindly offered by [Agens](https://agens.no).
 
-Event:
+Upcoming Event:
 https://www.meetup.com/bitcoin-developers-oslo/events/299810289/
 
 The first BitDevs Oslo was hosted by [Satoshi Consult](https://twitter.com/satoshiconsult) and [Bare Bitcoin](https://barebitcoin.no) on March 4th 2024, in locations kindly offered by [Agens](https://agens.no). Agens has previously hosted 8 OsloPlebs meetups, from June 2022 and onwards.
 
-Event:
+Previous Event:
 https://www.meetup.com/bitcoin-developers-oslo/events/299290841/
 
 BitDevs Organizers links:
