@@ -70,7 +70,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 -
 
 ### InfoSec
--
+- [Apple Chip Flaw Lets Hackers Steal Encryption Keys](https://www.zetter-zeroday.com/apple-chips/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -202,7 +202,8 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 -
 
 ## Mining
--
+- [Vulnerability Disclosure: Wasting ViaBTC's 60 EH/s hashrate by sending a P2P message](https://b10c.me/blog/012-viabtc-spv-vulnerability-disclosure/)
+- [Introducing SRI 1.0.0 - the most important milestone in our Stratum V2 journey!](https://stratumprotocol.org/blog/sri-1-0-0/)
 
 ## Miscellaneous
 -
