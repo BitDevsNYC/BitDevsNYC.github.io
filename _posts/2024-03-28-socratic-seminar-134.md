@@ -67,7 +67,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 ## CVEs and Research
 ### Research
--
+- [New Records in Collision Attacks on SHA-2](https://eprint.iacr.org/2024/349.pdf)
 
 ### InfoSec
 - [Apple Chip Flaw Lets Hackers Steal Encryption Keys](https://www.zetter-zeroday.com/apple-chips/)
@@ -206,4 +206,4 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Introducing SRI 1.0.0 - the most important milestone in our Stratum V2 journey!](https://stratumprotocol.org/blog/sri-1-0-0/)
 
 ## Miscellaneous
--
+- [Bitcoin-Talk: Introduction of isStandard()](https://bitcointalk.org/index.php?topic=2162.0)
