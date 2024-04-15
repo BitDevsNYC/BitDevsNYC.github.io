@@ -24,7 +24,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
 - [Type Erasure & Script](https://delvingbitcoin.org/t/type-erasure-script)
 - [Liquidity provider utxo management](https://delvingbitcoin.org/t/liquidity-provider-utxo-management)
-
 - [Ecash and lightning via ZKCP](https://delvingbitcoin.org/t/ecash-and-lightning-via-zkcp)
 - [Basic vault prototype using OP_CAT](https://delvingbitcoin.org/t/basic-vault-prototype-using-op-cat)
 - [DNS seed node filtering](https://delvingbitcoin.org/t/dns-seed-node-filtering)
@@ -35,7 +34,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Op_inout_amount](https://delvingbitcoin.org/t/op-inout-amount)
 - [ASMap creation process](https://delvingbitcoin.org/t/asmap-creation-process)
 - [An Onchain Implementation Of Mining Feerate Futures](https://delvingbitcoin.org/t/an-onchain-implementation-of-mining-feerate-futures)
-- [Human Readable Bitcoin Payment Instructions](https://delvingbitcoin.org/t/human-readable-bitcoin-payment-instructions)
+- [Human Readable Bitcoin Payment Instructions](https://delvingbitcoin.org/t/human-readable-bitcoin-payment-instructions), [try it out](https://twitter.com/TheBlueMatt/status/1755692710357266738)
 - [Building Intuition for the Cashu Blind Signature Scheme](https://delvingbitcoin.org/t/building-intuition-for-the-cashu-blind-signature-scheme)
 - [Malleability issues when creating shared transactions with segwit v0](https://delvingbitcoin.org/t/malleability-issues-when-creating-shared-transactions-with-segwit-v0)
 
@@ -53,15 +52,10 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
     - [February 22](https://www.erisian.com.au/bitcoin-core-dev/log-2024-02-22.html#l-198)
 
 - Lightning Specification meeting
-    - <!--- TODO replace: [December 5th](https://github.com/lightning/bolts/issues/1046) --->
-- Core Lightning Developer Call
-    - <!--- TODO replace: [September 20th](https://diyhpl.us/wiki/transcripts/c-lightning/2021-09-20-developer-call/) --->
-- dlc-specs meetings
-    - <!--- TODO replace: [October 5th](https://github.com/discreetlogcontracts/dlcspecs/pull/175) --->
-- Lightning specification meetings
-    - <!--- TODO replace: [October 11th](https://github.com/lightningnetwork/lightning-rfc/issues/920) --->
-- Bitcoin Contracting Primitives Working Group
-	- <!--- TODO replace: [April 18th](https://github.com/ariard/bitcoin-contracting-primitives-wg/blob/main/meetings/meetings-18-04.md) --->
+    - [January 29](https://github.com/lightning/bolts/issues/1129)
+    - [February 12](https://github.com/lightning/bolts/issues/1134)
+    - [February 26](https://github.com/lightning/bolts/issues/1142)
+
 
 ### Optech
 - [Bitcoin Optech Newsletter #291](https://bitcoinops.org/en/newsletters/2024/02/28/)
@@ -77,14 +71,35 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 
 ## Network Data
--
+- [Coinbase Prime exploited for uneconomical UTXO consolidation by Magic Eden](https://twitter.com/mononautical/status/1755747294434001238), [context](https://twitter.com/mononautical/status/1758262223456162279)
+- [Lightning Wallets: Self-Custody Despite Poor Network Connection](https://anitaposch.com/lightning-wallet-test-2024)
+- [mempool.space mempool graph updates](https://twitter.com/softsimon_/status/1762145190171783622)
+- [BRC mint produces unspendable "royalty" outputs with 420 sats](https://twitter.com/mononautical/status/1753805693453267449)
+- [Wallet of Satoshi crosses 15m transactions](https://twitter.com/walletofsatoshi/status/1753252525577490917)
+- [When do Bitcoin Node Operators Upgrade?](https://blog.lopp.net/when-do-bitcoin-node-operators-upgrade/)
 
 ## CVEs and Research
 ### Research
--
+- [2PC-MPC: Emulating Two Party ECDSA in Large-Scale MPC](https://eprint.iacr.org/2024/253)
+- [A Better Proof-of-Work Fork Choice Rule](https://eprint.iacr.org/2024/200)
+- [A Holistic Approach for Bitcoin Confirmation Times & Optimal Fee Selection](https://arxiv.org/abs/2402.17474)
+- [Bribe & Fork: Cheap Bribing Attacks via Forking Threat](https://arxiv.org/abs/2402.01363v1)
+- [Efficient ECDSA-based Adaptor Signature for Batched Atomic Swaps](https://eprint.iacr.org/2024/140)
+- [Generalized Adaptor Signature Scheme: From Two-Party to N-Party Settings](https://eprint.iacr.org/2024/241)
+- [HARTS: High-Threshold, Adaptively Secure, and Robust Threshold Schnorr Signatures](https://eprint.iacr.org/2024/280)
+- [Mass Exit Attacks on the Lightning Network (revised)](https://arxiv.org/abs/2208.01908v3)
+- [SPRITE: Secure and Private Routing in Payment Channel Networks](https://eprint.iacr.org/2024/122)
+- [Topology Discovery within the Bitcoin Network](https://repositum.tuwien.at/handle/20.500.12708/193929)
+- [Time-Averaged Analysis of Selfish Mining in Bitcoin](https://eprint.iacr.org/2024/363)
+- [Undetectable Selfish Mining](https://arxiv.org/abs/2309.06847v2)
 
 ### InfoSec
--
+- [A few notes on AWS Nitro Enclaves: Images and attestation](https://blog.trailofbits.com/2024/02/16/a-few-notes-on-aws-nitro-enclaves-images-and-attestation/)
+- [Bug in btcd pruning code leads to stalling on mainnet](https://twitter.com/0xB10C/status/1758464846398398911)
+- [Disclosure: Btcd consensus bugs due to usage of signed transaction version](https://delvingbitcoin.org/t/disclosure-btcd-consensus-bugs-due-to-usage-of-signed-transaction-version/455), [exploited on testnet](https://twitter.com/0xB10C/status/1751036733163028970)
+- [Enhancing trust for SGX enclaves](https://blog.trailofbits.com/2024/01/26/enhancing-trust-for-sgx-enclaves/)
+- [Exodus Bitcoin Wallet: $490K Swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)
+- [Malicious code in Tornado Cash governance proposal puts user funds at risk](https://www.bleepingcomputer.com/news/security/malicious-code-in-tornado-cash-governance-proposal-puts-user-funds-at-risk/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -127,7 +142,6 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Add `Witness::p2tr_key_spend` function](https://github.com/rust-bitcoin/rust-bitcoin/pull/2097)
 
 ### [secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp)
-
 - [shallue_van_de_woestijne rewrite](https://github.com/BlockstreamResearch/secp256k1-zkp/pull/286)
 
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
@@ -213,13 +227,32 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 
 ## New Releases
--
+- [banco - non-interactive atomic swaps on elements](https://github.com/vulpemventures/banco), [summary](https://vulpem.medium.com/banco-non-interactive-swaps-00d042791e06)
+- [lightning-liquidity](https://github.com/lightningdevkit/lightning-liquidity), [summary](https://lightningdevkit.org/blog/unleashing-liquidity-on-the-lightning-network-with-lightning-liquidity/)
+- [purrfect_vault](https://github.com/taproot-wizards/purrfect_vault), [summary](https://twitter.com/rot13maxi/status/1758268837542113612)
+- [zkBitcoin](https://github.com/sigma0-xyz/zkbitcoin)
 
-## Events and Podcasts
--
 
 ## Mining
--
+- [Braiins Pool announces Lightning payouts](https://twitter.com/BraiinsMining/status/1760319741560856983)
+- [EIA to temporarily suspend bitcoin miner survey after lawsuit ](https://www.reuters.com/technology/eia-temporarily-suspend-bitcoin-miner-survey-after-lawsuit-court-document-2024-02-23/)
+- [Marathon Digital Holdings Launches Slipstream](https://ir.mara.com/news-events/press-releases/detail/1343/marathon-digital-holdings-launches-slipstream), [public testing](https://twitter.com/mononautical/status/1760760827752194160)
+- [TIDES Technical Documentation](https://ocean.xyz/docs/tides)
 
 ## Miscellaneous
--
+- [Brink receives $3.6m donation from Coinbase's GiveCrypto](https://twitter.com/bitcoinbrink/status/1758544229721120870), [GiveCrypto winds down](https://www.coinbase.com/blog/winding-down-givecrypto?__cf_chl_f_tk=1lEODtA3GCUnoJkqYuKLHM04dVcsbMP7Bm3gGRyqkww-1713159855-0.0.1.1-1642)
+- [BTC-e server admin indicted for laundering ransom payments, stolen crypto](https://www.bleepingcomputer.com/news/legal/btc-e-server-admin-indicted-for-laundering-ransom-payments-stolen-crypto/)
+- [Cashu-Address: https://app.cashu-address.com/](https://app.cashu-address.com/)
+- [L402: The Payment Protocol for APIs](https://www.sulu.sh/blog/l402-payment-protocol-apis)
+- [Mastering Bitcoin 3rd edition available on GitHub](https://twitter.com/hrdng/status/1751844795692245249)
+- [Opensats provides 0xB10C with Long-Term Support](https://opensats.org/blog/0xB10C-receives-lts-grant?ref=nobsbitcoin.com)
+- [Opensats fourth wave of grants](https://opensats.org/blog/bitcoin-grants-feb-2024) - splicing, bitcoin core testing suite, braidpool, more
+- [Over Half of Replace-by-Fee-Rate Replacements Are Mined](https://petertodd.org/2024/replace-by-fee-rate-success-rate)
+- [Police seize 50,000 Bitcoin from former torrent site operator](https://www.bleepingcomputer.com/news/legal/police-seize-record-50-000-bitcoin-from-now-defunct-piracy-site/)
+- [Sharing the Code Behind Bitkey](https://bitkey.build/sharing-the-code-behind-bitkey/)
+- [Spaces Protocol](https://spacesprotocol.org/)
+- [Spiral issues grant to @plebhash to work on sv2](https://twitter.com/spiralbtc/status/1755274169317491037)
+- [Spiral renews grant to Christoph Ono](https://twitter.com/spiralbtc/status/1754916241423122582)
+- [Swaproot: cheaper and more private on-chain deposits on Phoenix](https://acinq.co/blog/phoenix-swaproot)
+- [The Bitcoin Halving will be reorged](https://t4t5.com/blog/the-bitcoin-halving-will-be-reorged/)
+- [The Past, Present, and Future of Offline Payments [in Lightning]](https://medium.com/breez-technology/the-past-present-and-future-of-offline-payments-1ddb46054e11)
