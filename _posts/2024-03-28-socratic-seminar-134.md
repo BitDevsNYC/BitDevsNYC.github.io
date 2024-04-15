@@ -11,7 +11,7 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 If you can't make it to the main event please join us at PUBKEY around 9:30PM. **Learn about this awesome new establishment [here](https://ny.eater.com/2022/12/13/23494423/pubkey-opening-manhattan-bitcoin-bar).**
 
 ## Presentation
--
+- Tom & David - [Bitcoin Core v27 Testing Guide](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/27.0-Release-Candidate-Testing-Guide)
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
@@ -63,14 +63,36 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 
 ## Network Data
--
+- [95% of mining pools using full-rbf](https://twitter.com/peterktodd/status/1773141998721012102)
+- [Bitfinex falls victim to Magic Eden UTXO consolidation exploit](https://twitter.com/mononautical/status/1768984639543369933)
+- [Following Flows V: Pool Cross-Pollination](https://coinmetrics.substack.com/p/state-of-the-network-issue-249), [summary](https://twitter.com/ParkerMerritt/status/1765103114095353946)
+- [Marathon creates block template that produces graphic on mempool.space](https://twitter.com/MarathonDH/status/1772588770786721970)
+- MEV Activity
+	- [f2pool misses mispriced NFT flip](https://twitter.com/robertjfclarke/status/1765082833566257469)
+	- [PSBT sniping revenue significant](https://twitter.com/mononautical/status/1773913946191491129)
+	- [Quantum Catnapping](https://twitter.com/mononautical/status/1769474047627395544)
+- [Record block size, produced by Marathon's Slipstream service](https://twitter.com/mononautical/status/1764005321578586131)
+- [Spiderpool resurfaces](https://twitter.com/mononautical/status/1764688411133120687)
+- [Update on LinkingLion: Reduced activity and a statement by LionLink Networks](https://b10c.me/blog/013-one-year-update-on-linkinglion/)
+- [ViaBTC's mutated blocks without witness data](https://b10c.me/observations/10-viabtc-blocks-without-witness-data/)
+- [Weird transaction creates non-standard op-return outputs](https://twitter.com/mononautical/status/1771785202542559590)
 
 ## CVEs and Research
 ### Research
+- [ABC-Channel: An Advanced Blockchain-based Covert Channel](https://arxiv.org/abs/2403.06261v2)
+- [Arctic: Lightweight and Stateless Threshold Schnorr Signatures](https://eprint.iacr.org/2024/466)
+- [BitVM 2: Permissionless Verification on Bitcoin](https://bitvm.org/bitvm2)
+- [Breaking BFT: Quantifying the Cost to Attack Bitcoin and Ethereum](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4727999), [Summary](https://coinmetrics.substack.com/p/state-of-the-network-issue-248#new_tab)
+- [Insecurity of MuSig and BN Multi-Signatures with Delayed Message Selection](https://eprint.iacr.org/2024/437)
 - [New Records in Collision Attacks on SHA-2](https://eprint.iacr.org/2024/349.pdf)
+- [Re-Randomized FROST](https://eprint.iacr.org/2024/436)
 
 ### InfoSec
-- [Apple Chip Flaw Lets Hackers Steal Encryption Keys](https://www.zetter-zeroday.com/apple-chips/)
+- [Backdoor found in widely used Linux utility xz](https://www.openwall.com/lists/oss-security/2024/03/29/4)
+- [First practical SHA-256 collision for 31 steps](https://news.ycombinator.com/item?id=39836046)
+- [GoFetch: Breaking Constant-Time Cryptographic Implementations Using Data Memory-Dependent Prefetchers in Apple CPUs](https://gofetch.fail/)
+- [Vulnerability Disclosure: Wasting ViaBTC's 60 EH/s hashrate by sending a P2P message](https://b10c.me/blog/012-viabtc-spv-vulnerability-disclosure/)
+- [ZenHammer: Rowhammer Attacks on AMD Zen-based Platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -183,27 +205,31 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Probing for more reliable route fee estimation](https://github.com/lightningnetwork/lnd/pull/8136)
 - [multi: upgrade new taproot TLVs to use tlv.OptionalRecordT ](https://github.com/lightningnetwork/lnd/pull/8499)
 
-
-### [BIPs](https://github.com/bitcoin/bips)
-
-
-### [BLIPs](https://github.com/lightning/blips)
-
-
 ### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
 - [Fix broken link in BOLT-2](https://github.com/lightning/bolts/pull/1148)
 - [clarification: strict validation of scid for blinded payments](https://github.com/lightning/bolts/pull/1147)
 
 
 ## New Releases
--
-
-## Events and Podcasts
--
+- [bitvm-zk-verifier](https://github.com/chainwayxyz/bitvm-zk-verifier)
+- [Teleport Transactions](https://github.com/utxo-teleport/teleport-transactions), [summary](https://twitter.com/RajarshiMaitra/status/1768623072280809841)
+  
 
 ## Mining
-- [Vulnerability Disclosure: Wasting ViaBTC's 60 EH/s hashrate by sending a P2P message](https://b10c.me/blog/012-viabtc-spv-vulnerability-disclosure/)
+- [Bitdeer Announces New 4nm Bitcoin Mining Chip SEAL01](https://ir.bitdeer.com/news-releases/news-release-details/bitdeer-announces-new-4nm-bitcoin-mining-chip-seal01)
 - [Introducing SRI 1.0.0 - the most important milestone in our Stratum V2 journey!](https://stratumprotocol.org/blog/sri-1-0-0/)
 
 ## Miscellaneous
-- [Bitcoin-Talk: Introduction of isStandard()](https://bitcointalk.org/index.php?topic=2162.0)
+- [Bitcoin Fog Operator Convicted of Money Laundering Conspiracy](https://www.justice.gov/opa/pr/bitcoin-fog-operator-convicted-money-laundering-conspiracy)
+- [Bitcoin Research Day - Fall 2024](https://brd.chaincode.com/)
+- [Craig Wright Is Not Satoshi, Didn't Author Bitcoin Whitepaper, Judge Rules](https://www.coindesk.com/policy/2024/03/14/craig-wright-not-satoshi-didnt-author-bitcoin-whitepaper-judge-rules/)
+- [HRF grants $500k to 14 Bitcoin projects](https://bitcoinmagazine.com/business/human-rights-foundation-grants-500000-to-14-bitcoin-projects-worldwide)
+- [Introduction of isStandard() (2010)](https://bitcointalk.org/index.php?topic=2162.0)
+- [KuCoin charged with AML violations that let cybercriminals launder billions](https://www.justice.gov/usao-sdny/media/1345231/dl)
+- [Lightning Network Onion Routing: Preliminaries](https://ellemouton.com/posts/onion-routing-prelims/)
+- [Liquidity on Lightning: Moving from UX to Economix](https://medium.com/breez-technology/liquidity-on-lightning-moving-from-ux-to-economix-6e597d9e1abd)
+- [Mercury Layer's Lightning Latch Swap Protocol](https://bitcoinmagazine.com/technical/mercury-layers-lightning-latch-swap-protocol)
+ -[Multinuteral payments – Pay a single Lightning invoice from Ecash balances on multiple Cashu mints](https://twitter.com/callebtc/status/1766116631795662921)
+- [OpenSats Announces Long-Term Support For Bruno Garcia](https://opensats.org/blog/bruno-garcia-receives-lts-grant)
+- [The Spectre of MEV on Bitcoin](https://cyber.fund/content/the-spectre-of-mev-on-bitcoin)
+- [Winternitz signatures reduce BitVM transaction fees by >50%](https://twitter.com/robin_linus/status/1765337186222686347)
