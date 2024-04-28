@@ -1,0 +1,439 @@
+---
+layout: post
+type: socratic
+title: "Socratic Seminar 135"
+meetup: "https://www.meetup.com/bitdevsnyc/events/300543944/"
+---
+
+## Announcements
+Please join us for our next Socratic Seminar. A special thank you to our sponsors [CardCoins](https://cardcoins.co), [Chaincode Labs](https://chaincode.com) and [Wolf NYC](https://wolfnyc.com) for food, refreshments and event space.
+
+If you can't make it to the main event please join us at PUBKEY around 9:30PM. **Learn about this awesome new establishment [here](https://ny.eater.com/2022/12/13/23494423/pubkey-opening-manhattan-bitcoin-bar).**
+
+## Presentation
+-
+
+## Mailing Lists, Meetings and Bitcoin Optech
+### Mailing Lists
+#### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
+
+
+#### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
+
+
+#### [Delving Bitcoin](https://delvingbitcoin.org/)
+- [[WITHDRAWN] Alternate script design for LNHANCE-Symmetry](https://delvingbitcoin.org/t/withdrawn-alternate-script-design-for-lnhance-symmetry)
+- [Bitcoin Inquisition 25.2](https://delvingbitcoin.org/t/bitcoin-inquisition-25-2)
+- [Exploding Keys - Covenant construction](https://delvingbitcoin.org/t/exploding-keys-covenant-construction)
+- [LIMO: combining the best parts of linearization search and merging](https://delvingbitcoin.org/t/limo-combining-the-best-parts-of-linearization-search-and-merging)
+- [CISA and Privacy](https://delvingbitcoin.org/t/cisa-and-privacy)
+- [Analyzing simple vault covenant with Alloy](https://delvingbitcoin.org/t/analyzing-simple-vault-covenant-with-alloy)
+- [LRC-20: Scalable and Fast Tokenization on Lightning](https://delvingbitcoin.org/t/lrc-20-scalable-and-fast-tokenization-on-lightning)
+- [Bitcoin Core 27.0 released](https://delvingbitcoin.org/t/bitcoin-core-27-0-released)
+- [Second Look at Weak Blocks](https://delvingbitcoin.org/t/second-look-at-weak-blocks)
+- [Can Game Theory Secure Scaling?](https://delvingbitcoin.org/t/can-game-theory-secure-scaling)
+- [Research into the effects of a cluster size limited mempool in 2023](https://delvingbitcoin.org/t/research-into-the-effects-of-a-cluster-size-limited-mempool-in-2023)
+- [Inscriptionless Inscriptions](https://delvingbitcoin.org/t/inscriptionless-inscriptions)
+- [Constellation - a high performance Lightning-based L3. Feedback wanted](https://delvingbitcoin.org/t/constellation-a-high-performance-lightning-based-l3-feedback-wanted)
+- [Payjoin-in-Potentiam: Externally fund an LSP channel open with one transaction](https://delvingbitcoin.org/t/payjoin-in-potentiam-externally-fund-an-lsp-channel-open-with-one-transaction)
+- [DSL for experimenting with contracts](https://delvingbitcoin.org/t/dsl-for-experimenting-with-contracts)
+
+
+#### [dlc-dev](https://mailmanlists.org/pipermail/dlc-dev)
+
+
+### Meetings
+- [Bitcoin PR Review Club](https://bitcoincore.reviews)
+
+- Bitcoin Core general developer meetings
+    - [March 28](https://www.erisian.com.au/bitcoin-core-dev/log-2024-03-28.html#l-86)
+    - [April 4](https://www.erisian.com.au/bitcoin-core-dev/log-2024-04-04.html#l-85)
+    - [April 18](https://www.erisian.com.au/bitcoin-core-dev/log-2024-04-18.html#l-138)
+    - [April 25](https://www.erisian.com.au/bitcoin-core-dev/log-2024-04-25.html#l-104)
+
+- Lightning Specification meeting
+    - <!--- TODO replace: [December 5th](https://github.com/lightning/bolts/issues/1046) --->
+- Core Lightning Developer Call
+    - <!--- TODO replace: [September 20th](https://diyhpl.us/wiki/transcripts/c-lightning/2021-09-20-developer-call/) --->
+- dlc-specs meetings
+    - <!--- TODO replace: [October 5th](https://github.com/discreetlogcontracts/dlcspecs/pull/175) --->
+- Lightning specification meetings
+    - <!--- TODO replace: [October 11th](https://github.com/lightningnetwork/lightning-rfc/issues/920) --->
+- Bitcoin Contracting Primitives Working Group
+	- <!--- TODO replace: [April 18th](https://github.com/ariard/bitcoin-contracting-primitives-wg/blob/main/meetings/meetings-18-04.md) --->
+
+### Optech
+- [Bitcoin Optech Newsletter #299](https://bitcoinops.org/en/newsletters/2024/04/24/)
+- [Bitcoin Optech Newsletter #298](https://bitcoinops.org/en/newsletters/2024/04/17/)
+- [Bitcoin Optech Newsletter #297](https://bitcoinops.org/en/newsletters/2024/04/10/)
+- [Bitcoin Optech Newsletter #296](https://bitcoinops.org/en/newsletters/2024/04/03/)
+- [Bitcoin Optech Newsletter #299 Recap Podcast](https://bitcoinops.org/en/podcast/2024/04/25/)
+- [Bitcoin Optech Newsletter #298 Recap Podcast](https://bitcoinops.org/en/podcast/2024/04/18/)
+- [Bitcoin Optech Newsletter #297 Recap Podcast](https://bitcoinops.org/en/podcast/2024/04/11/)
+- [Bitcoin Optech Newsletter #296 Recap Podcast](https://bitcoinops.org/en/podcast/2024/04/04/)
+- [Bitcoin Optech Newsletter #295 Recap Podcast](https://bitcoinops.org/en/podcast/2024/03/28/)
+
+
+## Network Data
+-
+
+## CVEs and Research
+### Research
+-
+
+### InfoSec
+-
+
+## Pull Requests and repo updates
+### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
+- [build: Enable fuzz binary in MSVC](https://github.com/bitcoin/bitcoin/pull/29774)
+- [build, msvc: Drop duplicated `common\url.cpp` source file](https://github.com/bitcoin/bitcoin/pull/29976)
+- [test: Run framework unit tests in parallel](https://github.com/bitcoin/bitcoin/pull/29771)
+- [test: Add two more urlDecode tests](https://github.com/bitcoin/bitcoin/pull/29967)
+- [net: attempts to connect to all resolved addresses when connecting to a node](https://github.com/bitcoin/bitcoin/pull/28834)
+- [index: race fix, lock cs_main while 'm_synced' is subject to change](https://github.com/bitcoin/bitcoin/pull/29867)
+- [contrib: rpcauth.py - Add new option (-json) to output text in json format](https://github.com/bitcoin/bitcoin/pull/29433)
+- [test: fix accurate multisig sigop count (BIP16), add unit test](https://github.com/bitcoin/bitcoin/pull/29615)
+- [test: Extends wait_for_getheaders so a specific block hash can be checked](https://github.com/bitcoin/bitcoin/pull/29736)
+- [refactor: Use our own implementation of urlDecode](https://github.com/bitcoin/bitcoin/pull/29904)
+- [lint: scripted-diff verification also requires GNU grep](https://github.com/bitcoin/bitcoin/pull/29689)
+- [doc: Bash is needed in gen_id and is not installed on FreeBSD by default](https://github.com/bitcoin/bitcoin/pull/29953)
+- [deploy: remove some tools when cross-compiling for macOS](https://github.com/bitcoin/bitcoin/pull/29890)
+- [Fix typos in description.md and wallet_util.py](https://github.com/bitcoin/bitcoin/pull/29938)
+- [depends: build libnatpmp with CMake](https://github.com/bitcoin/bitcoin/pull/29708)
+- [feefrac: avoid explicitly computing diagram; compare based on chunks](https://github.com/bitcoin/bitcoin/pull/29757)
+- [refactor: Rename `subprocess.hpp` to follow our header name conventions](https://github.com/bitcoin/bitcoin/pull/29910)
+- [ci: disable `_FORTIFY_SOURCE` with MSAN](https://github.com/bitcoin/bitcoin/pull/29837)
+- [contrib: list other binaries in manpage output](https://github.com/bitcoin/bitcoin/pull/29585)
+- [sign: don't assume we are parsing a sane TapMiniscript](https://github.com/bitcoin/bitcoin/pull/29853)
+- [doc: suggest only necessary Qt packages for installation on FreeBSD](https://github.com/bitcoin/bitcoin/pull/29932)
+- [doc: Suggest only necessary Qt packages for installation on OpenBSD](https://github.com/bitcoin/bitcoin/pull/29947)
+- [rpc: Reword SighashFromStr error message](https://github.com/bitcoin/bitcoin/pull/29870)
+- [netbase: clean up Proxy logging](https://github.com/bitcoin/bitcoin/pull/29882)
+- [ci: Drop no longer needed `-I` flag in "tidy" task](https://github.com/bitcoin/bitcoin/pull/29929)
+- [Improve display address handling for external signer](https://github.com/bitcoin/bitcoin/pull/24313)
+- [test: remove duplicated ban test](https://github.com/bitcoin/bitcoin/pull/29688)
+- [doc: explain what the wallet password does](https://github.com/bitcoin/bitcoin/pull/28974)
+- [util: remove unused cpp-subprocess options](https://github.com/bitcoin/bitcoin/pull/29865)
+- [test: refactor: introduce and use `calculate_input_weight` helper](https://github.com/bitcoin/bitcoin/pull/29777)
+- [test: Fix intermittent timeout in p2p_tx_download.py](https://github.com/bitcoin/bitcoin/pull/29933)
+- [Bugfix: bitcoin-cli: Check length of peer.transport_protocol_type](https://github.com/bitcoin/bitcoin/pull/29657)
+- [net: Decrease nMaxIPs when learning from DNS seeds](https://github.com/bitcoin/bitcoin/pull/29850)
+- [test: Fix intermittent issue in p2p_handshake.py](https://github.com/bitcoin/bitcoin/pull/29898)
+- [ZMQ: Support UNIX domain sockets](https://github.com/bitcoin/bitcoin/pull/27679)
+- [fuzz: explicitly cap the vsize of RBFs for diagram checks](https://github.com/bitcoin/bitcoin/pull/29879)
+- [doc: Add example of mixing private and public keys in descriptors](https://github.com/bitcoin/bitcoin/pull/28373)
+- [Replace Boost.Process with cpp-subprocess](https://github.com/bitcoin/bitcoin/pull/28981)
+- [depends: add new LLVM debug macro](https://github.com/bitcoin/bitcoin/pull/29781)
+- [Change Luke Dashjr seed to dashjr-list-of-p2p-nodes.us](https://github.com/bitcoin/bitcoin/pull/29691)
+- [ThreadSanitizer: Fix #29767](https://github.com/bitcoin/bitcoin/pull/29776)
+- [security: restrict abis in bitcoind.service](https://github.com/bitcoin/bitcoin/pull/28340)
+- [chore: fix some typos in comments](https://github.com/bitcoin/bitcoin/pull/29875)
+- [build: Fix false positive `CHECK_ATOMIC` test](https://github.com/bitcoin/bitcoin/pull/29859)
+- [guix: replace GCC unaligned VMOV patch with binutils patch](https://github.com/bitcoin/bitcoin/pull/29846)
+- [test: fix intermittent failure in p2p_compactblocks_hb.py](https://github.com/bitcoin/bitcoin/pull/29893)
+- [test: Fix failing univalue float test](https://github.com/bitcoin/bitcoin/pull/29892)
+- [guix: remove `gcc-toolchain static` from Windows build](https://github.com/bitcoin/bitcoin/pull/29828)
+- [assumeutxo: Fix -reindex before snapshot was validated](https://github.com/bitcoin/bitcoin/pull/29726)
+- [doc: archive 27.0 release notes](https://github.com/bitcoin/bitcoin/pull/29886)
+- [rpc, bugfix: Enforce maximum value for setmocktime](https://github.com/bitcoin/bitcoin/pull/29869)
+- [test: check disconnection when sending sendaddrv2 after verack](https://github.com/bitcoin/bitcoin/pull/29699)
+- [ci: use Clang 16 for Valgrind](https://github.com/bitcoin/bitcoin/pull/29848)
+- [doc: fixup help output for -upnp and -natpmp](https://github.com/bitcoin/bitcoin/pull/28874)
+- [ci: Bump s390x to ubuntu:24.04](https://github.com/bitcoin/bitcoin/pull/29856)
+- [minisketch: update subtree to 3472e2f5ec75ace39ce9243af6b3fee233a67492](https://github.com/bitcoin/bitcoin/pull/29823)
+- [Fix typos in `subprocess.hpp`](https://github.com/bitcoin/bitcoin/pull/29849)
+- [AcceptMultipleTransactions: Fix workspace not being set as client_maxfeerate failure](https://github.com/bitcoin/bitcoin/pull/29735)
+- [depends: remove no longer needed patch for Boost::Process](https://github.com/bitcoin/bitcoin/pull/29844)
+- [refactor, bench, fuzz: Drop unneeded `UCharCast` calls](https://github.com/bitcoin/bitcoin/pull/29820)
+- [build: Change MAC_OSX macro to __APPLE__ in crypto](https://github.com/bitcoin/bitcoin/pull/29834)
+- [refactor: Use typesafe Wtxid in compact block encodings](https://github.com/bitcoin/bitcoin/pull/29752)
+- [fuzz: Some `test/fuzz/test_runner.py` improvements](https://github.com/bitcoin/bitcoin/pull/29821)
+- [Drop Windows Socket dependency for `randomenv.cpp`](https://github.com/bitcoin/bitcoin/pull/29786)
+- [Revert "ci: Temporarily disable bpfcc-tools"](https://github.com/bitcoin/bitcoin/pull/29832)
+- [test: Update --tmpdir doc string to say directory must not exist](https://github.com/bitcoin/bitcoin/pull/29498)
+- [clang-tidy: Enable misc-no-recursion](https://github.com/bitcoin/bitcoin/pull/29690)
+- [doc: 25.2 historical release notes](https://github.com/bitcoin/bitcoin/pull/29830)
+- [test: remove immediate tx relay workaround in wallet_groups.py](https://github.com/bitcoin/bitcoin/pull/29822)
+- [ci: remove --with-asm=no (secp256k1) from MSAN jobs](https://github.com/bitcoin/bitcoin/pull/29742)
+- [test: Bump timeouts in feature_index_prune and wallet_importdescriptors](https://github.com/bitcoin/bitcoin/pull/29791)
+- [crypto: chacha20: always use our fallback timingsafe_bcmp rather than libc's](https://github.com/bitcoin/bitcoin/pull/29815)
+- [Update libsecp256k1 subtree to latest master](https://github.com/bitcoin/bitcoin/pull/29803)
+- [test: Fix debug recommendation in argsman_tests](https://github.com/bitcoin/bitcoin/pull/29805)
+- [ci: Drop duplicated compiler flags](https://github.com/bitcoin/bitcoin/pull/29800)
+- [refactor: Remove gmtime*](https://github.com/bitcoin/bitcoin/pull/29081)
+- [depends: build libqrencode with CMake](https://github.com/bitcoin/bitcoin/pull/29725)
+- [guix: use GCC 11 in macOS build env](https://github.com/bitcoin/bitcoin/pull/29673)
+- [ci: Temporarily disable bpfcc-tools](https://github.com/bitcoin/bitcoin/pull/29788)
+- [guix: Remove another leftover from #29648](https://github.com/bitcoin/bitcoin/pull/29797)
+- [depends: add -g to DEBUG=1 flags](https://github.com/bitcoin/bitcoin/pull/29527)
+- [build, depends: Fix `libmultiprocess` cross-compilation](https://github.com/bitcoin/bitcoin/pull/29665)
+- [doc: Update the developer mailing list address.](https://github.com/bitcoin/bitcoin/pull/29782)
+- [guix: remove errant leftover from #29648](https://github.com/bitcoin/bitcoin/pull/29787)
+- [log: deduplicate category names and improve logging.cpp](https://github.com/bitcoin/bitcoin/pull/29419)
+- [[doc] add historical release notes for 26.1](https://github.com/bitcoin/bitcoin/pull/29784)
+- [build, macos: Drop unused `osx_volname` target](https://github.com/bitcoin/bitcoin/pull/29733)
+- [cli: improve bitcoin-cli error when not connected](https://github.com/bitcoin/bitcoin/pull/29687)
+- [test: makes timeout a forced named argument in tests methods that use it](https://github.com/bitcoin/bitcoin/pull/29750)
+- [test: fix StopIteration exception in p2p_node_network_limited.py](https://github.com/bitcoin/bitcoin/pull/29753)
+- [Remove libbitcoinconsensus](https://github.com/bitcoin/bitcoin/pull/29648)
+- [doc: Override `-g` properly to skip debugging information](https://github.com/bitcoin/bitcoin/pull/29756)
+- [ci: Use clang-18](https://github.com/bitcoin/bitcoin/pull/29765)
+- [depends: qt 5.15.13](https://github.com/bitcoin/bitcoin/pull/29732)
+- [doc: Suggest installing dev packages for debian/ubuntu qt5 build](https://github.com/bitcoin/bitcoin/pull/29764)
+- [doc: fix typos](https://github.com/bitcoin/bitcoin/pull/29738)
+- [29242 Diagram check followups](https://github.com/bitcoin/bitcoin/pull/29724)
+- [wallet: Add `createwalletdescriptor` and `gethdkeys` RPCs for adding new automatically generated descriptors](https://github.com/bitcoin/bitcoin/pull/29130)
+- [mempool: Log added for dumping mempool transactions to disk](https://github.com/bitcoin/bitcoin/pull/29402)
+
+
+### [BDK](https://github.com/bitcoindevkit/bdk)
+- [Simplified `EsploraExt` API](https://github.com/bitcoindevkit/bdk/pull/1380)
+- [Fix: enable blocking-https-rustls feature on esplora client](https://github.com/bitcoindevkit/bdk/pull/1408)
+- [[wallet] Improve address API](https://github.com/bitcoindevkit/bdk/pull/1402)
+- [fix(wallet): remove the generic from wallet](https://github.com/bitcoindevkit/bdk/pull/1387)
+- [[chain] Make KeychainTxOutIndex more range based](https://github.com/bitcoindevkit/bdk/pull/1324)
+- [Bump bdk version to 1.0.0-alpha.9](https://github.com/bitcoindevkit/bdk/pull/1404)
+- [Upgrade bitcoin/miniscript dependencies](https://github.com/bitcoindevkit/bdk/pull/1177)
+- [Introduce proptesting, starting with `CheckPoint::range`](https://github.com/bitcoindevkit/bdk/pull/1397)
+- [Fix last seen unconfirmed](https://github.com/bitcoindevkit/bdk/pull/1385)
+- [feat(chain): add `get` and `range` methods to `CheckPoint`](https://github.com/bitcoindevkit/bdk/pull/1369)
+- [fix: remove deprecated max_satisfaction_weight](https://github.com/bitcoindevkit/bdk/pull/1345)
+- [Wrap transactions as `Arc<Transaction>` in `TxGraph`](https://github.com/bitcoindevkit/bdk/pull/1373)
+
+
+### [HWI](https://github.com/bitcoin-core/HWI)
+- [Add --emulators option to explicitly choose to detect emulators in enumeration and device auto detection](https://github.com/bitcoin-core/HWI/pull/729)
+- [Fix builds, update build containers, update dependencies, and fix ci.](https://github.com/bitcoin-core/HWI/pull/724)
+
+
+### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
+- [bitcoin: Stop slicing hashes](https://github.com/rust-bitcoin/rust-bitcoin/pull/2718)
+- [bitcoin: Upgrade base64 dependency](https://github.com/rust-bitcoin/rust-bitcoin/pull/2721)
+- [Automated daily update to rustc (to nightly-2024-04-27)](https://github.com/rust-bitcoin/rust-bitcoin/pull/2725)
+- [CI: Enable sync-labels for labeler](https://github.com/rust-bitcoin/rust-bitcoin/pull/2720)
+- [Automated daily update to rustc (to nightly-2024-04-25)](https://github.com/rust-bitcoin/rust-bitcoin/pull/2704)
+- [docs: Make rustdoc imports more terse](https://github.com/rust-bitcoin/rust-bitcoin/pull/2716)
+- [CI: Run kani daily job with latest version](https://github.com/rust-bitcoin/rust-bitcoin/pull/2709)
+- [Document the *_encode_signing_data_to functions](https://github.com/rust-bitcoin/rust-bitcoin/pull/2710)
+- [Set release version in deprecated attribute](https://github.com/rust-bitcoin/rust-bitcoin/pull/2699)
+- [Automated daily update to rustc (to nightly-2024-04-21)](https://github.com/rust-bitcoin/rust-bitcoin/pull/2678)
+- [Automated nightly rustfmt (2024-04-21)](https://github.com/rust-bitcoin/rust-bitcoin/pull/2702)
+- [Add backport section to contributing docs](https://github.com/rust-bitcoin/rust-bitcoin/pull/2685)
+- [Fix kani test](https://github.com/rust-bitcoin/rust-bitcoin/pull/2700)
+- [Fix example spend amount](https://github.com/rust-bitcoin/rust-bitcoin/pull/2696)
+- [Add docs for custom signets](https://github.com/rust-bitcoin/rust-bitcoin/pull/2692)
+- [Allow deprecated Params field](https://github.com/rust-bitcoin/rust-bitcoin/pull/2687)
+- [Fix kani codegen CI job](https://github.com/rust-bitcoin/rust-bitcoin/pull/2686)
+- [Allow m prefix in derivation paths](https://github.com/rust-bitcoin/rust-bitcoin/pull/2677)
+- [Automated nightly rustfmt (2024-04-14)](https://github.com/rust-bitcoin/rust-bitcoin/pull/2683)
+- [Improve deprecation notice](https://github.com/rust-bitcoin/rust-bitcoin/pull/2676)
+- [Automated daily update to rustc (to nightly-2024-04-09)](https://github.com/rust-bitcoin/rust-bitcoin/pull/2675)
+- [Automated nightly rustfmt (2024-04-07)](https://github.com/rust-bitcoin/rust-bitcoin/pull/2668)
+- [Minor fixes for latest rustc nightly](https://github.com/rust-bitcoin/rust-bitcoin/pull/2669)
+- [Remove deprecated legacy numeric methods](https://github.com/rust-bitcoin/rust-bitcoin/pull/2667)
+- [bitcoin: Release tracking PR: `v0.32.0-rc1` - oh yeah!](https://github.com/rust-bitcoin/rust-bitcoin/pull/2657)
+- [units: Release tracking PR: `0.1.1`](https://github.com/rust-bitcoin/rust-bitcoin/pull/2655)
+- [psbt: Return internal key for key path spend](https://github.com/rust-bitcoin/rust-bitcoin/pull/2652)
+- [Use pinned nightly in all the tools](https://github.com/rust-bitcoin/rust-bitcoin/pull/2658)
+- [Reduce usage of `Network` in the public API](https://github.com/rust-bitcoin/rust-bitcoin/pull/2541)
+- [units: Release tracking PR: `0.1.0` - BOOM!](https://github.com/rust-bitcoin/rust-bitcoin/pull/2651)
+- [Improve docs in pow module](https://github.com/rust-bitcoin/rust-bitcoin/pull/2650)
+- [just: Use pinned nightly](https://github.com/rust-bitcoin/rust-bitcoin/pull/2649)
+- [Upgrade secp dependency](https://github.com/rust-bitcoin/rust-bitcoin/pull/2636)
+- [Add hex parsing to `pow` types](https://github.com/rust-bitcoin/rust-bitcoin/pull/2514)
+- [Add check to max difficulty transition threshold](https://github.com/rust-bitcoin/rust-bitcoin/pull/2337)
+- [Implement ArbitraryOrd for relative::LockTime](https://github.com/rust-bitcoin/rust-bitcoin/pull/2581)
+- [internals: Release tracking PR `v0.3.0`](https://github.com/rust-bitcoin/rust-bitcoin/pull/2632)
+- [Automated nightly rustfmt (2024-03-31)](https://github.com/rust-bitcoin/rust-bitcoin/pull/2642)
+- [Introduce new one ACK carve-out rule](https://github.com/rust-bitcoin/rust-bitcoin/pull/2627)
+- [Remove stale changelog](https://github.com/rust-bitcoin/rust-bitcoin/pull/2640)
+
+
+### [libsecp](https://github.com/bitcoin-core/secp256k1)
+- [Signed-digit multi-comb ecmult_gen algorithm](https://github.com/bitcoin-core/secp256k1/pull/1058)
+- [ci: Note affected clangs in comment on ASLR quirk](https://github.com/bitcoin-core/secp256k1/pull/1515)
+- [msan: notate more variable assignments from assembly code](https://github.com/bitcoin-core/secp256k1/pull/1512)
+
+
+### [secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp)
+
+
+### [dlcspecs](https://github.com/discreetlogcontracts/dlcspecs)
+
+
+### [Core Lightning](https://github.com/ElementsProject/lightning)
+- [msggen: add disableoffer method](https://github.com/ElementsProject/lightning/pull/7233)
+- [msggen: add missing bkpr-* methods](https://github.com/ElementsProject/lightning/pull/7256)
+- [plugin/clnrest: Adding new config param as `clnrest-swagger-root`](https://github.com/ElementsProject/lightning/pull/7226)
+- [msggen: add delforward method](https://github.com/ElementsProject/lightning/pull/7260)
+- [poetry: add pyln-grpc-proto dependency](https://github.com/ElementsProject/lightning/pull/7239)
+- [Fetch block from a peer if we don't have it](https://github.com/ElementsProject/lightning/pull/7240)
+- [msggen: add low level fundchannel methods](https://github.com/ElementsProject/lightning/pull/7231)
+- [msggen: add methods autoclean-once and autoclean-status](https://github.com/ElementsProject/lightning/pull/7238)
+- [msggen: add delpay method](https://github.com/ElementsProject/lightning/pull/7232)
+- [Plugin wss proxy](https://github.com/ElementsProject/lightning/pull/7225)
+- [msggen: add low level openchannel methods](https://github.com/ElementsProject/lightning/pull/7230)
+- [spelling: its `listinvoices` and `listinvoicerequests`](https://github.com/ElementsProject/lightning/pull/7244)
+- [Tiny cleanups](https://github.com/ElementsProject/lightning/pull/7236)
+- [msggen: fix walk through nested json schemas](https://github.com/ElementsProject/lightning/pull/7218)
+- [newaddr: various fixes for msggen and docs](https://github.com/ElementsProject/lightning/pull/7217)
+- [schema: add multifundchannel generation](https://github.com/ElementsProject/lightning/pull/7215)
+- [plugins/clnrest: simple wrapper to handle missing python3.](https://github.com/ElementsProject/lightning/pull/7211)
+- [Pay: payment removal cleanup](https://github.com/ElementsProject/lightning/pull/7191)
+- [doc: updated schemas for json_examples](https://github.com/ElementsProject/lightning/pull/7181)
+- [ci: use Bitcoin Core 26.1](https://github.com/ElementsProject/lightning/pull/7196)
+- [pay: fix re-adding payment amount back to estimated capacity](https://github.com/ElementsProject/lightning/pull/7188)
+- [Renepay patch htlc_max=0 cases](https://github.com/ElementsProject/lightning/pull/7159)
+- [lightningd: fix memleak where we didn't free plugin_hook_request when it was finished.](https://github.com/ElementsProject/lightning/pull/7192)
+- [Faster startup](https://github.com/ElementsProject/lightning/pull/7175)
+- [fix some typos](https://github.com/ElementsProject/lightning/pull/7189)
+- [Reallow no gossip queries](https://github.com/ElementsProject/lightning/pull/7174)
+- [Remove spurious import](https://github.com/ElementsProject/lightning/pull/7184)
+- [gitignore: Ignore compile_commands.json](https://github.com/ElementsProject/lightning/pull/7182)
+
+
+### [eclair](https://github.com/ACINQ/eclair/)
+- [Update Bitcoin Core to v26.1](https://github.com/ACINQ/eclair/pull/2851)
+- [Relax assumptions about `gossip_queries`](https://github.com/ACINQ/eclair/pull/2842)
+- [Remove redundant check on `remoteScriptPubkey`](https://github.com/ACINQ/eclair/pull/2844)
+
+
+### [LDK](https://github.com/lightningdevkit/rust-lightning)
+- [#2964 Followups](https://github.com/lightningdevkit/rust-lightning/pull/3003)
+- [Drop completed blocked `ChannelMonitorUpdate`s on startup](https://github.com/lightningdevkit/rust-lightning/pull/3021)
+- [#2761 Followups](https://github.com/lightningdevkit/rust-lightning/pull/3004)
+- [Make `OutputSweeper::track_spendable_outputs` fallible](https://github.com/lightningdevkit/rust-lightning/pull/3015)
+- [Fixups for #2419](https://github.com/lightningdevkit/rust-lightning/pull/2981)
+- [Log pending in-flight updates when we are missing a monitor](https://github.com/lightningdevkit/rust-lightning/pull/2990)
+- [Fix typo in `OutputSweeper`](https://github.com/lightningdevkit/rust-lightning/pull/3009)
+- [Cut 0.0.123-beta](https://github.com/lightningdevkit/rust-lightning/pull/3005)
+- [Implement PSBT fields that were missing for a Signer](https://github.com/lightningdevkit/rust-lightning/pull/2761)
+- [Add `archive_fully_resolved_monitors` to `ChainMonitor`](https://github.com/lightningdevkit/rust-lightning/pull/2964)
+- [Acquire `per_peer_state` `write` lock earlier in `ChannelManager::write`](https://github.com/lightningdevkit/rust-lightning/pull/2998)
+- [Add splicing feature flag](https://github.com/lightningdevkit/rust-lightning/pull/3001)
+- [Update docs for ChannelClosed Event](https://github.com/lightningdevkit/rust-lightning/pull/2999)
+- [Add `OutputSweeper` utility persisting and sweeping spendable outputs](https://github.com/lightningdevkit/rust-lightning/pull/2825)
+- [Include a `PaymentContext` in `PaymentPurpose`](https://github.com/lightningdevkit/rust-lightning/pull/2970)
+- [Add tx_signatures.tlvs field (splicing-specific field in dual funding message)](https://github.com/lightningdevkit/rust-lightning/pull/2991)
+- [Fix race between handshake_complete and timer_tick_occurred](https://github.com/lightningdevkit/rust-lightning/pull/2993)
+- [Compact blinded path handling](https://github.com/lightningdevkit/rust-lightning/pull/2961)
+- [Add test coverage for cc78b77c715d6ef62693d4c1bc7190da990ec0fa](https://github.com/lightningdevkit/rust-lightning/pull/2987)
+- [Fix comparison in `get_dust_buffer_feerate` ](https://github.com/lightningdevkit/rust-lightning/pull/2971)
+- [`rustfmt`:  Format `sign` module](https://github.com/lightningdevkit/rust-lightning/pull/2910)
+- [Fix unknown handling in `impl_writeable_tlv_based_enum_upgradable`](https://github.com/lightningdevkit/rust-lightning/pull/2969)
+- [`ChannelManager` documentation refresh](https://github.com/lightningdevkit/rust-lightning/pull/2704)
+- [Fix new warnings causing CI build failures on rustc beta](https://github.com/lightningdevkit/rust-lightning/pull/2954)
+- [Split `PeerManager::handle_message` to avoid explicit `mem::drop`](https://github.com/lightningdevkit/rust-lightning/pull/2967)
+- [Delay broadcasting Channel Updates until connected to peers](https://github.com/lightningdevkit/rust-lightning/pull/2731)
+- [Reserve async signing related channel TLV types](https://github.com/lightningdevkit/rust-lightning/pull/2978)
+- [Support sending custom TLVs to to blinded recipients](https://github.com/lightningdevkit/rust-lightning/pull/2975)
+- [Support decoding HTLC onions once fully committed](https://github.com/lightningdevkit/rust-lightning/pull/2845)
+- [Add DecodeError::DangerousValue for decoding invalid channel managers](https://github.com/lightningdevkit/rust-lightning/pull/2974)
+- [Simplify implementation for KVStore trait objects](https://github.com/lightningdevkit/rust-lightning/pull/2976)
+
+
+### [lnd](https://github.com/lightningnetwork/lnd)
+- [build: bump version to v0.18.0-beta.rc1](https://github.com/lightningnetwork/lnd/pull/8701)
+- [build: update to kvdb v1.4.8](https://github.com/lightningnetwork/lnd/pull/8700)
+- [build: update to sqldb v1.0.2](https://github.com/lightningnetwork/lnd/pull/8699)
+- [tlv: add new types and functions](https://github.com/lightningnetwork/lnd/pull/8692)
+- [sqldb+kvdb: update to sqlite v1.29.8](https://github.com/lightningnetwork/lnd/pull/8696)
+- [channeldb: fix race in TestPackager by removing global test var](https://github.com/lightningnetwork/lnd/pull/8694)
+- [rpc: add default conf target back](https://github.com/lightningnetwork/lnd/pull/8693)
+- [[3/3]: Blinded Route Error Handling](https://github.com/lightningnetwork/lnd/pull/8485)
+- [lnrpc: ensure parsing of the Amp flag for payments is consistent](https://github.com/lightningnetwork/lnd/pull/8681)
+- [fix sync neutrino nodes](https://github.com/lightningnetwork/lnd/pull/8621)
+- [Remove io/ioutil package dependency](https://github.com/lightningnetwork/lnd/pull/7765)
+- [fix lncli bumpfee flag parsing](https://github.com/lightningnetwork/lnd/pull/8685)
+- [rpcserver: Make sure the arguments are provided when calling `DeleteAllPayments` RPC](https://github.com/lightningnetwork/lnd/pull/8672)
+- [lntest: add test node name to tmp directory name](https://github.com/lightningnetwork/lnd/pull/8590)
+- [itest: fix ascii](https://github.com/lightningnetwork/lnd/pull/8592)
+- [chore: fix struct names](https://github.com/lightningnetwork/lnd/pull/8658)
+- [dont use sweeper unconfirmed utxos](https://github.com/lightningnetwork/lnd/pull/8545)
+- [sweep: add docs and remove dead code](https://github.com/lightningnetwork/lnd/pull/8674)
+- [Add hieblmi to verify install script](https://github.com/lightningnetwork/lnd/pull/8678)
+- [Merge new sweeper branch to master](https://github.com/lightningnetwork/lnd/pull/8667)
+- [lnrpc: rejects positive inbound fees by default](https://github.com/lightningnetwork/lnd/pull/8627)
+- [tlv: add axiomatic RecordProducer implementation for Record](https://github.com/lightningnetwork/lnd/pull/8661)
+- [GitHub: use bitcoind v27.0 for CI](https://github.com/lightningnetwork/lnd/pull/8573)
+- [build: bump top level module to kvdb v1.4.6](https://github.com/lightningnetwork/lnd/pull/8643)
+- [mod: bump btcwallet to latest version](https://github.com/lightningnetwork/lnd/pull/8630)
+- [kvdb: bump to sqldb/v1.0.1](https://github.com/lightningnetwork/lnd/pull/8642)
+- [sqldb+kvdb: unify SQL error mapping and transaction retry for between the `kvdb` and `sqldb` packages](https://github.com/lightningnetwork/lnd/pull/8611)
+- [sqldb+invoices: turn sqldb into a go module](https://github.com/lightningnetwork/lnd/pull/8603)
+- [healthcheck: make sure chain backend has enough outbound peers](https://github.com/lightningnetwork/lnd/pull/8576)
+- [Revert "feature: make gossip queries compulsory"](https://github.com/lightningnetwork/lnd/pull/8615)
+- [[FIX] Small parenthesis error on v0.18 release notes](https://github.com/lightningnetwork/lnd/pull/8620)
+- [[2/3]: Support Forwarding of Blinded Payments](https://github.com/lightningnetwork/lnd/pull/8160)
+- [coin select: add coin selection strategy option to all on-chain RPCs](https://github.com/lightningnetwork/lnd/pull/8515)
+- [lnd: fix sweepall argument call.](https://github.com/lightningnetwork/lnd/pull/8609)
+- [sqldb: reset out of scope containers on potential ExecTx retry](https://github.com/lightningnetwork/lnd/pull/8595)
+- [routing: inbound fees send support](https://github.com/lightningnetwork/lnd/pull/6934)
+- [htlcswitch: add inbound routing fees receive support](https://github.com/lightningnetwork/lnd/pull/6703)
+- [[1/3]: Preparatory work for Forwarding Blinded Routes](https://github.com/lightningnetwork/lnd/pull/8159)
+- [gomod: bump `fn` version to v1.0.5](https://github.com/lightningnetwork/lnd/pull/8599)
+
+
+### [BIPs](https://github.com/bitcoin/bips)
+- [Update bip-0129.mediawiki](https://github.com/bitcoin/bips/pull/1390)
+- [bip-0158: remove unused and unrelated "data pushes" definition](https://github.com/bitcoin/bips/pull/1487)
+- [BIP 155: add Yggdrasil](https://github.com/bitcoin/bips/pull/1238)
+- [bip112: fix trivial typo](https://github.com/bitcoin/bips/pull/823)
+- [[bip38] Consistent hyphenation usage](https://github.com/bitcoin/bips/pull/786)
+- [Clarify exactly which scripts are witness outputs](https://github.com/bitcoin/bips/pull/1537)
+- [BIP 0174: bring back transparent background to figures](https://github.com/bitcoin/bips/pull/1321)
+- [bip-0324: fix git instruction order in test_sage_decoding.py](https://github.com/bitcoin/bips/pull/1471)
+- [BIP42: Update spelling of bitcoin](https://github.com/bitcoin/bips/pull/1507)
+- [Mention that BIP350 proposes to reduce the scope of BIP173 to Native Segwit v0](https://github.com/bitcoin/bips/pull/1582)
+- [21: Remove other libraries from reference implementations](https://github.com/bitcoin/bips/pull/1581)
+- [Update bip-0039-wordlists.md](https://github.com/bitcoin/bips/pull/1546)
+- [39: Remove other implementation sections](https://github.com/bitcoin/bips/pull/1576)
+- [BIP 2: Allow editors to fix typos](https://github.com/bitcoin/bips/pull/596)
+- [BIP 331: Ancestor Package Relay](https://github.com/bitcoin/bips/pull/1382)
+- [Finalize BIP-47](https://github.com/bitcoin/bips/pull/1068)
+- [BIP-32: Minor grammar fixes](https://github.com/bitcoin/bips/pull/984)
+- [BIP47: Missing word](https://github.com/bitcoin/bips/pull/746)
+- [Typo of test data in bip 143](https://github.com/bitcoin/bips/pull/748)
+- [Fix typo in BIP47](https://github.com/bitcoin/bips/pull/743)
+- [bip158: update test vectors](https://github.com/bitcoin/bips/pull/733)
+- [Fix typos in BIP 126](https://github.com/bitcoin/bips/pull/679)
+- [BIP-60: typo fix](https://github.com/bitcoin/bips/pull/1522)
+- [Fix typos in BIP141](https://github.com/bitcoin/bips/pull/1575)
+- [Fix typo in bip-0087.mediawiki](https://github.com/bitcoin/bips/pull/1486)
+- [Fix typos](https://github.com/bitcoin/bips/pull/1505)
+- [Specify which 1 byte push op codes are valid](https://github.com/bitcoin/bips/pull/487)
+- [BIP 143: Unify coin unit](https://github.com/bitcoin/bips/pull/496)
+- [BIP2: update BIP editors](https://github.com/bitcoin/bips/pull/1573)
+- [added colon at end of if statement - bip-0119.mediawiki](https://github.com/bitcoin/bips/pull/1484)
+- [Remove duplicate word in bip-0085.mediawiki](https://github.com/bitcoin/bips/pull/1530)
+- [feat: add TypeScript BIP39 implementation](https://github.com/bitcoin/bips/pull/1564)
+- [Fix Descriptor BIP typos](https://github.com/bitcoin/bips/pull/1560)
+- [BIP-00{43,49,84}: move to Standards Track + BIP-0044: mark as Final](https://github.com/bitcoin/bips/pull/1558)
+- [Update Bitcoin dev mailing list to Google Groups](https://github.com/bitcoin/bips/pull/1554)
+- [BIP21: Update Anchor Link](https://github.com/bitcoin/bips/pull/1393)
+- [Update BIP-380: fix typo](https://github.com/bitcoin/bips/pull/1510)
+- [BIP327: Fix Broken Links](https://github.com/bitcoin/bips/pull/1549)
+- [Clarify permitted status of markdown](https://github.com/bitcoin/bips/pull/1562)
+- [BIP-10: typo fix](https://github.com/bitcoin/bips/pull/1521)
+- [bip38 typo: specifid -> specified](https://github.com/bitcoin/bips/pull/608)
+
+
+### [BLIPs](https://github.com/lightning/blips)
+
+
+### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
+- [BOLT-04: use underscores in place of parens for blinded paths notation](https://github.com/lightning/bolts/pull/1151)
+
+
+## New Releases
+-
+
+## Events and Podcasts
+-
+
+## Mining
+-
+
+## Miscellaneous
+-
