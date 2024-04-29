@@ -14,22 +14,21 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
-
-
-#### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
-
+- [Timewarp Attacks and Long-Term Timelocked Script Paths](https://groups.google.com/g/bitcoindev/c/fs1GsApj-9A/m/gB_ktCpoAgAJ)
+- [Great Consensus Cleanup Revival](https://groups.google.com/g/bitcoindev/c/CAfm7D5ppjo/m/bYJ3BiOuAAAJ)
+- [BIP for OP_CHECKSIGFROMSTACK](https://groups.google.com/g/bitcoindev/c/Ts0FEkGvDkM/m/BWdtp8lkBwAJ)
+- [Updated BIP for OP_CAT](https://groups.google.com/g/bitcoindev/c/cWSU3yaDdhM/m/dkz9DAT7AAAJ)
+- [BIP for OP_INTERNALKEY](https://groups.google.com/g/bitcoindev/c/nfJHyaOPENM/m/kCasRxn7AAAJ)
+- [The Future of Bitcoin Testnet](https://groups.google.com/g/bitcoindev/c/9bL00vRj7OU/m/t6lm-nKmAQAJ)
+- [Signing a Bitcoin Transaction with Lamport Signatures (no changes needed)](https://groups.google.com/g/bitcoindev/c/mR53go5gHIk/m/-HV-RJrJAQAJ)
+- [Draft BIP for User-Defined Transaction Flags Policy & Strategy](https://groups.google.com/g/bitcoindev/c/NUKF4PZ0uLc/m/DuABj3PbAwAJ)
 
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
-- [[WITHDRAWN] Alternate script design for LNHANCE-Symmetry](https://delvingbitcoin.org/t/withdrawn-alternate-script-design-for-lnhance-symmetry)
-- [Bitcoin Inquisition 25.2](https://delvingbitcoin.org/t/bitcoin-inquisition-25-2)
 - [Exploding Keys - Covenant construction](https://delvingbitcoin.org/t/exploding-keys-covenant-construction)
 - [LIMO: combining the best parts of linearization search and merging](https://delvingbitcoin.org/t/limo-combining-the-best-parts-of-linearization-search-and-merging)
-- [CISA and Privacy](https://delvingbitcoin.org/t/cisa-and-privacy)
 - [Analyzing simple vault covenant with Alloy](https://delvingbitcoin.org/t/analyzing-simple-vault-covenant-with-alloy)
 - [LRC-20: Scalable and Fast Tokenization on Lightning](https://delvingbitcoin.org/t/lrc-20-scalable-and-fast-tokenization-on-lightning)
-- [Bitcoin Core 27.0 released](https://delvingbitcoin.org/t/bitcoin-core-27-0-released)
-- [Second Look at Weak Blocks](https://delvingbitcoin.org/t/second-look-at-weak-blocks)
-- [Can Game Theory Secure Scaling?](https://delvingbitcoin.org/t/can-game-theory-secure-scaling)
+- [Second Look at Weak Blocks](https://delvingbitcoin.org/t/second-look-at-weak-blocks/805)
 - [Research into the effects of a cluster size limited mempool in 2023](https://delvingbitcoin.org/t/research-into-the-effects-of-a-cluster-size-limited-mempool-in-2023)
 - [Inscriptionless Inscriptions](https://delvingbitcoin.org/t/inscriptionless-inscriptions)
 - [Constellation - a high performance Lightning-based L3. Feedback wanted](https://delvingbitcoin.org/t/constellation-a-high-performance-lightning-based-l3-feedback-wanted)
@@ -193,7 +192,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [BIP-00{43,49,84}: move to Standards Track + BIP-0044: mark as Final](https://github.com/bitcoin/bips/pull/1558)
 
 ## New Releases
--
+- [bitcoin-inquisition v25.2](https://github.com/bitcoin-inquisition/bitcoin/releases/tag/v25.2-inq)
 
 ## Events and Podcasts
 - [Bitcoin Halving block template livestream](https://www.youtube.com/watch?v=C6D9OEjnWmA&t=13189s)
