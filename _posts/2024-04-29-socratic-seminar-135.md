@@ -226,5 +226,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 - [Storing information in blocks via transaction ordering](https://twitter.com/salvatoshi/status/1772619501370036477)
 - [Team Slow and Steady](https://www.erisian.com.au/wordpress/2024/04/20/team-slow-and-steady)
 - [The Untold Story of ditto-b](https://blog.lopp.net/the-untold-story-of-ditto-b/)
-- [Wasabi Wallet and zkSNACKs family of products now blocking US residents](https://blog.wasabiwallet.io/zksnacks-now-blocking-u-s-residents-and-citizens/?ref=nobsbitcoin.com)
+- [Founders And CEO Of Samourai Wallet Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses]
+    - [Phoenix Wallet pulls out of US market](https://twitter.com/acinq_co/status/1783878732865740940_
+    - [Wasabi Wallet and zkSNACKs family of products now blocking US residents](https://blog.wasabiwallet.io/zksnacks-now-blocking-u-s-residents-and-citizens/?ref=nobsbitcoin.com)
 - [zkCoins](https://gist.github.com/RobinLinus/d036511015caea5a28514259a1bab119)
