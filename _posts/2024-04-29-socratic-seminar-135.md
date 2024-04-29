@@ -6,12 +6,10 @@ meetup: "https://www.meetup.com/bitdevsnyc/events/300543944/"
 ---
 
 ## Announcements
-Please join us for our next Socratic Seminar. A special thank you to our sponsors [CardCoins](https://cardcoins.co), [Chaincode Labs](https://chaincode.com) and [Wolf NYC](https://wolfnyc.com) for food, refreshments and event space.
+Please join us for our next Socratic Seminar. A special thank you to our sponsors [Chaincode Labs](https://chaincode.com) and [Wolf NYC](https://wolfnyc.com) for food, refreshments and event space.
 
 If you can't make it to the main event please join us at PUBKEY around 9:30PM. **Learn about this awesome new establishment [here](https://ny.eater.com/2022/12/13/23494423/pubkey-opening-manhattan-bitcoin-bar).**
 
-## Presentation
--
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
@@ -52,15 +50,7 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
     - [April 25](https://www.erisian.com.au/bitcoin-core-dev/log-2024-04-25.html#l-104)
 
 - Lightning Specification meeting
-    - <!--- TODO replace: [December 5th](https://github.com/lightning/bolts/issues/1046) --->
-- Core Lightning Developer Call
-    - <!--- TODO replace: [September 20th](https://diyhpl.us/wiki/transcripts/c-lightning/2021-09-20-developer-call/) --->
-- dlc-specs meetings
-    - <!--- TODO replace: [October 5th](https://github.com/discreetlogcontracts/dlcspecs/pull/175) --->
-- Lightning specification meetings
-    - <!--- TODO replace: [October 11th](https://github.com/lightningnetwork/lightning-rfc/issues/920) --->
-- Bitcoin Contracting Primitives Working Group
-	- <!--- TODO replace: [April 18th](https://github.com/ariard/bitcoin-contracting-primitives-wg/blob/main/meetings/meetings-18-04.md) --->
+
 
 ### Optech
 - [Bitcoin Optech Newsletter #299](https://bitcoinops.org/en/newsletters/2024/04/24/)
@@ -75,11 +65,25 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 
 
 ## Network Data
--
+- [Halving Fee Chaos](https://jimmysong.medium.com/halving-fee-chaos-4573b3c8bc9f)
+- [Invalid F2Pool blocks 783426 and 784121 (April 2023)](https://b10c.me/observations/11-invalid-blocks-783426-and-784121/)
+- [Invalid blocks being mined on testnet](https://twitter.com/0xB10C/status/1780212733805301931)
+- [Last notable enables full-RBF (ViaBTC)](https://twitter.com/peterktodd/status/1773141998721012102)
+- [List of pools participating in Antpool's tx accelerator](https://twitter.com/mononautical/status/1775165873516667128)
+- [LND nodes fail to broadcast txs with Bitcoin Core 27.0]
+- [Ocean halving block template left 37 BTC in fees on table](https://twitter.com/achow101/status/1781477641280684382)
+- [OP_CAT live on signat at block 193536](https://twitter.com/Arminsdev/status/1784079014702747685)
+- [Spiderpool attempts reorg](https://twitter.com/0xB10C/status/1781477794762965193/photo/1)
+- ViaBTC mines the halving block - [Block reward 40.71 BTC](https://mempool.space/block/0000000000000000000320283a032748cef8227873ff4872689bf23f1cda83a5) [Epic sat sold for 33.3 BTC](https://twitter.com/mononautical/status/1783528618720727288)
+- [ViaBTC transaction prioritization scheme broken](https://twitter.com/mononautical/status/1782791176434721202), [response](https://twitter.com/yhaiyang/status/1782989893284852146)
 
 ## CVEs and Research
 ### Research
--
+- [A Primer on Bitcoin Cross-Border Flows](https://www.imf.org/en/Publications/WP/Issues/2024/04/05/A-Primer-on-Bitcoin-Cross-Border-Flows-Measurement-and-Drivers-547429)
+- [Efficient and Reliable Service Detection on Bitcoin](https://orbi.uliege.be/handle/2268/314439)
+- [Efficient Linkable Ring Signatures: New Framework and Post-Quantum Instantiations](https://eprint.iacr.org/2024/553)
+- [Statistical Confidence in Mining Power Estimates for PoW Blockchains](https://arxiv.org/abs/2403.13736)
+- [SQIAsignHD: SQIsignHD Adaptor Signature](https://eprint.iacr.org/2024/561)
 
 ### InfoSec
 -
@@ -430,10 +434,36 @@ If you can't make it to the main event please join us at PUBKEY around 9:30PM. *
 -
 
 ## Events and Podcasts
--
+- [Bitcoin Halving block template livestream](https://www.youtube.com/watch?v=C6D9OEjnWmA&t=13189s)
 
 ## Mining
--
+- [3nm chip headed to the foundry, our new mining system, and more](https://www.mining.build/latest-updates-3nm-system/)
+- [Antminer S21 Technical Deep Dive](https://braiins.com/blog/antminer-s21-technical-deep-dive)
+- [AntPool & Bitmain Acting as 'a Pool of Pools'](https://www.nobsbitcoin.com/bitmain-antpool-pool-of-pools-report/)
+- [March 2024 Bitcoin Miner monthly update](https://compassmining.io/education/march-2024-bitcoin-miner-monthly-update/)
+- Hashrate Index Roundup - [April 8](https://hashrateindex.com/blog/hashrate-index-roundup-april-8-2024/), [April 22](https://hashrateindex.com/blog/hashrate-index-roundup-april-22-24/)
+- [The Halving Aftermath](https://nicosmid.substack.com/p/the-halving-aftermath)
 
 ## Miscellaneous
--
+- [Assigning BIP Numbers](https://blog.bitmex.com/assigning-bip-numbers/)
+- [Bitcoin Core Contributor Challenges](https://blog.lopp.net/bitcoin-core-contributor-challenges/)
+- [BitGo transitions to Native Segwit](https://blog.bitgo.com/transition-to-native-segwit-p2wsh-to-reduce-fees-4ffab0dde1c0)
+- [BitVM Bridges Considered Unsafe](https://medium.com/@twhittle/bitvm-bridges-considered-unsafe-9e1ce75c8176)
+- [Cashu-based reward system for a pleb-friendly Bitcoin Mining Pool](https://github.com/plebemineira/plebpool/discussions/7)
+- [CatVM](https://catvm.org/catvm.pdf)
+- [Chaincode Labs Bitcoin Scholarship](https://chaincode.applytojob.com/apply/F0HErM5FSk/Bitcoin-Scholarship)
+- [CISA Research](https://cisaresearch.org/)
+- [FBI probed bitcoin core developer event linked to Luke Dashjr’s BTC hack: Mike Schmidt](https://www.theblock.co/amp/post/287939/fbi-luke-dashjr-btc-hack)
+- [Federated Lightning Addresses for Mutiny+ Users](https://blog.mutinywallet.com/federated-lightning-addresses-for-mutiny-users/)
+- [How does CoinGrinder find the minimum input weight?](https://twitter.com/murchandamus/status/1783867419615744454)
+- [How Kraken Wallet addresses challenges in mobile crypto security](https://blog.kraken.com/product/kraken-wallet/kraken-wallet-security)
+- [HRF CISA Research Fellowship](https://hrf.org/hrfcisaresearchfellowship)
+- [Killing FPPS pools](https://twitter.com/ckpooldev/status/1783605323108102443)
+- [OpenSats Receives $1M Donation From The Reynolds Foundation](https://opensats.org/blog/opensats-receives-one-million-from-reynolds-foundation)
+- [Satoshi’s 2014 Email Hack](https://blog.bitmex.com/satoshis-2014-email-hack/)
+- [Stop Calling It MEV](https://bluematt.bitcoin.ninja/2024/04/16/stop-calling-it-mev/)
+- [Storing information in blocks via transaction ordering](https://twitter.com/salvatoshi/status/1772619501370036477)
+- [Team Slow and Steady](https://www.erisian.com.au/wordpress/2024/04/20/team-slow-and-steady)
+- [The Untold Story of ditto-b](https://blog.lopp.net/the-untold-story-of-ditto-b/)
+- [Wasabi Wallet and zkSNACKs family of products now blocking US residents](https://blog.wasabiwallet.io/zksnacks-now-blocking-u-s-residents-and-citizens/?ref=nobsbitcoin.com)
+- [zkCoins](https://gist.github.com/RobinLinus/d036511015caea5a28514259a1bab119)
