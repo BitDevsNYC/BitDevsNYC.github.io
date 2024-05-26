@@ -13,6 +13,7 @@ If you find yourself interested in tapping into your local Bitcoin community, we
 As a disclaimer, BitDevs NYC has no official associations with or oversight of these meetups. In some cases we have never even spoken to the organizers. An idea, much like a hash function, is one way. If you don't like what you see, feel free to [fork it](https://github.com/BitDevsNYC/BitDevsNYC.github.io/) and [run your own](https://bitdevs.org/running-a-great-socratic-seminar/).
 
 - [Amsterdam](https://bitdevsamsterdam.org/)
+- [Athens](https://bitdevs-athens.com/)
 - [Atlanta](https://atlantabitdevs.org/)
 - [Austin](https://austinbitdevs.com/)
 - [Berlin](https://bitdevs.berlin/)
