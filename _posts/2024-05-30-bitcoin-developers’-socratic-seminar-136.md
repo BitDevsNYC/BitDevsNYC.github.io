@@ -218,7 +218,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 
 ## New Releases
--
+- [Bisq 2.0.4](https://github.com/bisq-network/bisq2/releases/tag/v2.0.4)
 
 ## Events and Podcasts
 -
@@ -227,4 +227,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 -
 
 ## Miscellaneous
--
+- [Emessbee - coinjoin transactions without a coordinator](https://github.com/supertestnet/coinjoin-workshop)
+- [COPA vs Craig Wright ruling](https://www.judiciary.uk/wp-content/uploads/2024/05/COPA-v-Wright-Judgment.pdf)
+- [Cake Wallet implements silent payments](https://x.com/cakewallet/status/1791500775262437396)
+- [Wasabi Wallet shuts down coinjoin coordinator](https://x.com/wasabiwallet/status/1786083838415769673)
