@@ -10,12 +10,12 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 If you can't make it to the main event please join us at [PUBKEY](https://pubkey.bar/home) around 9:30PM.
 
-Follow New York BitDevs on Twitter: https://x.com/BitDevsNYC
+Follow New York BitDevs on [Twitter](https://x.com/BitDevsNYC)
 
 Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 ## Presentation
--
+- Async Lightning Payments by [Valentine Wallace](https://x.com/vallywal)
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
