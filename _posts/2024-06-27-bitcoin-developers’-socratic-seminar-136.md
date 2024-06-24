@@ -6,9 +6,7 @@ meetup: "https://www.meetup.com/bitdevsnyc/events/301367442/"
 ---
 
 ## Announcements
-Please join us for our next Socratic Seminar. A special thank you to our sponsors [Chaincode Labs](https://chaincode.com) and [Wolf NYC](https://wolfnyc.com) for food, refreshments and event space.
-
-If you can't make it to the main event please join us at [PUBKEY](https://pubkey.bar/home) around 9:30PM.
+Please join us for our next Socratic Seminar, hosted at PubKey! A special thank you to our sponsors [Chaincode Labs](https://chaincode.com) and [Wolf NYC](https://wolfnyc.com) for food, refreshments and event space.
 
 Follow New York BitDevs on [Twitter](https://x.com/BitDevsNYC)
 
