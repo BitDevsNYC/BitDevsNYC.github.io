@@ -17,36 +17,25 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
-#### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
-- [Great Consensus Cleanup Revival](https://groups.google.com/g/bitcoindev/c/CAfm7D5ppjo)
-- [Bitcoin Knots 27.1.knots20240621 released](https://groups.google.com/g/bitcoindev/c/12tKsENbBLE)
+
 - [Libre Relay v27.1 released with lower 1.25x replacement threshold](https://groups.google.com/g/bitcoindev/c/n2GNmnz0btw)
-- [Network partition recovery](https://groups.google.com/g/bitcoindev/c/_IhjeGKxJFs)
-- [OP_Expire mempool behavior](https://groups.google.com/g/bitcoindev/c/qEx4K8lGnLk)
-- [Bitcoin Core 26.2 release candidate 1 available](https://groups.google.com/g/bitcoindev/c/ADDP13kVhrM)
 - [Proposing a P2QRH BIP towards a quantum resistant soft fork](https://groups.google.com/g/bitcoindev/c/Aee8xKuIC2s)
 - [Bitcoin Core 27.1 released](https://groups.google.com/g/bitcoindev/c/9D-H6SLRsgY)
-- [v0.1.0 (pre-alpha) joinstr electrum plugin](https://groups.google.com/g/bitcoindev/c/bpVjmp6PAlY)
 - [BIP-? : Free seed mnemonics for steganography and attack-resistance](https://groups.google.com/g/bitcoindev/c/Lhfbuv0SazQ)
-- [AOPP 2.0 using OP_CAT and OP_CSFS](https://groups.google.com/g/bitcoindev/c/6SgD6_rmNAQ)
 - [Bitcoin Core 27.1 release candidate 1 available](https://groups.google.com/g/bitcoindev/c/iuObsRBuKQU)
 - [BIP for Testnet 4](https://groups.google.com/g/bitcoindev/c/0BYW_diKiVw)
 - [BIP 21 Updates](https://groups.google.com/g/bitcoindev/c/P0D5EZyw1Bk)
-- [How was the average size of blk*.data chosen?](https://groups.google.com/g/bitcoindev/c/UFquiXbSedQ)
 
 
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
 - [DoS Disclosure: LND Onion Bomb](https://delvingbitcoin.org/t/dos-disclosure-lnd-onion-bomb)
 - [Estimating Likelihood for Lightning Payments to be (in)feasible](https://delvingbitcoin.org/t/estimating-likelihood-for-lightning-payments-to-be-in-feasible)
-- [Bitcoin Core 27.1 Released](https://delvingbitcoin.org/t/bitcoin-core-27-1-released)
 - [Bitcoind Policy Estimator modes Analysis](https://delvingbitcoin.org/t/bitcoind-policy-estimator-modes-analysis)
 - [Drivechain with and without BIP 300/301](https://delvingbitcoin.org/t/drivechain-with-and-without-bip-300-301)
 - [Proposing a P2QRH BIP towards a quantum resistant soft fork](https://delvingbitcoin.org/t/proposing-a-p2qrh-bip-towards-a-quantum-resistant-soft-fork)
-- [Is it time to increase the blocksize cap?](https://delvingbitcoin.org/t/is-it-time-to-increase-the-blocksize-cap)
 - [Proof-of-work based signet faucet](https://delvingbitcoin.org/t/proof-of-work-based-signet-faucet)
 - [Who will run the CoinJoin coordinators?](https://delvingbitcoin.org/t/who-will-run-the-coinjoin-coordinators)
 - [Proposed risk framework for Bitcoin L2s and Sidechains](https://delvingbitcoin.org/t/proposed-risk-framework-for-bitcoin-l2s-and-sidechains)
-- [Bitcoin Core 27.1rc1 is now available](https://delvingbitcoin.org/t/bitcoin-core-27-1rc1-is-now-available)
 - [FE'd Up Covenants](https://delvingbitcoin.org/t/fed-up-covenants)
 
 
@@ -182,7 +171,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [BOLT 2: quiescence protocol (feature 34/35) option_quiesce](https://github.com/lightning/bolts/pull/869)
 
 ## New Releases
--
+- [Bitcoin Core 26.2 release candidate 1 available](https://groups.google.com/g/bitcoindev/c/ADDP13kVhrM)
 
 ## Events and Podcasts
 -
