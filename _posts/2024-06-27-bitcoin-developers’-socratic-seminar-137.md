@@ -86,6 +86,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [DoS: LND Onion Bomb](https://morehouse.github.io/lightning/lnd-onion-bomb/)
 - [Proposed Disclosure Policy for Bitcoin Core](https://gist.github.com/darosior/eb71638f20968f0dc896c4261a127be6)
 - ["Researchers" exploit Kraken exchange bug, steal $3 million in crypto](https://www.bleepingcomputer.com/news/security/researchers-exploit-kraken-exchange-bug-steal-3-million-in-crypto/)
+- [Fediment service degraded by DNS take over](https://github.com/fedimint/fedimint/issues/5482)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -214,3 +215,4 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Introducing Brollups](https://brqgoo.medium.com/introducing-brollups-18ec4081f6e7)
 - OpenSats LTS Grants - [Calle](https://opensats.org/blog/cashu-calle-receives-lts-grant), [William Casarin](https://opensats.org/blog/jb55-receives-lts-grant)
 - [Review of early block size increase proposals](https://x.com/ajtowns/status/1798185661570441383)
+- [EU "Chat Control" bill threatens e2e encryption](https://signal.org/blog/pdfs/upload-moderation.pdf)
