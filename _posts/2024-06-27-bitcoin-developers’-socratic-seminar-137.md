@@ -6,7 +6,7 @@ meetup: "https://www.meetup.com/bitdevsnyc/events/301367442/"
 ---
 
 ## Announcements
-Please join us for our next Socratic Seminar, hosted at PubKey! A special thank you to our sponsors [Chaincode Labs](https://chaincode.com) and [Wolf NYC](https://wolfnyc.com) for food, refreshments and event space.
+Please join us for our next Socratic Seminar, hosted at Pubkey! Food and drinks will be available for purchase from Pubkey. A limited tab will be available on a first-come basis. We thank [Wolf NYC](https://wolfnyc.com) for sponsoring the event.
 
 Follow New York BitDevs on [Twitter](https://x.com/BitDevsNYC)
 
@@ -45,9 +45,6 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
     - [June 6](https://www.erisian.com.au/bitcoin-core-dev/log-2024-06-06.html#l-68)
     - [June 13](https://www.erisian.com.au/bitcoin-core-dev/log-2024-06-13.html#l-81)
     - [June 20](https://www.erisian.com.au/bitcoin-core-dev/log-2024-06-20.html#l-127)
-
-- Lightning Specification meeting
-    - <!--- TODO replace: [December 5th](https://github.com/lightning/bolts/issues/1046) --->
 
 ### Optech
 - [Bitcoin Optech Newsletter #308](https://bitcoinops.org/en/newsletters/2024/06/21/)
