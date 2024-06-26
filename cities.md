@@ -26,6 +26,7 @@ As a disclaimer, BitDevs NYC has no official associations with or oversight of t
 - [Louisville](https://loubitdevs.org/)
 - [Miami](https://miamibitdevs.org/)
 - [Minneapolis](https://bitdevsmpls.org)
+- [Nashville](https://nashbitdevs.org)
 - [Norfolk](https://norfolkbitdevs.org/)
 - [Oslo](https://www.meetup.com/bitcoin-developers-oslo/)
 - [Paris](https://twitter.com/bitdevsfr)
