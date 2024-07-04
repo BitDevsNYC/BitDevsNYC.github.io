@@ -1,16 +1,16 @@
 ---
 layout: post
 type: socratic
-title: "Bitcoin Developers’ Socratic Seminar 137 (at PubKey!)"
+title: "Bitcoin Developers’ Socratic Seminar 1 (at HackerGarage!)"
 meetup: "https://www.meetup.com/bitdevsnyc/events/301367442/"
 ---
 
 ## Announcements
-Please join us for our next Socratic Seminar, hosted at Pubkey! Food and drinks will be available for purchase from Pubkey. A limited tab will be available on a first-come basis. We thank [Wolf NYC](https://wolfnyc.com) for sponsoring the event.
+Por favor, únete a nosotros para nuestro primer Seminario Socrático, hospedado en HackerGarage! Chelas y refrescos están disponibles para la compra y hay restaurantes cercanos para aquellos con hambre.
 
-Follow New York BitDevs on [Twitter](https://x.com/BitDevsNYC)
+Síguenos por [Twitter](https://x.com/BitDevsNYC)
 
-Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
+Síguenos por nostr: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
