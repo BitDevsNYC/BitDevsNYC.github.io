@@ -4,6 +4,4 @@ tagline: 'BitDevs es una comunidad para aquellos interesados en discutir y parti
 menu:
   - {name: 'About', url: '/about'}
   - {name: 'Events', url: '/events'}
-  - {name: 'Blog', url: '/blog'}
-  - {name: 'Meetup', url: 'https://www.meetup.com/BitDevsNYC/', external: true}
-  - {name: 'Cities', url: '/cities'}
+  - {name: 'Meetup', url: 'https://www.meetup.com/guadalajara-bitcoin-and-lightning/', external: true}
