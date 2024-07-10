@@ -6,7 +6,14 @@ meetup: "https://www.meetup.com/guadalajara-bitcoin-and-lightning/events/3021222
 ---
 
 ## Anuncios
+### Intro
 Por favor, únete a nosotros para nuestro primer Seminario Socrático, hospedado en HackerGarage! Chelas y refrescos están disponibles para la compra y hay restaurantes cercanos para aquellos con hambre.
+
+### Siempre recuerda
+- Respetar la privacidad de las personas
+- Se fomenta la interacción y hacer preguntas
+- [Reglas de la Casa Chatham](https://www.chathamhouse.org/about-us/chatham-house-rule)
+
 
 ## Temas de los que realmente hablaremos
 
