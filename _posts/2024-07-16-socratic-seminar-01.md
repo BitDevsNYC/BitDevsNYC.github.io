@@ -22,7 +22,7 @@ Por favor, únete a nosotros para nuestro primer Seminario Socrático, hospedado
 - [SmartZKCP](https://eprint.iacr.org/2024/941)
 - [Spaces](https://spacesprotocol.org/paper/)
 - [B2P Central](https://www.b2p-central.com/)
-- [Phoenix tiene bolt12](https://www.nobsbitcoin.com/phoenix-wallet-v2-3-1-phoenixd-v0-2-0/)
+- [Phoenix y Zeus tienen bolt12 y bip353](https://www.nobsbitcoin.com/phoenix-wallet-v2-3-1-phoenixd-v0-2-0/)
 
 ## Todo lo demás
 ### Cosas de firmas
