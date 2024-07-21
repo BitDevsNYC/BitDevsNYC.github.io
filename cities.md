@@ -35,6 +35,7 @@ As a disclaimer, BitDevs NYC has no official associations with or oversight of t
 - [San Francisco](https://www.sfbitcoindevs.org/)
 - [San Juan](https://sanjuanbitdevs.org/)
 - [São Paulo](https://bitdevsportugues.org)
+- [Singapore](https://bitdevs.sg/)
 - [Taipei](https://bitdevs.tw/)
 - [Tampa](https://tampabitdevs.io/)
 - [Vancouver](https://bitdevs.ca/)
