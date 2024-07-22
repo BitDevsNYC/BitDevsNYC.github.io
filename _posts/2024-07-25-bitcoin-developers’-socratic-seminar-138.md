@@ -6,9 +6,7 @@ meetup: "https://www.meetup.com/bitdevsnyc/events/302257324/"
 ---
 
 ## Announcements
-Please join us for our next Socratic Seminar. A special thank you to our sponsors [Chaincode Labs](https://chaincode.com) and [Wolf NYC](https://wolfnyc.com) for food, refreshments and event space.
-
-If you can't make it to the main event please join us at [PUBKEY](https://pubkey.bar/home) around 9:30PM.
+Please join us for our next Socratic Seminar, hosted at Pubkey! Food and drinks will be available for purchase from Pubkey. A limited tab will be available on a first-come basis. We thank [Wolf NYC](https://wolfnyc.com) for sponsoring the event.
 
 Follow New York BitDevs on [Twitter](https://x.com/BitDevsNYC)
 
@@ -84,6 +82,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Oracle misconfiguration leads to $7.5m hack of Rho Market](https://rekt.news/rho-market-rekt/)
 - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
 - [WazirX exchange hacked for $235m](https://rekt.news/wazirx-rekt/)
+- [Threat Brief: CVE-2024-6387 OpenSSH RegreSSHion Vulnerability](https://unit42.paloaltonetworks.com/threat-brief-cve-2024-6387-openssh/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -204,7 +203,11 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 -
 
 ## Mining
--
+- [Braiins unviels 1 TH/s Stratum V2 mini-miner](https://shop.braiins.com/products/braiins-bmm-100-mini-miner-pre-order)
 
 ## Miscellaneous
--
+- [Bitcoin Dev Project releases Bitcoin Search v2](https://bitcoinsearch.xyz/)
+- [BIP 353 resolver: human-readable names for Bitcoin payments](https://satsto.me/)
+- [Wasabi Wallet security incident report](https://github.com/WalletWasabi/WalletWasabi/discussions/13249)
+- [Innovations in BitVMX: Reducing Protocol Rounds](https://www.rootstocklabs.com/content-hub/innovations-in-bitvmx/)
+- [Definitive explanation of my weird Bitcoin transaction by Vojtěch Strnad](https://stacker.news/items/600187)
