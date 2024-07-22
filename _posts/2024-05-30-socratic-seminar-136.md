@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Bitcoin Developers’ Socratic Seminar 136"
+title: "Socratic Seminar 136"
 meetup: "https://www.meetup.com/bitdevsnyc/events/300946038/"
 ---
 
