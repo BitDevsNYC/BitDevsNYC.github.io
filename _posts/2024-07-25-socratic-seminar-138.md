@@ -230,6 +230,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 ## Miscellaneous
 - [Announcing the OpenSats Education Initiative](https://opensats.org/blog/announcing-the-opensats-education-initiative)
 - [BIP 353 Resolver](https://satsto.me/)
+- [Bitcoin Dev Project releases Bitcoin Search v2](https://bitcoinsearch.xyz/)
 - [Bitcoin Dollar](https://blog.nicolas-dorier.com/posts/bitcoin-dollar/)
 - [Bitcoinj bug causes Rootstock outage](https://blog.rootstock.io/noticia/incident-report-rootstock-peg-in-peg-out-service-outage-on-june-24th/)
 - [Can AMMs Be Built on Brollup?](https://brqgoo.medium.com/can-amms-be-built-on-brollup-8d296c2ec7a3)
@@ -238,6 +239,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [FROST Federation](https://blog.opdup.com/development-updates/2024/07/04/frost-federation.html)
 - [FROST Threshold Signatures for Multiple Channel Updates](https://blog.opdup.com/development-updates/2024/07/09/frost-signing-for-channel-updates.html)
 - [How Silent Payments Work](https://medium.com/@ottosch/how-silent-payments-work-41bea907d6b0)
+- [Innovations in BitVMX: Reducing Protocol Rounds](https://www.rootstocklabs.com/content-hub/innovations-in-bitvmx/)
 - [Introducing Brollup v2, Now Without The Trusted Setup](https://brqgoo.medium.com/introducing-brollup-v2-now-without-the-trusted-setup-fce9c0098177)
 - [Maelstrom Fund Announces Bitcoin Grant Program](https://maelstrom.fund/bitcoin-grant-program/)
 - [OP_CAT: THE PURR-FECT SOLUTION FOR COVENANTS?](https://blog.blockstream.com/op_cat-the-purr-fect-solution-for-covenants/)
