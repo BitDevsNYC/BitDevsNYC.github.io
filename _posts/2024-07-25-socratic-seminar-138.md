@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Bitcoin Developers’ Socratic Seminar 138 (at Pubkey!)"
+title: "Socratic Seminar 138 (at Pubkey!)"
 meetup: "https://www.meetup.com/bitdevsnyc/events/302257324/"
 ---
 
@@ -57,7 +57,15 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 
 ## Network Data
--
+- [Bitcoin Cash Mining Pool Phoenix dominance spikes to 89%](https://x.com/ParkerMerritt/status/1808909755491999857)
+- [Definitive explanation of my weird Bitcoin transaction](https://stacker.news/items/600187)
+- [First v3 Bitcoin transaction](https://mempool.space/tx/110da331fd5336038316c4709404aea5855afed21f054f5bba01bfef099d5da1)
+- Stale Blocks - [849233](https://x.com/0xB10C/status/1805169041478226364), [853051](https://x.com/0xB10C/status/1814664482121032119), [851170](https://x.com/0xB10C/status/1810247962594824500)
+- [stratum.work explorer](https://stratum.work/)
+- [Threat Brief: CVE-2024-6387 OpenSSH RegreSSHion Vulnerability](https://unit42.paloaltonetworks.com/threat-brief-cve-2024-6387-openssh/)
+- [UNCOMMON GOODS rune mints backstopping fees](https://x.com/mononautical/status/1810157834778378714)
+- [Wasabi Wallet coordinator & explorer](https://wasabist.io/)
+- [ZK Proof verified on signet](https://x.com/StarkWareLtd/status/1813929304209723700)
 
 ## CVEs and Research
 ### Research
@@ -65,6 +73,8 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Benchmarking GNNs Using Lightning Network Data](https://arxiv.org/pdf/2407.07916v1)
 - [Blockchain Space Tokenization](https://eprint.iacr.org/2024/1154)
 - [Bribe & Fork: Cheap Bribing Attacks via Forking Threat](http://arxiv.org/abs/2402.01363v2)
+- [From Slow Propagation to Partition: Analyzing Bitcoin Over Anonymous Routing](https://par.nsf.gov/biblio/10509863)
+- [RFC 9591 The Flexible Round-Optimized Schnorr Threshold (FROST) Protocol for Two‑Round Schnorr Signatures](https://www.rfc-editor.org/rfc/rfc9591.html)
 - [Simple Logarithmic-size LSAG signature](https://groups.google.com/g/bitcoindev/c/So2qDvkp5-E)
 - [Shared-Custodial Password-Authenticated Deterministic Wallets](https://eprint.iacr.org/2024/1118)
 - [Towards a Formal Foundation for Blockchain Rollups](https://arxiv.org/pdf/2406.16219v1)
@@ -75,6 +85,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Cloudflare blames recent outage on BGP hijacking incident](https://www.bleepingcomputer.com/news/security/cloudflare-blames-recent-outage-on-bgp-hijacking-incident/)
 - [DNS hijacks target crypto platforms registered with Squarespace](https://github.com/security-alliance/advisories/blob/main/2024-07-squarespace.pdf)
 - [CrowdStrike update crashes Windows systems, causes outages worldwide](https://www.bleepingcomputer.com/news/security/crowdstrike-update-crashes-windows-systems-causes-outages-worldwide/)
+	- [No drop in Bitcoin nodes following incident](https://x.com/0xB10C/status/1814261328317452572)
 - [Gitlab attacker can run pipeline jobs as an arbitrary user](https://about.gitlab.com/releases/2024/07/10/patch-release-gitlab-17-1-2-released/#an-attacker-can-run-pipeline-jobs-as-an-arbitrary-user)
 - [Indirector: High-Precision Branch Target Injection Attacks Exploiting the Indirect Branch Predictor](https://indirector.cpusec.org/index_files/Indirector_USENIX_Security_2024.pdf)
 - [Infinite approval attack triggers $9.7m lost in LiFi protocol](https://li.fi/knowledge-hub/incident-report-16th-july/)
@@ -82,7 +93,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Oracle misconfiguration leads to $7.5m hack of Rho Market](https://rekt.news/rho-market-rekt/)
 - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
 - [WazirX exchange hacked for $235m](https://rekt.news/wazirx-rekt/)
-- [Threat Brief: CVE-2024-6387 OpenSSH RegreSSHion Vulnerability](https://unit42.paloaltonetworks.com/threat-brief-cve-2024-6387-openssh/)
+- [Wasabi Wallet Security Incident Disclosure: July 9th-10th 2024](https://github.com/WalletWasabi/WalletWasabi/discussions/13249)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -188,6 +199,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 ### [BLIPs](https://github.com/lightning/blips)
 - [bLIP-0025: Allow forwarding HTLCs that underpay the onion encoded value](https://github.com/lightning/blips/pull/25)
+- [328, 390, 373: BIPs for MuSig2 derivation, descriptors, and PSBT fields](https://github.com/bitcoin/bips/pull/1540)
 
 
 ### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
@@ -200,14 +212,37 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Bitcoin Core 26.2](https://groups.google.com/g/bitcoindev/c/lw_687AVNjw)
 
 ## Events and Podcasts
--
+- [Bitcoin Explained: Silent Payments Part 2](https://podcasters.spotify.com/pod/show/bitcoin-explained/episodes/Episode-94-Silent-Payments-part-2-e2lo5p0)
+- [Matt Morehouse on Fuzz Testing the Lightning Network](https://brink.dev/blog/2024/06/25/eng-call-fuzz-testing-lightning/)
+- [SLP588 - Why are Empty Blocks Happening with OrangeSurf from mempool.space](https://podcasters.spotify.com/pod/show/stephan-livera/episodes/Why-are-Empty-Blocks-Happening-with-OrangeSurf-from-mempool-space-SLP588-e2ljpa1)
+- [SLP591 - Stable Channels with Tony Klausing](https://podcasters.spotify.com/pod/show/stephan-livera/episodes/Stable-Channels-with-Tony-Klausing-SLP591-e2m1q0f)
+- [The Bitcoin Development Podcast - Discussing Pre-0.21.0 Bitcoin Core Vulnerability Disclosures](https://podcasts.apple.com/us/podcast/discussing-pre-0-21-0-bitcoin-core-vulnerability-disclosures/id1594607631?i=1000661917126)
 
 ## Mining
-- [Braiins unviels 1 TH/s Stratum V2 mini-miner](https://shop.braiins.com/products/braiins-bmm-100-mini-miner-pre-order)
+- [Bitcoin miner Bitfarms sets vote date on Riot's attempted takeover](https://www.theblock.co/post/305089/bitcoin-miner-bitfarms-shareholder-vote-date-riot-takeover)
+- [Core Scientific to be first customer of Block's mining chip](https://www.mining.build/blog/first-mining-chip-customer/)
+- [Cryptocurrency mining as a novel virtual energy storage system in islanded and grid-connected microgrids](https://www.sciencedirect.com/science/article/pii/S0142061524001364)
+- [Mining Pool Game Theory during Forks](https://b10c.me/blog/014-mining-pool-game-theory-during-forks/)
+- [Network Hashrate Reaches 600 EH/s Amid Price Surge](https://nicosmid.substack.com/p/network-hashrate-reaches-600-ehs)
+- [State of the Market: Bitcoin Mining H1 Review in 21 Charts](https://nicosmid.substack.com/p/state-of-the-market-bitcoin-mining)
+- [The Development of Corsicana, The World’s Largest Bitcoin Mining Site](https://compassmining.io/education/the-development-of-corsicana-the-worlds-largest-bitcoin-mining-site/)
 
 ## Miscellaneous
-- [Bitcoin Dev Project releases Bitcoin Search v2](https://bitcoinsearch.xyz/)
-- [BIP 353 resolver: human-readable names for Bitcoin payments](https://satsto.me/)
-- [Wasabi Wallet security incident report](https://github.com/WalletWasabi/WalletWasabi/discussions/13249)
-- [Innovations in BitVMX: Reducing Protocol Rounds](https://www.rootstocklabs.com/content-hub/innovations-in-bitvmx/)
-- [Definitive explanation of my weird Bitcoin transaction by Vojtěch Strnad](https://stacker.news/items/600187)
+- [Announcing the OpenSats Education Initiative](https://opensats.org/blog/announcing-the-opensats-education-initiative)
+- [BIP 353 Resolver](https://satsto.me/)
+- [Bitcoin Dollar](https://blog.nicolas-dorier.com/posts/bitcoin-dollar/)
+- [Bitcoinj bug causes Rootstock outage](https://blog.rootstock.io/noticia/incident-report-rootstock-peg-in-peg-out-service-outage-on-june-24th/)
+- [Can AMMs Be Built on Brollup?](https://brqgoo.medium.com/can-amms-be-built-on-brollup-8d296c2ec7a3)
+- [Charting the Course to Mt. Gox Repayments](https://coinmetrics.substack.com/p/state-of-the-network-issue-268)
+- [Full COPA vs CSW judgment available](https://www.judiciary.uk/judgments/copa-v-wright/)
+- [FROST Federation](https://blog.opdup.com/development-updates/2024/07/04/frost-federation.html)
+- [FROST Threshold Signatures for Multiple Channel Updates](https://blog.opdup.com/development-updates/2024/07/09/frost-signing-for-channel-updates.html)
+- [How Silent Payments Work](https://medium.com/@ottosch/how-silent-payments-work-41bea907d6b0)
+- [Introducing Brollup v2, Now Without The Trusted Setup](https://brqgoo.medium.com/introducing-brollup-v2-now-without-the-trusted-setup-fce9c0098177)
+- [Maelstrom Fund Announces Bitcoin Grant Program](https://maelstrom.fund/bitcoin-grant-program/)
+- [OP_CAT: THE PURR-FECT SOLUTION FOR COVENANTS?](https://blog.blockstream.com/op_cat-the-purr-fect-solution-for-covenants/)
+- [Opensats Fifth Wave of Bitcoin Grants](https://opensats.org/blog/bitcoin-grants-july-2024)
+- [Roman Storm Judge Grants Delay of Tornado Cash Trial](https://www.therage.co/roman-storm-judge-grants-delay-of-tornado-cash-trial/)
+- [Script State From Lamport Signatures](https://blog.blockstream.com/script-state-from-lamport-signatures/)
+- [Silent Payments introduce bitflipping pitfall to hardware wallets](https://x.com/_benma_/status/1800910791585267948)
+- Spiral Grants - [thesimplekid](https://x.com/spiralbtc/status/1813257015889736071), [sivr2](https://x.com/spiralbtc/status/1813233378042474520), [Pavlenex](https://x.com/spiralbtc/status/1812874261725327552)
