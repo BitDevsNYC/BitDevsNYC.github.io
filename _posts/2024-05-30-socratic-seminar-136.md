@@ -30,9 +30,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup
 - [libsecp256k1 v0.5.0 released](https://groups.google.com/g/bitcoindev/c/zQfndwOTLOM)
 - [Test cases for signing legacy inputs in transactions](https://groups.google.com/g/bitcoindev/c/YCcmGnIhRgQ)
 
-
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
-- [DNM, eCash and privacy](https://delvingbitcoin.org/t/dnm-ecash-and-privacy)
 - [Tr(): rawnode() and rawleaf() support](https://delvingbitcoin.org/t/tr-rawnode-and-rawleaf-support)
 - [Silent Payments: Light Client Protocol](https://delvingbitcoin.org/t/silent-payments-light-client-protocol)
 - [Mutual exclusiveness of op_codes](https://delvingbitcoin.org/t/mutual-exclusiveness-of-op-codes)
@@ -45,7 +43,6 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup
 - [Satoshi Style Message Signing](https://delvingbitcoin.org/t/satoshi-style-message-signing)
 - [Pools without covenants](https://delvingbitcoin.org/t/pools-without-covenants)
 - [Deterministic tx selection for censorship resistance](https://delvingbitcoin.org/t/deterministic-tx-selection-for-censorship-resistance)
-
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
@@ -62,23 +59,32 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup
     - [May 20](https://github.com/lightning/bolts/issues/1164)
 
 ### Optech
-- [Bitcoin Optech Newsletter #304](https://bitcoinops.org/en/newsletters/2024/05/24/)
-- [Bitcoin Optech Newsletter #303](https://bitcoinops.org/en/newsletters/2024/05/17/)
-    - [Bitcoin Optech Newsletter #303 Recap Podcast](https://bitcoinops.org/en/podcast/2024/05/21/)
-- [Bitcoin Optech Newsletter #302](https://bitcoinops.org/en/newsletters/2024/05/15/)
-    - [Bitcoin Optech Newsletter #302 Recap Podcast](https://bitcoinops.org/en/podcast/2024/05/16/)
-- [Bitcoin Optech Newsletter #301](https://bitcoinops.org/en/newsletters/2024/05/08/)
-    - [Bitcoin Optech Newsletter #301 Recap Podcast](https://bitcoinops.org/en/podcast/2024/05/09/)
 - [Bitcoin Optech Newsletter #300](https://bitcoinops.org/en/newsletters/2024/05/01/)
     - [Bitcoin Optech Newsletter #300 Recap Podcast](https://bitcoinops.org/en/podcast/2024/05/02/)
-
+- [Bitcoin Optech Newsletter #301](https://bitcoinops.org/en/newsletters/2024/05/08/)
+    - [Bitcoin Optech Newsletter #301 Recap Podcast](https://bitcoinops.org/en/podcast/2024/05/09/)
+- [Bitcoin Optech Newsletter #302](https://bitcoinops.org/en/newsletters/2024/05/15/)
+    - [Bitcoin Optech Newsletter #302 Recap Podcast](https://bitcoinops.org/en/podcast/2024/05/16/)
+- [Bitcoin Optech Newsletter #303](https://bitcoinops.org/en/newsletters/2024/05/17/)
+    - [Bitcoin Optech Newsletter #303 Recap Podcast](https://bitcoinops.org/en/podcast/2024/05/21/)
+- [Bitcoin Optech Newsletter #304](https://bitcoinops.org/en/newsletters/2024/05/24/)
 
 ## Network Data
--
+- [2010 P2Pk coinbases on the move](https://mempool.space/tx/fe6b7bf8fb618e33c56b80bc35dc3a0ca282f78b72fe707acc521b5ee0ebc702)
+- [BTCcom pool, Binance pool, Poolin, EMCD, Rawpool, and possibly Braiins* have exactly the same template and custom transaction prioritization as AntPoo](https://nostr.com/note1qckcs4y67eyaawad96j7mxevucgygsfwxg42cvlrs22mxptrg05qtv0jz3)
+- [First mainnet *multi-hop asset* payment w/ Taproot Asset channels](https://x.com/roasbeef/status/1788624974728790471)
+- [Proportions of Inscriptions, BRC20, and Runes](https://dune.com/murchandamus/inscription-brc20-weight-and-percentage)
 
 ## CVEs and Research
 ### Research
--
+- [Channel Balance Interpolation in the Lightning Network via Machine Learning](https://arxiv.org/abs/2405.12087v1)
+- [From Slow Propagation to Partition: Analyzing Bitcoin Over Anonymous Routing](https://par.nsf.gov/biblio/10509863)
+- [Fully Automated Selfish Mining Analysis in Efficient Proof Systems Blockchains](https://arxiv.org/abs/2405.04420v1)
+- [Optimizing Virtual Payment Channel Establishment in the Face of On-Path Adversaries](https://arxiv.org/abs/2011.14341v2)
+- [Payout Races and Congested Channels: A Formal Analysis of Security in the Lightning Network](https://arxiv.org/abs/2405.02147v1)
+- [PoW Security-Latency under Random Delays and the Effect of Transaction Fees](https://arxiv.org/abs/2405.04526)
+- [Securing Lightning Channels against Rational Miners](https://eprint.iacr.org/2024/826)
+- [Transaction Fee Estimation in the Bitcoin System](https://arxiv.org/abs/2405.15293v1)
 
 ### InfoSec
 -
@@ -91,7 +97,6 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup
 - [net: add ASMap info in `getrawaddrman` RPC](https://github.com/bitcoin/bitcoin/pull/30062)
 - [Update libsecp256k1 subtree to current master](https://github.com/bitcoin/bitcoin/pull/30120)
 - [net: make the list of known message types a compile time constant](https://github.com/bitcoin/bitcoin/pull/29421)
-- [doc: Update NetBSD Build Guide](https://github.com/bitcoin/bitcoin/pull/30143)
 - [wallet: Implement independent BDB parser](https://github.com/bitcoin/bitcoin/pull/26606)
 - [Support JSON-RPC 2.0 when requested by client](https://github.com/bitcoin/bitcoin/pull/27101)
 - [p2p: detect addnode cjdns peers in GetAddedNodeInfo()](https://github.com/bitcoin/bitcoin/pull/30085)
@@ -114,7 +119,6 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup
 - [build: Bump clang minimum supported version to 15](https://github.com/bitcoin/bitcoin/pull/29165)
 - [guix: remove bzip2 from deps](https://github.com/bitcoin/bitcoin/pull/29895)
 
-
 ### [BDK](https://github.com/bitcoindevkit/bdk)
 - [fix(export): add tr descriptor](https://github.com/bitcoindevkit/bdk/pull/1393)
 - [Update `bdk_electrum` crate to use sync/full-scan structs](https://github.com/bitcoindevkit/bdk/pull/1403)
@@ -122,7 +126,6 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup
 - [test(wallet): add thread safety test](https://github.com/bitcoindevkit/bdk/pull/1417)
 - [Introduce universal sync/full-scan structures for spk-based syncing](https://github.com/bitcoindevkit/bdk/pull/1413)
 - [Add new crate `bdk-persist`](https://github.com/bitcoindevkit/bdk/pull/1412)
-
 
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 - [Add an `AddressData` type](https://github.com/rust-bitcoin/rust-bitcoin/pull/2808)
@@ -132,16 +135,13 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup
 - [Default to forward for tagged hashes](https://github.com/rust-bitcoin/rust-bitcoin/pull/2707)
 - [hashes: Modify trait bounds](https://github.com/rust-bitcoin/rust-bitcoin/pull/2746)
 
-
 ### [libsecp](https://github.com/bitcoin-core/secp256k1)
 - [tests: call `secp256k1_ecmult_multi_var` with a non-`NULL` error callback](https://github.com/bitcoin-core/secp256k1/pull/1528)
 - [check-abi: explicitly provide public headers](https://github.com/bitcoin-core/secp256k1/pull/1524)
 - [Add secp256k1_pubkey_sort](https://github.com/bitcoin-core/secp256k1/pull/1518)
 
-
 ### [secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp)
 - [generator: massively speed up serialization](https://github.com/BlockstreamResearch/secp256k1-zkp/pull/294)
-
 
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
 - [grpc: addpsbtoutput command](https://github.com/ElementsProject/lightning/pull/7108)
@@ -168,12 +168,10 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup
 - [`cln_plugin` : Support wildcard subscriptions](https://github.com/ElementsProject/lightning/pull/7106)
 - [Pay listpeerchannels fix](https://github.com/ElementsProject/lightning/pull/7235)
 
-
 ### [eclair](https://github.com/ACINQ/eclair/)
 - [Cleanup of RouteBlinding feature](https://github.com/ACINQ/eclair/pull/2856)
 - [Fix TransactionsSpec tests](https://github.com/ACINQ/eclair/pull/2857)
 - [Implicit node id in offers with blinded paths](https://github.com/ACINQ/eclair/pull/2852)
-
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
 - [Ignore partially-pruned channels during routing](https://github.com/lightningdevkit/rust-lightning/pull/3038)
@@ -185,7 +183,6 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup
 - [Include excess counterparty commitment transaction fees in dust exposure](https://github.com/lightningdevkit/rust-lightning/pull/3045)
 - [Add error handling for channels which fail to be created in `funding_transaction_generated_intern`](https://github.com/lightningdevkit/rust-lightning/pull/3029)
 - [Sending to `Offer` without `signing_pubkey`](https://github.com/lightningdevkit/rust-lightning/pull/3017)
-
 
 ### [lnd](https://github.com/lightningnetwork/lnd)
 - [multi: Inbound fees are retained when not provided](https://github.com/lightningnetwork/lnd/pull/8758)
@@ -200,7 +197,6 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup
 - [sweep: make `TxPublisher.currentHeight` atomic](https://github.com/lightningnetwork/lnd/pull/8716)
 - [invoices: if there are no invoices make gc noop](https://github.com/lightningnetwork/lnd/pull/8712)
 
-
 ### [BIPs](https://github.com/bitcoin/bips)
 - [BIP 352: Silent Payments](https://github.com/bitcoin/bips/pull/1458)
 - [BIP 388: Wallet Policies for Descriptor Wallets](https://github.com/bitcoin/bips/pull/1389)
@@ -209,25 +205,38 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup
 - [Update BIP 340 with fresher info on multi-, threshold, and blind signatures](https://github.com/bitcoin/bips/pull/1583)
 - [(BIP322) remove empty message requirement for full (proof-of-funds) proofs](https://github.com/bitcoin/bips/pull/1352)
 
-
-### [BLIPs](https://github.com/lightning/blips)
-
-
-
-### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
-
-
 ## New Releases
 - [Bisq 2.0.4](https://github.com/bisq-network/bisq2/releases/tag/v2.0.4)
+- [Bitcoin Inquisition 27.0](https://github.com/bitcoin-inquisition/bitcoin/releases/tag/v27.0-inq)
+- [libsecp256k1 v0.5.0](https://github.com/bitcoin-core/secp256k1/releases/tag/v0.5.0)
+- [lnd v0.18.0-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.18.0-beta)
 
 ## Events and Podcasts
--
+- bitcoin++ ATX script edition - [livestream 1](https://www.youtube.com/watch?v=gUAkJlSLpW4), [livestream 2](https://www.youtube.com/watch?v=1RJF3nugRDs)
 
 ## Mining
--
+- [An integrated landfill-gas-to-energy and Bitcoin mining model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4810964)
+- [How to Build a $20 Billion Semiconductor Fab](https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor)
+- [Venezuela will disconnect all cryptocurrency mining farms to control electricity demand](https://albertonews.com/nacionales/venezuela-desconectara-todas-las-granjas-de-mineria-de-criptomonedas-para-controlar-demanda-electrica/)
+- [White House Issues An Executive Order For Chinese Miners To Leave Cheyenne](https://www.tftc.io/white-house-executive-order-bitcoin-wyoming/)
 
 ## Miscellaneous
-- [Emessbee - coinjoin transactions without a coordinator](https://github.com/supertestnet/coinjoin-workshop)
+- [Announcing Harbor](https://blog.mutinywallet.com/harbor/)
+- [Announcing the Peer-to-Peer Rights Fund](https://x.com/DavidZell_/status/1792586147182285292)
+- [Bitcoin's Precarious Position](https://bluematt.bitcoin.ninja/2024/05/11/bitcoins-precarious-position/)
 - [COPA vs Craig Wright ruling](https://www.judiciary.uk/wp-content/uploads/2024/05/COPA-v-Wright-Judgment.pdf)
 - [Cake Wallet implements silent payments](https://x.com/cakewallet/status/1791500775262437396)
+- [DSL Taproot Coinbase & Optimised Docker Image](https://blog.opdup.com/development-updates/2024/05/20/dsl-taproot-coinbase-docker-image.html)
+- [Emessbee - coinjoin transactions without a coordinator](https://github.com/supertestnet/coinjoin-workshop)
+- [FROST Library for Point to Point Networks](https://blog.opdup.com/development-updates/2024/05/04/p2p-channels-for-frost.html)
+- [Griefing Bitcoin's Testnet](https://blog.lopp.net/griefing-bitcoin-testnet/)
+- [Introducing SNARKnado](https://www.alpenlabs.io/blog/snarknado-practical-round-efficient-snark-verifier-on-bitcoin)
+- [Improving Baselayer Privacy with Dandelion++](https://www.therage.co/dandelion/)
+- [OCEAN innovates: Bitcoin miners offered first ever Lightning Payouts using BOLT12 ](https://newsdirect.com/news/ocean-innovates-bitcoin-miners-offered-first-ever-lightning-payouts-using-bolt12-946331135)
+- [OpenSats Grants Long-Term Support for Shashwat Vangani](https://opensats.org/blog/shashwat-vangani-receives-lts-grant)
+- [Penlock - open-source, cryptographically secure, printable paper-computer](https://beta.penlock.io/)
+- Spiral Grant - [Sean Giligan](https://x.com/spiralbtc/status/1792584819366416527)
+- [Tornado Cash Developer Alexey Pertsev Found Guilty, Sentenced to 64 Months in Prison by Dutch Court](https://www.coindesk.com/policy/2024/05/14/tornado-cash-developer-alexey-pertsev-found-guilty-of-money-laundering/)
+- [Two brothers arrested for exploiting MEV relay](https://www.justice.gov/opa/pr/two-brothers-arrested-attacking-ethereum-blockchain-and-stealing-25m-cryptocurrency)
 - [Wasabi Wallet shuts down coinjoin coordinator](https://x.com/wasabiwallet/status/1786083838415769673)
+- [Zeus LN Node - Advanced Usage](https://darthcoin.substack.com/p/zeus-node-advanced-usage)
