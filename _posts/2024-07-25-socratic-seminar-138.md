@@ -62,7 +62,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [First v3 Bitcoin transaction](https://mempool.space/tx/110da331fd5336038316c4709404aea5855afed21f054f5bba01bfef099d5da1)
 - Stale Blocks - [849233](https://x.com/0xB10C/status/1805169041478226364), [853051](https://x.com/0xB10C/status/1814664482121032119), [851170](https://x.com/0xB10C/status/1810247962594824500)
 - [stratum.work explorer](https://stratum.work/)
-- [Threat Brief: CVE-2024-6387 OpenSSH RegreSSHion Vulnerability](https://unit42.paloaltonetworks.com/threat-brief-cve-2024-6387-openssh/)
+
 - [UNCOMMON GOODS rune mints backstopping fees](https://x.com/mononautical/status/1810157834778378714)
 - [Wasabi Wallet coordinator & explorer](https://wasabist.io/)
 - [ZK Proof verified on signet](https://x.com/StarkWareLtd/status/1813929304209723700)
@@ -92,6 +92,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Malicious PyPi Package triggers $8m hack on Bittensor](https://rekt.news/bittensor-rekt/)
 - [Oracle misconfiguration leads to $7.5m hack of Rho Market](https://rekt.news/rho-market-rekt/)
 - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
+- [Threat Brief: CVE-2024-6387 OpenSSH RegreSSHion Vulnerability](https://unit42.paloaltonetworks.com/threat-brief-cve-2024-6387-openssh/)
 - [WazirX exchange hacked for $235m](https://rekt.news/wazirx-rekt/)
 - [Wasabi Wallet Security Incident Disclosure: July 9th-10th 2024](https://github.com/WalletWasabi/WalletWasabi/discussions/13249)
 
