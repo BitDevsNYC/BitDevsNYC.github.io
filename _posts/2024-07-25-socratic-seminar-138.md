@@ -6,7 +6,7 @@ meetup: "https://www.meetup.com/bitdevsnyc/events/302257324/"
 ---
 
 ## Announcements
-Please join us for our next Socratic Seminar, hosted at Pubkey! Food and drinks will be available for purchase from Pubkey. A limited tab will be available on a first-come basis. We thank [Wolf NYC](https://wolfnyc.com) for sponsoring the event.
+Please join us for our next Socratic Seminar, hosted at Pubkey! Food and drinks will be available for purchase from Pubkey. A limited tab will be available on a first-come basis. We thank [Wolf NYC](https://wolfnyc.com) for sponsoring the event. Discussion topics for the event are denoted with a 👉. 
 
 Follow New York BitDevs on [Twitter](https://x.com/BitDevsNYC)
 
@@ -21,7 +21,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [BIP Authors: These BIPs could be Final](https://groups.google.com/g/bitcoindev/c/Kn0z4Oq-6Wo)
 - [Public disclosure of 10 vulnerabilities affecting Bitcoin Core < 0.21.0](https://groups.google.com/g/bitcoindev/c/_ys3Eu8-ORA)
 - [Unlocking Blockchain UTXO Transactional Patterns and Their Effect on Storage and Throughput Trade-Offs](https://groups.google.com/g/bitcoindev/c/8WTQ_QmKh-k)
-- [Bitcoin Core Security Disclosure Policy](https://groups.google.com/g/bitcoindev/c/Q2ZGit2wF7w)
+- 👉 [Bitcoin Core Security Disclosure Policy](https://groups.google.com/g/bitcoindev/c/Q2ZGit2wF7w)
 - [BIP-85 Champion Unreachable? Please weigh in.](https://groups.google.com/g/bitcoindev/c/vo_L1pDZblM)
 
 
@@ -59,13 +59,12 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 ## Network Data
 - [Bitcoin Cash Mining Pool Phoenix dominance spikes to 89%](https://x.com/ParkerMerritt/status/1808909755491999857)
 - [Definitive explanation of my weird Bitcoin transaction](https://stacker.news/items/600187)
-- [First v3 Bitcoin transaction](https://mempool.space/tx/110da331fd5336038316c4709404aea5855afed21f054f5bba01bfef099d5da1)
+- 👉 [First v3 Bitcoin transaction](https://mempool.space/tx/110da331fd5336038316c4709404aea5855afed21f054f5bba01bfef099d5da1)
 - Stale Blocks - [849233](https://x.com/0xB10C/status/1805169041478226364), [853051](https://x.com/0xB10C/status/1814664482121032119), [851170](https://x.com/0xB10C/status/1810247962594824500)
-- [stratum.work explorer](https://stratum.work/)
-
+- 👉 [stratum.work explorer](https://stratum.work/)
 - [UNCOMMON GOODS rune mints backstopping fees](https://x.com/mononautical/status/1810157834778378714)
 - [Wasabi Wallet coordinator & explorer](https://wasabist.io/)
-- [ZK Proof verified on signet](https://x.com/StarkWareLtd/status/1813929304209723700)
+- 👉 [ZK Proof verified on signet](https://x.com/StarkWareLtd/status/1813929304209723700)
 
 ## CVEs and Research
 ### Research
@@ -84,7 +83,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 ### InfoSec
 - [Cloudflare blames recent outage on BGP hijacking incident](https://www.bleepingcomputer.com/news/security/cloudflare-blames-recent-outage-on-bgp-hijacking-incident/)
 - [DNS hijacks target crypto platforms registered with Squarespace](https://github.com/security-alliance/advisories/blob/main/2024-07-squarespace.pdf)
-- [CrowdStrike update crashes Windows systems, causes outages worldwide](https://www.bleepingcomputer.com/news/security/crowdstrike-update-crashes-windows-systems-causes-outages-worldwide/)
+- 👉 [CrowdStrike update crashes Windows systems, causes outages worldwide](https://www.bleepingcomputer.com/news/security/crowdstrike-update-crashes-windows-systems-causes-outages-worldwide/)
 	- [No drop in Bitcoin nodes following incident](https://x.com/0xB10C/status/1814261328317452572)
 - [Gitlab attacker can run pipeline jobs as an arbitrary user](https://about.gitlab.com/releases/2024/07/10/patch-release-gitlab-17-1-2-released/#an-attacker-can-run-pipeline-jobs-as-an-arbitrary-user)
 - [Indirector: High-Precision Branch Target Injection Attacks Exploiting the Indirect Branch Predictor](https://indirector.cpusec.org/index_files/Indirector_USENIX_Security_2024.pdf)
@@ -94,7 +93,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
 - [Threat Brief: CVE-2024-6387 OpenSSH RegreSSHion Vulnerability](https://unit42.paloaltonetworks.com/threat-brief-cve-2024-6387-openssh/)
 - [WazirX exchange hacked for $235m](https://rekt.news/wazirx-rekt/)
-- [Wasabi Wallet Security Incident Disclosure: July 9th-10th 2024](https://github.com/WalletWasabi/WalletWasabi/discussions/13249)
+- 👉 [Wasabi Wallet Security Incident Disclosure: July 9th-10th 2024](https://github.com/WalletWasabi/WalletWasabi/discussions/13249)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -122,6 +121,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [assumeutxo: Check snapshot base block is not in invalid chain](https://github.com/bitcoin/bitcoin/pull/30267)
 - [kernel: remove mempool_persist](https://github.com/bitcoin/bitcoin/pull/30344)
 - [init: Add option for rpccookie permissions (replace 26088)](https://github.com/bitcoin/bitcoin/pull/28167)
+- 👉 [policy: Add PayToAnchor(P2A), OP_1 <0x4e73> as a standard output script for spending](https://github.com/bitcoin/bitcoin/pull/30352)
 
 
 ### [BDK](https://github.com/bitcoindevkit/bdk)
@@ -156,7 +156,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 ### [eclair](https://github.com/ACINQ/eclair/)
 - [Reject new `static_remote_key` channels](https://github.com/ACINQ/eclair/pull/2881)
-- [Activate route blinding and quiescence features](https://github.com/ACINQ/eclair/pull/2878)
+- 👉 [Activate route blinding and quiescence features](https://github.com/ACINQ/eclair/pull/2878)
 - [Monitor onion messages](https://github.com/ACINQ/eclair/pull/2877)
 
 
@@ -200,13 +200,13 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 ### [BLIPs](https://github.com/lightning/blips)
 - [bLIP-0025: Allow forwarding HTLCs that underpay the onion encoded value](https://github.com/lightning/blips/pull/25)
-- [328, 390, 373: BIPs for MuSig2 derivation, descriptors, and PSBT fields](https://github.com/bitcoin/bips/pull/1540)
 
 
 ### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
 - [Clarify onion spec: part 1 (the uncontroversial bits)](https://github.com/lightning/bolts/pull/1181)
 - [bolt4+proposals: fix `max_cltv_expiry` calculation](https://github.com/lightning/bolts/pull/1176)
 - [Drop the required `channel_update` in failure onions](https://github.com/lightning/bolts/pull/1173)
+- [328, 390, 373: BIPs for MuSig2 derivation, descriptors, and PSBT fields](https://github.com/bitcoin/bips/pull/1540)
 
 
 ## New Releases
@@ -233,7 +233,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [BIP 353 Resolver](https://satsto.me/)
 - [Bitcoin Dev Project releases Bitcoin Search v2](https://bitcoinsearch.xyz/)
 - [Bitcoin Dollar](https://blog.nicolas-dorier.com/posts/bitcoin-dollar/)
-- [Bitcoinj bug causes Rootstock outage](https://blog.rootstock.io/noticia/incident-report-rootstock-peg-in-peg-out-service-outage-on-june-24th/)
+- 👉 [Bitcoinj bug causes Rootstock outage](https://blog.rootstock.io/noticia/incident-report-rootstock-peg-in-peg-out-service-outage-on-june-24th/)
 - [Can AMMs Be Built on Brollup?](https://brqgoo.medium.com/can-amms-be-built-on-brollup-8d296c2ec7a3)
 - [Charting the Course to Mt. Gox Repayments](https://coinmetrics.substack.com/p/state-of-the-network-issue-268)
 - [Full COPA vs CSW judgment available](https://www.judiciary.uk/judgments/copa-v-wright/)
