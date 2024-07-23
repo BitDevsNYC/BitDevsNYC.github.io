@@ -87,7 +87,9 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup
 - [Transaction Fee Estimation in the Bitcoin System](https://arxiv.org/abs/2405.15293v1)
 
 ### InfoSec
--
+- [AlexLab XLink bridge exploited for $4.3m](https://rekt.news/alexlab-rekt/)
+- [Pike Finance drained of $1.9m](https://mirror.xyz/pikefinance.eth/M1ToE42vwEHuE6xlz0dVRQwPT0xpaRtpIIw2arOdBAM)
+- [Sonne Finance drained $20m in flash loan attack](https://rekt.news/sonne-finance-rekt/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -235,6 +237,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup
 - [OCEAN innovates: Bitcoin miners offered first ever Lightning Payouts using BOLT12 ](https://newsdirect.com/news/ocean-innovates-bitcoin-miners-offered-first-ever-lightning-payouts-using-bolt12-946331135)
 - [OpenSats Grants Long-Term Support for Shashwat Vangani](https://opensats.org/blog/shashwat-vangani-receives-lts-grant)
 - [Penlock - open-source, cryptographically secure, printable paper-computer](https://beta.penlock.io/)
+- [Silent Payments informational site](https://silentpayments.xyz/)
 - Spiral Grant - [Sean Giligan](https://x.com/spiralbtc/status/1792584819366416527)
 - [Tornado Cash Developer Alexey Pertsev Found Guilty, Sentenced to 64 Months in Prison by Dutch Court](https://www.coindesk.com/policy/2024/05/14/tornado-cash-developer-alexey-pertsev-found-guilty-of-money-laundering/)
 - [Two brothers arrested for exploiting MEV relay](https://www.justice.gov/opa/pr/two-brothers-arrested-attacking-ethereum-blockchain-and-stealing-25m-cryptocurrency)
