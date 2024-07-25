@@ -210,6 +210,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 
 ## New Releases
+- [Additive RBF Batcher](https://github.com/cardcoins/additive-rbf-batcher)
 - [Bitcoin Core 26.2](https://groups.google.com/g/bitcoindev/c/lw_687AVNjw)
 
 ## Events and Podcasts
