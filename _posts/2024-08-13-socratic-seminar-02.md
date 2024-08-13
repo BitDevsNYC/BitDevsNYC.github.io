@@ -19,7 +19,7 @@ Por favor, únete a nosotros para nuestro segundo Seminario Socrático, hospedad
 
 - El Tor
 - StatechainJS
-- Cosas estables
+- Activos Estables
 - Verificador de ZKP y BitVM
 - Full-RBF fusionado
 - DLCs
