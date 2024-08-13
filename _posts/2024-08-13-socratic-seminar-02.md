@@ -29,6 +29,7 @@ Por favor, únete a nosotros para nuestro segundo Seminario Socrático, hospedad
 
 - [El Tor](https://blog.bitfinex.com/education/what-is-the-el-tor-high-capacity-tor-network/)
 - [Acelerador de mempool](https://mempool.space/accelerator)
+
 ### Soluciones de custodia
 
 - [Statechainjs](https://github.com/supertestnet/statechainjs)
