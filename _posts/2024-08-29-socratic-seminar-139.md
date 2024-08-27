@@ -72,14 +72,17 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 
 ## Network Data
--
+- [A 500GH/s #BitAxe is rumored to have just hit a block in CK Pool](https://x.com/SoloSatoshi/status/1816173667086135558)
+- [Largest % difficulty adjustment in almost two years](https://x.com/mononautical/status/1818578311443873877)
 
 ## CVEs and Research
 ### Research
 -
 
 ### InfoSec
--
+- [Dark Skippy is a powerful method for a malicious signing device to leak secret keys](https://darkskippy.com/)
+- [Researchers extract Intel SGX root key](https://x.com/_markel___/status/1828112469010596347)
+- [0.0.0.0 Day: 18-Year-Old Browser Vulnerability Impacts MacOS and Linux Devices](https://thehackernews.com/2024/08/0000-day-18-year-old-browser.html)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -268,4 +271,4 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 -
 
 ## Miscellaneous
--
+- [Proton Wallet announced](https://proton.me/wallet)
