@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Bitcoin Developers’ Socratic Seminar 139 (at Pubkey!)"
+title: "Socratic Seminar 139 (at Pubkey!)"
 meetup: "https://www.meetup.com/bitdevsnyc/events/302672050/"
 ---
 
