@@ -56,33 +56,53 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
     - [August 22](https://www.erisian.com.au/bitcoin-core-dev/log-2024-08-22.html#l-114)
 
 - Lightning Specification meeting
-    - <!--- TODO replace: [December 5th](https://github.com/lightning/bolts/issues/1046) --->
-
+    - [July 29th](https://github.com/lightning/bolts/issues/1185))
+    - [August 12th](https://github.com/lightning/bolts/issues/1187)
+    - [August 26th](https://github.com/lightning/bolts/issues/1191)
+    - 
 ### Optech
-- [Bitcoin Optech Newsletter #317](https://bitcoinops.org/en/newsletters/2024/08/23/)
-- [Bitcoin Optech Newsletter #316](https://bitcoinops.org/en/newsletters/2024/08/16/)
-- [Bitcoin Optech Newsletter #315](https://bitcoinops.org/en/newsletters/2024/08/09/)
-- [Bitcoin Optech Newsletter #314](https://bitcoinops.org/en/newsletters/2024/08/02/)
 - [Bitcoin Optech Newsletter #313](https://bitcoinops.org/en/newsletters/2024/07/26/)
-- [Bitcoin Optech Newsletter #316 Recap Podcast](https://bitcoinops.org/en/podcast/2024/08/20/)
-- [Bitcoin Optech Newsletter #315 Recap Podcast](https://bitcoinops.org/en/podcast/2024/08/13/)
-- [Bitcoin Optech Newsletter #314 Recap Podcast](https://bitcoinops.org/en/podcast/2024/08/06/)
-- [Bitcoin Optech Newsletter #313 Recap Podcast](https://bitcoinops.org/en/podcast/2024/07/30/)
-- [Bitcoin Optech Newsletter #312 Recap Podcast](https://bitcoinops.org/en/podcast/2024/07/23/)
+    - [Recap Podcast](https://bitcoinops.org/en/podcast/2024/07/30/)
+- [Bitcoin Optech Newsletter #314](https://bitcoinops.org/en/newsletters/2024/08/02/)
+    - [Recap Podcast](https://bitcoinops.org/en/podcast/2024/08/06/)
+- [Bitcoin Optech Newsletter #315](https://bitcoinops.org/en/newsletters/2024/08/09/)
+    - [Recap Podcast](https://bitcoinops.org/en/podcast/2024/08/13/)
+- [Bitcoin Optech Newsletter #316](https://bitcoinops.org/en/newsletters/2024/08/16/)
+    - [Recap Podcast](https://bitcoinops.org/en/podcast/2024/08/20/)
+- [Bitcoin Optech Newsletter #317](https://bitcoinops.org/en/newsletters/2024/08/23/)
 
 
 ## Network Data
-- [A 500GH/s #BitAxe is rumored to have just hit a block in CK Pool](https://x.com/SoloSatoshi/status/1816173667086135558)
+- [8 minute long song inscribed in 3KB](https://x.com/ord_io/status/1809337947604295951)
+- [Babylon staking protocol causes fee spike](https://x.com/mononautical/status/1826604180251050388?t=mJWR8rmMlzMMmcwi7M7l6Q)
+- [Bitaxe mines 290th solo block on solo ckpool](https://x.com/ckpooldev/status/1816216325108175245)
+- [Distribution of Lightning node implementations](https://pins.grafana.net/public-dashboards/478199ff803c44138feb1439908e891f?orgId=1)
+- ["First" OP_CAT transaction on mainnet](https://x.com/rot13maxi/status/1822342752505413814?t=XVvcZTrIQmLufMEQ9S0F6g)
 - [Largest % difficulty adjustment in almost two years](https://x.com/mononautical/status/1818578311443873877)
-
+- [New mystery miner](https://x.com/mononautical/status/1827752421704991050)
+- [Two nodes serving up bad data on hundreds of unique IP addresses](https://x.com/0xB10C/status/1817837581733679436)
+- Lightning Data
+	- [Bitrefill](https://x.com/mattahlborg/status/1828436316930912364)
+	- [Coingate](https://x.com/CoinGatecom/status/1823290727251505543)
+	- [OKX](https://x.com/hfangca/status/1793010752259035306)
 ## CVEs and Research
 ### Research
--
+- [Optimizing Big Integer Multiplication on Bitcoin: Introducing w-windowed Approach](https://eprint.iacr.org/2024/1236)
+- [Permissionless Verifiable Information Dispersal
+(Data Availability for Bitcoin Rollups)](https://eprint.iacr.org/2024/1299.pdf)
 
 ### InfoSec
-- [Dark Skippy is a powerful method for a malicious signing device to leak secret keys](https://darkskippy.com/)
-- [Researchers extract Intel SGX root key](https://x.com/_markel___/status/1828112469010596347)
 - [0.0.0.0 Day: 18-Year-Old Browser Vulnerability Impacts MacOS and Linux Devices](https://thehackernews.com/2024/08/0000-day-18-year-old-browser.html)
+- [ArtiPACKED: Hacking Giants Through a Race Condition in GitHub Actions Artifacts](https://unit42.paloaltonetworks.com/github-repo-artifacts-leak-tokens/)
+- [Crypto exchange Gemini discloses third-party data breach](https://oag.ca.gov/system/files/2024-6-25_Gemini%20Notification%20Email.pdf)
+- [Dark Skippy Exfil Attack](https://darkskippy.com/)
+- [Engineering a backdoored bitcoin wallet](https://www.usenix.org/system/files/woot24-scott.pdf)
+- [dydx exchange DNS Hijack](https://status.dydx.exchange/incidents/lzyhxm4wp22w)
+- [Intel SGX Fuse Key0 compromised](https://x.com/_markel___/status/1828112469010596347)
+- [Linux kernel impacted by new SLUBStick cross-cache attack](https://www.bleepingcomputer.com/news/security/linux-kernel-impacted-by-new-slubstick-cross-cache-attack/)
+- [Monero Black Marble Flood Attack](https://github.com/Rucknium/misc-research/tree/main/Monero-Black-Marble-Flood)
+- [New AMD SinkClose flaw helps install nearly undetectable malware](https://www.bleepingcomputer.com/news/security/new-amd-sinkclose-flaw-helps-install-nearly-undetectable-malware/)
+- [rust-miniscript vulnerability disclosure (DoS/Stack Overflow)](https://brunoerg.xyz/2024/08/12/rust-miniscript-vuln.html)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -133,9 +153,6 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [bdk_wallet: Don't reimplement descriptor checksum, use the one from rust-miniscript](https://github.com/bitcoindevkit/bdk/pull/1523)
 
 
-### [HWI](https://github.com/bitcoin-core/HWI)
-
-
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 - [feat(bip158): compute canonical filter hash](https://github.com/rust-bitcoin/rust-bitcoin/pull/3221)
 - [Reduce API surface of tagged wrapped hash types](https://github.com/rust-bitcoin/rust-bitcoin/pull/3184)
@@ -157,12 +174,6 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 ### [libsecp](https://github.com/bitcoin-core/secp256k1)
 - [release: prepare for 0.5.1](https://github.com/bitcoin-core/secp256k1/pull/1575)
 - [Fix compilation when extrakeys module isn't enabled](https://github.com/bitcoin-core/secp256k1/pull/1574)
-
-
-### [secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp)
-
-
-### [dlcspecs](https://github.com/discreetlogcontracts/dlcspecs)
 
 
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
@@ -262,13 +273,49 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 
 ## New Releases
--
+- [CPUNet, CPU-mined braidpool testnet](https://github.com/braidpool/bitcoin/blob/cpunet/contrib/cpunet/README.md)
+- [Floresta v0.6.0](https://github.com/vinteumorg/Floresta/releases/tag/0.6.0)
+- [statechainjs](https://github.com/supertestnet/statechainjs)
+- [Stratum Benchmarking Tool](https://github.com/stratum-mining/benchmarking-tool)
 
 ## Events and Podcasts
--
+- [BitVM2 Explained with Alexei Zamyatin](https://www.youtube.com/watch?v=aOlPZ0o1UEY)
+- [Decentralizing Bitcoin Mining With Bitcoin Mechanic](https://www.youtube.com/watch?v=Wo91DWvZRs8)
+- [Discussing 0.21.0 Bitcoin Core Vulnerability Disclosures](https://podcasters.spotify.com/pod/show/bitcoinbrink/episodes/Discussing-0-21-0-Bitcoin-Core-Vulnerability-Disclosures-e2mm5sr)
+- [Rusty Russell on the Great Script Restoration](https://www.youtube.com/watch?v=JdYvkt67tqU)
+- [SLP597 - Dark Skippy: A New Attack on Bitcoin Hardware Wallets? With Nick, Lloyd and Robin](https://podcasts.apple.com/us/podcast/dark-skippy-a-new-attack-on-bitcoin-hardware/id1415720320?i=1000665253545)
+- [SLP599 - Bitcoin Hardware Security Panel](https://podcasters.spotify.com/pod/show/stephan-livera/episodes/Bitcoin-Hardware-Security-Panel---NVK--Craig-Raw--Rearden--Salvatoshi--AddBTC---SLP599-e2nel6t)
+- [Talks from Nashville's @BitcoinWildlife
+ event](https://x.com/BitcoinLayers/status/1823382235602436173)
 
 ## Mining
--
+- [Bitcoin 2024](https://www.youtube.com/watch?v=9UxAUryUKXM&list=PLe0djdakvnFYPDH8_rd4NsABQCODVZ-ru)
+- [Bitcoin Mining Industry Report: July 2024 - Monthly Operational Updates](https://compassmining.io/education/bitcoin-mining-industry-report-july-2024-monthly-operational-updates/)
+- [Russia Legalizes Cryptocurrency Mining in New Law Signed by Putin](https://www.financemagnates.com/cryptocurrency/russia-legalizes-cryptocurrency-mining-in-new-law-signed-by-putin/)
 
 ## Miscellaneous
+- [BitaxeGamma Announcement](https://x.com/skot9000/status/1825590575459869132)
+- [Bitcoin Layer 2s – The CoreDAO Model](https://blog.bitmex.com/bitcoin-layer-2s-coredao-model/)
+- Bitcoin Script News
+	- [BitVM2 Specification: Verify ZKP on Bitcoin with Fraud Proof](https://github.com/fiamma-chain/BitVM2-groth16-specification/blob/main/main.pdf)
+	- [Great Script Restoration update](https://primal.net/e/note12283gne4a85aetqmkmafaudk5cmu3769rdavrsus6v05epvdvkgsvxw305)
+	- [New TMUL promitive unlocks more efficient ZK verification on Bitcoin](https://x.com/AlpenLabs/status/1827004881754034680)
+	- [OP_CAT vs Great Script Restoration](https://x.com/salvatoshi/status/1822199971547947234)
+	- [Prevent the CATastrophe](https://gist.github.com/RobinLinus/fdee133af13948b0e617f9ef4f8b8752)
+	- [Stwo STARK Verifier live on OP_CAT-enabled signet](https://x.com/StarkWareLtd/status/1813619696538939455)
+	- [Using Elftrace to compile the Winterfell ZK-STARK verifier to Bitcoin Script and use it to verify-the-verification of a STARK](https://x.com/johanth/status/1818642327147077918)
+- [BitGo to Move WBTC to Multi-Jurisdictional Custody to Accelerate Global Expansion Plan](https://blog.bitgo.com/bitgo-to-move-wbtc-to-multi-jurisdictional-custody-to-accelerate-global-expansion-plan-2ea0623fa2c8)
+- [Btrust announces Q3 Grants](https://x.com/btrustteam/status/1824500622248284549)
+- [Fixing Lightning Force Closures](https://mblack.io/posts/fixing-lightning-force-closures/)
+- [Full-chain membership proof++ integration into Monero](https://github.com/monero-project/monero/pull/9436)
+- [How Many Bitcoin Seed Phrases Are Only One Repeated Word?](https://blog.lopp.net/how-many-bitcoin-seed-phrases-are-only-one-repeated-word/)
+- [L402 Library Showcase: Paywalled Stock Data API](https://x.com/fewsats/status/1826316416686944269)
+- [Mutiny Wallet is Shutting Down](https://blog.mutinywallet.com/mutiny-wallet-is-shutting-down/)
+- [Opensats announces three more Bitcoin Core grants](https://opensats.org/blog/caring-for-bitcoin-core)
+- [OpenSats Receives Donation Commitment from Build Asset Management](https://opensats.org/blog/donation-commitment-from-build-asset-management)
+- [Problems with Coinbase Withdrawal Fees](https://blog.lopp.net/problems-with-coinbase-withdrawal-fees/)
 - [Proton Wallet announced](https://proton.me/wallet)
+- [StarkNut - STARK proofs for Cashu protocol.](https://hackmd.io/@abdelhamid/starknut-zkfying-cashu)
+- [Taproot Assets on Lightning: The Global Financial Interoperability Layer](https://lightning.engineering/posts/2024-07-23-taproot-assets-LN/)
+- [Testers needed for AssumeUTXO mainnet params PR](https://x.com/fjahr/status/1823285757894656334)
+- [You probably don't need a hardware wallet](https://allesvoorbitcoin.substack.com/p/you-probably-dont-need-a-hardware)
