@@ -106,11 +106,9 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
-- [devtools, utxo-snapshot: Fix block height out of range in script](https://github.com/bitcoin/bitcoin/pull/30690)
 - [kernel: pre-28.x chainparams and headerssync update](https://github.com/bitcoin/bitcoin/pull/30658)
 - [Have miner account for timewarp mitigation, activate on regtest, lower nPowTargetTimespan to 144 and add test](https://github.com/bitcoin/bitcoin/pull/30681)
 - [Fix maybe-uninitialized warning in IsSpentKey](https://github.com/bitcoin/bitcoin/pull/30691)
-- [test: assumeutxo: check that UTXO-querying RPCs operate on snapshot chainstate](https://github.com/bitcoin/bitcoin/pull/30636)
 - [Move maximum timewarp attack threshold back to 600s from 7200s](https://github.com/bitcoin/bitcoin/pull/30647)
 - [wallet: fix blank legacy detection](https://github.com/bitcoin/bitcoin/pull/30621)
 - [validation: assumeutxo params mainnet](https://github.com/bitcoin/bitcoin/pull/28553)
@@ -129,7 +127,6 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [policy: enable full-rbf by default](https://github.com/bitcoin/bitcoin/pull/30493)
 - [rpc: Return errors in loadtxoutset that currently go to logs](https://github.com/bitcoin/bitcoin/pull/30497)
 - [PayToAnchor(P2A) followups](https://github.com/bitcoin/bitcoin/pull/30562)
-- [chainparams: Change nChainTx type to uint64_t](https://github.com/bitcoin/bitcoin/pull/29656)
 - [p2p: Lazy init some bloom filters; fuzz version handshake](https://github.com/bitcoin/bitcoin/pull/30413)
 - [cluster mempool: merging & postprocessing of linearizations](https://github.com/bitcoin/bitcoin/pull/30285)
 - [policy: Add PayToAnchor(P2A), `OP_1 <0x4e73>` as a standard output script for spending](https://github.com/bitcoin/bitcoin/pull/30352)
@@ -157,18 +154,9 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [feat(bip158): compute canonical filter hash](https://github.com/rust-bitcoin/rust-bitcoin/pull/3221)
 - [Reduce API surface of tagged wrapped hash types](https://github.com/rust-bitcoin/rust-bitcoin/pull/3184)
 - [Document the new build script magic](https://github.com/rust-bitcoin/rust-bitcoin/pull/3202)
-- [Extension traits for `ScriptBuf`](https://github.com/rust-bitcoin/rust-bitcoin/pull/3164)
-- [Parse MSRV minor version number from env](https://github.com/rust-bitcoin/rust-bitcoin/pull/3154)
-- [primitives: Fix alloc feature](https://github.com/rust-bitcoin/rust-bitcoin/pull/3140)
-- [Introduce `ToU64` trait](https://github.com/rust-bitcoin/rust-bitcoin/pull/2929)
-- [base58: Remove or document casts](https://github.com/rust-bitcoin/rust-bitcoin/pull/3120)
-- [Remove catch all pattern](https://github.com/rust-bitcoin/rust-bitcoin/pull/3126)
-- [Introduce helper function name policy](https://github.com/rust-bitcoin/rust-bitcoin/pull/3122)
 - [bip158: Improve casting](https://github.com/rust-bitcoin/rust-bitcoin/pull/3121)
 - [Push up the Default bound on HashEngine in order to better support keyed hash functions](https://github.com/rust-bitcoin/rust-bitcoin/pull/3113)
 - [Add validation extension to script](https://github.com/rust-bitcoin/rust-bitcoin/pull/3096)
-- [Add `length` field to `sha256::Midstate`](https://github.com/rust-bitcoin/rust-bitcoin/pull/3010)
-- [`primitives`: Re-export `units` types](https://github.com/rust-bitcoin/rust-bitcoin/pull/3037)
 
 
 ### [libsecp](https://github.com/bitcoin-core/secp256k1)
@@ -255,11 +243,9 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 
 ### [BIPs](https://github.com/bitcoin/bips)
-- [BIP-0386: Fix uncompressed private key test vector](https://github.com/bitcoin/bips/pull/1631)
 - [BIP94 Testnet 4](https://github.com/bitcoin/bips/pull/1601)
 - [BIP 324: fix python aad in complete_handshake](https://github.com/bitcoin/bips/pull/1655)
-- [BIP46 clarify witness](https://github.com/bitcoin/bips/pull/1651)
-
+  
 
 ### [BLIPs](https://github.com/lightning/blips)
 - [blip-0039: BOLT 11 Invoice Blinded Path Tagged Field](https://github.com/lightning/blips/pull/39)
