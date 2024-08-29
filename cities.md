@@ -14,7 +14,7 @@ As a disclaimer, BitDevs NYC has no official associations with or oversight of t
 
 - [Amsterdam](https://bitdevsamsterdam.org/)
 - [Athens](https://bitdevs-athens.com/)
-- [Atlanta](https://atlantabitdevs.org/)
+- [Atlanta](https://atlbit.dev/)
 - [Austin](https://austinbitdevs.com/)
 - [Berlin](https://bitdevs.berlin/)
 - [Boston](https://bostonbitdevs.org/)
@@ -32,6 +32,7 @@ As a disclaimer, BitDevs NYC has no official associations with or oversight of t
 - [Norfolk](https://norfolkbitdevs.org/)
 - [Oslo](https://www.meetup.com/bitcoin-developers-oslo/)
 - [Paris](https://twitter.com/bitdevsfr)
+- [Perth](https://perth.bitdevs.com.au/)
 - [Portland](https://www.meetup.com/portlandbitdevs/)
 - [Porto Alegre](https://poabitdevs.org/)
 - [Raleigh / Durham / Chapel Hill](https://trianglebitdevs.org/)
