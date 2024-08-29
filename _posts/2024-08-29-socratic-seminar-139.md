@@ -13,7 +13,7 @@ Follow New York BitDevs on [Twitter](https://x.com/BitDevsNYC)
 Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 ## Presentation
-- Cake Wallet implelentation of Silent Payments
+- Cake Wallet implementation of Silent Payments
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
@@ -35,7 +35,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Efficient Multi-Input Transaction Grinding for OP_CAT-based Bitcoin Covenants](https://delvingbitcoin.org/t/efficient-multi-input-transaction-grinding-for-op-cat-based-bitcoin-covenants)
 - [BIP Draft: Flag day activation based on nLockTime signaling](https://delvingbitcoin.org/t/bip-draft-flag-day-activation-based-on-nlocktime-signaling)
 - [Casual research on running `mempoolfullrbf`](https://delvingbitcoin.org/t/casual-research-on-running-mempoolfullrbf)
-- [Zawy’s Alternating Timestamp Attack](https://delvingbitcoin.org/t/zawy-s-alternating-timestamp-attack)
+- 👉 [Zawy’s Alternating Timestamp Attack](https://delvingbitcoin.org/t/zawy-s-alternating-timestamp-attack)
 - [Onion Messaging DoS Threat Mitigations](https://delvingbitcoin.org/t/onion-messaging-dos-threat-mitigations)
 - 👉 [Stats on compact block reconstructions](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions)
 - [Optimistic ZK verification using MATT](https://delvingbitcoin.org/t/optimistic-zk-verification-using-matt)
@@ -56,10 +56,10 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
     - [August 22](https://www.erisian.com.au/bitcoin-core-dev/log-2024-08-22.html#l-114)
 
 - Lightning Specification meeting
-    - [July 29th](https://github.com/lightning/bolts/issues/1185))
+    - [July 29th](https://github.com/lightning/bolts/issues/1185)
     - [August 12th](https://github.com/lightning/bolts/issues/1187)
     - [August 26th](https://github.com/lightning/bolts/issues/1191)
-    - 
+
 ### Optech
 - [Bitcoin Optech Newsletter #313](https://bitcoinops.org/en/newsletters/2024/07/26/)
     - [Recap Podcast](https://bitcoinops.org/en/podcast/2024/07/30/)
@@ -74,9 +74,9 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 ## Network Data
 - [8 minute long song inscribed in 3KB](https://x.com/ord_io/status/1809337947604295951)
-- [Babylon staking protocol causes fee spike](https://x.com/mononautical/status/1826604180251050388?t=mJWR8rmMlzMMmcwi7M7l6Q)
+- 👉 [Babylon staking protocol causes fee spike](https://x.com/mononautical/status/1826604180251050388?t=mJWR8rmMlzMMmcwi7M7l6Q)
 - 👉 [Bitaxe mines 290th solo block on solo ckpool](https://x.com/ckpooldev/status/1816216325108175245)
-- 👉 [Distribution of Lightning node implementations](https://pins.grafana.net/public-dashboards/478199ff803c44138feb1439908e891f?orgId=1)
+- [Distribution of Lightning node implementations](https://pins.grafana.net/public-dashboards/478199ff803c44138feb1439908e891f?orgId=1)
 - ["First" OP_CAT transaction on mainnet](https://x.com/rot13maxi/status/1822342752505413814?t=XVvcZTrIQmLufMEQ9S0F6g)
 - [Largest % difficulty adjustment in almost two years](https://x.com/mononautical/status/1818578311443873877)
 - [New mystery miner](https://x.com/mononautical/status/1827752421704991050)
@@ -112,7 +112,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Move maximum timewarp attack threshold back to 600s from 7200s](https://github.com/bitcoin/bitcoin/pull/30647)
 - [wallet: fix blank legacy detection](https://github.com/bitcoin/bitcoin/pull/30621)
 - [validation: assumeutxo params mainnet](https://github.com/bitcoin/bitcoin/pull/28553)
-- [Don't empty dbcache on prune flushes: >30% faster IBD](https://github.com/bitcoin/bitcoin/pull/28280)
+- 👉 [Don't empty dbcache on prune flushes: >30% faster IBD](https://github.com/bitcoin/bitcoin/pull/28280)
 - [cluster mempool: cluster linearization algorithm](https://github.com/bitcoin/bitcoin/pull/30126)
 - [guix: GCC 12 consolidation](https://github.com/bitcoin/bitcoin/pull/30511)
 - [fix: Make TxidFromString() respect string_view length](https://github.com/bitcoin/bitcoin/pull/30436)
@@ -121,9 +121,9 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [chainparams: Handle Testnet4 in GetNetworkForMagic](https://github.com/bitcoin/bitcoin/pull/30625)
 - [p2p: For assumeutxo, download snapshot chain before background chain](https://github.com/bitcoin/bitcoin/pull/29519)
 - [assumeutxo: Drop block height from metadata](https://github.com/bitcoin/bitcoin/pull/30598)
-- [Testnet4 including PoW difficulty adjustment fix](https://github.com/bitcoin/bitcoin/pull/29775)
+- 👉 [Testnet4 including PoW difficulty adjustment fix](https://github.com/bitcoin/bitcoin/pull/29775)
 - [Update libsecp256k1 subtree to latest master](https://github.com/bitcoin/bitcoin/pull/30573)
-- [blockstorage: XOR blocksdir *.dat files](https://github.com/bitcoin/bitcoin/pull/28052)
+- [blockstorage: XOR blocksdir \*.dat files](https://github.com/bitcoin/bitcoin/pull/28052)
 - [policy: enable full-rbf by default](https://github.com/bitcoin/bitcoin/pull/30493)
 - [rpc: Return errors in loadtxoutset that currently go to logs](https://github.com/bitcoin/bitcoin/pull/30497)
 - [PayToAnchor(P2A) followups](https://github.com/bitcoin/bitcoin/pull/30562)
@@ -294,10 +294,10 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Btrust announces Q3 Grants](https://x.com/btrustteam/status/1824500622248284549)
 - [Fixing Lightning Force Closures](https://mblack.io/posts/fixing-lightning-force-closures/)
 - [Full-chain membership proof++ integration into Monero](https://github.com/monero-project/monero/pull/9436)
-- [How Many Bitcoin Seed Phrases Are Only One Repeated Word?](https://blog.lopp.net/how-many-bitcoin-seed-phrases-are-only-one-repeated-word/)
+- 👉 [How Many Bitcoin Seed Phrases Are Only One Repeated Word?](https://blog.lopp.net/how-many-bitcoin-seed-phrases-are-only-one-repeated-word/)
 - [L402 Library Showcase: Paywalled Stock Data API](https://x.com/fewsats/status/1826316416686944269)
 - [Mutiny Wallet is Shutting Down](https://blog.mutinywallet.com/mutiny-wallet-is-shutting-down/)
-- [Opensats announces three more Bitcoin Core grants](https://opensats.org/blog/caring-for-bitcoin-core)
+- 👉 [Opensats announces three more Bitcoin Core grants](https://opensats.org/blog/caring-for-bitcoin-core)
 - [OpenSats Receives Donation Commitment from Build Asset Management](https://opensats.org/blog/donation-commitment-from-build-asset-management)
 - [Problems with Coinbase Withdrawal Fees](https://blog.lopp.net/problems-with-coinbase-withdrawal-fees/)
 - [Proton Wallet announced](https://proton.me/wallet)
