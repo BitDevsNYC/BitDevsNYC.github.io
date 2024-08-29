@@ -13,7 +13,7 @@ Follow New York BitDevs on [Twitter](https://x.com/BitDevsNYC)
 Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 ## Presentation
-- Cake Wallet implelentation of Silent Payments
+- Cake Wallet implementation of Silent Payments
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
@@ -56,10 +56,10 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
     - [August 22](https://www.erisian.com.au/bitcoin-core-dev/log-2024-08-22.html#l-114)
 
 - Lightning Specification meeting
-    - [July 29th](https://github.com/lightning/bolts/issues/1185))
+    - [July 29th](https://github.com/lightning/bolts/issues/1185)
     - [August 12th](https://github.com/lightning/bolts/issues/1187)
     - [August 26th](https://github.com/lightning/bolts/issues/1191)
-    - 
+
 ### Optech
 - [Bitcoin Optech Newsletter #313](https://bitcoinops.org/en/newsletters/2024/07/26/)
     - [Recap Podcast](https://bitcoinops.org/en/podcast/2024/07/30/)
@@ -125,7 +125,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [assumeutxo: Drop block height from metadata](https://github.com/bitcoin/bitcoin/pull/30598)
 - [Testnet4 including PoW difficulty adjustment fix](https://github.com/bitcoin/bitcoin/pull/29775)
 - [Update libsecp256k1 subtree to latest master](https://github.com/bitcoin/bitcoin/pull/30573)
-- [blockstorage: XOR blocksdir *.dat files](https://github.com/bitcoin/bitcoin/pull/28052)
+- [blockstorage: XOR blocksdir \*.dat files](https://github.com/bitcoin/bitcoin/pull/28052)
 - [policy: enable full-rbf by default](https://github.com/bitcoin/bitcoin/pull/30493)
 - [rpc: Return errors in loadtxoutset that currently go to logs](https://github.com/bitcoin/bitcoin/pull/30497)
 - [PayToAnchor(P2A) followups](https://github.com/bitcoin/bitcoin/pull/30562)
