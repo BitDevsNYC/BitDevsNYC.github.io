@@ -18,7 +18,7 @@ Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado
 ## Cosas que realmente discutiremos
 
 - [Nuevo lanzamiento de clArk, Ark sin Covenant](https://arkdev.info/blog/ark-release-v0.2/)
-- [Validador de Lightning Signer](https://www.nobsbitcoin.com/validating-lightning-signer-v0-12/)
+- [Firmante Validador de Lightning](https://www.nobsbitcoin.com/validating-lightning-signer-v0-12/)
 - [Bisq agrega Lightning](https://www.nobsbitcoin.com/bisq-v2-1-0/)
 - [Revisión de Peter Todd de las propuestas de L2](https://www.nobsbitcoin.com/soft-fork-covenant-dependent-layer-2-review-report/)
 - [Interfaz graphico de usario para Joinstr](https://x.com/1440000bytes/status/1831008743183553011)
@@ -55,7 +55,7 @@ Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado
 - [Nuevo lanzamiento de clArk, Ark sin Covenant](https://arkdev.info/blog/ark-release-v0.2/)
 - [Bisq agrega Lightning](https://www.nobsbitcoin.com/bisq-v2-1-0/)
 - [Especificación de Olympus LSP](https://www.nobsbitcoin.com/zeus-announces-olympus-integrations-into-lightning-pub-mutiny-wallet/)
-- [Validador de Lightning Signer](https://www.nobsbitcoin.com/validating-lightning-signer-v0-12/)
+- [Firmante Validador de Lightning](https://www.nobsbitcoin.com/validating-lightning-signer-v0-12/)
 
 ### Ensayos
 
