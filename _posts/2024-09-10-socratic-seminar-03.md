@@ -19,10 +19,10 @@ Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado
 
 - [Nuevo lanzamiento de clArk, Ark sin Covenant](https://arkdev.info/blog/ark-release-v0.2/)
 - [Revisión de Peter Todd de las propuestas de L2](https://www.nobsbitcoin.com/soft-fork-covenant-dependent-layer-2-review-report/)
+- [Interfaz graphico de usario para Joinstr](https://x.com/1440000bytes/status/1831008743183553011)
 - [Relevo de paquetes](https://x.com/glozow/status/1829100551067365608)
-- [Validador de Lightning Signer](https://www.nobsbitcoin.com/validating-lightning-signer-v0-12/)
 - [Bisq agrega Lightning](https://www.nobsbitcoin.com/bisq-v2-1-0/)
-- [Bibliotecas Floresta](https://medium.com/vinteum-org/floresta-update-simplifying-bitcoin-node-integration-for-wallets-6886ea7c975c)
+- [Validador de Lightning Signer](https://www.nobsbitcoin.com/validating-lightning-signer-v0-12/)
 
 ## Todo categorizado
 ### Herramientas de codificación
@@ -50,6 +50,7 @@ Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado
 
 ### Actualizaciones
 
+- [Interfaz graphico de usario para Joinstr](https://x.com/1440000bytes/status/1831008743183553011)
 - [Relevo de paquetes](https://x.com/glozow/status/1829100551067365608)
 - [Nuevo lanzamiento de clArk, Ark sin Covenant](https://arkdev.info/blog/ark-release-v0.2/)
 - [Bisq agrega Lightning](https://www.nobsbitcoin.com/bisq-v2-1-0/)
