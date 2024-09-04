@@ -18,11 +18,11 @@ Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado
 ## Cosas que realmente discutiremos
 
 - [Nuevo lanzamiento de clArk, Ark sin Covenant](https://arkdev.info/blog/ark-release-v0.2/)
+- [Validador de Lightning Signer](https://www.nobsbitcoin.com/validating-lightning-signer-v0-12/)
+- [Bisq agrega Lightning](https://www.nobsbitcoin.com/bisq-v2-1-0/)
 - [Revisión de Peter Todd de las propuestas de L2](https://www.nobsbitcoin.com/soft-fork-covenant-dependent-layer-2-review-report/)
 - [Interfaz graphico de usario para Joinstr](https://x.com/1440000bytes/status/1831008743183553011)
 - [Relevo de paquetes](https://x.com/glozow/status/1829100551067365608)
-- [Bisq agrega Lightning](https://www.nobsbitcoin.com/bisq-v2-1-0/)
-- [Validador de Lightning Signer](https://www.nobsbitcoin.com/validating-lightning-signer-v0-12/)
 
 ## Todo categorizado
 ### Herramientas de codificación
