@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Seminario Socrático 3"
-meetup: "https://www.meetup.com/guadalajara-bitcoin-and-lightning/events/302659363/"
+meetup: "https://www.meetup.com/guadalajara-bitcoin-and-lightning/events/303239154"
 ---
 
 ## Anuncios
