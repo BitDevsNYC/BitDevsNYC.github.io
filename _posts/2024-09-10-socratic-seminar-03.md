@@ -17,12 +17,12 @@ Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado
 
 ## Cosas que realmente discutiremos
 
-- 
-- 
-- 
-- 
-- 
-- 
+- [Nuevo lanzamiento de clArk, Ark sin Covenant](https://arkdev.info/blog/ark-release-v0.2/)
+- [Revisión de Peter Todd de las propuestas de L2](https://www.nobsbitcoin.com/soft-fork-covenant-dependent-layer-2-review-report/)
+- [Relevo de paquetes](https://x.com/glozow/status/1829100551067365608)
+- [Validador de Lightning Signer](https://www.nobsbitcoin.com/validating-lightning-signer-v0-12/)
+- [Bisq agrega Lightning](https://www.nobsbitcoin.com/bisq-v2-1-0/)
+- [Bibliotecas Floresta](https://medium.com/vinteum-org/floresta-update-simplifying-bitcoin-node-integration-for-wallets-6886ea7c975c)
 
 ## Todo categorizado
 ### Herramientas de codificación
@@ -39,7 +39,7 @@ Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado
 
 ### Productos y servicios
 
-- [¿Adopción institucional de direcciones Lightning con KYC?](https://bitcoinmagazine.com/business/lightspark-introduces-instant-bitcoin-lightning-payments-for-u-s-businesses-with-new-feature)
+- [Adopción institucional de direcciones Lightning con KYC?](https://bitcoinmagazine.com/business/lightspark-introduces-instant-bitcoin-lightning-payments-for-u-s-businesses-with-new-feature)
 - [Billetera LN de Bull Bitcoin](https://www.nobsbitcoin.com/bull-bitcoin-announces-launch-in-france-mobile-wallet-v0-3-0-released/)
 - [eCash experimental “nativo” en Nostr](https://nuts.cash/)
 - [Bankify](https://stacker.news/items/647681)
