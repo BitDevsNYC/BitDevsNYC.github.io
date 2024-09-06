@@ -29,7 +29,7 @@ Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado
 
 - [Bibliotecas Floresta](https://medium.com/vinteum-org/floresta-update-simplifying-bitcoin-node-integration-for-wallets-6886ea7c975c)
 - [Kit de desarrollo de Cashu](https://github.com/cashubtc/cdk)
-- [Bibliotecas Zig para Bitcoin](https://zig-bitcoin.github.io/bitcoin-zig/#bitcoin-zig)
+- [Bibliotecas Zig para Bitcoin](https://github.com/zig-bitcoin/bitcoin-primitives)
 
 ### Noticias sobre minería
 
