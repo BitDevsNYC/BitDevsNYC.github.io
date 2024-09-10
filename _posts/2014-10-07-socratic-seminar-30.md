@@ -53,7 +53,7 @@ Weekly Mining Stats
 [](http://organofcorti.blogspot.se/2014/10/october-6th-2014-weekly-bitcoin-network.html)[http://organofcorti.blogspot.se/2014/10/october-6th-2014-weekly-bitcoin-network.html](http://organofcorti.blogspot.se/2014/10/october-6th-2014-weekly-bitcoin-network.html)
 
 Building a block-chain database the right way  
-[](http://blog.coinspect.co/building-block-chain-database-right-way)[http://blog.coinspect.co/building-block-chain-database-right-way](http://blog.coinspect.co/building-block-chain-database-right-way)
+[](https://www.coinspect.com/blog/building-block-chain-database-right-way/)[https://www.coinspect.com/blog/building-block-chain-database-right-way/](https://www.coinspect.com/blog/building-block-chain-database-right-way/)
 
 Bitcoin Wallet (Android) Updated  
 [](https://plus.google.com/101256420499771441772/posts/KujxxG844gH)[https://plus.google.com/101256420499771441772/posts/KujxxG844gH](https://plus.google.com/101256420499771441772/posts/KujxxG844gH)
