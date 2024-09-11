@@ -17,12 +17,12 @@ Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado
 
 ## Cosas que realmente discutiremos
 
-- [Nuevo lanzamiento de clArk, Ark sin Covenant](https://arkdev.info/blog/ark-release-v0.2/)
-- [Firmante Validador de Lightning](https://www.nobsbitcoin.com/validating-lightning-signer-v0-12/)
-- [Bisq agrega Lightning](https://www.nobsbitcoin.com/bisq-v2-1-0/)
-- [Revisión de Peter Todd de las propuestas de L2](https://www.nobsbitcoin.com/soft-fork-covenant-dependent-layer-2-review-report/)
-- [Interfaz graphico de usario para Joinstr](https://x.com/1440000bytes/status/1831008743183553011)
-- [Relevo de paquetes](https://x.com/glozow/status/1829100551067365608)
+- [Nuevo lanzamiento de clArk, Ark sin Covenant](https://arkdev.info/blog/ark-release-v0.2/) - [Explicación](https://bitdevs.btcgdl.com/2024-09-10-Ark)
+- [Firmante Validador de Lightning](https://www.nobsbitcoin.com/validating-lightning-signer-v0-12/) - [Explicación](https://bitdevs.btcgdl.com/2024-09-10-VLS)
+- [Bisq agrega Lightning](https://www.nobsbitcoin.com/bisq-v2-1-0/) - [Explicación](https://bitdevs.btcgdl.com/2024-09-10-Bisq)
+- [Revisión de Peter Todd de las propuestas de L2](https://www.nobsbitcoin.com/soft-fork-covenant-dependent-layer-2-review-report/) - [Explicación](https://bitdevs.btcgdl.com/2024-09-10-Revision)
+- [Interfaz graphico de usario para Joinstr](https://x.com/1440000bytes/status/1831008743183553011) - [Explicación](https://bitdevs.btcgdl.com/2024-09-10-Joinstr)
+- [Relevo de paquetes](https://x.com/glozow/status/1829100551067365608) - [Explicación](https://bitdevs.btcgdl.com/2024-09-10-Pkg-Relay)
 
 ## Todo categorizado
 ### Herramientas de codificación
@@ -62,3 +62,4 @@ Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado
 - [Revisión de Peter Todd de las propuestas de L2](https://www.nobsbitcoin.com/soft-fork-covenant-dependent-layer-2-review-report/)
 - [Swaps submarinos multiparte)](https://conduition.io/scriptless/multi-party-submarine-swaps/)
 - [Extracción de claves para Intel SGX](https://x.com/markel__/status/1828112469010596347)
+- [Metodo que los nodos enteros pueden usar para señalar su apoya para un soft fork](https://groups.google.com/g/bitcoindev/c/-NbdxKkaMQU/m/rTJPgrCeAgAJ)
