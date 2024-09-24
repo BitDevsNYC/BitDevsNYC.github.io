@@ -62,17 +62,46 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Bitcoin Optech Newsletter #321](https://bitcoinops.org/en/newsletters/2024/09/20/)
 
 
-
-
 ## Network Data
--
-
+- [Block Template Similarities between Mining Pools](https://b10c.me/observations/12-template-similarity/)
+- [Coinbase Lightning Data](https://x.com/ViktorBunin/status/1834367397794336928)
+- [Fees drop below 2 sats/vyte for the first time in almost a year](https://x.com/mononautical/status/1837463728381424097)
+- [First 0-fee lightning commitment transaction](https://x.com/realtbast/status/1834213774674247987)
+- [Large BRC-20 consolodations](https://x.com/mononautical/status/1832543619078877266)
+- [Lightning Nodenamer](https://pins.grafana.net/public-dashboards/478199ff803c44138feb1439908e891f), [repo](https://github.com/MPins/lightning-nodenamer)
+- [Merge Mining Report](https://research.mempool.space/merge-mining-report/)
+- [POW-locked signet transaction](https://x.com/murchandamus/status/1834649345276162215)
+- [Testnet4 consensus failure due to timewarp related "softfork"](https://github.com/bitcoin/bitcoin/issues/30786)
+- [Transaction signaling SIGHASH_NONE gets 0.8 BTC burned to fees](https://x.com/mononautical/status/1834196815786225822)
+- [TRUC transaction on testnet4](https://x.com/glozow/status/1829100551067365608)
+    - [TRUC available on signet as well](https://x.com/ajtowns/status/1830699024728662318)
+- [Wabisator - Wabisabi Coordinators List](https://wabisator.com/)
+- [Wave of "unbounding" 200 sats/vbyte babylon staking transactions](https://x.com/mononautical/status/1831719534555746583)
+  
 ## CVEs and Research
 ### Research
--
+- [Blind Multisignatures for Anonymous Tokens with Decentralized Issuance](https://eprint.iacr.org/2024/1406)
+- [Deanonymizing Ethereum Validators: The P2P Network Has a Privacy Issue](http://arxiv.org/abs/2409.04366v1)
+- [Horcrux: Synthesize, Split, Shift and Stay Alive Preventing Channel Depletion via Universal and Enhanced Multi-hop Payments](https://eprint.iacr.org/2024/1338)
+- [Multi-class Bitcoin mixing service identification based on graph classification](https://www.sciencedirect.com/science/article/pii/S2352864824001020)
+- [ORBITAAL: A Temporal Graph Dataset of Bitcoin Entity-Entity Transactions](https://arxiv.org/abs/2408.14147)
+- [P2C2T: Preserving the Privacy of Cross-Chain Transfer](https://eprint.iacr.org/2024/1467)
+- [Privacy Comparison for Bitcoin Light Client Implementations](https://eprint.iacr.org/2024/1415.pdf)
+- [Shielded CSV: Private and Efficient Client-Side Validation](https://github.com/ShieldedCSV/ShieldedCSV?tab=readme-ov-file)
+- [Survivable Payment Channel Networks](https://eprint.iacr.org/2024/1393)
 
 ### InfoSec
--
+- [Disclosure of memory DoS due to headers spam](https://bitcoincore.org/en/2024/09/18/disclose-headers-oom/)
+- [EUCLEAK Side-Channel Attack on the YubiKey 5 Series](https://ninjalab.io/wp-content/uploads/2024/09/20240903_eucleak.pdf)
+- [NBitcoin MuSig Nonce Reuse](https://github.com/MetacoSA/NBitcoin/pull/1228)
+- [Nix2.24 vulnerable to remote privlilege escalation](https://puckipedia.com/7hkj-98sq/qixt)
+- [PIXHELL Attack: Leaking Sensitive Information
+from Air-Gap Computers via ‘Singing Pixels](https://arxiv.org/pdf/2409.04930)
+- [RAMBO: Leaking Secrets from Air-Gap Computers by Spelling Covert Radio Signals from Computer RAM](https://arxiv.org/pdf/2409.02292)
+- [TIKTAG: Breaking ARM’s Memory Tagging Extension with Speculative Execution](https://arxiv.org/pdf/2406.08719)
+- [Tor responds to de-anonymization claims](https://blog.torproject.org/tor-is-still-safe/)
+- [Turning Everyday Gadgets into Bombs is a Bad Idea](https://www.bunniestudios.com/blog/2024/turning-everyday-gadgets-into-bombs-is-a-bad-idea/)
+
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -153,12 +182,10 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [channeld: fix crash with pre-TLV peers.](https://github.com/ElementsProject/lightning/pull/7650)
 
 
-
 ### [eclair](https://github.com/ACINQ/eclair/)
 - [Include faulty TLV tag in `InvalidOnionPayload` error](https://github.com/ACINQ/eclair/pull/2908)
 - [prevent FC with old LND nodes if HTLCs are in flight while closing](https://github.com/ACINQ/eclair/pull/2907)
 - [Reduce the number of RPC calls to bitcoind during force-close](https://github.com/ACINQ/eclair/pull/2902)
-
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
 - [Don't pay a duplicate BOLT 12 invoice if `ChannelManager` is stale](https://github.com/lightningdevkit/rust-lightning/pull/3313)
@@ -187,13 +214,39 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 
 ## New Releases
--
+- [Ark v0.2](https://arkdev.info/blog/ark-release-v0.2/)
+- [SV2 Template Provider v0.1.9](https://github.com/Sjors/bitcoin/releases/tag/sv2-tp-0.1.9)
 
 ## Events and Podcasts
--
+- [0xb10c - Monitoring Bitcoin P2P Network Attacks and Anomalies with eBPD and USDT Tracepoints](https://youtu.be/PQNDsdP27Hw?t=10865)
+- [FROST Implementers Round Table 2024](https://www.youtube.com/watch?v=VxLTJ_OxGT4)
 
 ## Mining
--
+- [Bhutan’s Bitcoin Holdings Revealed: Kingdom Owns $780M in BTC from Mining](https://bitcoinmagazine.com/markets/bhutans-bitcoin-holdings-revealed-kingdom-owns-780m-in-btc-from-mining)
+- [Bitcoin Mining Industry Report: August 2024 - Monthly Operational Updates](https://compassmining.io/education/bitcoin-mining-industry-report-august-2024-monthly-operational-updates/)
+- [Bitmain made too many ASIC miners, and no one is buying](https://x.com/theMiningPod/status/1831323103743369359)
+- [Japan's Largest Electricity Provider Explores Bitcoin Mining with Surplus Renewable Energy](https://www.asahi.com/ajw/articles/15397216)
+- [Norway: Bitcoin Mining Facility Shutdown Leads to 20% Higher Energy Bills for Town Residents](https://www.nrk.no/nordland/datasenter-la-ned-driften-_-na-far-innbyggerne-sjokkregning-1.17042643)
+- [The Trifecta of Bitcoin Centralization](https://nicosmid.substack.com/p/the-trifecta-of-bitcoin-centralization)
 
 ## Miscellaneous
--
+- [10101 is shutting down](https://10101.finance/blog/10101-is-shutting-down/)
+- [Analysis of Bitcoind Policy Estimator Effectiveness for Long-Term Fee Estimation](https://hackmd.io/@VzfUhtefQky1-i2_EY1HEQ/SyqBhQ8FR)
+- [Discussion of Auditor Role for sv2](https://github.com/stratum-mining/stratum/discussions/1052)
+- [Friends don’t let friends reuse nonces](https://blog.trailofbits.com/2024/09/13/friends-dont-let-friends-reuse-nonces/)
+- [Elements 23.2.3: Discounted Fees for Confidential Transactions](https://blog.blockstream.com/elements-23-2-3-discounted-fees-for-confidential-transactions/)
+- [Introducing NOIST: a non-interactive, single-round t-of-n threshold signing protocol](https://blog.brollup.org/introducing-noist-a-non-interactive-single-round-t-of-n-threshold-signing-protocol-51225fe513fa)
+- [HRF Bitcoin Development Fund Grants 1 Billion Satoshis to 20 Projects Worldwide](https://hrf.org/hrf-bitcoin-development-fund-grants-1-billion-satoshis-to-20-projects-worldwide)
+- [Lava Loans](https://github.com/lava-xyz/loans-paper/blob/main/loans_v2.pdf)
+- [Maelstrom fund issues first grant to Rkrux](https://bitcoinmagazine.com/business/arthur-hayess-family-office-funds-bitcoin-core-developer)
+- [Multi-Party Submarine Swaps](https://conduition.io/scriptless/multi-party-submarine-swaps/)
+- [OpenSats LTS Support For Jason Donenfeld](https://opensats.org/blog/jason-donenfeld-lts-grant)
+- [OpenSats funds DLC Dev Kit](https://x.com/bennyhodl/status/1831720708042260618)
+- [Privacy preserving proof of taproot assets](https://reyify.com/blog/privacy-preserving-proof-of-taproot-assets)
+- [Selfie Records - BIP 353 records for payments, identies, and more](https://selfie-records.com/)
+- [Soft-Fork/Covenant Dependent Layer 2 Review](https://petertodd.org/2024/covenant-dependent-layer-2-review)
+- [STARK proof vapable of verifying Bitcoin Script execution with Shinigami](https://x.com/roasbeef/status/1831794668209893553), [more info](https://x.com/BitcoinWildlife/status/1830468876242727013)
+- [The Key to FROST: What is Distributed Key Generation?](https://blog.blockstream.com/the-key-to-frost-what-is-distributed-key-generation/)
+- [TMUL - An optimized, tunable field multiplication script for bitcoin](https://www.alpenlabs.io/blog/releasing-tmul)
+- [Treasury cited only three examples of North Korean Tornado Cash use, says judge](https://protos.com/treasury-cited-only-three-examples-of-illicit-tornado-cash-use-says-judge/)
+- [Understanding Silent Payments - Part One](https://bitbox.swiss/blog/understanding-silent-payments-part-one/)
