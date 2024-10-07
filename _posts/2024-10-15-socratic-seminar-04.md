@@ -44,6 +44,7 @@ Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado
 - [Multifirma Schnorr casi perfecta](https://blog.brollup.org/introducing-noist-a-non-interactive-single-round-t-of-n-threshold-signing-protocol-51225fe513fa)
 - [Fábricas de canales sin un soft fork](https://delvingbitcoin.org/t/superscalar-laddered-timeout-tree-structured-decker-wattenhofer-factories/1143)
 - [Nuevo protocolo de validación del lado del cliente, también conocido como Shielded CSV](https://x.com/n1ckler/status/1837194004552655077)
+- [Datum](https://ocean.xyz/docs/datum-press-release)
 
 ### Solución de vulnerabilidades
 
