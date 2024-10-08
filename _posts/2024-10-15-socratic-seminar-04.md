@@ -17,12 +17,12 @@ Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado
 
 ## Cosas que realmente discutiremos
 
-- TBA
-- TBA
-- TBA
-- TBA
-- TBA
-- TBA
+- [Mastercard adopta bitcoin](https://cointelegraph.com/news/mastercard-non-custodial-crypto-spending-card)
+- [Kit de desarrollo DLC](https://x.com/bennyhodl/status/1831720708042260618)
+- [Phoenixd en Docker + interfaz](https://github.com/massmux/phoenixd-docker)
+- [Carrefour ahora acepta pagos en lightning](https://tremplin.io/carrefour-express-now-accepts-bitcoin-payments/)
+- [Fábricas de canales sin un soft fork](https://delvingbitcoin.org/t/superscalar-laddered-timeout-tree-structured-decker-wattenhofer-factories/1143)
+- [Datum](https://ocean.xyz/docs/datum-press-release)
 
 ## Todo categorizado
 ### Adopción
@@ -35,7 +35,7 @@ Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado
 - [Nueva versión de RGB](https://github.com/RGB-WG/rgb/releases/tag/v0.11.0-beta.8)
 - [Actualización de Fountain](https://stacker.news/items/673474)
 - [Strike añade bolt12](https://strike.me/blog/bolt12-offers/)
-- [Breez añade lnurl y liquid](https://strike.me/blog/bolt12-offers/)
+- [Breez añade liquid]([https://strike.me/blog/bolt12-offers/](https://medium.com/breez-technology/to-help-bitcoin-flow-were-adding-some-liquid-to-the-breez-sdk-b56c14b0c9b0))
 - [Bitbox añade pagos silenciosos](https://x.com/BitBoxSwiss/status/1831981915827757560)
 - [Ark añade SDK](https://github.com/ark-network/ark/releases/tag/v0.3.0)
 
