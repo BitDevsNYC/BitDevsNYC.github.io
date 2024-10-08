@@ -35,7 +35,7 @@ Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado
 - [Nueva versión de RGB](https://github.com/RGB-WG/rgb/releases/tag/v0.11.0-beta.8)
 - [Actualización de Fountain](https://stacker.news/items/673474)
 - [Strike añade bolt12](https://strike.me/blog/bolt12-offers/)
-- [Breez añade liquid]([https://strike.me/blog/bolt12-offers/](https://medium.com/breez-technology/to-help-bitcoin-flow-were-adding-some-liquid-to-the-breez-sdk-b56c14b0c9b0))
+- [Breez añade liquid](https://medium.com/breez-technology/to-help-bitcoin-flow-were-adding-some-liquid-to-the-breez-sdk-b56c14b0c9b0)
 - [Bitbox añade pagos silenciosos](https://x.com/BitBoxSwiss/status/1831981915827757560)
 - [Ark añade SDK](https://github.com/ark-network/ark/releases/tag/v0.3.0)
 
