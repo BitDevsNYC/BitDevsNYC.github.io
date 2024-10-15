@@ -17,12 +17,12 @@ Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado
 
 ## Cosas que realmente discutiremos
 
-- [Mastercard adopta bitcoin](https://cointelegraph.com/news/mastercard-non-custodial-crypto-spending-card)
-- [Kit de desarrollo DLC](https://x.com/bennyhodl/status/1831720708042260618)
-- [Phoenixd en Docker + interfaz](https://github.com/massmux/phoenixd-docker)
-- [Carrefour ahora acepta pagos en lightning](https://tremplin.io/carrefour-express-now-accepts-bitcoin-payments/)
-- [Fábricas de canales sin un soft fork](https://delvingbitcoin.org/t/superscalar-laddered-timeout-tree-structured-decker-wattenhofer-factories/1143)
-- [Datum](https://ocean.xyz/docs/datum-press-release)
+- [Mastercard adopta bitcoin](https://cointelegraph.com/news/mastercard-non-custodial-crypto-spending-card) - [archivo](https://bitdevs.btcgdl.com/2024-10-15-mastercard-self-custody)
+- [Kit de desarrollo DLC](https://x.com/bennyhodl/status/1831720708042260618) - [archivo](https://bitdevs.btcgdl.com/2024-10-15-dlc-dev-kit)
+- [Phoenixd en Docker + interfaz](https://github.com/massmux/phoenixd-docker) - [archivo](https://bitdevs.btcgdl.com/2024-10-15-lightstack-english)
+- [Carrefour ahora acepta pagos en lightning](https://tremplin.io/carrefour-express-now-accepts-bitcoin-payments/) - [archivo](https://bitdevs.btcgdl.com/2024-10-15-carrefour-accepts-bitcoin)
+- [Fábricas de canales sin un soft fork](https://delvingbitcoin.org/t/superscalar-laddered-timeout-tree-structured-decker-wattenhofer-factories/1143) - [archivo](https://bitdevs.btcgdl.com/2024-10-15-superscalar)
+- [Datum](https://ocean.xyz/docs/datum-press-release) - [archivo](https://bitdevs.btcgdl.com/2024-10-15-datum)
 
 ## Todo categorizado
 ### Adopción
