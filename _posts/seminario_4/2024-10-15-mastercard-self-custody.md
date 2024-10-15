@@ -11,11 +11,11 @@ Mastercard facilita de manera autocustodiada el uso de criptomoendas asociado de
 ## Lo Bueno
 - El enfoque es la autocustodia manteniendo tus llaves privadas
 - Segundo enfoque es la privacidad de las transacciones "We don't know how you spend it, you know"
+- La tarjeta permite conectar carteras autocustodiadas para gastar directamente su Bitcoin sin necesidad de confiar en un tercero
 
 ## Lo malo
 - Necesidad de KYC y AML (Conoce a tu cliente y Anti-Lavado de Dinero) 
 - €1.6 issuance fee, €1 monthly maintenance fee, and a 0.95% transaction fee. 
-- La tarjeta permite conectar carteras autocustodiadas para gastar directamente su Bitcoin sin necesidad de confiar en un tercero
 
 ## Lo feo
 - La mayoría del enfoque es en shitcoins
