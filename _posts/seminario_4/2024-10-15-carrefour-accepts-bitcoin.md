@@ -1,7 +1,7 @@
 ---
 layout: post
 type: archivos
-title: "Carrefour Accepts Bitcoin Lightning"
+title: "Carrefour acepta Bitcoin Lightning"
 ---
 
 ## ¿Qué es Carrefour?
