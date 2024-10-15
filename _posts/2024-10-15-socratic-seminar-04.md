@@ -19,7 +19,7 @@ Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado
 
 - [Mastercard adopta bitcoin](https://cointelegraph.com/news/mastercard-non-custodial-crypto-spending-card) - [Explicación](https://bitdevs.btcgdl.com/2024-10-15-mastercard-self-custody)
 - [Kit de desarrollo DLC](https://x.com/bennyhodl/status/1831720708042260618) - [Explicación](https://bitdevs.btcgdl.com/2024-10-15-dlc-dev-kit)
-- [Phoenixd en Docker + interfaz](https://github.com/massmux/phoenixd-docker) - [Explicación](https://bitdevs.btcgdl.com/2024-10-15-lightstack-english)
+- [Phoenixd en Docker + interfaz](https://github.com/massmux/phoenixd-docker) - [Explicación](https://bitdevs.btcgdl.com/2024-10-15-lightstack)
 - [Carrefour ahora acepta pagos en lightning](https://tremplin.io/carrefour-express-now-accepts-bitcoin-payments/) - [Explicación](https://bitdevs.btcgdl.com/2024-10-15-carrefour-accepts-bitcoin)
 - [Fábricas de canales sin un soft fork](https://delvingbitcoin.org/t/superscalar-laddered-timeout-tree-structured-decker-wattenhofer-factories/1143) - [Explicación](https://bitdevs.btcgdl.com/2024-10-15-superscalar)
 - [Datum](https://ocean.xyz/docs/datum-press-release) - [Explicación](https://bitdevs.btcgdl.com/2024-10-15-datum)
