@@ -1,3 +1,9 @@
+---
+layout: post
+type: archivos
+title: "SuperScalar"
+---
+
 # ¿Qué es SuperScalar?
 
 - https://delvingbitcoin.org/t/superscalar-laddered-timeout-tree-structured-decker-wattenhofer-factories/1143
