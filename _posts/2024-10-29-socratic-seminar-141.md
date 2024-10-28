@@ -220,7 +220,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 -
 
 ## Mining
--
+- [OCEAN Pool Launches DATUM Protocol](https://ocean.xyz/docs/datum)
 
 ## Miscellaneous
 - [Simplicity Arrives on Liquid Testnet](https://blog.blockstream.com/simplicity-arrives-on-liquid-testnet/)
