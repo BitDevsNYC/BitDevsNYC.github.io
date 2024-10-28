@@ -77,7 +77,9 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 -
 
 ### InfoSec
--
+- [How Cloudflare auto-mitigated world record 3.8 Tbps DDoS attack](https://blog.cloudflare.com/how-cloudflare-auto-mitigated-world-record-3-8-tbps-ddos-attack/)
+- [U.S. Wiretap Systems Targeted in China-Linked Hack](https://www.msn.com/en-us/news/technology/u-s-wiretap-systems-targeted-in-china-linked-hack/ar-AA1rIZKx)
+
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -212,7 +214,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 
 ## New Releases
--
+- [JoinMarket client for iPad](https://apps.apple.com/us/app/fully-noded-join-market/id6651860963)
 
 ## Events and Podcasts
 -
@@ -221,4 +223,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 -
 
 ## Miscellaneous
--
+- [Simplicity Arrives on Liquid Testnet](https://blog.blockstream.com/simplicity-arrives-on-liquid-testnet/)
+- [libbitcoin syncs full blockchain in 1 hour] (https://x.com/evoskuil/status/1847673128073187536)
+- [Counterparty Partial network outage - Post mortem] (https://www.counterparty.io/news/counterparty-partial-network-outage-post-mortem/)
+- [Radiant capital attacker obtains 3 of 11 private keys for $58M theft] (https://x.com/danielvf/status/1847023591117795708)
