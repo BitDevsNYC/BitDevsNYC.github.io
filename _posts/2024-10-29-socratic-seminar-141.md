@@ -224,6 +224,6 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 ## Miscellaneous
 - [Simplicity Arrives on Liquid Testnet](https://blog.blockstream.com/simplicity-arrives-on-liquid-testnet/)
-- [libbitcoin syncs full blockchain in 1 hour] (https://x.com/evoskuil/status/1847673128073187536)
-- [Counterparty Partial network outage - Post mortem] (https://www.counterparty.io/news/counterparty-partial-network-outage-post-mortem/)
-- [Radiant capital attacker obtains 3 of 11 private keys for $58M theft] (https://x.com/danielvf/status/1847023591117795708)
+- [libbitcoin syncs full blockchain in 1 hour](https://x.com/evoskuil/status/1847673128073187536)
+- [Counterparty Partial network outage - Post mortem](https://www.counterparty.io/news/counterparty-partial-network-outage-post-mortem/)
+- [Radiant capital attacker obtains 3 of 11 private keys for $58M theft](https://x.com/danielvf/status/1847023591117795708)
