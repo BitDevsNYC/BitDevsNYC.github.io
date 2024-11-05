@@ -32,6 +32,7 @@ Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado
 - [Phoenix implementa la especificación de LSP de código abierto](https://xcancel.com/PhoenixWallet/status/1844377194489053555#m)
 - [La nueva versión de libbitcoin sincroniza la cadena de bloques de bitcoin en 61 minutos](https://x.com/evoskuil/status/1847673128073187536)
 - [La explicación de cómo logra esto está aquí](https://delvingbitcoin.org/t/libbitcoin-for-core-people/1222)
+- [Boltz lanza suporte para bolt12](https://x.com/Boltzhq/status/1853834574914113720)
 
 ### Firmas
 
