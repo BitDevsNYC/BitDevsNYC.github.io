@@ -22,7 +22,7 @@ Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado
 - TBA
 - TBA
 - TBA
-- TBA
+- [BitcoinDevs.xyz](https://bitcoindevs.xyz/tools) - [Explicación](https://bitdevs.btcgdl.com/2024-11-19-bitcoin-devs-xyz)
 
 ## Todo categorizado
 ### Nuevos productos y servicios
