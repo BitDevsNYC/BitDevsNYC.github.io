@@ -17,11 +17,11 @@ Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado
 
 ## Cosas que realmente discutiremos
 
+- [PLEBNET Wiki](https://www.plebnetwiki.com/) - [Explicación](https://bitdevs.btcgdl.com/2024-11-19-BTC-plebnet-wiki)
 - TBA
+- [Tres vulnerabilidades en versiones antiguas de Bitcoin Core](https://www.nobsbitcoin.com/bitcoin-core-discloses-three-vulnerabilities-affecting-versions-up-to-v25-0/) - [Explicación](https://bitdevs.btcgdl.com/2024-11-19-BTC-prior-versions-vulnerabilities)
 - TBA
-- TBA
-- TBA
-- TBA
+- [El Banco Central Europeo publica una propuesta de prohibición de BTC](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4985877) - [Explicación](https://bitdevs.btcgdl.com/2024-11-19-ECB-BTC-proposal)
 - [BitcoinDevs.xyz](https://bitcoindevs.xyz/tools) - [Explicación](https://bitdevs.btcgdl.com/2024-11-19-bitcoin-devs-xyz)
 
 ## Todo categorizado
