@@ -18,9 +18,9 @@ Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado
 ## Cosas que realmente discutiremos
 
 - [PLEBNET Wiki](https://www.plebnetwiki.com/) - [Explicación](https://bitdevs.btcgdl.com/2024-11-19-BTC-plebnet-wiki)
-- TBA
+- [Phoenix implementa la especificación de LSP de código abierto](https://x.com/PhoenixWallet/status/1844377194489053555) - [Explicación](https://bitdevs.btcgdl.com/2024-11-19-phoenix)
 - [Tres vulnerabilidades en versiones antiguas de Bitcoin Core](https://www.nobsbitcoin.com/bitcoin-core-discloses-three-vulnerabilities-affecting-versions-up-to-v25-0/) - [Explicación](https://bitdevs.btcgdl.com/2024-11-19-BTC-prior-versions-vulnerabilities)
-- TBA
+- [La nueva versión de libbitcoin sincroniza la cadena de bloques de bitcoin en 61 minutos](https://x.com/evoskuil/status/1847673128073187536) - [Explicación](https://bitdevs.btcgdl.com/2024-11-19-libbitcoin)
 - [El Banco Central Europeo publica una propuesta de prohibición de BTC](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4985877) - [Explicación](https://bitdevs.btcgdl.com/2024-11-19-ECB-BTC-proposal)
 - [BitcoinDevs.xyz](https://bitcoindevs.xyz/tools) - [Explicación](https://bitdevs.btcgdl.com/2024-11-19-bitcoin-devs-xyz)
 
@@ -29,7 +29,7 @@ Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado
 
 - [River ofrece un rendimiento del 3.8% en bitcoin para cuentas en USD](https://www.nobsbitcoin.com/river-introduces-btc-yield-on-usd-deposits/)
 - [Mint Auditor](https://audit.8333.space/)
-- [Phoenix implementa la especificación de LSP de código abierto](https://xcancel.com/PhoenixWallet/status/1844377194489053555#m)
+- [Phoenix implementa la especificación de LSP de código abierto](https://x.com/PhoenixWallet/status/1844377194489053555)
 - [La nueva versión de libbitcoin sincroniza la cadena de bloques de bitcoin en 61 minutos](https://x.com/evoskuil/status/1847673128073187536)
 - [La explicación de cómo logra esto está aquí](https://delvingbitcoin.org/t/libbitcoin-for-core-people/1222)
 - [Boltz lanza suporte para bolt12](https://x.com/Boltzhq/status/1853834574914113720)
