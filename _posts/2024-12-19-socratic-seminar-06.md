@@ -51,6 +51,6 @@ Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado
 
 ### Transacciones interesantes
 
-- [Transacciones SIGHASH_SINGLE | ANYONECANPAY](https://x.com/sanket1729/status/1851824134680170792)
+- [Transacciones SIGHASH_SINGLE | Cualquier puede pagar](https://x.com/sanket1729/status/1851824134680170792)
 - [Cronología del aumento de tarifas durante una acuñación de runes](https://x.com/mononautical/status/1851830349208363379)
-- [“Demo de puente” de Bitvm (y IDs de transacciones relevantes)](https://www.bitcoinos.build/blog/its-alive-bos-and-merlin-execute-first-bitcoin-zk-bridge-transaction)
+- [“Demo de puente” de Bitvm](https://www.bitcoinos.build/blog/its-alive-bos-and-merlin-execute-first-bitcoin-zk-bridge-transaction) y  [IDs de transacciones relevantes](https://x.com/BTC_OS/status/1861424064436273556)
