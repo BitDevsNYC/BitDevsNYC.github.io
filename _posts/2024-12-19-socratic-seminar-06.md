@@ -12,7 +12,7 @@ Por favor, únete a nosotros para nuestro sexto Seminario Socrático, hospedado 
 ### Siempre recuerda
 - Respetar la privacidad de las personas
 - Se fomenta la interacción y hacer preguntas
-- [Reglas de la Casa Chatham](https://www.chathamhouse.org/about-us/chatham-house-rule)
+- [Reglas de la Casa Chatham](https://es.m.wikipedia.org/wiki/Regla_Chatham_House)
 
 
 ## Cosas que realmente discutiremos
