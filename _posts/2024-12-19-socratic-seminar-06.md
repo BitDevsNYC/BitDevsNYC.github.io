@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Seminario Socrático 6"
-meetup: "https://github.com/guadalajara-bitdevs/BitDevsGDL.github.io/issues/13#issuecomment-2515440576"
+meetup: "https://www.meetup.com/es-ES/guadalajara-bitcoin-and-lightning/events/304905062/"
 ---
 
 ## Anuncios
@@ -53,4 +53,4 @@ Por favor, únete a nosotros para nuestro sexto Seminario Socrático, hospedado 
 
 - [Transacciones SIGHASH_SINGLE \| ANYONECANPAY (Cualquiera puede pagar)](https://x.com/sanket1729/status/1851824134680170792)
 - [Cronología del aumento de tarifas durante una acuñación de runes](https://x.com/mononautical/status/1851830349208363379)
-- [“Demo de puente” de Bitvm](https://www.bitcoinos.build/blog/its-alive-bos-and-merlin-execute-first-bitcoin-zk-bridge-transaction) y  [IDs de transacciones relevantes](https://x.com/BTC_OS/status/1861424064436273556)
+- [“Demo de puente” de Bitvm](https://www.bitcoinos.build/blog/its-alive-bos-and-merlin-execute-first-bitcoin-zk-bridge-transaction) y [IDs de transacciones relevantes](https://x.com/BTC_OS/status/1861424064436273556)d
