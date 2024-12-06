@@ -7,7 +7,7 @@ meetup: "https://github.com/guadalajara-bitdevs/BitDevsGDL.github.io/issues/13#i
 
 ## Anuncios
 ### Intro
-Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado en HackerGarage! Chelas y refrescos están disponibles para la compra durante el evento, y después del evento, iremos por tacos a Tomate Taquería, cortesía de [Vinteum](https://vinteum.org/).
+Por favor, únete a nosotros para nuestro sexto Seminario Socrático, hospedado en HackerGarage! Chelas y refrescos están disponibles para la compra durante el evento, y después del evento, iremos por tacos a Tomate Taquería, cortesía de [Vinteum](https://vinteum.org/).
 
 ### Siempre recuerda
 - Respetar la privacidad de las personas

@@ -7,7 +7,7 @@ meetup: "https://www.meetup.com/guadalajara-bitcoin-and-lightning/events/3038271
 
 ## Anuncios
 ### Intro
-Por favor, únete a nosotros para nuestro tercer Seminario Socrático, hospedado en HackerGarage! Chelas y refrescos están disponibles para la compra durante el evento, y después del evento, iremos por tacos a Tomate Taquería, cortesía de [Vinteum](https://vinteum.org/).
+Por favor, únete a nosotros para nuestro cuarto Seminario Socrático, hospedado en HackerGarage! Chelas y refrescos están disponibles para la compra durante el evento, y después del evento, iremos por tacos a Tomate Taquería, cortesía de [Vinteum](https://vinteum.org/).
 
 ### Siempre recuerda
 - Respetar la privacidad de las personas
