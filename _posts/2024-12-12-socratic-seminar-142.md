@@ -97,7 +97,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Hash-Based Signature Schemes for Post-Quantum Bitcoin](https://conduition.io/cryptography/quantum-hbs/)
 
 ### InfoSec
--
+- [Europol Dismantles Criminal Messaging Service MATRIX in Major Global Takedown](https://thehackernews.com/2024/12/europol-dismantles-criminal-messaging.html)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -389,3 +389,5 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 ## Miscellaneous
 - [Analyzing Bitcoin Consensus: Risks in Protocol Upgrades](https://github.com/bitcoin-cap/bcap/)
+- [Meet Willow, our state-of-the-art quantum chip](https://blog.google/technology/research/google-willow-quantum-chip/)
+- [The Fifth Circuit opined that smart contracts cannot be sanctioned by OFAC](https://storage.mollywhite.net/pdfs/TornadoCash5Cir.pdf)
