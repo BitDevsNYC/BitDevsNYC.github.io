@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Bitcoin Developers’ Socratic Seminar 142"
+title: "Socratic Seminar 142"
 meetup: "https://www.meetup.com/bitdevsnyc/events/304565259/"
 ---
 
@@ -20,10 +20,8 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
-- [Adding New BIP Editors](https://groups.google.com/g/bitcoindev/c/cuMZ77KEQAA)
 - [Difficulty in emulating "weaker" OP_SUCCESS and why it should be a real opcode](https://groups.google.com/g/bitcoindev/c/UgCUykOyd7s)
 - [Covenants Support - Bitcoin Wiki](https://groups.google.com/g/bitcoindev/c/fdxkE1Al4TI)
-- [Great Consensus Cleanup Revival](https://groups.google.com/g/bitcoindev/c/CAfm7D5ppjo)
 - [Full Disclosure: "Transaction-Relay Throughput Overflow Attacks against Off-Chain Protocols"](https://groups.google.com/g/bitcoindev/c/GuS36ldye7s)
 - [Bitcoin Core 28.1 Release Candidate 1 Available](https://groups.google.com/g/bitcoindev/c/hH13aOlEf0k)
 - [Un-FE’d Covenants: Char-ting a new path to Emulated Covenants via BitVM Integrity Checks](https://groups.google.com/g/bitcoindev/c/5pFFi8C0lqc)
@@ -33,10 +31,8 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Prevent future duplicate coinbase transactions as part of Consensus Cleanup](https://groups.google.com/g/bitcoindev/c/KRwDa8aX3to)
 - [Bitcoin Core on ARM (Windows)](https://groups.google.com/g/bitcoindev/c/PAvKQlqZVl4)
 - [Multi-byte opcodes](https://groups.google.com/g/bitcoindev/c/04EzjVQMDH4)
-- [Signing a Bitcoin Transaction with Lamport Signatures (no changes needed)](https://groups.google.com/g/bitcoindev/c/mR53go5gHIk)
 - [OP_PAIRCOMMIT](https://groups.google.com/g/bitcoindev/c/si6ZNIkVfOw)
 - [Broken links to the previous mailing list archive](https://groups.google.com/g/bitcoindev/c/x4FVEikyqD0)
-- [BIP 21 Updates](https://groups.google.com/g/bitcoindev/c/P0D5EZyw1Bk)
 - [Public disclosure of one vulnerability affecting Bitcoin Core <26.0](https://groups.google.com/g/bitcoindev/c/8CJrfUrYOFQ)
 - [File Format for Wallet Inheritance and Recovery](https://groups.google.com/g/bitcoindev/c/wDQBgo63zGU)
 - [libsecp256k1 v0.6.0 released](https://groups.google.com/g/bitcoindev/c/Q6cwXMWnc7s)
