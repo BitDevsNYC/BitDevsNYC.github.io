@@ -98,7 +98,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 ## CVEs and Research
 ### Research
--
+- [Hash-Based Signature Schemes for Post-Quantum Bitcoin](https://conduition.io/cryptography/quantum-hbs/)
 
 ### InfoSec
 -
@@ -392,4 +392,4 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 -
 
 ## Miscellaneous
--
+- [Analyzing Bitcoin Consensus: Risks in Protocol Upgrades](https://github.com/bitcoin-cap/bcap/)
