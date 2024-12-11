@@ -15,7 +15,7 @@ Follow New York BitDevs on [Twitter](https://x.com/BitDevsNYC)
 Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 ## Presentation
-- Lava loans DLC-based protocol
+- Shehzan Maredia - Discreet Log Contracts in [Lava](https://www.lava.xyz/)
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
