@@ -15,17 +15,17 @@ Follow New York BitDevs on [Twitter](https://x.com/BitDevsNYC)
 Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 ## Presentation
-- Shehzan Maredia - Discreet Log Contracts in [Lava](https://www.lava.xyz/)
+- 👉 Shehzan Maredia - Discreet Log Contracts in [Lava](https://www.lava.xyz/)
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
 - [Difficulty in emulating "weaker" OP_SUCCESS and why it should be a real opcode](https://groups.google.com/g/bitcoindev/c/UgCUykOyd7s)
 - [Covenants Support - Bitcoin Wiki](https://groups.google.com/g/bitcoindev/c/fdxkE1Al4TI)
-- [Full Disclosure: "Transaction-Relay Throughput Overflow Attacks against Off-Chain Protocols"](https://groups.google.com/g/bitcoindev/c/GuS36ldye7s)
+- 👉 [Full Disclosure: "Transaction-Relay Throughput Overflow Attacks against Off-Chain Protocols"](https://groups.google.com/g/bitcoindev/c/GuS36ldye7s)
 - [Bitcoin Core 28.1 Release Candidate 1 Available](https://groups.google.com/g/bitcoindev/c/hH13aOlEf0k)
 - [Un-FE’d Covenants: Char-ting a new path to Emulated Covenants via BitVM Integrity Checks](https://groups.google.com/g/bitcoindev/c/5pFFi8C0lqc)
-- [ColliderScript: Covenants in Bitcoin via 160-bit hash collisions](https://groups.google.com/g/bitcoindev/c/cLiwlH6sC3o)
+- 👉 [ColliderScript: Covenants in Bitcoin via 160-bit hash collisions](https://groups.google.com/g/bitcoindev/c/cLiwlH6sC3o)
 - [Slashing covenants](https://groups.google.com/g/bitcoindev/c/nrgqIXL2Cyk)
 - [CHECKSIGFROMSTACK(VERIFY/ADD)](https://groups.google.com/g/bitcoindev/c/usHmnXDuJQc)
 - [Prevent future duplicate coinbase transactions as part of Consensus Cleanup](https://groups.google.com/g/bitcoindev/c/KRwDa8aX3to)
@@ -41,7 +41,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
-- [Disclosure: irrevocable fees---stealing from LN using revoked commitment transactions](https://delvingbitcoin.org/t/disclosure-irrevocable-fees-stealing-from-ln-using-revoked-commitment-transactions)
+- 👉 [Disclosure: irrevocable fees---stealing from LN using revoked commitment transactions](https://delvingbitcoin.org/t/disclosure-irrevocable-fees-stealing-from-ln-using-revoked-commitment-transactions)
 - [Bitcoin OP_CAT Use Cases Series #5: Drivechain](https://delvingbitcoin.org/t/bitcoin-op-cat-use-cases-series-5-drivechain)
 - [Full Disclosure: “Transaction-Relay Throughput Overflow attacks against Off-Chain Protocols](https://delvingbitcoin.org/t/full-disclosure-transaction-relay-throughput-overflow-attacks-against-off-chain-protocols)
 - [op_CAT vs op_CTV vs XMR](https://delvingbitcoin.org/t/op-cat-vs-op-ctv-vs-xmr)
@@ -51,7 +51,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Flexible Coin Earmarks](https://delvingbitcoin.org/t/flexible-coin-earmarks)
 - [Radpool: Decentralised Mining Pool With Futures Contracts For Payouts](https://delvingbitcoin.org/t/radpool-decentralised-mining-pool-with-futures-contracts-for-payouts)
 - [Channel depletion, LN Topology, Cycles and rational behavior of nodes](https://delvingbitcoin.org/t/channel-depletion-ln-topology-cycles-and-rational-behavior-of-nodes)
-- [CTV, APO, CAT activity on signet](https://delvingbitcoin.org/t/ctv-apo-cat-activity-on-signet)
+- 👉 [CTV, APO, CAT activity on signet](https://delvingbitcoin.org/t/ctv-apo-cat-activity-on-signet)
 - [Winternitz One Time Signatures, contrasting between Lisp and Script](https://delvingbitcoin.org/t/winternitz-one-time-signatures-contrasting-between-lisp-and-script)
 - [Code of Conduct Violation: Banning Antoine Riard for 3 months](https://delvingbitcoin.org/t/code-of-conduct-violation-banning-antoine-riard-for-3-months)
 - [Pluggable Channel Factories](https://delvingbitcoin.org/t/pluggable-channel-factories)
@@ -94,7 +94,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 ## CVEs and Research
 ### Research
-- [Hash-Based Signature Schemes for Post-Quantum Bitcoin](https://conduition.io/cryptography/quantum-hbs/)
+- 👉 [Hash-Based Signature Schemes for Post-Quantum Bitcoin](https://conduition.io/cryptography/quantum-hbs/)
 
 ### InfoSec
 - [Europol Dismantles Criminal Messaging Service MATRIX in Major Global Takedown](https://thehackernews.com/2024/12/europol-dismantles-criminal-messaging.html)
@@ -113,7 +113,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Improve parallel script validation error debug logging](https://github.com/bitcoin/bitcoin/pull/31112)
 - [test: enable running independent functional test sub-tests](https://github.com/bitcoin/bitcoin/pull/30991)
 - [test: simple reordering to reduce run time](https://github.com/bitcoin/bitcoin/pull/31396)
-- [dbwrapper: Bump LevelDB max file size to 32 MiB to avoid system slowdown from high disk cache flush rate](https://github.com/bitcoin/bitcoin/pull/30039)
+- 👉 [dbwrapper: Bump LevelDB max file size to 32 MiB to avoid system slowdown from high disk cache flush rate](https://github.com/bitcoin/bitcoin/pull/30039)
 - [doc, test: more ephemeral dust follow-ups](https://github.com/bitcoin/bitcoin/pull/31371)
 - [rpc: add getdescriptoractivity](https://github.com/bitcoin/bitcoin/pull/30708)
 - [ci: Split out native fuzz jobs for macOS and windows (take 2)](https://github.com/bitcoin/bitcoin/pull/31221)
@@ -388,6 +388,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 -
 
 ## Miscellaneous
-- [Analyzing Bitcoin Consensus: Risks in Protocol Upgrades](https://github.com/bitcoin-cap/bcap/)
+- 👉 [Analyzing Bitcoin Consensus: Risks in Protocol Upgrades](https://github.com/bitcoin-cap/bcap/)
 - [Meet Willow, our state-of-the-art quantum chip](https://blog.google/technology/research/google-willow-quantum-chip/)
-- [The Fifth Circuit opined that smart contracts cannot be sanctioned by OFAC](https://storage.mollywhite.net/pdfs/TornadoCash5Cir.pdf)
+- 👉 [The Fifth Circuit opined that smart contracts cannot be sanctioned by OFAC](https://storage.mollywhite.net/pdfs/TornadoCash5Cir.pdf)
+- 👉 [Bitcoin Fog Operator Sentenced for Money Laundering Conspiracy](https://www.justice.gov/opa/pr/bitcoin-fog-operator-sentenced-money-laundering-conspiracy)
