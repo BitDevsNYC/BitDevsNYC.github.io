@@ -61,7 +61,6 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Bitcoin Optech Newsletter #326](https://bitcoinops.org/en/newsletters/2024/10/25/)
 - [Bitcoin Optech Newsletter #325](https://bitcoinops.org/en/newsletters/2024/10/18/)
     - [Recap Podcast](https://bitcoinops.org/en/podcast/2024/10/22/)
-
 - [Bitcoin Optech Newsletter #324](https://bitcoinops.org/en/newsletters/2024/10/11/)
     - [Recap Podcast](https://bitcoinops.org/en/podcast/2024/10/15/)
 - [Bitcoin Optech Newsletter #323](https://bitcoinops.org/en/newsletters/2024/10/04/)
@@ -70,16 +69,31 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
     - [Recap Podcast](https://bitcoinops.org/en/podcast/2024/10/01/)
 
 ## Network Data
--
+- [94% of mempool txs are data storage txs](https://x.com/SteveSimple/status/1837544142575927766)
+- [First block from DATUM mined](https://mempool.space/block/0000000000000000000088a4b23cfcb00feadc51a789254feebc22df156744c1)
+- [mempool.space now displaying Runes](https://x.com/dogbtc_/status/1844427915196498377)
+- [Over 24k BTC stored in Babylon via Taproot]
+- [Someone is bloating the Testnet4 UTXO set](https://x.com/murchandamus/status/1848408001373180193)
+- [testnet4 reorgs](https://x.com/0xB10C/status/1849133671980339313), [context](https://github.com/bitcoin/bitcoin/pull/31117)
 
 ## CVEs and Research
 ### Research
--
+- [Lightning Network Economics: Topology](https://pubsonline.informs.org/doi/10.1287/mnsc.2023.03872)
 
 ### InfoSec
+- [Attacking UNIX Systems via CUPS, Part I](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I)
+- Bitcoin Core 
+	- [Assertion in blocktxn message handling logic](https://bitcoincore.org/en/2024/10/08/disclose-blocktxn-crash/)
+	- [Hindered block propagation due to mutated blocks](https://bitcoincore.org/en/2024/10/08/disclose-mutated-blocks-hindering-propagation/)
+- [GitLab warns of critical arbitrary branch pipeline execution flaw](https://about.gitlab.com/releases/2024/10/09/patch-release-gitlab-17-4-2-released/)
+- [Guide for Wallets Employing Bitcoin Core 28.0 Policies](https://bitcoinops.org/en/bitcoin-core-28-wallet-integration-guide/)
+- [How Chainalysis Made Their Way into Popular Monero Wallets ](https://www.digilol.net/blog/chainanalysis-malicious-xmr.html)
 - [How Cloudflare auto-mitigated world record 3.8 Tbps DDoS attack](https://blog.cloudflare.com/how-cloudflare-auto-mitigated-world-record-3-8-tbps-ddos-attack/)
+- [Nonce Reuse in NBitcoin](https://github.com/MetacoSA/NBitcoin/pull/1228)
+- [Private key extraction over ECDH in secp256k1-node](https://github.com/cryptocoinjs/secp256k1-node/security/advisories/GHSA-584q-6j8j-r5pm)
+- [Radiant capital attacker obtains 3 of 11 private keys for $58M theft](https://x.com/danielvf/status/1847023591117795708)
+- [Seedsigner security model discussion](https://gist.github.com/kdmukai/e270dd1c7b53b8daea4a9fc1ac89847c)
 - [U.S. Wiretap Systems Targeted in China-Linked Hack](https://www.msn.com/en-us/news/technology/u-s-wiretap-systems-targeted-in-china-linked-hack/ar-AA1rIZKx)
-
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -214,16 +228,44 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 
 ## New Releases
+- [frost npm package](https://github.com/cmdruid/frost)
 - [JoinMarket client for iPad](https://apps.apple.com/us/app/fully-noded-join-market/id6651860963)
+- [libsecp256k1 v0.6.0](https://github.com/bitcoin-core/secp256k1/releases/tag/v0.6.0)
+- [Warnet: The Battle of Galen Erso](https://github.com/bitcoin-dev-project/battle-of-galen-erso)
 
 ## Events and Podcasts
--
+- bitcoin++
+	- [ATX script edition](https://www.youtube.com/watch?v=Tx1UTKbSVmY&list=PLZdV4KsJUf8d04-ltKtmUfKfPDJ0xzoNN)
+	- [ecash edition](https://www.youtube.com/watch?v=KD735kbjLZ0&list=PLZdV4KsJUf8dxXlrAHjaVUyra20zcIRbm&index=1)
+- [Brink Podcast - Episode 6: Discussing Pre-25.0 Bitcoin Core Vulnerability Disclosures](https://brink.dev/podcast/6-bitcoin-core-pre-25-disclosures/)
+- [BTCSZN2 - Bitcoin PIPEs](https://x.com/blockspacepod/status/1846956504093524440)
+- [Frankfurt PoW Summit 2024 - Shielded CSV](https://www.youtube.com/live/sKbL6iriqcA)
 
 ## Mining
+- [Bitcoin Mining Industry Report](https://education.compassmining.io/education/bitcoin-mining-industry-report/)
 - [OCEAN Pool Launches DATUM Protocol](https://ocean.xyz/docs/datum)
 
 ## Miscellaneous
-- [Simplicity Arrives on Liquid Testnet](https://blog.blockstream.com/simplicity-arrives-on-liquid-testnet/)
-- [libbitcoin syncs full blockchain in 1 hour](https://x.com/evoskuil/status/1847673128073187536)
+- [Brink receives $250,000 from The Draper Foundation](https://x.com/bitcoinbrink/status/1848395071353458701)
+- [Bitbox 2 first HWW to support Silent Payments](https://bitbox.swiss/blog/bitbox-10-2024-lugano-update/)
+- [Bitcoin Core Funding Report](https://s3.amazonaws.com/1a1z.com/files/1A1z%20-%20Funding%20Bitcoin%20-%20Part%201.pdf)
+- [BitVM Alliance](https://x.com/ZeroSync_/status/1848731786748301524)
+- [Building in the open: a novel design for smartphone-based bitcoin wallets](https://bitkey.build/building-in-the-open/)
+- [cgminer, jgarzik, satoshi and the history of cpu-miner](https://x.com/ckpooldev/status/1848949988178726993)
+- [Coinbase now supports sending to Taproot addresses](https://x.com/CoinbaseAssets/status/1843712761391399318)
 - [Counterparty Partial network outage - Post mortem](https://www.counterparty.io/news/counterparty-partial-network-outage-post-mortem/)
-- [Radiant capital attacker obtains 3 of 11 private keys for $58M theft](https://x.com/danielvf/status/1847023591117795708)
+- [FROST KeyGen For Frost Federation With Broadcast](https://blog.opdup.com/development-updates/2024/09/29/dkg-for-frost-federation.html)
+- [Hash-Based Signature Schemes for Post-Quantum Bitcoin](https://conduition.io/cryptography/quantum-hbs/)
+- [Highly available LND cluster setup](https://github.com/Filiprogrammer/lnd-ha-guide)
+- [Introducing Group Channel Opens on LN+](https://lightningnetwork.plus/posts/594)
+- [libbitcoin syncs full blockchain in 1 hour](https://x.com/evoskuil/status/1847673128073187536)
+- [Lightspare introduce Spark, a new statechain-based L2](https://www.spark.info/)
+- [Notes from Berlin: The world's first ecash summit](https://mailchi.mp/hrf.org/hrfs-weekly-financial-freedom-report-9100630)
+- [OpenSats Issues Second Wave of Education Grants](https://opensats.org/blog/second-wave-of-education-grants)
+- [Phoneix moves to bLIP 36 LSP spec](https://x.com/PhoenixWallet/status/1844377194489053555#m)
+- [Simplicity Arrives on Liquid Testnet](https://blog.blockstream.com/simplicity-arrives-on-liquid-testnet/)
+- Spiral Grants - [Austin Krauss](https://x.com/spiralbtc/status/1851305676338868567), [VLSProject](https://x.com/spiralbtc/status/1849839498781200477), [spacebear21](https://x.com/spiralbtc/status/1848741207502885101), [Will Clark](https://x.com/spiralbtc/status/1846941541153349755)
+- [Strata rollup devnet released](https://www.stratabtc.org/)
+- [The Bitcoin Core Kernel](https://thecharlatan.ch/Kernel/)
+- [Understanding Silent Payments - Part Two](https://bitbox.swiss/blog/understanding-silent-payments-part-two/)
+- [MDK Beta Update: Early Feedback & Expanded Participation](https://www.mining.build/blog/mdk-beta-update/)
