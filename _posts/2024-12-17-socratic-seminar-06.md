@@ -47,10 +47,10 @@ Por favor, únete a nosotros para nuestro sexto Seminario Socrático, hospedado 
 - [Ark Obtiene Canales](https://arkdev.info/blog/bitcoin-virtual-channels/)
 - [El dilema del consenso](https://x.com/jamesob/status/1857049961235403101)
 - [Resumen de OP_NEXT](https://x.com/blockspacepod/status/1856344103341920718)
-- [Bloqueo de pagos en Lightning Network (LN)](https://x.com/callebtc/status/1856679659523490046)
+- [Bloqueo de pagos en Lightning Network (LN)](https://x.com/callebtc/status/1856679659523490046) - [Explicación](https://bitdevs.btcgdl.com/2024-12-15-censorship-LN)
 
 ### Transacciones interesantes
 
 - [Transacciones SIGHASH_SINGLE \| ANYONECANPAY (Cualquiera puede pagar)](https://x.com/sanket1729/status/1851824134680170792)
-- [Cronología del aumento de tarifas durante una acuñación de runes](https://x.com/mononautical/status/1851830349208363379)
+- [Cronología del aumento de tarifas durante una acuñación de runes](https://x.com/mononautical/status/1851830349208363379) - [Explicación](https://bitdevs.btcgdl.com/2024-12-15-fee-spike-during-mint)
 - [“Demo de puente” de Bitvm](https://www.bitcoinos.build/blog/its-alive-bos-and-merlin-execute-first-bitcoin-zk-bridge-transaction) y [IDs de transacciones relevantes](https://x.com/BTC_OS/status/1861424064436273556)
