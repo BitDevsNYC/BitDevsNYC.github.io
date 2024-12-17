@@ -18,10 +18,10 @@ Por favor, únete a nosotros para nuestro sexto Seminario Socrático, hospedado 
 ## Cosas que realmente discutiremos
 
 - [Wiki de Apoyo a Convenios](https://en.bitcoin.it/wiki/Covenants_support) - [Explicación](https://bitdevs.btcgdl.com/2024-12-17-covenants)
-- [Bloqueo de pagos en Lightning Network (LN)](https://x.com/callebtc/status/1856679659523490046)
+- [Bloqueo de pagos en Lightning Network (LN)](https://x.com/callebtc/status/1856679659523490046) - [Explicación](https://bitdevs.btcgdl.com/2024-12-15-censorship-LN)
 - [Ark Obtiene Canales](https://arkdev.info/blog/bitcoin-virtual-channels/)
 - [El Enigma del Consenso](https://x.com/jamesob/status/1857049961235403101) - [Explicación](https://bitdevs.btcgdl.com/2024-12-17-consensus)
-- [Cronología del aumento de tarifas durante una acuñación de runes](https://x.com/mononautical/status/1851830349208363379)
+- [Cronología del aumento de tarifas durante una acuñación de runes](https://x.com/mononautical/status/1851830349208363379) - [Explicación](https://bitdevs.btcgdl.com/2024-12-15-fee-spike-during-mint)
 - [“Demo de puente” de Bitvm](https://www.bitcoinos.build/blog/its-alive-bos-and-merlin-execute-first-bitcoin-zk-bridge-transaction)
 
 ## Todo categorizado
