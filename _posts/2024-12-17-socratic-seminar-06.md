@@ -17,10 +17,10 @@ Por favor, únete a nosotros para nuestro sexto Seminario Socrático, hospedado 
 
 ## Cosas que realmente discutiremos
 
-- [Wiki de soporte para convenios](https://en.bitcoin.it/wiki/Covenants_support)
+- [Wiki de Apoyo a Convenios](https://en.bitcoin.it/wiki/Covenants_support) - [Explicación](https://bitdevs.btcgdl.com/2024-12-17-covenants)
 - [Bloqueo de pagos en Lightning Network (LN)](https://x.com/callebtc/status/1856679659523490046)
 - [Ark Obtiene Canales](https://arkdev.info/blog/bitcoin-virtual-channels/)
-- [El dilema del consenso](https://x.com/jamesob/status/1857049961235403101)
+- [El Enigma del Consenso](https://x.com/jamesob/status/1857049961235403101) - [Explicación](https://bitdevs.btcgdl.com/2024-12-17-consensus)
 - [Cronología del aumento de tarifas durante una acuñación de runes](https://x.com/mononautical/status/1851830349208363379)
 - [“Demo de puente” de Bitvm](https://www.bitcoinos.build/blog/its-alive-bos-and-merlin-execute-first-bitcoin-zk-bridge-transaction)
 
@@ -30,7 +30,7 @@ Por favor, únete a nosotros para nuestro sexto Seminario Socrático, hospedado 
 - [ColliderScript](https://eprint.iacr.org/2024/1802)
 - [Convenios no financiados](https://rubin.io/public/pdfs/unfedcovenants.pdf)
 - [Convenios con penalización](https://groups.google.com/g/bitcoindev/c/nrgqIXL2Cyk/m/9epQ8CMcAwAJ?pli=1)
-- [Wiki de soporte para convenios](https://en.bitcoin.it/wiki/Covenants_support)
+- [Wiki de Apoyo a Convenios](https://en.bitcoin.it/wiki/Covenants_support)
 
 ### Frost
 
@@ -45,7 +45,7 @@ Por favor, únete a nosotros para nuestro sexto Seminario Socrático, hospedado 
 ### Ensayos
 
 - [Ark Obtiene Canales](https://arkdev.info/blog/bitcoin-virtual-channels/)
-- [El dilema del consenso](https://x.com/jamesob/status/1857049961235403101)
+- [El Enigma del Consenso](https://x.com/jamesob/status/1857049961235403101) - [Explicación](https://bitdevs.btcgdl.com/2024-12-17-consensus)
 - [Resumen de OP_NEXT](https://x.com/blockspacepod/status/1856344103341920718)
 - [Bloqueo de pagos en Lightning Network (LN)](https://x.com/callebtc/status/1856679659523490046) - [Explicación](https://bitdevs.btcgdl.com/2024-12-15-censorship-LN)
 
