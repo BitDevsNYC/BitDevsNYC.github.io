@@ -21,6 +21,8 @@ Por favor, únete a nosotros para nuestro séptimo Seminario Socrático, hospeda
 - [Pago de facturas con Strike](https://strike.me/blog/announcing-strike-bill-pay/)
 - [Payjoin sin servidor y asíncrono](https://www.bullbitcoin.com/blog/bull-bitcoin-wallet-payjoin)
 - [Strike cede y cumple con la regla de viaje](https://strike.me/faq/what-is-the-travel-rule-regulation/)
+- [Boltz Pro: Gana satoshis ayudando con liquidez en swaps](https://x.com/Boltzhq/status/1873778286947688831?t=2MDK2wthUQcCIDp1kcfPHg&s=19) - [Explicación](https://bitdevs.btcgdl.com/2025-01-14-Boltz-Pro.md)
+- [Sitio web de LNHance](https://lclhost.org/) - [Explicación](https://bitdevs.btcgdl.com/2025-01-14-LNhance.md)
 
 
 ## Todo categorizado
