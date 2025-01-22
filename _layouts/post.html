@@ -9,13 +9,6 @@ layout: default
         <h1 class="Post-title">{{ page.title }}</h1>
         <div class="Post-info">
           <span>{{ page.date | date_to_string }}</span>
-          {% if page.meetup %}
-            <span class="meetup-link">
-              <a href="{{ page.meetup }}" target="_blank" rel="noopener nofollow">
-                Link to Meetup
-              </a>
-            </span>
-          {% endif %}
         </div>
       </div>
 
@@ -33,10 +26,8 @@ layout: default
         </div>
         {% endif %}
       </div>
-
     </div>
     <div class="Post-content">
-
       {{ content }}
     </div>
 
