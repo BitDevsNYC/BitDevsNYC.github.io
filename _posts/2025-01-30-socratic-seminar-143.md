@@ -80,14 +80,15 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 
 ## Network Data
--
+- [Fifteen OFAC-sanctioned transactions missing from blocks](https://b10c.me/observations/13-missing-sanctioned-transactions-2024-12/)
 
 ## CVEs and Research
 ### Research
 -
 
 ### InfoSec
--
+- [15-year-old publishes unique 0-click deanonymization attack targeting Signal](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
+- [Chinese hackers accessed workstations inside US Treasury](https://apnews.com/article/china-hacking-treasury-department-8942106afabeac96010057e05c67c9d5)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -272,4 +273,7 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 -
 
 ## Miscellaneous
--
+- [Mara pool mines 3.97 MB image inscription filling entire block with a single transaction](https://x.com/mononautical/status/1883057943115092441)
+- [A Pokemon Battle Game, Written in Zig and Executed with BitVMX](https://blog.rootstock.io/noticia/pkmn_bttl-a-pokemon-battle-game-written-in-zig-and-executed-with-bitvmx/)
+- [US court overturns Tornado Cash sanctions](https://cointelegraph.com/news/us-texas-court-reverses-tornado-cash-sanctions-crypto-privacy-win)
+- [Dogecoin critical remote crash vulnerability](https://x.com/EfficiencyDOGE/status/1864357823163060316)
