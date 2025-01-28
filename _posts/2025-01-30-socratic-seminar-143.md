@@ -14,9 +14,6 @@ Follow New York BitDevs on [Twitter](https://x.com/BitDevsNYC)
 
 Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
-## Presentation
--
-
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
@@ -32,13 +29,8 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [CTV++ OP_TEMPLATEHASH & OP_INPUTAMOUNTS](https://groups.google.com/g/bitcoindev/c/1P1aqkfwE7E)
 - [Censorship and Privacy in Chaumian ecash implementations](https://groups.google.com/g/bitcoindev/c/3f1QzJ-qcsA)
 - [Double Exponential Hash Rate Growth and Difficulty Adjustment](https://groups.google.com/g/bitcoindev/c/JhEyfW7YKhY)
-- [Bitcoin Core 28.1 Release Candidate 2 Available](https://groups.google.com/g/bitcoindev/c/EhQu-KaPVcY)
-- [BIP Draft: "ChillDKG: Distributed Key Generation for FROST"](https://groups.google.com/g/bitcoindev/c/HE3HSnGTpoQ)
 - [(BIP Proposal) Redefinition of the Bitcoin Unit to the Base Denomination](https://groups.google.com/g/bitcoindev/c/YwF-djZi1Bo)
-- [Proposal for Quantum-Resistant Cryptography in Bitcoin - BIP Submission](https://groups.google.com/g/bitcoindev/c/p8xz08YTvkw)
 - [Difficulty in emulating "weaker" OP_SUCCESS and why it should be a real opcode](https://groups.google.com/g/bitcoindev/c/UgCUykOyd7s)
-- [Covenants Support - Bitcoin Wiki](https://groups.google.com/g/bitcoindev/c/fdxkE1Al4TI)
-- [Adding New BIP Editors](https://groups.google.com/g/bitcoindev/c/cuMZ77KEQAA)
 
 
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
@@ -63,30 +55,26 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
 
 - Bitcoin Core general developer meetings
-    - [December 12](https://www.erisian.com.au/bitcoin-core-dev/log-2024-12-12.html#l-<span class="linenos">191</span>)
-    - [December 19](https://www.erisian.com.au/bitcoin-core-dev/log-2024-12-19.html#l-<span class="linenos">129</span>)
-    - [January 2](https://www.erisian.com.au/bitcoin-core-dev/log-2025-01-02.html#l-<span class="linenos">206</span>)
-    - [January 9](https://www.erisian.com.au/bitcoin-core-dev/log-2025-01-09.html#l-<span class="linenos">107</span>)
-    - [January 16](https://www.erisian.com.au/bitcoin-core-dev/log-2025-01-16.html#l-<span class="linenos">130</span>)
-    - [January 23](https://www.erisian.com.au/bitcoin-core-dev/log-2025-01-23.html#l-<span class="linenos">178</span>)
+    - [December 12](https://www.erisian.com.au/bitcoin-core-dev/log-2024-12-12.html#l-191)
+    - [December 19](https://www.erisian.com.au/bitcoin-core-dev/log-2024-12-19.html#l-129)
+    - [January 2](https://www.erisian.com.au/bitcoin-core-dev/log-2025-01-02.html#l-206)
+    - [January 9](https://www.erisian.com.au/bitcoin-core-dev/log-2025-01-09.html#l-107)
+    - [January 16](https://www.erisian.com.au/bitcoin-core-dev/log-2025-01-16.html#l-130)
+    - [January 23](https://www.erisian.com.au/bitcoin-core-dev/log-2025-01-23.html#l-178)
 
 - Lightning Specification meeting
     - <!--- TODO replace: [December 5th](https://github.com/lightning/bolts/issues/1046) --->
 
 ### Optech
 - [Bitcoin Optech Newsletter #338](https://bitcoinops.org/en/newsletters/2025/01/24/)
-- [Bitcoin Optech Newsletter #337](https://bitcoinops.org/en/newsletters/2025/01/17/)
-- [Bitcoin Optech Newsletter #336](https://bitcoinops.org/en/newsletters/2025/01/10/)
-- [Bitcoin Optech Newsletter #335](https://bitcoinops.org/en/newsletters/2025/01/03/)
-- [Bitcoin Optech Newsletter #334: 2024 Year-in-Review Special](https://bitcoinops.org/en/newsletters/2024/12/20/)
-- [Bitcoin Optech Newsletter #333](https://bitcoinops.org/en/newsletters/2024/12/13/)
-- [Bitcoin Optech Newsletter #337 Recap Podcast](https://bitcoinops.org/en/podcast/2025/01/21/)
-- [Bitcoin Optech Newsletter #336 Recap Podcast](https://bitcoinops.org/en/podcast/2025/01/14/)
-- [Bitcoin Optech Newsletter #335 Recap Podcast](https://bitcoinops.org/en/podcast/2025/01/07/)
-- [Bitcoin Optech Newsletter #334 Recap Podcast](https://bitcoinops.org/en/podcast/2024/12/23/)
-- [Bitcoin Optech Newsletter #333 Recap Podcast](https://bitcoinops.org/en/podcast/2024/12/17/)
+- [Bitcoin Optech Newsletter #337](https://bitcoinops.org/en/newsletters/2025/01/17/) -- [(Recap Podcast)](https://bitcoinops.org/en/podcast/2025/01/21/)
+- [Bitcoin Optech Newsletter #336](https://bitcoinops.org/en/newsletters/2025/01/10/) -- [(Recap Podcast)](https://bitcoinops.org/en/podcast/2025/01/14/)
+- [Bitcoin Optech Newsletter #335](https://bitcoinops.org/en/newsletters/2025/01/03/) -- [(Recap Podcast)](https://bitcoinops.org/en/podcast/2025/01/07/)
+- [Bitcoin Optech Newsletter #334: 2024 Year-in-Review Special](https://bitcoinops.org/en/newsletters/2024/12/20/) -- [(Recap Podcast)](https://bitcoinops.org/en/podcast/2024/12/23/)
+- [Bitcoin Optech Newsletter #333](https://bitcoinops.org/en/newsletters/2024/12/13/) -- [(Recap Podcast)](https://bitcoinops.org/en/podcast/2024/12/17/)
+
 - [Channel Depletion Research Deep Dive Podcast](https://bitcoinops.org/en/podcast/2024/12/12/)
-- [Bitcoin Optech Newsletter #332 Recap Podcast](https://bitcoinops.org/en/podcast/2024/12/10/)
+
 
 
 ## Network Data
