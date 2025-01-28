@@ -63,7 +63,9 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
     - [January 23](https://www.erisian.com.au/bitcoin-core-dev/log-2025-01-23.html#l-178)
 
 - Lightning Specification meeting
-    - <!--- TODO replace: [December 5th](https://github.com/lightning/bolts/issues/1046) --->
+    - [December 16](https://github.com/lightning/bolts/issues/1213)
+    - [January 13](https://github.com/lightning/bolts/issues/1216)
+    - [January 27](https://github.com/lightning/bolts/issues/1221)
 
 ### Optech
 - [Bitcoin Optech Newsletter #338](https://bitcoinops.org/en/newsletters/2025/01/24/)
