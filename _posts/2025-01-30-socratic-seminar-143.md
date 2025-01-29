@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Bitcoin Developers’ Socratic Seminar 143"
+title: "Socratic Seminar 143"
 meetup: "https://www.meetup.com/bitdevsnyc/events/305464750/"
 ---
 
@@ -52,8 +52,6 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 
 ### Meetings
-- [Bitcoin PR Review Club](https://bitcoincore.reviews)
-
 - Bitcoin Core general developer meetings
     - [December 12](https://www.erisian.com.au/bitcoin-core-dev/log-2024-12-12.html#l-191)
     - [December 19](https://www.erisian.com.au/bitcoin-core-dev/log-2024-12-19.html#l-129)
@@ -74,7 +72,6 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Bitcoin Optech Newsletter #335](https://bitcoinops.org/en/newsletters/2025/01/03/) -- [(Recap Podcast)](https://bitcoinops.org/en/podcast/2025/01/07/)
 - [Bitcoin Optech Newsletter #334: 2024 Year-in-Review Special](https://bitcoinops.org/en/newsletters/2024/12/20/) -- [(Recap Podcast)](https://bitcoinops.org/en/podcast/2024/12/23/)
 - [Bitcoin Optech Newsletter #333](https://bitcoinops.org/en/newsletters/2024/12/13/) -- [(Recap Podcast)](https://bitcoinops.org/en/podcast/2024/12/17/)
-
 - [Channel Depletion Research Deep Dive Podcast](https://bitcoinops.org/en/podcast/2024/12/12/)
 
 
