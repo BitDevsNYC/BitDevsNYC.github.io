@@ -1,11 +1,13 @@
 ---
 layout: post
 type: socratic
+published: false
 title: "Socratic Seminar 143"
 meetup: "https://www.meetup.com/bitdevsnyc/events/305464750/"
 ---
 
 ## Announcements
+
 Please join us for our next Socratic Seminar. A special thank you to our sponsors [Chaincode Labs](https://chaincode.com) and [Lava](https://www.lava.xyz/) for food, refreshments and event space.
 
 If you can't make it to the main event please join us at [PUBKEY](https://pubkey.bar/home) around 9:30PM.
@@ -15,8 +17,11 @@ Follow New York BitDevs on [Twitter](https://x.com/BitDevsNYC)
 Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 ## Mailing Lists, Meetings and Bitcoin Optech
+
 ### Mailing Lists
+
 #### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
+
 - [(FULL DISCLOSURE): Replacement Cycling Attacks on Attacks on Bitcoin Miners Block Templates](https://groups.google.com/g/bitcoindev/c/ZspZzO4sBys)
 - [Reiterating centralized coinjoin (Wasabi & Samourai) deanonymization attacks](https://groups.google.com/g/bitcoindev/c/CbfbEGozG7c)
 - [BIP Draft: unspendable() Descriptor Key Expression](https://groups.google.com/g/bitcoindev/c/xWxy8DtW6m8)
@@ -32,8 +37,8 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [(BIP Proposal) Redefinition of the Bitcoin Unit to the Base Denomination](https://groups.google.com/g/bitcoindev/c/YwF-djZi1Bo)
 - [Difficulty in emulating "weaker" OP_SUCCESS and why it should be a real opcode](https://groups.google.com/g/bitcoindev/c/UgCUykOyd7s)
 
-
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
+
 - [ZK-gossip for lightning channel announcements](https://delvingbitcoin.org/t/zk-gossip-for-lightning-channel-announcements)
 - [Full Disclosure: Replacement Cycling Attacks on Bitcoin Miners Block Templates](https://delvingbitcoin.org/t/full-disclosure-replacement-cycling-attacks-on-bitcoin-miners-block-templates)
 - [Disclosure: LDK Invalid Claims Liquidity Griefing](https://delvingbitcoin.org/t/disclosure-ldk-invalid-claims-liquidity-griefing)
@@ -50,22 +55,24 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Security soft fork deployments arent risky](https://delvingbitcoin.org/t/security-soft-fork-deployments-arent-risky)
 - [Timewarp attack 600 second grace period](https://delvingbitcoin.org/t/timewarp-attack-600-second-grace-period)
 
-
 ### Meetings
+
 - Bitcoin Core general developer meetings
-    - [December 12](https://www.erisian.com.au/bitcoin-core-dev/log-2024-12-12.html#l-191)
-    - [December 19](https://www.erisian.com.au/bitcoin-core-dev/log-2024-12-19.html#l-129)
-    - [January 2](https://www.erisian.com.au/bitcoin-core-dev/log-2025-01-02.html#l-206)
-    - [January 9](https://www.erisian.com.au/bitcoin-core-dev/log-2025-01-09.html#l-107)
-    - [January 16](https://www.erisian.com.au/bitcoin-core-dev/log-2025-01-16.html#l-130)
-    - [January 23](https://www.erisian.com.au/bitcoin-core-dev/log-2025-01-23.html#l-178)
+
+  - [December 12](https://www.erisian.com.au/bitcoin-core-dev/log-2024-12-12.html#l-191)
+  - [December 19](https://www.erisian.com.au/bitcoin-core-dev/log-2024-12-19.html#l-129)
+  - [January 2](https://www.erisian.com.au/bitcoin-core-dev/log-2025-01-02.html#l-206)
+  - [January 9](https://www.erisian.com.au/bitcoin-core-dev/log-2025-01-09.html#l-107)
+  - [January 16](https://www.erisian.com.au/bitcoin-core-dev/log-2025-01-16.html#l-130)
+  - [January 23](https://www.erisian.com.au/bitcoin-core-dev/log-2025-01-23.html#l-178)
 
 - Lightning Specification meeting
-    - [December 16](https://github.com/lightning/bolts/issues/1213)
-    - [January 13](https://github.com/lightning/bolts/issues/1216)
-    - [January 27](https://github.com/lightning/bolts/issues/1221)
+  - [December 16](https://github.com/lightning/bolts/issues/1213)
+  - [January 13](https://github.com/lightning/bolts/issues/1216)
+  - [January 27](https://github.com/lightning/bolts/issues/1221)
 
 ### Optech
+
 - [Bitcoin Optech Newsletter #338](https://bitcoinops.org/en/newsletters/2025/01/24/)
 - [Bitcoin Optech Newsletter #337](https://bitcoinops.org/en/newsletters/2025/01/17/) -- [(Recap Podcast)](https://bitcoinops.org/en/podcast/2025/01/21/)
 - [Bitcoin Optech Newsletter #336](https://bitcoinops.org/en/newsletters/2025/01/10/) -- [(Recap Podcast)](https://bitcoinops.org/en/podcast/2025/01/14/)
@@ -74,21 +81,25 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Bitcoin Optech Newsletter #333](https://bitcoinops.org/en/newsletters/2024/12/13/) -- [(Recap Podcast)](https://bitcoinops.org/en/podcast/2024/12/17/)
 - [Channel Depletion Research Deep Dive Podcast](https://bitcoinops.org/en/podcast/2024/12/12/)
 
-
-
 ## Network Data
+
 - [Fifteen OFAC-sanctioned transactions missing from blocks](https://b10c.me/observations/13-missing-sanctioned-transactions-2024-12/)
 
 ## CVEs and Research
+
 ### Research
+
 -
 
 ### InfoSec
+
 - [15-year-old publishes unique 0-click deanonymization attack targeting Signal](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 - [Chinese hackers accessed workstations inside US Treasury](https://apnews.com/article/china-hacking-treasury-department-8942106afabeac96010057e05c67c9d5)
 
 ## Pull Requests and repo updates
+
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
+
 - [ci: Enable DEBUG=1 for one GCC-12+ build to catch 117966 regressions](https://github.com/bitcoin/bitcoin/pull/31522)
 - [test: Remove --noshutdown flag, Tidy startup failures](https://github.com/bitcoin/bitcoin/pull/31620)
 - [Safegcd-based modular inverses in MuHash3072](https://github.com/bitcoin/bitcoin/pull/21590)
@@ -121,8 +132,8 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [net, init: derive default onion port if a user specified a -port](https://github.com/bitcoin/bitcoin/pull/31223)
 - [wallet: Migrate non-HD keys to combo() descriptor](https://github.com/bitcoin/bitcoin/pull/31452)
 
-
 ### [BDK](https://github.com/bitcoindevkit/bdk)
+
 - [feat(wallet): support Testnet4 in valid networks](https://github.com/bitcoindevkit/bdk/pull/1805)
 - [test(wallet): create tx locktime cltv for a specific time](https://github.com/bitcoindevkit/bdk/pull/1682)
 - [test(electrum): test for checking that fee calculation is correct](https://github.com/bitcoindevkit/bdk/pull/1685)
@@ -132,13 +143,13 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [`transactions` method should only return relevant transactions](https://github.com/bitcoindevkit/bdk/pull/1779)
 - [Introduce `O(n)` canonicalization algorithm](https://github.com/bitcoindevkit/bdk/pull/1670)
 
-
 ### [HWI](https://github.com/bitcoin-core/HWI)
+
 - [Jade native psbt](https://github.com/bitcoin-core/HWI/pull/753)
 - [Support testnet4 chain](https://github.com/bitcoin-core/HWI/pull/771)
 
-
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
+
 - [Add `µBTC` as a recognized `str` form of a MicroBitcoin Denomination](https://github.com/rust-bitcoin/rust-bitcoin/pull/3943)
 - [bitcoin: Add an example of doing I/O to encode/decode](https://github.com/rust-bitcoin/rust-bitcoin/pull/3878)
 - [io: Add traits](https://github.com/rust-bitcoin/rust-bitcoin/pull/3861)
@@ -153,17 +164,14 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [primitives: Reduce alloc requirements](https://github.com/rust-bitcoin/rust-bitcoin/pull/3711)
 - [Range check against SignedAmount::MAX instead of i64::MAX](https://github.com/rust-bitcoin/rust-bitcoin/pull/3697)
 
-
 ### [libsecp](https://github.com/bitcoin-core/secp256k1)
-
 
 ### [secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp)
 
-
 ### [dlcspecs](https://github.com/discreetlogcontracts/dlcspecs)
 
-
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
+
 - [doc: Add newly added bkpr RPCs in documentation](https://github.com/ElementsProject/lightning/pull/7976)
 - [docs: Remove `lightning-` prefix from all RPCs](https://github.com/ElementsProject/lightning/pull/7978)
 - [Fix askrene 0 amount crash (and hopefully stop xpay calling that!) and over capacity crash](https://github.com/ElementsProject/lightning/pull/8024)
@@ -178,8 +186,8 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [xpay: populate destination and amount_msat fields for listpays/listsendpays.](https://github.com/ElementsProject/lightning/pull/7941)
 - [lightning-cli: fix malformed response bug](https://github.com/ElementsProject/lightning/pull/7924)
 
-
 ### [eclair](https://github.com/ACINQ/eclair/)
+
 - [Rework channel announcement signatures handling](https://github.com/ACINQ/eclair/pull/2969)
 - [Add liquidity griefing protection for liquidity ads](https://github.com/ACINQ/eclair/pull/2982)
 - [Validate offers format](https://github.com/ACINQ/eclair/pull/2985)
@@ -191,8 +199,8 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Delay considering a channel closed when seeing an on-chain spend](https://github.com/ACINQ/eclair/pull/2936)
 - [Peer storage](https://github.com/ACINQ/eclair/pull/2888)
 
-
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
+
 - [Fail HTLC backwards before upstream claims on-chain](https://github.com/lightningdevkit/rust-lightning/pull/3556)
 - [RawBolt11Invoice serialization utilities](https://github.com/lightningdevkit/rust-lightning/pull/3549)
 - [`OutputSweeper`: Delay pruning until monitors have likely been archived ](https://github.com/lightningdevkit/rust-lightning/pull/3559)
@@ -215,8 +223,8 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Ensure monitors are not archived if they have a preimage we need](https://github.com/lightningdevkit/rust-lightning/pull/3450)
 - [Support Trampoline flag in BOLT12 invoices](https://github.com/lightningdevkit/rust-lightning/pull/3446)
 
-
 ### [lnd](https://github.com/lightningnetwork/lnd)
+
 - [chanbackup: archive old channel backup files](https://github.com/lightningnetwork/lnd/pull/9232)
 - [invoices: migrate KV invoices to native SQL for users of KV SQL backends](https://github.com/lightningnetwork/lnd/pull/8831)
 - [multi: fix inconsistent state in gossip syncer](https://github.com/lightningnetwork/lnd/pull/9424)
@@ -232,8 +240,8 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [routing: fix mc blinded path behaviour.](https://github.com/lightningnetwork/lnd/pull/9316)
 - [Add a deep copy generic harness to the internal fn package](https://github.com/lightningnetwork/lnd/pull/9345)
 
-
 ### [BIPs](https://github.com/bitcoin/bips)
+
 - [BIP78: Allow mixed inputs Redux](https://github.com/bitcoin/bips/pull/1605)
 - [Fix BIP 78 & BIP 174 Conflict: Keep input utxo data through input finalization](https://github.com/bitcoin/bips/pull/1396)
 - [BIP375: Sending Silent Payments in PSBTs](https://github.com/bitcoin/bips/pull/1687)
@@ -246,30 +254,32 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [BIP-340: fix `lift_x` calls in test vector generation script](https://github.com/bitcoin/bips/pull/1729)
 - [388: Add support for `musig` in descriptor templates](https://github.com/bitcoin/bips/pull/1697)
 
-
 ### [BLIPs](https://github.com/lightning/blips)
+
 - [Add bLIP 52: JIT Channel Negotiation (LSPS2)](https://github.com/lightning/blips/pull/54)
 - [Add bLIP 51: Channel Requests (LSPS1)](https://github.com/lightning/blips/pull/53)
 - [Add bLIP 50: LSP Spec Transport Layer (LSPS0)](https://github.com/lightning/blips/pull/52)
 
-
-
 ### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
+
 - [Peer storage for nodes to distribute small encrypted blobs.](https://github.com/lightning/bolts/pull/1110)
 - [BOLT 12: fix BIP 353 spec typos](https://github.com/lightning/bolts/pull/1222)
 - [Remove explicit 6-blocks delay for `announcement_signatures`](https://github.com/lightning/bolts/pull/1215)
 
-
 ## New Releases
+
 -
 
 ## Events and Podcasts
+
 -
 
 ## Mining
+
 -
 
 ## Miscellaneous
+
 - [Mara pool mines 3.97 MB image inscription filling entire block with a single transaction](https://x.com/mononautical/status/1883057943115092441)
 - [A Pokemon Battle Game, Written in Zig and Executed with BitVMX](https://blog.rootstock.io/noticia/pkmn_bttl-a-pokemon-battle-game-written-in-zig-and-executed-with-bitvmx/)
 - [US court overturns Tornado Cash sanctions](https://cointelegraph.com/news/us-texas-court-reverses-tornado-cash-sanctions-crypto-privacy-win)

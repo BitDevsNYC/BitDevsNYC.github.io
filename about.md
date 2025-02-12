@@ -2,7 +2,7 @@
 layout: default
 ---
 
-BitDevs is a community for those interested in discussing and participating in
+BitDevs Cotonou is inpired by Bitdevs NYC & Lagos to help grow a community in Cotonou and other part of Benin of those interested in discussing and participating in
 the research and development of Bitcoin and related protocols. You can be well
 versed with or new to the topics, all are welcome. Be advised: discussion will
 be technical.
@@ -13,20 +13,17 @@ Our monthly Socratic Seminar events are formatted to foster debate, information
 sharing and lively discussion. In the weeks preceding the event, discussion
 topics are collated by meetup members from a variety of sources: pull requests
 in popular git repositories (e.g. Bitcoin Core, lnd, c-lightning, Joinmarket,
-Elements Alpha and Electrum), research papers, technical blog posts, IRC logs,
-network monitors and more. After a period of discussion, some events will have [presentations](https://bitdevs.org/presenter-guidelines/) of open source
-projects, companies, research and other relevant content. A feedback and Q&A
-section follow. After the event the group gathers at a nearby restaurant to
-socialize.
+Elements Alpha, Electrum, Breez), research papers, technical blog posts, IRC logs,
+network monitors, X (Twitter) post and more. After a period of discussion, some events will have presentations of open source projects, companies, research and other relevant content. A feedback and Q&A section follow. After the event the group gathers at a nearby restaurant to socialize when possible.
 
 A newsletter is sent out the day of the event which outlines discussion topics.
 Archives of discussion topics and presentations can be found in the event
-descriptions of past meetups. The discussion portion of the event is NEVER
-recorded. It is recommended that you have a firm grasp of the basics of Bitcoin
-in order to extract the most value from our Socratic events.
+descriptions of past meetups. The discussion portion of the event can be recorded with permissions.
+It is recommended that you have a firm grasp of the basics of Bitcoin
+in order to extract the most value from our Socratic events. It that is not the case, let other participants know to get some basics ressources.
 
 Please contact the organizers if you'd like to present at a future Socratic
-event or have a recommended topic for discussion: bitdevsnyc at gmail. There
+event or have a recommended topic for discussion: bitdevscotonou at gmail. There
 are different requirements for presentations depending on the nature of the
 project.
 

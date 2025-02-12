@@ -2,7 +2,6 @@
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title
-# permalink: pretty
 plugins: [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 sass:
