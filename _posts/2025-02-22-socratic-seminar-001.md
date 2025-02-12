@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic seminar 001 - Intro to Bitdev"
-meetup: https:/lu.ma/y7cff6uz/
+meetup: "https://lu.ma/y7cff6uz/"
 ---
 
 Welcome to our first Socratic Seminar in Cotonou, Benin
