@@ -2,6 +2,7 @@
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title
+# permalink: pretty
 plugins: [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 sass:
@@ -13,7 +14,6 @@ title: "BitDevs Cotonou"
 description: "BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols."
 
 # Leave out some files
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache']
+exclude: ["README.md", "Gemfile", "Gemfile.lock", ".sass-cache"]
 
 future: true
-
