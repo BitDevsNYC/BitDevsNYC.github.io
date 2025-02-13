@@ -2,7 +2,7 @@
 
 Simple Jekyll site for hosting all of the links from meetups past and future.
 
-## Development
+## Development throught Ruby and Jekyll
 
 You'll need [Ruby & Jekyll](https://jekyllrb.com/docs/installation/) to run the
 site locally. Once they're setup:
@@ -11,6 +11,26 @@ site locally. Once they're setup:
 * Run `bundle install`
 * Run `jekyll serve`
 * Go to http://localhost:4000
+
+## Development throught Docker 
+Ensure you have docker running on your machine then : 
+* Clone this repository and go into the directory 
+### Throught Dockerfile
+```
+  docker build -t <image_name> .
+  docker run -p 4000:4000 <image_name>
+```
+
+### Thought Docker Compose 
+
+```
+ docker compose build --no-cache 
+ docker compose up
+
+ || 
+
+ docker compose up --build -V
+```
 
 ## Making a Post
 

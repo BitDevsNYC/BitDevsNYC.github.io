@@ -1,0 +1,29 @@
+
+services:
+  bitdevscotonou : 
+    build: 
+      context: .
+      dockerfile: ./Dockerfile
+      target: development
+    command : bundle exec jekyll serve --host=0.0.0.0 --force_polling
+
+    ports:
+      - 4000:4000
+    
+    volumes:
+      - .:/app
+      - /app/vendor
+    environment:
+      - JEKYLL_ENV=development
+
+    develop:
+      watch:
+        - path: ./_posts
+          action: sync
+          target: .
+        - path: Gemfile
+          action: rebuild
+        - path : ./
+          action: sync
+          target: .
+  
