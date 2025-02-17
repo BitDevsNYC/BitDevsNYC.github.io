@@ -1,13 +1,12 @@
 title: "BitDevs Cotonou"
-tagline: "BitDevs Cotonou is the community for those interested in discussing and participating in the research and development of Bitcoin and related protocols in Cotonou."
+#tagline: "BitDevs Cotonou is the community in Cotonou, Benin, for those interested in discussing and participating in the research and development of Bitcoin and related protocols."
 
 menu:
   - { name: "About", url: "/about" }
-  - { name: "Events", url: "/events" }
-  - { name: "Blog", url: "/blog" }
-  - { name: "X", url: "https://x.com/BitdevsCotonou", external: true }
+  - { name: "Luma", url: "https://lu.ma/bitdevscotonou" }
   - {
-      name: "Discussion",
+      name: "Group",
       url: "https://chat.whatsapp.com/IfsmzGeleeUBwvy1AJ6W9U",
       external: true,
     }
+  - { name: "Twitter", url: "https://x.com/BitdevsCotonou", external: true }
