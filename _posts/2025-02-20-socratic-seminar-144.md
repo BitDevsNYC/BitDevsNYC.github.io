@@ -14,7 +14,7 @@ Follow New York BitDevs on:
 
 - [Twitter](https://x.com/BitDevsNYC)
 - [BlueSky](https://bsky.app/profile/bitdevsnyc.bsky.social)
-- nostr: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
+- nostr: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup3hqs`
 
 ## Presentation
 -
