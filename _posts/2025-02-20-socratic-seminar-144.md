@@ -83,7 +83,7 @@ Follow New York BitDevs on:
 -
 
 ### InfoSec
--
+- [Bitcoin Lightning Bug Allows Remote Theft of Bitcoin via LND Nodes](https://protos.com/bitcoin-lightning-bug-allows-remote-theft-of-bitcoin-via-lnd-nodes/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -224,4 +224,4 @@ Follow New York BitDevs on:
 -
 
 ## Miscellaneous
--
+- [Private key extraction in ECDSA upon signing a malformed input](https://github.com/indutny/elliptic/security/advisories/GHSA-vjh7-7g9h-fjfh)
