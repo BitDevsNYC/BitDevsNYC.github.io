@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar #1"
+title: "Socratic Seminar #0"
 meetup: "https://lu.ma/y7cff6uz/"
 ---
 
@@ -13,8 +13,11 @@ Road of Ecobank \| Gbèdjromèdé, Cotonou \| [Map](https://maps.app.goo.gl/ukUL
 
 ## Announcements
 
-Join us on our First Bitcoin [Socratic Seminar](/about)! A special thank you to our
-sponsor [Btrust](http://btrust.tech/) for support.
+We are glad to invite you to our First Bitcoin [Socratic Seminar](/about)!
+
+At this seminar, we will present Bitdevs Cotonou, its vision & mission and a brief introduction to Bitcoin Development and career paths it offers. Plus some members will share about their journey.
+
+A special thank you to our sponsor [Btrust](http://btrust.tech/) for support.
 
 ## Reminders
 
@@ -31,12 +34,12 @@ sponsor [Btrust](http://btrust.tech/) for support.
 
 MC: Alphonse
 
-- [Bitdevs](https://groups.google.com/g/bitcoindev/c/8O857bRSVV8/m/4cM-7pf4AgAJ)
-- [Bitdevs Cotonou](https://bitdevscotonou.org/)
+- [Bitdevs](/about)
+- [Bitdevs Cotonou](/)
 - [Mision, Vision & Plans](https://x.com/BitdevsCotonou/status/1890128938984452604)
 - [Programes & Ressources](https://alphonsemehounme.github.io/bitdev/)
 
-### BOSS Programe
+### BOSS Program
 
 ---
 
@@ -59,7 +62,7 @@ MC: Loïc & William
 
 MC: Alphonse
 
-- [Bitcoin Optech Newsletter #341](https://bitcoinops.org/en/newsletters/2025/02/14/)
+- [Introduction to Bitcoin Development : Trainings & Career Paths]()
 
 #### Upcoming Events & Announcements
 
