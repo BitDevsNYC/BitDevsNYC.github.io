@@ -14,7 +14,7 @@ sharing and lively discussion. In the weeks preceding the event, discussion
 topics are collated by meetup members from a variety of sources: pull requests
 in popular git repositories (e.g. Bitcoin Core, lnd, c-lightning, Joinmarket,
 Elements Alpha and Electrum), research papers, technical blog posts, IRC logs,
-network monitors and more. After a period of discussion, some events will have [presentations](https://bitdevs.org/presenter-guidelines/) of open source
+network monitors and more. After a period of discussion, some events will have [presentations](https://curitibabitdevs.org/presenter-guidelines/) of open source
 projects, companies, research and other relevant content. A feedback and Q&A
 section follow. After the event the group gathers at a nearby restaurant to
 socialize.

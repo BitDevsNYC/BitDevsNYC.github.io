@@ -1,9 +1,9 @@
-title: 'BitDevs NYC'
-tagline: 'BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.'
+title: 'Curitiba BitDevs'
+tagline: 'BitDevs é uma comunidade para aqueles interessados em discutir e participar na pesquisa e desenvolvimento do Bitcoin de protocolos relacionados.'
 
 menu:
-  - {name: 'About', url: '/about'}
-  - {name: 'Events', url: '/events'}
+  - {name: 'Sobre', url: '/about'}
+  - {name: 'Eventos', url: '/events'}
   - {name: 'Blog', url: '/blog'}
-  - {name: 'Meetup', url: 'https://www.meetup.com/BitDevsNYC/', external: true}
-  - {name: 'Cities', url: '/cities'}
+  - {name: 'Meetup', url: 'https://www.meetup.com/curitibabitdevs/', external: true}
+  # - {name: 'Cities', url: '/cities'}

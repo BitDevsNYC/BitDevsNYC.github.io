@@ -5,19 +5,9 @@ title: Meetings
 
 <div class="Home">
   <div class="Home-posts">
-    <h2 class="Home-posts-title">Socratic Seminars</h2>
+    <h2 class="Home-posts-title">Seminários Socráticos</h2>
     {% for post in site.posts %}
       {% if post.type == "socratic" %}
-        <div class="Home-posts-post">
-          <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
-          <span class="Home-posts-post-arrow">&raquo;</span>
-          <a class="Home-posts-post-title" href="{{ post.url }}">{{ post.title }}</a>
-        </div>
-      {% endif %}
-    {% endfor %}
-    <h4 class="Home-posts-subtitle">Ethereum Socratic Seminars</h4>
-    {% for post in site.posts %}
-      {% if post.type == "ethereum_socratic" %}
         <div class="Home-posts-post">
           <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
           <span class="Home-posts-post-arrow">&raquo;</span>
