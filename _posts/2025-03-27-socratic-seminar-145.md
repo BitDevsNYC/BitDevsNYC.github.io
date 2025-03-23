@@ -94,7 +94,8 @@ Follow New York BitDevs on:
 -
 
 ### InfoSec
--
+- [Undocumented commands found in Bluetooth chip used by a billion devices](https://www.bleepingcomputer.com/news/security/undocumented-commands-found-in-bluetooth-chip-used-by-a-billion-devices/)
+- [New Telegram vulnerability, EvilLoader, discovered](https://x.com/TechloreInc/status/1897708828390510909)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -283,4 +284,6 @@ Follow New York BitDevs on:
 -
 
 ## Miscellaneous
--
+- [Bybit Loses $1.5B in Hack but Can Cover Loss](https://www.coindesk.com/business/2025/02/21/bybit-experiences-usd1-46b-in-suspicious-outflows-zachxbt)
+- [OSPEAD And The MAP Decoder Attack on Monero](https://duke.hush.is/memos/6/)
+- [Capitalized Bitcoin Fork for National Strategic Reserve](https://eprint.iacr.org/2025/505)
