@@ -40,6 +40,7 @@ As a disclaimer, BitDevs NYC has no official associations with or oversight of t
 - [San Juan](https://sanjuanbitdevs.org/)
 - [San Salvador](https://bitdevelsalvador.com/)
 - [São Paulo](https://bitdevsportugues.org)
+- [Seattle](https://github.com/reardencode/seattle_bitdevs)
 - [Singapore](https://bitdevs.sg/)
 - [Sydney](https://bitcoinsydney.org)
 - [Taipei](https://bitdevs.tw/)
