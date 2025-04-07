@@ -16,10 +16,10 @@ Por favor, únete a nosotros para nuestro décimo Seminario Socrático, hospedad
 
 ## Cosas que realmente discutiremos
 
+- [Brainwallets, entropía y ladrones usando scripts y bots](https://x.com/mononautical/status/1895639824197206352)
+- [El Tesoro de EE. UU. elimina sanciones a Tornado Cash](https://x.com/zerohedge/status/1903097296620810678)
 - TBD
-- TBD
-- TBD
-- TBD
+- [Unchained lanza explorador de PSBT](https://bip370.org/)
 
 ## Todo categorizado
 ### Cómo perder tu dinero
