@@ -18,7 +18,7 @@ Por favor, únete a nosotros para nuestro décimo Seminario Socrático, hospedad
 
 - [Brainwallets, entropía y ladrones usando scripts y bots](https://x.com/mononautical/status/1895639824197206352) - [Explicación](https://bitdevs.btcgdl.com/2025-04-08-Brain-Wallet)
 - [El Tesoro de EE. UU. elimina sanciones a Tornado Cash](https://x.com/zerohedge/status/1903097296620810678)
-- TBD
+- [El artículo de investigación de fjahr sobre CISA ha sido publicado](https://x.com/gladstein/status/1903083977579311529)
 - [Unchained lanza explorador de PSBT](https://bip370.org/)
 
 ## Todo categorizado
