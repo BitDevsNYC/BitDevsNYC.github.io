@@ -198,3 +198,5 @@ Follow New York BitDevs on:
 - [Critical Wallet Bugs Expose Users to Silent Crypto Drains](https://www.coinspect.com/blog/wallet-silent-drain/)
 - [Uncle Sam kills funding for CVE program](https://www.theregister.com/2025/04/16/homeland_security_funding_for_cve/)
 - [BitVM meets Consensus Cleanup over 64-byte transactions](https://github.com/BitVM/BitVM/issues/285)
+- [Clementine: A Collateral-Efficient, Trust-Minimized, and Scalable
+Bitcoin Bridge](https://citrea.xyz/clementine_whitepaper.pdf)
