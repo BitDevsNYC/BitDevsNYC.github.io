@@ -80,7 +80,8 @@ Follow New York BitDevs on:
 -
 
 ### InfoSec
--
+- [Hackers are selling counterfeit phones with crypto-stealing malware](https://cointelegraph.com/news/counterfeit-android-devices-loaded-crypto-stealing-malware)
+- [OpenSSH 10.0 makes the post-quantum ML-KEM hybrid mlkem768x25519-sha256 the default](https://www.openssh.com/txt/release-10.0)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -189,7 +190,11 @@ Follow New York BitDevs on:
 -
 
 ## Mining
--
+- [Bitcoin Mining Centralization in 2025 by 0xB10C](https://b10c.me/blog/015-bitcoin-mining-centralization/)
 
 ## Miscellaneous
--
+- [Trump signs bill to nullify expanded IRS crypto broker rule](https://www.reuters.com/world/us/trump-signs-bill-nullify-expanded-irs-crypto-broker-rule-2025-04-11/)
+- [Crypto crime is legal](https://www.citationneeded.news/issue-81/)
+- [Critical Wallet Bugs Expose Users to Silent Crypto Drains](https://www.coinspect.com/blog/wallet-silent-drain/)
+- [Uncle Sam kills funding for CVE program](https://www.theregister.com/2025/04/16/homeland_security_funding_for_cve/)
+- [BitVM meets Consensus Cleanup over 64-byte transactions](https://github.com/BitVM/BitVM/issues/285)
