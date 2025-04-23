@@ -73,15 +73,38 @@ Follow New York BitDevs on:
 
 
 ## Network Data
--
+- [5 "proxy" pools blast ~5 templates per second for ~33 blocks](https://x.com/boerst/status/1907813787492581575)
+- ["ancient" proto-inscriptions](https://x.com/mononautical/status/1910703196672340007)
+- [Ark transaction on mainnet](https://x.com/softsimon_/status/1910955700441981231)
+- [Bitcoin Mining Centralization in 2025](https://b10c.me/blog/015-bitcoin-mining-centralization/)
+- [Bitcoin's Duplicate Transactions](https://blog.bitmex.com/bitcoins-duplicate-transactions/)
+- [Grid interactive block visualization tool](https://orange.surf/grid/)
+- [Hashrate spikes to 1 zetahash for first time](https://mempool.space/graphs/mining/hashrate-difficulty)
+- [mempool.space visualization of taproot script paths](https://x.com/mempool/status/1911389181101679080)
+- [New "Mining Squared" proxy pool finds multiple blocks](https://x.com/boerst/status/1907036334784458974)
+- [New large solo miner mines block](https://x.com/mononautical/status/1908776941068697745)
+- [stratum.work visualization updates](https://x.com/boerst/status/1906320686886400159)
+- [Up-to-date statistics about chain reorganizations](https://bitcoin.stackexchange.com/questions/126019/up-to-date-statistics-about-chain-reorganizations)
+
 
 ## CVEs and Research
 ### Research
--
+- [A Place for Everyone vs Everyone in its Place: Measuring and Attacking the Ethereum Global Network](https://eprint.iacr.org/2025/588)
+- [Breaking ECDSA with Two Affinely Related
+Nonces](https://eprint.iacr.org/2025/705.pdf)
+- [ColliderVM: Stateful Computation on Bitcoin without Fraud Proofs](https://eprint.iacr.org/2025/591), [video](https://x.com/StarkWareLtd/status/1910317337301152034)
+- [Cross-Input Signature Aggregation for Bitcoin](https://github.com/fjahr/cisa-research/blob/main/hrf-fellowship.md)
+- [Defeating AutoLock: From Simulation to Real-World Cache-Timing Exploits against TrustZone](https://eprint.iacr.org/2025/589)
+- [ECDSA Cracking Methods](https://eprint.iacr.org/2025/654)
+- [Round-Efficient Adaptively Secure Threshold Signatures with Rewinding](https://eprint.iacr.org/2025/638)
+- [Thunderbolt: A Formally Verified Protocol for Off-Chain Bitcoin Transfers](https://eprint.iacr.org/2025/709)
 
 ### InfoSec
+- [ESP32 CVE does not effect Blockstream Jade](https://developer.espressif.com/blog/2025/03/esp32-bluetooth-clearing-the-air/), [commentary](https://x.com/Blockstream/status/1912468476200997138)
 - [Hackers are selling counterfeit phones with crypto-stealing malware](https://cointelegraph.com/news/counterfeit-android-devices-loaded-crypto-stealing-malware)
+- [Mempool Partitioning and Identifying Mining Nodes](https://crypt-iq.github.io/coinscope-post.html)
 - [OpenSSH 10.0 makes the post-quantum ML-KEM hybrid mlkem768x25519-sha256 the default](https://www.openssh.com/txt/release-10.0)
+- [Taproot Denial of Service Bug](https://rubin.io/bitcoin/2025/03/11/core-vuln-taproot-dos/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -184,19 +207,45 @@ Follow New York BitDevs on:
 
 
 ## New Releases
--
+- [Android CTV Playground](https://github.com/percy-g2/android_app_ctv_playground)
+- [bitcoin_payment_instructions](https://docs.rs/bitcoin-payment-instructions/latest/bitcoin_payment_instructions/)
+- [Fuzzamoto: Holistic Fuzzing for Bitcoin Protocol Implementations](https://github.com/dergoegge/fuzzamoto)
+- [Open source ESP32 firmware for BitAxe](https://github.com/404-Panda/ESP-Miner-Matrix)
+- [PrivatePond PayJoin implementation](https://github.com/Kukks/PrivatePond), [context](https://njump.me/naddr1qvzqqqr4gupzqg42s9gsae3lu2cketskuzfp778fh2vg9c5x3elx8ttdpzhfkk25qq2nv5nzddgxxdjtd4u9vwrdv939vmnswfzk6j85dxk)
 
 ## Events and Podcasts
--
+- [Shinobi and darosier on the Great Consensus Cleanup](https://x.com/brian_trollz/status/1913308769016287686)
+- [Shinobi and Gloria Zhao on the mempool](https://www.youtube.com/watch?v=lW8r9hq8-yU)
+- MIT Bitcoin Expo - [Day 1](https://www.youtube.com/watch?v=TqxDr_SjAgg), [Day 2](https://www.youtube.com/watch?v=XT-B9k9t5B8)
+- OPNEXT - [Day 1](https://www.youtube.com/watch?v=mhRZZOdJzGE), [Day 2](https://www.youtube.com/watch?v=KPE18SrKrQ4)
 
 ## Mining
 - [Bitcoin Mining Centralization in 2025 by 0xB10C](https://b10c.me/blog/015-bitcoin-mining-centralization/)
+- [Bitcoin Mining Industry Report: March 2025 - Monthly Operational Updates](https://education.compassmining.io/education/bitcoin-mining-industry-report-march-2025-monthly-operational-updates/)
+- [Braiins open sources the Bitcoin Control Board](https://x.com/BraiinsMining/status/1904601547855573458)
+- [The environmental burden of the United States’ bitcoin mining boom](https://www.nature.com/articles/s41467-025-58287-3)
 
 ## Miscellaneous
-- [Trump signs bill to nullify expanded IRS crypto broker rule](https://www.reuters.com/world/us/trump-signs-bill-nullify-expanded-irs-crypto-broker-rule-2025-04-11/)
-- [Crypto crime is legal](https://www.citationneeded.news/issue-81/)
-- [Critical Wallet Bugs Expose Users to Silent Crypto Drains](https://www.coinspect.com/blog/wallet-silent-drain/)
-- [Uncle Sam kills funding for CVE program](https://www.theregister.com/2025/04/16/homeland_security_funding_for_cve/)
+- [256Foundation Mining Grants](https://x.com/256FOUNDATION/status/1908585602968170598)
+- [Bitcoin Address Poisoning Attacks](https://blog.lopp.net/bitcoin-address-poisoning-attacks/)
+- [BitScript Sandbox](https://www.bitscript.app/sandbox)
+- [BitVM Activation on Clementine & Core Protocol Upgrades](https://www.blog.citrea.xyz/tangerine-upgrade-bitvm-activation-on-clementine/)
 - [BitVM meets Consensus Cleanup over 64-byte transactions](https://github.com/BitVM/BitVM/issues/285)
 - [Clementine: A Collateral-Efficient, Trust-Minimized, and Scalable
 Bitcoin Bridge](https://citrea.xyz/clementine_whitepaper.pdf)
+- [Critical Wallet Bugs Expose Users to Silent Crypto Drains](https://www.coinspect.com/blog/wallet-silent-drain/)
+- [Crypto crime is legal](https://www.citationneeded.news/issue-81/)
+- [Delbrag](https://rubin.io/bitcoin/2025/04/04/delbrag/)
+- [DOJ Ends Crypto Enforcement Unit and Regulation by Prosecution](https://www.defieducationfund.org/_files/ugd/84ba66_4278778963f14119be0ef1c7976bc3b2.pdf)
+- [Human Rights Foundation Grants 10 BTC to 23 Bitcoin Projects Worldwide](https://www.nobsbitcoin.com/human-rights-foundation-bitcoin-q1-2025/)
+- Opensats - [Fourth Wave of Education Grants](https://opensats.org/blog/fourth-wave-of-education-grants), [Advancements in Lightning Infrastructure](https://opensats.org/blog/advancements-in-lightning-infrastructure)
+ -[Phoenix wallets returns to the US](https://x.com/PhoenixWallet/status/1909652018207109567)
+- [Soft fork research database](https://bitcoin.softforks.org/about-softforks)
+- [Spiral grant - l0rinc](https://x.com/spiralbtc/status/1912176891609362505)
+- [Taplocks: Verifiable but unspendable tapleafs](https://github.com/taproot-wizards/taplocks/blob/main/README.md)
+- [The Evolution of Payjoin: From Two-Party Protocol to Multiparty Framework](https://payjoindevkit.org/2025/03/18/the-evolution-of-payjoin/)
+- [The Timewarp Attack](https://blog.bitmex.com/the-timewarp-attack/)
+- [Trump signs bill to nullify expanded IRS crypto broker rule](https://www.reuters.com/world/us/trump-signs-bill-nullify-expanded-irs-crypto-broker-rule-2025-04-11/)
+- [Try Ark on signet](https://blog.second.tech/try-ark-on-signet/)
+- [Uncle Sam kills funding for CVE program](https://www.theregister.com/2025/04/16/homeland_security_funding_for_cve/)
+- [Vinteum renews grant for Lima](https://nitter.poast.org/Vinteum_org/status/1909617517451960724)
