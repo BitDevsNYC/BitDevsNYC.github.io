@@ -22,6 +22,7 @@ As a disclaimer, BitDevs NYC has no official associations with or oversight of t
 - [Brasília](https://bitdevs.bsb.br)
 - [Buenos Aires](https://www.bitdevsba.org/)
 - [Chicago](https://chibitdevs.org/)
+- [Curitiba](https://curitibabitdevs.org/)
 - [Denver](http://denverbitdevs.com/)
 - [Florianópolis](https://floripabitdevs.org/)
 - [Guadalajara](https://bitdevs.btcgdl.com/)
