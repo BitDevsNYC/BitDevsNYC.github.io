@@ -85,7 +85,7 @@ Follow New York BitDevs on:
 
 
 ## Network Data
--
+- [mempool.space UTXO Set Report](https://research.mempool.space/utxo-set-report/)
 
 ## CVEs and Research
 ### Research
@@ -283,7 +283,10 @@ Follow New York BitDevs on:
 -
 
 ## Mining
--
+- [Cambridge Digital Mining Industry Report](https://www.jbs.cam.ac.uk/wp-content/uploads/2025/04/2025-04-cambridge-digital-mining-industry-report.pdf)
 
 ## Miscellaneous
--
+- [A First Successful Factorization of RSA-2048 Integer by D-Wave Quantum Computer](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10817698)
+- [Trump's stablecoin chosen for $2 billion Abu Dhabi investment in Binance](https://www.usatoday.com/story/news/politics/2025/05/01/trump-stablecoin-abu-dhabi-investment-binance-crypto/83391186007/)
+- [Coinbase: Standing Up to Extortionists](https://www.coinbase.com/blog/protecting-our-customers-standing-up-to-extortionists)
+- [Crypto Investor Charged With Kidnapping and Torturing Man for Weeks](https://www.nytimes.com/2025/05/24/nyregion/crypto-investor-torture-italian-tourist.html)
