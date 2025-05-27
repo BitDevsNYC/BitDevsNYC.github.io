@@ -89,7 +89,7 @@ Follow New York BitDevs on:
 
 ## CVEs and Research
 ### Research
--
+- [Bitcoin and Quantum Computing: Current Status and Future Directions](https://chaincode.com/bitcoin-post-quantum.pdf)
 
 ### InfoSec
 -
