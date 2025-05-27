@@ -89,6 +89,7 @@ Follow New York BitDevs on:
 
 ## Network Data
 - [mempool.space UTXO Set Report](https://research.mempool.space/utxo-set-report/)
+- [980kB OP_RETURN](https://mempool.space/tx/516c63376556d87c4779033327184ee00a08c4c14498e14673357ce4a791406b)
 
 ## CVEs and Research
 ### Research
