@@ -32,6 +32,31 @@ Please join us for a special Socratic Seminar at Bitcoin 2025 in Las Vegas, NV. 
 
 ### Murch
 
+- [Mempool emptied](https://mempool.space)
+- [Blocks are full at 4,000,000 weight, not at 4 MB](https://primal.net/e/nevent1qqs9htchesmhqpe9v94erqm382ms4alvfw03npa886j656uur44vw7g8qjmvz)
+- [Consolidation after peak UTXO count](https://mainnet.observer/charts/utxoset-size/)
+- [Mempool.space UTXO Set Report](https://research.mempool.space/utxo-set-report/)
+- [consensus: Remove checkpoint](https://github.com/bitcoin/bitcoin/pull/31649)
+- [Swiftsync: Faster synchronization with UTXO set hintfile](https://gist.github.com/RubenSomsen/a61a37d14182ccd78760e477c78133cd)
+- [Swiftsync early prototype 5x speedup for IBD vs AssumeValid](https://delvingbitcoin.org/t/swiftsync-speeding-up-ibd-with-pre-generated-hints-poc/1562/2)
+- After 4.5 years: Legacy Wallet Removal complete.
+    - [wallet: Disable creating and loading legacy wallets](https://github.com/bitcoin/bitcoin/pull/31250)
+    - [Remove the legacy wallet and BDB dependency](https://github.com/bitcoin/bitcoin/pull/28710)
+- [The Future of Bitcoin Testnet](https://groups.google.com/g/bitcoindev/c/9bL00vRj7OU)
+    - [What’s going on with Testnet4](https://blog.dlsouza.lol/bitcoin/testnet/2024/12/02/testnet4.html)
+    - [Fork Observer visualization](https://fork.observer/)
+- BIPs: 383 pull requests processed since April 2024, over 20 new BIPs. Recently:
+    - [BIP 53: Disallow 64-byte transactions](https://github.com/bitcoin/bips/blob/master/bip-0053.mediawiki)
+    - [BIP 54: Consensus Cleanup](https://github.com/bitcoin/bips/blob/master/bip-0054.md)
+    - [BIP 172: Define Bitcoin Subunits as Satoshis](https://github.com/bitcoin/bips/blob/master/bip-0172.mediawiki)
+    - [BIP 177: Redefine Bitcoin's Base Unit](https://github.com/bitcoin/bips/blob/master/bip-0177.mediawiki)
+    - [BIP 321: URI Scheme](https://github.com/bitcoin/bips/blob/master/bip-0321.mediawiki)
+    - [BIP 443: CHECKCONTRACTVERIFY](https://github.com/bitcoin/bips/blob/master/bip-0443.mediawiki)
+    - Withdrawn: [BIP 345: OP_VAULT](https://github.com/bitcoin/bips/blob/master/bip-0345.mediawiki)
+- [Review Club on Cluster mempool: add txgraph diagrams/mining/eviction](https://bitcoincore.reviews/31444)
+- [CoreDev 2024 Retrospective](https://adamjonas.com/bitcoin/coredev/retro/coredev-2024-retro/)
+
+
 ### Stephen
 
 - [Bitcoin and Quantum Computing: Current Status and Future Directions](https://chaincode.com/bitcoin-post-quantum.pdf)
