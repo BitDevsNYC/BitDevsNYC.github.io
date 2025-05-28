@@ -36,7 +36,7 @@ Please join us for a special Socratic Seminar at Bitcoin 2025 in Las Vegas, NV. 
 - [Blocks are full at 4,000,000 weight, not at 4 MB](https://primal.net/e/nevent1qqs9htchesmhqpe9v94erqm382ms4alvfw03npa886j656uur44vw7g8qjmvz)
 - [Consolidation after peak UTXO count](https://mainnet.observer/charts/utxoset-size/)
 - [Mempool.space UTXO Set Report](https://research.mempool.space/utxo-set-report/)
-- [consensus: Remove checkpoint](https://github.com/bitcoin/bitcoin/pull/31649)
+- [consensus: Remove checkpoints](https://github.com/bitcoin/bitcoin/pull/31649)
 - [Swiftsync: Faster synchronization with UTXO set hintfile](https://gist.github.com/RubenSomsen/a61a37d14182ccd78760e477c78133cd)
 - [Swiftsync early prototype 5x speedup for IBD vs AssumeValid](https://delvingbitcoin.org/t/swiftsync-speeding-up-ibd-with-pre-generated-hints-poc/1562/2)
 - After 4.5 years: Legacy Wallet Removal complete.
@@ -55,7 +55,6 @@ Please join us for a special Socratic Seminar at Bitcoin 2025 in Las Vegas, NV. 
     - Withdrawn: [BIP 345: OP_VAULT](https://github.com/bitcoin/bips/blob/master/bip-0345.mediawiki)
 - [Review Club on Cluster mempool: add txgraph diagrams/mining/eviction](https://bitcoincore.reviews/31444)
 - [CoreDev 2024 Retrospective](https://adamjonas.com/bitcoin/coredev/retro/coredev-2024-retro/)
-
 
 ### Stephen
 
