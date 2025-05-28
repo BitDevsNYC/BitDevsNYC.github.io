@@ -16,8 +16,6 @@ Follow New York BitDevs on:
 - [BlueSky](https://bsky.app/profile/bitdevsnyc.bsky.social)
 - nostr: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup3hqs`
 
-## Presentation
--
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
@@ -67,23 +65,33 @@ Follow New York BitDevs on:
     - [February 10th](https://github.com/lightning/bolts/issues/1224)
 
 ### Optech
-- [Bitcoin Optech Newsletter #341](https://bitcoinops.org/en/newsletters/2025/02/14/)
-- [Bitcoin Optech Newsletter #340](https://bitcoinops.org/en/newsletters/2025/02/07/)
-- [Bitcoin Optech Newsletter #339](https://bitcoinops.org/en/newsletters/2025/01/31/)
-- [Bitcoin Optech Newsletter #340 Recap Podcast](https://bitcoinops.org/en/podcast/2025/02/11/)
-- [Bitcoin Optech Newsletter #339 Recap Podcast](https://bitcoinops.org/en/podcast/2025/02/04/)
 - [Bitcoin Optech Newsletter #338 Recap Podcast](https://bitcoinops.org/en/podcast/2025/01/28/)
+- [Bitcoin Optech Newsletter #339](https://bitcoinops.org/en/newsletters/2025/01/31/)
+    - [Recap Podcast](https://bitcoinops.org/en/podcast/2025/02/04/)
+- [Bitcoin Optech Newsletter #340](https://bitcoinops.org/en/newsletters/2025/02/07/)
+    - [#340 Recap Podcast](https://bitcoinops.org/en/podcast/2025/02/11/)
+- [Bitcoin Optech Newsletter #341](https://bitcoinops.org/en/newsletters/2025/02/14/)
+- [Reorg Calculator](https://bitcoinops.org/en/tools/reorg-calculator/)
 
 
 ## Network Data
--
+- [Alby: Lightning Channel Stats: The first 6 months](https://blog.getalby.com/lightning-channel-stats-the-first-6-months/)
+- [Block Size Report](https://research.mempool.space/block-size-report/)
+- [Mempool Partitioning and Identifying Mining Nodes](https://crypt-iq.github.io/coinscope-post.html)
+- [mempool.space adds stratum visualizer](https://mempool.space/stratum)
+- [Xapo sees growth of Lightning Network usage](https://x.com/DaryMcGovern/status/1886761453627060226)
 
 ## CVEs and Research
 ### Research
--
+- [Addressing Scalability Issues of Blockchains with Hypergraph Payment Networks](https://eprint.iacr.org/2025/205)
+- [Merkle Mountain Ranges are Optimal: On witness update frequency for cryptographic accumulators](https://eprint.iacr.org/2025/234)
+- [On the Atomicity and Efficiency of Blockchain Payment Channels](https://eprint.iacr.org/2025/180)
+- [Privacy-Preserving Multi-Signatures: Generic Techniques and Constructions Without Pairings](https://eprint.iacr.org/2025/335)
+- [VITARIT: Paying for Threshold Services on Bitcoin and Friends](https://eprint.iacr.org/2025/174)
 
 ### InfoSec
 - [Bitcoin Lightning Bug Allows Remote Theft of Bitcoin via LND Nodes](https://protos.com/bitcoin-lightning-bug-allows-remote-theft-of-bitcoin-via-lnd-nodes/)
+- [npm package elliptic key extraction vulnerability](https://github.com/advisories/GHSA-vjh7-7g9h-fjfh)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -111,10 +119,7 @@ Follow New York BitDevs on:
 
 ### [BDK](https://github.com/bitcoindevkit/bdk)
 - [Fix off-by-one error checking coinbase maturity in optional UTxOs](https://github.com/bitcoindevkit/bdk/pull/1830)
-
-
-### [HWI](https://github.com/bitcoin-core/HWI)
-
+- 
 
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 - [Make Debug representation of Witness to be slice of hex-encoded bytes strings to improve readability](https://github.com/rust-bitcoin/rust-bitcoin/pull/4061)
@@ -129,12 +134,6 @@ Follow New York BitDevs on:
 ### [libsecp](https://github.com/bitcoin-core/secp256k1)
 - [README: add instructions for verifying GPG signatures](https://github.com/bitcoin-core/secp256k1/pull/1646)
 - [schnorrsig: clear out masked secret key in BIP-340 nonce function](https://github.com/bitcoin-core/secp256k1/pull/1650)
-
-
-### [secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp)
-
-
-### [dlcspecs](https://github.com/discreetlogcontracts/dlcspecs)
 
 
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
@@ -204,24 +203,32 @@ Follow New York BitDevs on:
 - [BIP374: add test vectors for secp256k1 generator point](https://github.com/bitcoin/bips/pull/1751)
 
 
-### [BLIPs](https://github.com/lightning/blips)
-
-
-
 ### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
 - [`option_simple_close` (features 60/61)](https://github.com/lightning/bolts/pull/1205)
 - [More clarifications around `channel_announcement` handling](https://github.com/lightning/bolts/pull/1220)
 - [Add test vector for (invalid) mixed-case offer encoding](https://github.com/lightning/bolts/pull/1217)
 
 
-## New Releases
--
-
-## Events and Podcasts
--
-
 ## Mining
--
+- [Canaan announces Avalon Q miner](https://www.canaan.io/minerq)
+- [How Bitcoin mining stabilized the grid, saved Texans $18 billion, and earned the ire of Berkshire Hathaway Energy](https://www.da-ri.org/articles/how-bitcoin-mining-saved-texans-18-billion)
+- [Rebooting P2Pool For Bitcoin](https://blog.opdup.com/2025/02/04/rebooting-p2pool-for-bitcoin.html)
+- [Trading Shares For Bitcoin - User Story](https://blog.opdup.com/2025/02/26/trading-shares-for-bitcoin-user-story.html)
+- [Using CKPool for P2Pool](https://blog.opdup.com/development-updates/2025/02/17/using-ckpool-solo-for-p2pool-v2.html)
 
 ## Miscellaneous
-- [Private key extraction in ECDSA upon signing a malformed input](https://github.com/indutny/elliptic/security/advisories/GHSA-vjh7-7g9h-fjfh)
+- [Advancements in On-Chain Privacy](https://opensats.org/blog/developing-advancements-in-onchain-privacy)
+- [Bitcoin Core project direction p2 - stating the obvious](https://antoinep.com/posts/stating_the_obvious/)
+	- [Bitcoin Core scope, concretely](https://antoinep.com/posts/bitcoin_core_scope/)
+- [BitVM: how to bridge using 1-of-N trust assumptions](https://storopoli.com/blog/bitvm/)
+- [Brink receives $50,000 from VanEck](https://x.com/bitcoinbrink/status/1892915462926705003)
+- [CoreDev reflections 2024-2025 ](https://adamjonas.com/bitcoin/coredev/retro/coredev-2024-retro/)
+- [How MuSig2 Is Powering Lightning Liquidity with Loop](https://lightning.engineering/posts/2025-02-13-loop-musig2/)
+- [Instant Bitcoin Development Environment](https://instamouse.com/kanzure/bitcoin)
+- [Lightning unchained?](https://reyify.com/blog/lightning-unchained/)
+- [MEVpool: A Private Mempool Marketplace Standard](https://github.com/mevpool/mevpool/blob/main/mevpool-marketplace.md)
+- [Pathfinding with LDK](https://lightningdevkit.org/blog/ldk-pathfinding/)
+- [Prosecuting Privacy](https://www.defieducationfund.org/_files/ugd/84ba66_87dfb370e81a4766811bf16e5293c6da.pdf)
+- [UTXO Oracle back live](https://x.com/SteveSimple/status/1889325264808677668)
+- [UTXO Sharing](https://spiralbtc.substack.com/p/the-scroll-utxo-sharing)
+- [What's Driving Bitcoin Adoption in 2025](https://river.com/learn/files/river-bitcoin-adoption-report-2025.pdf)
