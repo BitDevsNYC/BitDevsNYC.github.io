@@ -79,23 +79,45 @@ Follow New York BitDevs on:
     - [March 24](https://github.com/lightning/bolts/issues/1238)
 
 ### Optech
-- [Bitcoin Optech Newsletter #346](https://bitcoinops.org/en/newsletters/2025/03/21/)
+- [Bitcoin Optech Newsletter #342](https://bitcoinops.org/en/newsletters/2025/02/21/)
+    - [Recap Podcast](https://bitcoinops.org/en/podcast/2025/03/04/)
+- [Bitcoin Optech Newsletter #343](https://bitcoinops.org/en/newsletters/2025/02/28/)
+    - [Recap Podcast](https://bitcoinops.org/en/podcast/2025/03/04/)
+- [Bitcoin Optech Newsletter #344](https://bitcoinops.org/en/newsletters/2025/03/07/)
+    - [Recap Podcast](https://bitcoinops.org/en/podcast/2025/03/11/)
 - [Bitcoin Optech Newsletter #345](https://bitcoinops.org/en/newsletters/2025/03/14/)
-- [Bitcoin Optech Newsletter #344](https://bitcoinops.org/en/newsletters/2025/03/07/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2025/03/11/)
-- [Bitcoin Optech Newsletter #343](https://bitcoinops.org/en/newsletters/2025/02/28/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2025/03/04/)
-- [Bitcoin Optech Newsletter #342](https://bitcoinops.org/en/newsletters/2025/02/21/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2025/03/04/)
+- [Bitcoin Optech Newsletter #346](https://bitcoinops.org/en/newsletters/2025/03/21/)
 
 
 ## Network Data
--
+- [Babylon transactions flood mempool](https://x.com/mononautical/status/1904444376056836550)
+- [Bitcoin's Duplicate Transactions](https://blog.bitmex.com/bitcoins-duplicate-transactions/)
+- [Block mined with p2pool](https://mempool.space/block/00000000000000000001822dc3db70b75d281687f8baa10d1818d0703f49fec0)
+- [Invalid mining jobs by AntPool & friends during forks](https://b10c.me/observations/14-antpool-and-friends-invalid-mining-jobs/)
+- [Public Pool mines its first block](https://mempool.space/block/00000000000000000000a517d87e63ea04c7ec3dd51d20926e82cca5466dccaf)
+- [Significant UTXO set consolidation](https://statoshi.info/d/000000009/unspent-transaction-output-set?orgId=1&from=1735718400000&to=1743404399000)
+- [stratum.work adds historical data and precise timing data](https://stratum.work/height/898685)
 
 ## CVEs and Research
 ### Research
--
+- [BulletCT: Towards More Scalable Ring Confidential Transactions With Transparent Setup](https://eprint.iacr.org/2025/188)
+- [Clementine: A Collateral-Efficient, Trust-Minimized, and Scalable Bitcoin Bridge](https://eprint.iacr.org/2025/776)
+- [Constant-Time Code: The Pessimist Case](https://eprint.iacr.org/2025/435)
+- [CRP: A Cluster-Based Routing Protocol for Lightweight Nodes in Payment Channel Networks](https://ieeexplore.ieee.org/abstract/document/10939002)
+- [ESSPI: ECDSA/Schnorr Signed Program Input for BitVMX](https://arxiv.org/abs/2503.02772)
+- [maxREE: Maximizing Flow by Replacing Exhausted Edges in Lightning Network](https://ieeexplore.ieee.org/abstract/document/10816058)
+- [Post Quantum Migration of Tor](https://eprint.iacr.org/2025/479)
+- [Solving Data Availability Limitations in Client-Side Validation with UTxO Binding](https://eprint.iacr.org/2025/569)
 
 ### InfoSec
-- [Undocumented commands found in Bluetooth chip used by a billion devices](https://www.bleepingcomputer.com/news/security/undocumented-commands-found-in-bluetooth-chip-used-by-a-billion-devices/)
+- [LND's Deadline-Aware Budget Sweeper](https://morehouse.github.io/lightning/lnd-deadline-aware-budget-sweeper/)
+- [LND: Excessive Failback Exploit](https://morehouse.github.io/lightning/lnd-excessive-failback-exploit/)
 - [New Telegram vulnerability, EvilLoader, discovered](https://x.com/TechloreInc/status/1897708828390510909)
+- [OSPEAD And The MAP Decoder Attack on Monero](https://duke.hush.is/memos/6/)
+- [SafeWallet ByBit Hack Postmortem](https://x.com/safe/status/1897663514975649938)
+- [Taproot Denial of Service Bug](https://rubin.io/bitcoin/2025/03/11/core-vuln-taproot-dos/)
+- [Trezor Safe Vulnerability](https://www.ledger.com/why-secure-elements-make-a-crucial-difference-to-hardware-wallet-security)
+- [Undocumented commands found in Bluetooth chip used by a billion devices](https://www.bleepingcomputer.com/news/security/undocumented-commands-found-in-bluetooth-chip-used-by-a-billion-devices/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -275,15 +297,22 @@ Follow New York BitDevs on:
 
 
 ## New Releases
--
+- [fuzzamoto - Holistic Fuzzing for Bitcoin Protocol Implementations ](https://github.com/dergoegge/fuzzamoto)
 
-## Events and Podcasts
--
 
 ## Mining
--
+- [Against Allowing Quantum Recovery of Bitcoin](https://blog.lopp.net/against-quantum-recovery-of-bitcoin/)
+- [DEMAND Pool Announces Stratum v2 Launch](https://www.prnewswire.co.uk/news-releases/tvp-and-demand-pool-announce-upcoming-launch-of-first-stratum-v2-bitcoin-mining-pool-and-closing-of-venture-capital-investment-302403986.html)
+- [Understanding SLICE (PPLNS+JD)](https://blog.dmnd.work/understanding-slice-pplns-jd/)
+
 
 ## Miscellaneous
-- [Bybit Loses $1.5B in Hack but Can Cover Loss](https://www.coindesk.com/business/2025/02/21/bybit-experiences-usd1-46b-in-suspicious-outflows-zachxbt)
-- [OSPEAD And The MAP Decoder Attack on Monero](https://duke.hush.is/memos/6/)
 - [Capitalized Bitcoin Fork for National Strategic Reserve](https://eprint.iacr.org/2025/505)
+- [CISA Research Paper](https://hrf.org/latest/cisa-research-paper/#flipbook-df_9290/1/)
+- [Fun with CSFS I](https://rubin.io/bitcoin/2025/03/05/csfs-fun/)
+- [LDK: Announcing Versioned Storage Service (VSS)](https://spiralbtc.substack.com/p/ldk-announcing-versioned-storage)
+- Open Sats - [Let a Thousand Flowers Bloom](https://opensats.org/blog/let-a-thousand-flowers-bloom), [Tenth Wave of Bitcoin Grants](https://opensats.org/blog/tenth-wave-of-bitcoin-grants)
+- [Tropic Square auditble secure element](https://www.cnx-software.com/2025/03/01/tropic-square-tropic01-is-an-auditable-open-architecture-tamper-proof-risc-v-secure-element-se-for-iot-and-microcontrollers/)
+- [Try Ark on Signet](https://blog.second.tech/try-ark-on-signet/)
+- [Verifying a proof of representation onchain](https://reyify.com/blog/verifying-a-proof-of-representation-onchain/)
+- [Versioned Storage Service (VSS)](https://lightningdevkit.org/blog/announcing-vss/)
