@@ -80,23 +80,52 @@ Follow New York BitDevs on:
     - [May 19](https://github.com/lightning/bolts/issues/1258)
 
 ### Optech
+- [Bitcoin Optech Newsletter #351](https://bitcoinops.org/en/newsletters/2025/04/25/)
+    - [Recap Podcast](https://bitcoinops.org/en/podcast/2025/04/29/)
+- [Bitcoin Optech Newsletter #352](https://bitcoinops.org/en/newsletters/2025/05/02/)
+    - [Recap Podcast](https://bitcoinops.org/en/podcast/2025/05/06/)
+- [Bitcoin Optech Newsletter #353](https://bitcoinops.org/en/newsletters/2025/05/09/)
+    - [Recap Podcast](https://bitcoinops.org/en/podcast/2025/05/13/)
+- [Bitcoin Optech Newsletter #354](https://bitcoinops.org/en/newsletters/2025/05/16/)
+    - [Recap Podcast](https://bitcoinops.org/en/podcast/2025/05/20/)
 - [Bitcoin Optech Newsletter #355](https://bitcoinops.org/en/newsletters/2025/05/23/)
-- [Bitcoin Optech Newsletter #354](https://bitcoinops.org/en/newsletters/2025/05/16/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2025/05/20/)
-- [Bitcoin Optech Newsletter #353](https://bitcoinops.org/en/newsletters/2025/05/09/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2025/05/13/)
-- [Bitcoin Optech Newsletter #352](https://bitcoinops.org/en/newsletters/2025/05/02/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2025/05/06/)
-- [Bitcoin Optech Newsletter #351](https://bitcoinops.org/en/newsletters/2025/04/25/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2025/04/29/)
 
 
 ## Network Data
-- [mempool.space UTXO Set Report](https://research.mempool.space/utxo-set-report/)
-- [980kB OP_RETURN](https://mempool.space/tx/516c63376556d87c4779033327184ee00a08c4c14498e14673357ce4a791406b)
+- [2024 OP_RETURN data pie chart](https://x.com/OrangeSurfBTC/status/1924317854955970756)
+- [42 Bitcoin in OP_RETURN outputs](https://mainnet.observer/charts/output-opreturn-amount/?=)
+- [First use of taproot annex](https://x.com/mononautical/status/1921180666831499737), [second](https://x.com/mononautical/status/1921557253368295733)
+- [Has f2pool dropped their min relay fee?](https://x.com/mononautical/status/1919090261654638954)
+- [LNBig  routing fee stats](https://njump.me/nevent1qqsfjq45qu5d8tzjhz2kqtzsw49dn8tucyva2jat8trpxnlh4muqzjspzemhxue69uhhyetvv9ujumn0wd68ytnzv9hxgqgdwaehxw309ahx7uewd3hkcq3qngumlqmus6xkrmvvee4yc7swh9h4uk7vpq4ddt7a2jtvkc22y0asytq3hw)
+- [MARA mines block with odd 980kb tx with op_returns](https://x.com/mononautical/status/1922773971746914395)
+- [Non-Standard Bitcoin Transaction Dataset](https://bitcoin-data.github.io/non-standard-transactions/)
+- [Odd behavior during antpool f2pool block race](https://x.com/boerst/status/1917945364969107647)
+- [UTXO Set Report](https://research.mempool.space/utxo-set-report/)
+- [Wallet of Satoshi has significant adoption in Japanese lighting wallet market](https://x.com/DiamondHandsLN/status/1922642890271916443)
 
 ## CVEs and Research
 ### Research
+- [A Novel Off-Chain Transaction Framework for Channel Cooperation](http://ijns.jalaxy.com.tw/contents/ijns-v99-n6/ijns-2099-v99-n6-p31-0.pdf)
+- [Ark: A UTXO-based Transaction Batching Protocol](https://docs.arklabs.xyz/ark.pdf)
 - [Bitcoin and Quantum Computing: Current Status and Future Directions](https://chaincode.com/bitcoin-post-quantum.pdf)
+- [Clementine: A Collateral-Efficient, Trust-Minimized, and Scalable Bitcoin Bridge](https://eprint.iacr.org/2025/776)
+- [Enforcing arbitrary constraints on Bitcoin transactions](https://eprint.iacr.org/2025/912)
+- [KeyJoin: Privacy-Focused CoinJoin Protocol for Bitcoin](https://eprint.iacr.org/2025/838)
+- [Model Checking the Security of the Lightning Network](https://arxiv.org/abs/2505.15568v1)
+- [Moneros Decentralized P2P Exchanges: Functionality, Adoption, and Privacy Risks](https://arxiv.org/abs/2505.02392v3)
+- [MProve-Nova: A Privacy-Preserving Proof of Reserves Protocol for Monero](https://eprint.iacr.org/2025/665)
+- [On the Adaptive Security of Key-Unique Threshold Signatures](https://eprint.iacr.org/2025/943)
+- [Starfish: Rebalancing Multi-Party Off-Chain Payment Channels](https://arxiv.org/abs/2504.20536v1)
+- [TOOP: A transfer of ownership protocol over Bitcoin](https://eprint.iacr.org/2025/964)
+
 
 ### InfoSec
--
+- [Bitcoin Core CVE-2024-52919 - Remote crash due to addr message spam (part 2)](https://bitcoincore.org/en/2025/04/28/disclose-cve-2024-52919/)
+- [Coinbase Data Breach effects 70,000 customers](https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f61fae18-f669-499e-9a87-f4d323d281f8.html)
+- [DDoS attack targeting Monero nodes](https://x.com/sethforprivacy/status/1919393183202447425)
+- [NBitcoin fails to process coinbase transaction](https://github.com/MetacoSA/NBitcoin/pull/1269)
+- [rust-mininscript CVE-2025-43707: out-of-bounds read](https://antoinep.com/posts/cve-2025-43707/)
+- [Supply chain attack hits npm package rand-user-agent](https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-npm-package-with-45-000-weekly-downloads/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -275,22 +304,35 @@ Follow New York BitDevs on:
 - [fix: link to Torv3 hidden service specification](https://github.com/lightning/blips/pull/61)
 
 
-
 ### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
 - [Require minimally-encoded features in BOLT 11 invoices](https://github.com/lightning/bolts/pull/1245)
 
 
-## New Releases
--
-
 ## Events and Podcasts
--
+- bitcoin++ livestream  main stage - [day 1](https://x.com/i/broadcasts/1gqxvjqzbYQxB), [day 2](https://x.com/i/broadcasts/1eaJbWPLBQYxX), [day 3](https://x.com/i/broadcasts/1BRJjmEyWXVGw)
 
 ## Mining
 - [Cambridge Digital Mining Industry Report](https://www.jbs.cam.ac.uk/wp-content/uploads/2025/04/2025-04-cambridge-digital-mining-industry-report.pdf)
+- [Leveraging Surplus Electricity: Profitability of Bitcoin Mining as a National Strategy in South Korea](https://arxiv.org/abs/2505.00303v1)
+- [Parasite Pool: Igniting the Mining Insurrection](https://zkshark.substack.com/p/parasite-pool-igniting-the-mining)
+- [SLICE: Making PPLNS Work for Demand Response](https://blog.dmnd.work/slice-making-pplns-work-for-demand-response/)
+- [Trusting the Trustless: How Public P2Pool Nodes Worked for Bitcoin Miners](https://blog.opdup.com/bitcoin/p2pool/decentralization/2025/05/13/p2pool-servers.html)
 
 ## Miscellaneous
-- [A First Successful Factorization of RSA-2048 Integer by D-Wave Quantum Computer](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10817698)
-- [Trump's stablecoin chosen for $2 billion Abu Dhabi investment in Binance](https://www.usatoday.com/story/news/politics/2025/05/01/trump-stablecoin-abu-dhabi-investment-binance-crypto/83391186007/)
+- [Arkade: A Virtual Execution Layer for Bitcoin-Native Applications](https://arkadeos.com/vision)
+- [Another explanation of how Ark works](https://nehanarula.org/2025/05/20/ark.html)
+- [Broly – Trust-minimized Bitcoin inscriptions directly from your Starknet wallet](https://www.starknet.io/blog/broly-trust-minimized-bitcoin-inscriptions-directly-from-your-starknet-wallet/)
 - [Coinbase: Standing Up to Extortionists](https://www.coinbase.com/blog/protecting-our-customers-standing-up-to-extortionists)
 - [Crypto Investor Charged With Kidnapping and Torturing Man for Weeks](https://www.nytimes.com/2025/05/24/nyregion/crypto-investor-torture-italian-tourist.html)
+- [Liquidity requirements for Lightning payments: Ark servers and LSPs compared](https://blog.second.tech/ark-liquidity-research-01/)
+- [Maelstrom Fund writes grant for Ben Allen](https://x.com/BitMEXResearch/status/1924782277462036810)
+- [Optimal off-chain rebalancing scheme to mitigate channel depletion](https://x.com/renepickhardt/status/1924066146493345940)
+- [On relay policy and recent OP_RETURN drama](https://antoinep.com/posts/relay_policy_drama/)
+- OpenSats - [Eleventh Wave of Bitcoin Grants](https://opensats.org/blog/elevent-wave-of-bitcoin-grants)
+- [Removing Bitcoin’s Guardrails](https://blog.bitmex.com/removing-bitcoins-guardrails/)
+- Spiral grants - [dangould](https://x.com/spiralbtc/status/1920110108484173980), [joschianbtc](https://x.com/spiralbtc/status/1914363508126515567#m), [mauricepoirrier](https://x.com/spiralbtc/status/1925585222604644820)
+- [Tangerine Upgrade: BitVM Activation on Clementine & Core Protocol Upgrades](https://www.blog.citrea.xyz/tangerine-upgrade-bitvm-activation-on-clementine/)
+- [The 2015 Spam Attacks](https://blog.bitmex.com/the-2015-spam-attacks/)
+- [The MEVil of Relay Policy](https://bluematt.bitcoin.ninja/2025/05/07/mevil-of-relay-policy/)
+- [Trump's stablecoin chosen for $2 billion Abu Dhabi investment in Binance](https://www.usatoday.com/story/news/politics/2025/05/01/trump-stablecoin-abu-dhabi-investment-binance-crypto/83391186007/)
+- [Wallet of Satoshi launching non-custodial wallet in the US](https://x.com/walletofsatoshi/status/1923875750165479768)
