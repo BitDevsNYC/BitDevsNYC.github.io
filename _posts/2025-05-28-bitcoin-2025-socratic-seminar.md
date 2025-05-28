@@ -10,7 +10,7 @@ Please join us for a special Socratic Seminar at Bitcoin 2025 in Las Vegas, NV. 
 
 ## Housekeeping
 
-- Chatham house rules are in effect at this event. Please no photos or videos. If you talk about what was discussed at the event, please do not identify participants in the discussion.
+- [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule) is in effect at this event. Please no photos or videos. If you talk about what was discussed at the event, please do not identify participants in the discussion.
 - What is [BitDevs](https://bitdevs.org/about)?
 - [Start your own BitDevs!](https://bitdevs.org/cities)
 
