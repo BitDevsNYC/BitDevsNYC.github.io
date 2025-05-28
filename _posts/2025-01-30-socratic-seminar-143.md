@@ -67,25 +67,51 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 
 ### Optech
 - [Bitcoin Optech Newsletter #338](https://bitcoinops.org/en/newsletters/2025/01/24/)
-- [Bitcoin Optech Newsletter #337](https://bitcoinops.org/en/newsletters/2025/01/17/) -- [(Recap Podcast)](https://bitcoinops.org/en/podcast/2025/01/21/)
-- [Bitcoin Optech Newsletter #336](https://bitcoinops.org/en/newsletters/2025/01/10/) -- [(Recap Podcast)](https://bitcoinops.org/en/podcast/2025/01/14/)
-- [Bitcoin Optech Newsletter #335](https://bitcoinops.org/en/newsletters/2025/01/03/) -- [(Recap Podcast)](https://bitcoinops.org/en/podcast/2025/01/07/)
-- [Bitcoin Optech Newsletter #334: 2024 Year-in-Review Special](https://bitcoinops.org/en/newsletters/2024/12/20/) -- [(Recap Podcast)](https://bitcoinops.org/en/podcast/2024/12/23/)
-- [Bitcoin Optech Newsletter #333](https://bitcoinops.org/en/newsletters/2024/12/13/) -- [(Recap Podcast)](https://bitcoinops.org/en/podcast/2024/12/17/)
+- [Bitcoin Optech Newsletter #337](https://bitcoinops.org/en/newsletters/2025/01/17/)
+    - [(Recap Podcast)](https://bitcoinops.org/en/podcast/2025/01/21/)
+- [Bitcoin Optech Newsletter #336](https://bitcoinops.org/en/newsletters/2025/01/10/)
+    - [(Recap Podcast)](https://bitcoinops.org/en/podcast/2025/01/14/)
+- [Bitcoin Optech Newsletter #335](https://bitcoinops.org/en/newsletters/2025/01/03/)
+    - [(Recap Podcast)](https://bitcoinops.org/en/podcast/2025/01/07/)
+- [Bitcoin Optech Newsletter #334: 2024 Year-in-Review Special](https://bitcoinops.org/en/newsletters/2024/12/20/)
+    - [(Recap Podcast)](https://bitcoinops.org/en/podcast/2024/12/23/)
+- [Bitcoin Optech Newsletter #333](https://bitcoinops.org/en/newsletters/2024/12/13/)
+    - [(Recap Podcast)](https://bitcoinops.org/en/podcast/2024/12/17/)
 - [Channel Depletion Research Deep Dive Podcast](https://bitcoinops.org/en/podcast/2024/12/12/)
 
 
 
 ## Network Data
+- [8.18 BTC fee](https://x.com/mononautical/status/1869875248813797619)
+- [Bitcoin Inquisition explorer](https://inquisition.observer/)
+- [Dust attack spam being mined as feerates drop](https://x.com/mononautical/status/1878616647872975187)
 - [Fifteen OFAC-sanctioned transactions missing from blocks](https://b10c.me/observations/13-missing-sanctioned-transactions-2024-12/)
+- [MARA mines 3.97 MB image inscription filling entire block with a single transaction](https://x.com/mononautical/status/1883057943115092441)
+- [MARA sweeps old BTC-20 dust outputs](https://x.com/mononautical/status/1882018815976067252)
+- [OCEAN revives Coin Age Priority](https://x.com/mononautical/status/1878280799369494626)
+- [testnet4 forks](https://x.com/0xB10C/status/1876642278439346339)
 
 ## CVEs and Research
 ### Research
--
+- [A Novel Protocol for Mitigating Wormhole Attack in Multi-hop Payment Channels](https://link.springer.com/chapter/10.1007/978-3-031-81404-4_10)
+- [An Analysis of the Correctness and Computational Complexity of Path Planning in Payment Channel Networks](https://arxiv.org/abs/2501.11419)
+- [BitMLx: Secure Cross-chain Smart Contracts For Bitcoin-style Cryptocurrencies](https://arxiv.org/abs/2501.17733#)
+- [Emulating OP_RAND in Bitcoin](https://arxiv.org/abs/2501.16451)
+- [Post-Quantum Stealth Address Protocols](https://eprint.iacr.org/2025/112)
+- [SoK: Time to be Selfless?! Demystifying the Landscape of Selfish Mining Strategies and Models](https://eprint.iacr.org/2025/043)
 
 ### InfoSec
 - [15-year-old publishes unique 0-click deanonymization attack targeting Signal](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
+- [Address poisoning dust attacks](https://x.com/mononautical/status/1883802593677435065)
+- [Brollup: Built for DoS Resilience](https://blog.brollup.org/brollup-built-for-dos-resilience-ec8d7906d4b3)
 - [Chinese hackers accessed workstations inside US Treasury](https://apnews.com/article/china-hacking-treasury-department-8942106afabeac96010057e05c67c9d5)
+- [Covenant Emulation with Musig-nested-NOIST](https://blog.brollup.org/covenant-emulation-with-musig-nested-noist-784d428c7446)
+- [Discreet Log Contract Factories](https://conduition.io/scriptless/dlc-factory/)
+- [DogeReaper](https://x.com/EfficiencyDOGE/status/1864357823163060316)
+- [Tangem wallet logged private keys](https://tangem.com/en/blog/post/tangem-resolves-log-issue/)
+- [LDK: Duplicate HTLC Force Close Griefing](https://morehouse.github.io/lightning/ldk-duplicate-htlc-force-close-griefing/)
+- [LDK: Invalid Claims Liquidity Griefing](https://morehouse.github.io/lightning/ldk-invalid-claims-liquidity-griefing/)
+
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -152,16 +178,6 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 - [Support serde serializing Amount as string](https://github.com/rust-bitcoin/rust-bitcoin/pull/3679)
 - [primitives: Reduce alloc requirements](https://github.com/rust-bitcoin/rust-bitcoin/pull/3711)
 - [Range check against SignedAmount::MAX instead of i64::MAX](https://github.com/rust-bitcoin/rust-bitcoin/pull/3697)
-
-
-### [libsecp](https://github.com/bitcoin-core/secp256k1)
-
-
-### [secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp)
-
-
-### [dlcspecs](https://github.com/discreetlogcontracts/dlcspecs)
-
 
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
 - [doc: Add newly added bkpr RPCs in documentation](https://github.com/ElementsProject/lightning/pull/7976)
@@ -264,13 +280,34 @@ Follow us on NOSTR: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsu`
 -
 
 ## Events and Podcasts
--
+- [Blockstream Talk - Rusty Russel](https://x.com/BlockstreamTalk/status/1871381886284742840)
+- [CoreDev October 2024 Transcripts](https://btctranscripts.com/bitcoin-core-dev-tech/2024-10)
 
 ## Mining
--
+- [Analyzing Mining Pool Behavior to Address Bitcoin Core’s Double Coinbase Reservation Issue](https://blog.btrust.tech/analyzing-mining-pool-behavior-to-address-bitcoin-cores-double-coinbase-reservation-issue/)
+- [Bitcoin Mining Industry Report: December 2024: Monthly Operational Updates](https://compassmining.io/education/bitcoin-mining-industry-report-2)
+- [Block mining unit Proto partners with the 256 Foundation](https://www.mining.build/blog/decentralization-is-bigger-than-any-one-entity/)
+- [Braidpool DAG DAA adjustment algorithm](https://x.com/zawy3/status/1870632322854175095)
 
 ## Miscellaneous
-- [Mara pool mines 3.97 MB image inscription filling entire block with a single transaction](https://x.com/mononautical/status/1883057943115092441)
+- [256 Foundation raises 3.146 BTC](https://x.com/econoalchemist/status/1884756993312698567)
 - [A Pokemon Battle Game, Written in Zig and Executed with BitVMX](https://blog.rootstock.io/noticia/pkmn_bttl-a-pokemon-battle-game-written-in-zig-and-executed-with-bitvmx/)
+- [Bitcoin Core 2024 Development visualization](https://x.com/lopp/status/1874881090831147249)
+- [Bitcoin Core project direction](https://antoinep.com/posts/core_project_direction/)
+- [Bitcoin Flash Crash June 2011](https://x.com/BitMEXResearch/status/1868389024626627010)
+- [Building Self Custody Lightning in 2025](https://sats.build/self-custody-lightning-2025/)
+- [Connectors in MATT Contracts](https://gist.github.com/bigspider/f3353e60390dafcbb09ac518772d25d9)
+- [Fake Channels Are Real: Why Client-Side-Validated Lightning Is Easier Than You Think](https://petertodd.org/2025/fake-channels-and-rgb-lightning)
+- [Formal Verification of the Safegcd Implementation](https://blog.blockstream.com/formal-verification-of-the-safegcd-implementation/)
+- [HRF Donates 7BTC to Bitcoin Development and Projects](https://bitcoinmagazine.com/business/human-rights-foundation-donates-700000000-satoshis-to-fund-bitcoin-development-and-projects)
+- [LQWD Liquidity Provider: Get Liquidity When You Need It](https://lightningdevkit.org/blog/lqwd-liquidity-provider-get-liquidity-when-you-need-it/)
+- [Monero spy node banlist](https://gist.github.com/Rucknium/76edd249c363b9ecf2517db4fab42e88/revisions)
+- Open Sats - [9th Wave of Bitcoin Grants](https://opensats.org/blog/ninth-wave-of-bitcoin-grants), [Bitcoin Core Grants](https://opensats.org/blog/more-for-core)
+- [Pieter Wuille and Gregory Maxwell Receive The Finney Freedom Prize](https://bitcoinmagazine.com/press-releases/pieter-wuille-and-gregory-maxwell-receive-the-finney-freedom-prize)
+- Soft Fork Reviews - [Jonas Nick](https://gist.github.com/jonasnick/e9627f56d04732ca83e94d448d4b5a51), [ProofOfKeags](https://gist.github.com/ProofOfKeags/02d2f861a2e5128afa068e2115d2590d), [Salvatore Ingala](https://gist.github.com/bigspider/2b0892da45884d26eb7f4c9cb2395a7d)
+- [Spiral grant to Bitcoin Design Foundation](https://x.com/spiralbtc/status/1885000120439095607)
+- [The Bitcoin Press Center (Bitcoin History)](https://blog.bitmex.com/the-bitcoin-press-center/)
 - [US court overturns Tornado Cash sanctions](https://cointelegraph.com/news/us-texas-court-reverses-tornado-cash-sanctions-crypto-privacy-win)
-- [Dogecoin critical remote crash vulnerability](https://x.com/EfficiencyDOGE/status/1864357823163060316)
+- [What's going on with testnet4?](https://blog.dlsouza.lol/bitcoin/testnet/2024/12/02/testnet4.html)
+- [Who Funds Bitcoin Development?](https://whofundsbitcoin.com/)
+
