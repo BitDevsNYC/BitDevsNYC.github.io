@@ -16,7 +16,10 @@ meetup: "https://www.meetup.com/guadalajara-bitcoin-and-lightning/events/3082620
 
 ## Cosas que realmente discutiremos
 
--TBD
+- [Blockstream lanza una app no custodial para comprar Bitcoin](https://blog.blockstream.com/introducing-the-blockstream-app-the-bitcoin-wallet-that-grows-with-you-2/)
+- [Bitcoin y computación cuántica: Estado actual y direcciones futuras (Chaincode)](https://chaincode.com/bitcoin-post-quantum.pdf)
+- [Terminales de Square aceptarán Lightning](https://x.com/BitcoinScoresby/status/1927403656510337308)
+- [Bitcoin Core aleja permanentemente a la mayoría de su base de usuarios al eliminar los límites en las salidas OP_RETURN en la política predeterminada del mempool](https://github.com/bitcoin/bitcoin/pull/32406)
 
 ## Temas
 
@@ -26,6 +29,7 @@ meetup: "https://www.meetup.com/guadalajara-bitcoin-and-lightning/events/3082620
 - [Witnessless Sync: Cómo los nodos podados pueden omitir testigos para bloques “assume-valid”](https://gist.github.com/JoseSK999/df0a2a014c7d9b626df1e2b19ccc7fb1)
 - [Dust Expiry: Limpieza del set UTXO de spam](https://delvingbitcoin.org/t/dust-expiry-clean-the-utxo-set-from-spam/1707)
 - [Bitcoin y computación cuántica: Estado actual y direcciones futuras (Chaincode)](https://chaincode.com/bitcoin-post-quantum.pdf)
+- [Bitcoin Core aleja permanentemente a la mayoría de su base de usuarios al eliminar los límites en las salidas OP_RETURN en la política predeterminada del mempool](https://github.com/bitcoin/bitcoin/pull/32406)
 
 ### Lightning y Wallets
 - [Phoenix Wallet 2.6.1 ahora permite enviar y recibir vía NFC](https://x.com/PhoenixWallet/status/1930986564743573784?t=PZQVfJw5JL-bpSyMW1lVnA&s=19)
