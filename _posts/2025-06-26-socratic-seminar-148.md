@@ -74,14 +74,15 @@ Follow New York BitDevs on:
 
 
 ## Network Data
--
+- [<1s/vB fee transactions getting mined](https://x.com/peterktodd/status/1935709056695775583)
 
 ## CVEs and Research
 ### Research
 -
 
 ### InfoSec
--
+- [Google fixes bug that could reveal users’ private phone numbers](https://techcrunch.com/2025/06/09/google-fixes-bug-that-could-reveal-users-private-phone-numbers/)
+- [Trump Taps Palantir to Compile Data on Americans](https://reason.com/2025/06/02/palantir-paves-way-for-trump-police-state/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -193,7 +194,12 @@ Follow New York BitDevs on:
 -
 
 ## Mining
--
+- [BitMain announces a decentralized mining pool solution](https://x.com/bitmaintech/status/1927581481674670492)
 
 ## Miscellaneous
--
+- [SaveOurWallets.org:  Support Section 110 of the CLARITY Act](https://saveourwallets.org/)
+- [BTCPayServer crashes on block 896727 coinbase transaction](https://x.com/btcpayserver/status/1922845019494318519)
+- [Trump to launch branded crypto trading application](https://www.citationneeded.news/trump-crypto-wallet/)
+- [CTV+CSFS letter](https://ctv-csfs.com/)
+- [Texas cops cut open crypto ATM to recover $25K lost to scam](https://cointelegraph.com/news/texas-police-open-crypto-atm-family-scam-funds-bitcoin-community-question-decision)
+- [Fuzzamoto just found its first bug on a Bitcoin Core PR](https://x.com/dergoegge/status/1936093236226871794)
