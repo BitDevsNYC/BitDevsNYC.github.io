@@ -75,6 +75,7 @@ Follow New York BitDevs on:
 
 ## Network Data
 - [<1s/vB fee transactions getting mined](https://x.com/peterktodd/status/1935709056695775583)
+- [Notes on 'DoS due to inv-to-send sets growing too large' from May 2023](https://b10c.me/observations/15-inv-to-send-queue/)
 
 ## CVEs and Research
 ### Research
