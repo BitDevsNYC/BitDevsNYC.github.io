@@ -17,3 +17,6 @@ Follow New York BitDevs on:
 - [Twitter](https://x.com/BitDevsNYC)
 - [BlueSky](https://bsky.app/profile/bitdevsnyc.bsky.social)
 - nostr: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup3hqs`
+
+# Presentation
+- [Rob Hamilton](https://x.com/Rob1Ham) from [AnchorWatch](https://www.anchorwatch.com) presents the integration of [Miniscript](https://bitcoinops.org/en/topics/miniscript/) into their services.
