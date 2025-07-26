@@ -131,6 +131,9 @@ Follow New York BitDevs on:
 - [wallet: Remove `CWalletTx::fTimeReceivedIsTxTime`](https://github.com/bitcoin/bitcoin/pull/32768)
 - [build: add root dir to CMAKE_PREFIX_PATH in toolchain](https://github.com/bitcoin/bitcoin/pull/32798)
 
+### [Bitcoin Core App (QML-GUI)](https://github.com/bitcoin-core/gui-qml)
+- [Add cmake, qt6, and bitcoin core submodule](https://github.com/bitcoin-core/gui-qml/pull/475)
+
 
 ### [BDK](https://github.com/bitcoindevkit/bdk)
 - [Add `TxGraph::get_last_evicted`](https://github.com/bitcoindevkit/bdk/pull/1977)
@@ -307,4 +310,13 @@ Follow New York BitDevs on:
 -
 
 ## Miscellaneous
--
+- [Augur: An Open Source Bitcoin Fee Estimation Library](https://engineering.block.xyz/blog/augur-an-open-source-bitcoin-fee-estimation-library)
+- [Bitcoin Grants Common Application](https://grants.bitcoindevs.xyz/)
+- [14-year-old BTC worth $9,000,000,000 moved](https://x.com/WatcherGuru/status/1941167512491864554)
+- [Simplicity LOCKED_IN on Liquid Network](https://simplicity-lang.org/)
+- [Jack Dorsey releases BitChat decentralized messenger](https://github.com/permissionlesstech/bitchat)
+- [Transactions paying less than 1 s/B fees getting confirmed by Luxor](https://x.com/mononautical/status/1944934985237942662)
+- [Stablecoins and the Future of Payments](https://research.grayscale.com/reports/stablecoins-and-the-future-of-payments)
+- [U.S. House of Representatives Announces Week of July 14th as “Crypto Week”](https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=410793)
+- [Qubic Just Mined Monero And Redefined What Proof of Work Can Be](https://blockonomi.com/qubic-just-mined-monero-and-redefined-what-proof-of-work-can-be/)
+- [Galaxy Executes One of the Largest Notional Bitcoin Transactions Ever](https://investor.galaxy.com/news/news-details/2025/Galaxy-Executes-One-of-the-Largest-Notional-Bitcoin-Transactions-Ever/default.aspx)
