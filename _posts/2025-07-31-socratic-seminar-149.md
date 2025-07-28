@@ -82,7 +82,7 @@ Follow New York BitDevs on:
 
 
 ## Network Data
--
+- [What Network Activity Says About Changing Face of Bitcoin Users](https://www.nydig.com/research/what-network-activity-says-about-changing-face-of-bitcoin-users)
 
 ## CVEs and Research
 ### Research
