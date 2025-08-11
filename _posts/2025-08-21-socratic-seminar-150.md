@@ -19,4 +19,4 @@ Follow New York BitDevs on:
 - nostr: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup3hqs`
 
 # Presentation
-- [Charmaine Ndolo](https://github.com/cndolo) presents "Mitigating Network-level Side-Channel Attacks in the Lightning Network".
+- [Charmaine Ndolo](https://github.com/cndolo) presents ["Mitigating Network-level Side-Channel Attacks in the Lightning Network"](https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.12/LIPIcs.AFT.2024.12.pdf).
