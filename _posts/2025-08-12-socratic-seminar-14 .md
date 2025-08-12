@@ -7,7 +7,7 @@ meetup: "https://www.meetup.com/guadalajara-bitcoin-and-lightning/events/3103604
 
 ## Anuncios
 ### Intro
-¡Acompáñanos al catorceavo Seminario Socrático en HackerGarage! Habrá chelas y refrescos a la venta. Después del evento, nos vamos por tacos, cortesía de [Vinteum](https://vinteum.org/).
+¡Acompáñanos al catorceavo Seminario Socrático en HackerGarage! Después del evento, nos vamos por comida, cortesía de [Vinteum](https://vinteum.org/).
 
 ### Siempre recuerda
 - Respetar la privacidad de las personas
