@@ -16,11 +16,11 @@ meetup: "https://www.meetup.com/guadalajara-bitcoin-and-lightning/events/3103604
 
 ## Cosas que realmente discutiremos
 
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
+- [Robin Linus propone reducir el minrelay fee de 1 sat/vB a 0.1 sat/vB](https://github.com/bitcoin/bitcoin/pull/32959)
+- [Blockstream lanza Simplicity como alternativa a Solidity](https://cointelegraph.com/news/blockstream-bitcoin-smart-contract-simplicity-launch)
+- [Modelos de OnlyFans dicen que el "Índice Stripper" no aplica a Bitcoin](https://cointelegraph.com/news/stripper-index-doesn-t-apply-to-bitcoin-onlyfans-models-say)
+- [BBVA amplía acceso a cripto en España](https://cointelegraph.com/explained/bbva-expands-crypto-access-in-spain-heres-what-changed)
+- Bitcoin++ Riga Speakers and Hackathon
 
 ## Temas
 
