@@ -21,7 +21,7 @@ meetup: "https://www.meetup.com/guadalajara-bitcoin-and-lightning/events/3082620
 - [Así es automatizar trades cripto con Grok 3](https://cointelegraph.com/news/automated-crypto-trades-with-grok-3)
 - [TFTC lanza extensión para ver precio de BTC en tiempo real](https://cointelegraph.com/news/tftc-browser-extension-bitcoin-standard)
 - [Plataforma DeFi de Bitcoin, Alex Protocol, pierde $8.3M en explotación](https://cointelegraph.com/news/bitcoin-defi-platform-alex-protocol-loses-8-3m-to-exploit)
-- [Wallet of Satoshi no es totalmente autocustodiado, pero tampoco es custodial.]([https://x.com/davidmarcus/status/1940169222342287666](https://btcpp.substack.com/p/insider-takes-wallet-of-satoshis?utm_source=post-email-title&publication_id=2942910&post_id=167513633))
+- [Wallet of Satoshi no es totalmente autocustodiado, pero tampoco es custodial](https://btcpp.substack.com/p/insider-takes-wallet-of-satoshis?utm_source=post-email-title&publication_id=2942910&post_id=167513633)
 
 ## Temas
 
