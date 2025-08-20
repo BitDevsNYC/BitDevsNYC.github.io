@@ -51,7 +51,7 @@ Follow New York BitDevs on:
     - [August 14](https://www.erisian.com.au/bitcoin-core-dev/log-2025-08-14.html#l-153)
 
 - Lightning Specification meeting
-    - [August 11th](https://github.com/lightning/bolts/issues/1046](https://github.com/lightning/bolts/issues/1277)
+    - [August 11th](https://github.com/lightning/bolts/issues/1277)
 
 ### Optech
 - [Bitcoin Optech Newsletter #364](https://bitcoinops.org/en/newsletters/2025/07/25/)
@@ -127,7 +127,7 @@ Follow New York BitDevs on:
 
 
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
-- [Fix overflow during *_ceil FeeRate conversions](https://github.com/rust-bitcoin/rust-bitcoin/pull/4838)
+- [Fix overflow during _ceil FeeRate conversions](https://github.com/rust-bitcoin/rust-bitcoin/pull/4838)
 - [p2p: Add `HeadersMessage` wrapper with useful methods](https://github.com/rust-bitcoin/rust-bitcoin/pull/4830)
 - [Use CompactSize instead of VarInt](https://github.com/rust-bitcoin/rust-bitcoin/pull/4790)
 - [Pluralize transaction fields](https://github.com/rust-bitcoin/rust-bitcoin/pull/4788)
