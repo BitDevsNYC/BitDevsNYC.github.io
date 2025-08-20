@@ -209,3 +209,5 @@ Follow New York BitDevs on:
 - [Roman Storm found guilt of unlicensed money transmission](https://x.com/valkenburgh/status/1953133350421495904)
 - [Simplicity Launches on Liquid Mainnet](https://blog.blockstream.com/simplicity-launches-on-liquid-mainnet/)
 - [Vinteum - Three Years of Building Bitcoin From the Ground Up](https://vinteum.org/wp-content/uploads/2025/08/vinteum-3-years-EN.pdf)
+- [Ziren: GPU-accelerated zero-knowledge infrastructure compiling conventional code into a verifiable MIPS-based execution environment](https://www.zkm.io/blog/ziren-the-hidden-engine)
+- [Ledger offers tools to protect users from MEV](https://support.ledger.com/article/How-to-protect-your-transactions-from-Maximal-Extractable-Value-MEV-attacks)
