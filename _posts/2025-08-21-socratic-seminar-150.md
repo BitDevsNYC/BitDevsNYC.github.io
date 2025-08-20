@@ -51,7 +51,7 @@ Follow New York BitDevs on:
     - [August 14](https://www.erisian.com.au/bitcoin-core-dev/log-2025-08-14.html#l-153)
 
 - Lightning Specification meeting
-    - [August 11th]([https://github.com/lightning/bolts/issues/1046](https://github.com/lightning/bolts/issues/1277)) 
+    - [August 11th](https://github.com/lightning/bolts/issues/1046](https://github.com/lightning/bolts/issues/1277)
 
 ### Optech
 - [Bitcoin Optech Newsletter #364](https://bitcoinops.org/en/newsletters/2025/07/25/)
@@ -64,14 +64,28 @@ Follow New York BitDevs on:
 
 
 ## Network Data
--
+- [Antpool and friends mining sub 1sat/vbyte transactions](x.com/mononautical/status/1947530080475091159)
+- [Compact block reconstruction rates fall](https://github.com/bitcoin/bitcoin/pull/33106#issuecomment-3155627414)
+- [Evaluating usage of the Whirlpool Bitcoin privacy protocol](https://www.dci.mit.edu/posts/coinjoin-timing-questions)
+- [F2Pool mining annex-containing transactions](https://x.com/peterktodd/status/1940070152663421272)
+- [labitbu craze heating up](https://x.com/mononautical/status/1951683985957851367)
+- [MARA](https://x.com/mononautical/status/1953716038883061851) and [ck-pool](https://x.com/ckpooldev/status/1957235824451559746) raise their minrelay back to 1 sat / vbyte
+- [New mainnet-observer chart with transaction feerate distribution](https://x.com/0xB10C/status/1957387237840072902)
+- [Sub 1 sat/byte stale block analysis](https://x.com/mononautical/status/1956073741454336191)
+- [v3 transaction adoption statistics](https://x.com/mononautical/status/1951856672038662524)
+
 
 ## CVEs and Research
 ### Research
--
+- [Glock: Garbled Locks for Bitcoin](https://cdn.prod.website-files.com/67cfca80708eb505376820af/68a3e174eaff71d197ac4080_glock.pdf)
+- [Not in The Prophecies: Practical Attacks on Nostr](https://eprint.iacr.org/2025/1459)
+- [RGB 1.0 Scalable Consensus For Client-Side Validated Smart Contracts](https://github.com/RGB-WG/yellowpaper/blob/master/rgb-yellowpaper.pdf)
+- [Selfish Mining under General Stochastic Rewards](https://arxiv.org/abs/2502.20360v2)
+- [Wrapless: The trustless lending protocol on top of Bitcoin](https://arxiv.org/abs/2507.06064)
 
 ### InfoSec
--
+- [Qubic reorgs Monero Blockchain](https://qubic.org/pr/qubic-overtakes-monero-s-hash-rate-in-live-51-takeover-demo)
+
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -173,13 +187,25 @@ Follow New York BitDevs on:
 
 
 ## New Releases
--
+- [kyoto - light client based on bip 157/158](https://github.com/2140-dev/kyoto/blob/master/doc/DETAILS.md)
 
 ## Events and Podcasts
--
+- [BTC++ Insider Edition - Russel O'Connor](https://x.com/btcplusplus/status/1951434124411150450)
 
 ## Mining
--
+- [Bitmain plans US headquarters and assembly line](https://www.bloomberg.com/news/articles/2025-07-29/chinese-crypto-giant-plans-first-us-factory-in-trump-era-gambit)
+- [Proto releases new mining rig](https://proto.xyz/blog/posts/proto-rig-and-proto-fleet-a-paradigm-shift)
+
 
 ## Miscellaneous
--
+- [2025 Q2 Spiral Progress Report](https://spiralbtc.substack.com/p/2025-q2-spiral-progress-report-5a9)
+- [A survey of bitcoin yield: What's the opportunity cost of Ark liquidity?](https://blog.second.tech/survey-of-bitcoin-yield/)
+- [Block filter design guide](https://rustaceanrob.com/blog/13-cbf-design)
+- [Founders Of Samourai Wallet Cryptocurrency Mixing Service Plead Guilty](https://www.justice.gov/usao-sdny/pr/founders-samourai-wallet-cryptocurrency-mixing-service-plead-guilty)
+- [On the privacy of shielded L2s](https://lightco.in/2025/08/12/shielded-l2s/)
+- OpenSats - [Advancements in Developer Libraries](https://opensats.org/blog/advancements-in-developer-libraries), [Thirteenth Wave of Bitcoin Grants](https://opensats.org/blog/thirteenth-wave-of-bitcoin-grants)
+- [PayJoin Foundation](https://insider.btcpp.dev/p/the-payjoin-foundation-is-announced)
+- [peer-observer: A tool and infrastructure for monitoring the Bitcoin P2P network for attacks and anomalies](https://b10c.me/projects/024-peer-observer/)
+- [Roman Storm found guilt of unlicensed money transmission](https://x.com/valkenburgh/status/1953133350421495904)
+- [Simplicity Launches on Liquid Mainnet](https://blog.blockstream.com/simplicity-launches-on-liquid-mainnet/)
+- [Vinteum - Three Years of Building Bitcoin From the Ground Up](https://vinteum.org/wp-content/uploads/2025/08/vinteum-3-years-EN.pdf)
