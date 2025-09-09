@@ -17,11 +17,10 @@ meetup: "https://www.meetup.com/guadalajara-bitcoin-and-lightning/events/3108525
 
 ## Cosas que realmente discutiremos
 
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
+- [Lanzamiento en mainnet de Arkade](https://x.com/prashanthc123/status/1962407340105195966?s=52)
+- [Papa Swap: swaps submarinos más rápidos, baratos y fáciles que los HTLCs](https://github.com/supertestnet/papa-swap)
+- [Npm Hack y javascript bitcoin wallets](https://jdstaerk.substack.com/p/we-just-found-malicious-code-in-the)
+- [Propuesta: presupuesto de transición legacy por bloque como mitigación cuántica](https://delvingbitcoin.org/t/proposal-per-block-legacy-transition-budget-as-quantum-mitigation-soft-fork/1929)
 
 ## Temas
 
