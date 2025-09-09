@@ -8,7 +8,7 @@ meetup: "https://www.meetup.com/guadalajara-bitcoin-and-lightning/events/3108525
 
 ## Anuncios
 ### Intro
-¡Acompáñanos al quinceavo Seminario Socrático en HackerGarage! Después del evento, nos vamos por comida, cortesía de [Vinteum](https://vinteum.org/).
+¡Acompáñanos al quinceavo Seminario Socrático en nuestro nuevo espacio LightningStackerSpace! Después del evento, nos vamos por comida, cortesía de [Vinteum](https://vinteum.org/).
 
 ### Siempre recuerda
 - Respetar la privacidad de las personas
