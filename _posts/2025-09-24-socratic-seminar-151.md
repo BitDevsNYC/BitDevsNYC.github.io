@@ -83,7 +83,10 @@ Follow New York BitDevs on:
 -
 
 ### InfoSec
--
+- [iOS remote code execution vulnerability discovered](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-43300.md)
+- [A16-FuseBypass: Debug Logic Enabled on Production Apple Silicon](https://github.com/JGoyd/A16-FuseBypass)
+- [Geedge & MESA Leak: Analyzing the Great Firewall’s Largest Document Leak](https://gfw.report/blog/geedge_and_mesa_leak/en/)
+- [Samsung Issues Emergency Update For Most Galaxy Users](https://www.forbes.com/sites/zakdoffman/2025/09/12/samsung-issues-emergency-update-for-most-galaxy-users/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -311,7 +314,11 @@ Follow New York BitDevs on:
 -
 
 ## Mining
--
+- [signet: disk-space-DoS due to low mining difficulty](https://github.com/bitcoin/bitcoin/issues/33266)
 
 ## Miscellaneous
--
+- [Bitcoin Core devs call dissidents ‘Knotzis,’ find bug in their software](https://protos.com/bitcoin-core-devs-call-dissidents-knotzis-find-bug-in-their-software/)
+- [Comer and Mace Investigate Efforts to Manipulate Information on Wikipedia](https://oversight.house.gov/release/comer-and-mace-investigate-efforts-to-manipulate-information-on-wikipedia/)
+- [The White House Is Going to Put Government Statistics on the Blockchain](https://gizmodo.com/the-white-house-is-going-to-put-government-statistics-on-the-blockchain-yeah-we-dont-know-why-either-2000648428)
+- [Trump Family Rakes in $5B With New Crypto Cash Grab](https://www.thedailybeast.com/president-donald-trumps-family-rakes-in-5b-with-new-crypto-cash-grab/)
+- [Bitcoin as an Interplanetary Monetary Standard with Proof-of-Transit Timestamping](https://arxiv.org/abs/2508.20591)
