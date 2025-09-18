@@ -308,7 +308,7 @@ Follow New York BitDevs on:
 
 
 ## New Releases
--
+- [The Bitcoin Dev Project releases version 2 of TLDR, daily AI generated summaries of the mailing list and Delving Bitcoin](https://x.com/Bitcoin_Devs/status/1967949667360190628)
 
 ## Events and Podcasts
 -
