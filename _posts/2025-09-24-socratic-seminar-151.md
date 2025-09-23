@@ -76,17 +76,46 @@ Follow New York BitDevs on:
 - [Bitcoin Optech Newsletter #368](https://bitcoinops.org/en/newsletters/2025/08/22/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2025/08/26/)
 
 ## Network Data
--
+- [Alby Hub channel statistics](https://blog.getalby.com/lightning-channel-stats-h1-2025/)
+- [Canadian police seize funds, announce via OP_RETURN](https://mempool.space/tx/e8a6c482503387d7215ce553c2b6157a2f6af574da2904c9bfba887f6ce9e646)
+- [Fresh rpi IBD data](https://x.com/L0RINC/status/1964396017853616588)
+- [Large number of lightning force-closes hit chain](https://x.com/mononautical/status/1967751761558634741)
+- [Misbehaving Nodes](antoinep.com/posts/misbehaving_nodes/)
+- [Ordinals – Impact On Node Runners](https://blog.bitmex.com/ordinals-impact-on-node-runners/)
+- [stratum.work adds new "Events" panel](https://stratum.work/)
+- [testnet4 timewarp attack, counterattack by garrys mod](https://primal.net/e/nevent1qqsdnyx56gw5nzlsklzt7rxswkkrmknp357z3xtuzduka9k7zqa76fcungk93)
 
 ## CVEs and Research
 ### Research
--
+- [AUPCH: Auditable Unlinkable Payment Channel Hubs](https://eprint.iacr.org/2025/1524)
+- [Boosting Payment Channel Network Liquidity with Topology Optimization and Transaction Selection](https://arxiv.org/abs/2508.14524v1)
+- [Bitcoin as an Interplanetary Monetary Standard with Proof-of-Transit Timestamping](https://arxiv.org/abs/2508.20591)
+- [Bitcoin under Volatile Block Rewards: How Mempool Statistics Can Influence Bitcoin Mining](https://arxiv.org/abs/2411.11702v3)
+- [BitPriv: A Privacy-Preserving Protocol for DeFi Applications on Bitcoin](https://eprint.iacr.org/2025/1575)
+- [ChipmunkRing: A Practical Post-Quantum Ring Signature Scheme for Blockchain Applications](https://eprint.iacr.org/2025/1680)
+- [Hornet Node and the Hornet DSL: A Minimal, Executable Specification for Bitcoin Consensus](https://arxiv.org/abs/2509.15754v1)
+- [How Exclusive are Ethereum Transactions? Evidence from non-winning blocks](https://arxiv.org/abs/2509.16052v1)
+- [Infiltrated Selfish Mining: Think Win-Win to Escape Dilemmas](https://dl.acm.org/doi/10.1145/3708821.3736191)
+- [Outperforming Dijkstra on Sparse Graphs: The Lightning Network Use Case](https://arxiv.org/abs/2509.13448v1)
+- [Payment Channels with Proofs](https://arxiv.org/abs/2509.08268v1)
+- [Threshold ECDSA in Two Rounds](https://eprint.iacr.org/2025/1696)
+- [Trout: Two-Round Threshold ECDSA from Class Groups](https://eprint.iacr.org/2025/1666)
 
 ### InfoSec
-- [iOS remote code execution vulnerability discovered](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-43300.md)
+- [A Vulnerability on Bitcoin Protocols Using One-Time Signatures](https://fairgate.io/post/23-a-vulnerability-on-bitcoin-protocols-using-one-time-signatures)
 - [A16-FuseBypass: Debug Logic Enabled on Production Apple Silicon](https://github.com/JGoyd/A16-FuseBypass)
-- [Geedge & MESA Leak: Analyzing the Great Firewall’s Largest Document Leak](https://gfw.report/blog/geedge_and_mesa_leak/en/)
+- [Block filter design guide](https://rustaceanrob.com/blog/13-cbf-design)
+- [Cloudfare mitigates largest DDoS attack ever, 11.5 Tbps](https://x.com/Cloudflare/status/1962559687368593552), [more](https://x.com/Cloudflare/status/1962953494459252843)
+- [Geedge & MESA Leak: Analyzing the Great Firewall’s Largest Documented Leak](https://gfw.report/blog/geedge_and_mesa_leak/en/)
+- [iOS remote code execution vulnerability discovered](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-43300.md)
+- [Monero experiences multiple block reorgs](https://coinmetrics.substack.com/p/state-of-the-network-issue-326), [more](https://x.com/BitcoinNewsCom/status/1967383603924672662)
+- [Not in The Prophecies: Practical Attacks on Nostr](https://eprint.iacr.org/2025/1459.pdf)
+- [npm packages with 2 billion weekly downloads in supply chain attack](https://www.bleepingcomputer.com/news/security/hackers-hijack-npm-packages-with-2-billion-weekly-downloads-in-supply-chain-attack/)
+- [Phoenix: Rowhammer Attacks on DDR5 with Self-Correcting Synchronization](https://comsec-files.ethz.ch/papers/phoenix_sp26.pdf)
 - [Samsung Issues Emergency Update For Most Galaxy Users](https://www.forbes.com/sites/zakdoffman/2025/09/12/samsung-issues-emergency-update-for-most-galaxy-users/)
+- [Self-propagating supply chain attack hits 187 npm packages](https://www.bleepingcomputer.com/news/security/self-propagating-supply-chain-attack-hits-187-npm-packages/)
+- [signet: disk-space-DoS due to low mining difficulty](https://github.com/bitcoin/bitcoin/issues/33266)
+- [Use mutation testing to find the bugs your tests don't catch](https://blog.trailofbits.com/2025/09/18/use-mutation-testing-to-find-the-bugs-your-tests-dont-catch/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -308,17 +337,32 @@ Follow New York BitDevs on:
 
 
 ## New Releases
+- [Frigate: experimental Electrum Server testing Silent Payments scanning with ephemeral client keys](https://github.com/sparrowwallet/frigate)
+- [Stratum V2 UniFFI: Language Bindings for SRI](https://github.com/stratum-mining/sv2-uniffi)
 - [The Bitcoin Dev Project releases version 2 of TLDR, daily AI generated summaries of the mailing list and Delving Bitcoin](https://x.com/Bitcoin_Devs/status/1967949667360190628)
 
-## Events and Podcasts
--
-
-## Mining
-- [signet: disk-space-DoS due to low mining difficulty](https://github.com/bitcoin/bitcoin/issues/33266)
 
 ## Miscellaneous
+- [Aiming for ₿OSS Level 100](https://habla.news/a/naddr1qvzqqqr4gupzqrcxrljwdpfz2qn5a57hse6ez6pkd34pe0wpeskmktt2p62yeketqqvkz6tdd9hxwttxdaez6cn0wdej6mr9wejkctf3xqcqzwfcnq)
+- [Ark Labs Live](https://blog.arklabs.xyz/closing-the-lightning-loop-bitcoins-missing-layer-secretly-goes-live/)
+- [Bitcoin Core Code: C++, some Python and a Custom Build System](https://binaryigor.com/bitcoin-core-code.html)
 - [Bitcoin Core devs call dissidents ‘Knotzis,’ find bug in their software](https://protos.com/bitcoin-core-devs-call-dissidents-knotzis-find-bug-in-their-software/)
+- [Bitcoin Visibility at Scale: New Upgrades to the Blockstream Explorer API](https://blog.blockstream.com/bitcoin-visibility-at-scale-new-upgrades-to-the-blockstream-explorer-api/)
+- [BRC2.0 Specification Sheet](https://blog.bestinslot.xyz/brc20-specification-sheet)
 - [Comer and Mace Investigate Efforts to Manipulate Information on Wikipedia](https://oversight.house.gov/release/comer-and-mace-investigate-efforts-to-manipulate-information-on-wikipedia/)
+- [Cryptography Camp Workbook](https://github.com/cryptography-camp/workbook)
+- [Diving deeper into Lightning liquidity: Amboss Magma](https://blog.second.tech/diving-deeper-into-lightning-liquidity-amboss-magma-2/)
+- [Localhost Research Transparency Report 002](https://lclhost.org/blog/transparency-report-002/)
+- [Lexe Uses LDK to Run Self-Custodial Lightning in Secure Enclaves](https://spiralbtc.substack.com/p/lexe-uses-ldk-to-run-self-custodial)
+- [My review of the proposed C header for the Bitcoin Core Kernel API](https://habla.news/a/naddr1qvzqqqr4gupzqrcxrljwdpfz2qn5a57hse6ez6pkd34pe0wpeskmktt2p62yeketqqvxy6t5vdhkjmntv4exuetv94shq6fdwfjhv6t9wuxrjull)
+- [OpenTimestamps and Knots/OCEAN](https://petertodd.org/2025/opentimestamps-and-knots-ocean)
+- [Nerd of the Month #5: A Castle of Glass](https://spiralbtc.substack.com/p/nerd-of-the-month-5-a-castle-of-glass-1f4)
+- [Nunchuck launches support of generalized miniscript](https://x.com/nunchuk_io/status/1960990764454056229)
+- Spiral Grants - [thesimplekid](https://x.com/spiralbtc/status/1965110356931739832), [spacebear21](https://x.com/spiralbtc/status/1961473589049245895), 
+- [The state of Bitcoinfuzz](https://brunoerg.xyz/2025/08/21/the-state-of-bitcoinfuzz.html)
 - [The White House Is Going to Put Government Statistics on the Blockchain](https://gizmodo.com/the-white-house-is-going-to-put-government-statistics-on-the-blockchain-yeah-we-dont-know-why-either-2000648428)
+- [Vinteum: Three Years Year sof Building Bitcoin From the Ground Up](https://vinteum.org/wp-content/uploads/2025/08/vinteum-3-years-EN.pdf)
 - [Trump Family Rakes in $5B With New Crypto Cash Grab](https://www.thedailybeast.com/president-donald-trumps-family-rakes-in-5b-with-new-crypto-cash-grab/)
-- [Bitcoin as an Interplanetary Monetary Standard with Proof-of-Transit Timestamping](https://arxiv.org/abs/2508.20591)
+- [Why Bitcoiners should support covenant soft forks](https://lightco.in/2025/09/12/covenants/)
+- [Unstoppable JPGs In Private Keys](https://blog.bitmex.com/the-unstoppable-jpg-in-private-keys/)
+
