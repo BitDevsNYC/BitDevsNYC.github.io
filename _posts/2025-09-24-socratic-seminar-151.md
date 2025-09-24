@@ -365,4 +365,13 @@ Follow New York BitDevs on:
 - [Trump Family Rakes in $5B With New Crypto Cash Grab](https://www.thedailybeast.com/president-donald-trumps-family-rakes-in-5b-with-new-crypto-cash-grab/)
 - [Why Bitcoiners should support covenant soft forks](https://lightco.in/2025/09/12/covenants/)
 - [Unstoppable JPGs In Private Keys](https://blog.bitmex.com/the-unstoppable-jpg-in-private-keys/)
+- [Bitcoin as an Interplanetary Monetary Standard with Proof-of-Transit Timestamping](https://arxiv.org/abs/2508.20591)
+- [Practical Attacks on Nostr](https://crypto-sec-n.github.io/)
+- [The Vulnerability Exposing Tangem Cards to Brute-Force Attacks](https://www.ledger.com/blog-brute-force-attack-tangem)
+- [Bitcoin Knots Node Ban Script](https://github.com/noosphere888/Ban-Knots)
+- [Anatomy of a Billion-Download NPM Supply-Chain Attack](https://jdstaerk.substack.com/p/we-just-found-malicious-code-in-the)
+- [Memecoiners erect a 12-foot golden Trump Bitcoin statue near US Capitol](https://cointelegraph.com/news/memecoiners-golden-trump-bitcoin-statue-us-capitol)
+- [Shilld: Visible PAID SHILL badges on X/Twitter](https://shilld.xyz/)
+- [Cake Wallet Releases Pay Anything: Making Crypto Work the Way You Think It Should](https://blog.cakewallet.com/cake-wallet-releases-pay-anything-making-crypto-work-the-way-you-think-it-should/)
+
 
