@@ -22,6 +22,7 @@ meetup: "https://www.meetup.com/guadalajara-bitcoin-and-lightning/events/3114393
 -TBD
 -TBD
 -TBD
+-TBD
 
 ## Temas
 
