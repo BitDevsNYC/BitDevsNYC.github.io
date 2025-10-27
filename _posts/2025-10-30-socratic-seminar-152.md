@@ -367,4 +367,22 @@ Follow New York BitDevs on:
 -
 
 ## Miscellaneous
--
+- [Swiftsync in 3 hours on battery-powered Raspberry Pi floating in water!](https://x.com/L0RINC/status/1972062557835088347)
+- [Two people convicted following world's largest crypto seizure](https://news.met.police.uk/news/woman-convicted-following-worlds-largest-seizure-501569)
+- [Removing GUIX from Debian](https://lwn.net/Articles/1035491/)
+- [Lawyers call Bitcoin Core v30 CSAM concerns ‘overblown’](https://protos.com/exclusive-lawyers-call-bitcoin-core-v30-csam-concerns-overblown/)
+- [Germany is on the verge of reversing its longstanding and opposition to the EU’s Chat Control proposal.](https://signal.org/blog/pdfs/germany-chat-control.pdf)
+- [Square Brings Bitcoin to Main Street With First Integrated Payments and Wallet Solution for Local Businesses](https://investors.block.xyz/investor-news/news-details/2025/Square-Brings-Bitcoin-to-Main-Street-With-First-Integrated-Payments-and-Wallet-Solution-for-Local-Businesses/default.aspx)
+- [A hack impacting Discord’s age verification process exposes peoples’ IDs and other sensitive information](https://www.404media.co/the-discord-hack-is-every-users-worst-nightmare/)
+- [Trader nets $192M Bitcoin profit in suspicious pre-Trump tariff announcement trade](https://finbold.com/trader-nets-192m-bitcoin-profit-in-suspicious-pre-trump-tariff-announcement-trade/)
+- [DOJ seizes $15 billion in bitcoin from massive ‘pig butchering’ scam based in Cambodia](https://www.cnbc.com/2025/10/14/bitcoin-doj-chen-zhi-pig-butchering-scam.html)
+- ["Bitcoin for Signal" using Cashu](https://bitcoinforsignal.org/)
+- [B-SSL: Bitcoin Secure Signing Layer A Covenant-Free Vault Architecture for Loss-Resistant, Attack-Resilient Self-Custody](https://github.com/ilghan/bssl-whitepaper/blob/main/B-SSL_WP_Oct_11_2025.pdf)
+- [Anatomy of a crypto meltdown](https://www.citationneeded.news/anatomy-of-a-crypto-meltdown/)
+- [Users beware: Xubuntu website serving malware instead of OS downloads](https://cybernews.com/security/xubuntu-site-compromise-hackers-peddle-malware/)
+- [Arké MacOS prototype](https://community.second.tech/t/arke-macos-prototype/156/1)
+
+## Amusing Data On Chain
+- [196kB jpg in OP_RETURN](https://x.com/stutxo/status/1974193438724682227)
+- [ASCII Mario in OP_RETURN](https://x.com/mononautical/status/1981931710963909081)
+- [Anti-Spam BIP encoded in Legacy P2SH ScriptSigs](https://x.com/mononautical/status/1982601377923891530)
