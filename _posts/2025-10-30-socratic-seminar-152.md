@@ -386,3 +386,4 @@ Follow New York BitDevs on:
 - [196kB jpg in OP_RETURN](https://x.com/stutxo/status/1974193438724682227)
 - [ASCII Mario in OP_RETURN](https://x.com/mononautical/status/1981931710963909081)
 - [Anti-Spam BIP encoded in Legacy P2SH ScriptSigs](https://x.com/mononautical/status/1982601377923891530)
+- [DEF CON 33 - Making a custom Hashcat module to solve a decade-old Bitcoin puzzle challenge - Joseph Gabay](https://www.youtube.com/watch?v=74_4Q329PH8)
