@@ -17,7 +17,7 @@ Follow New York BitDevs on:
 - nostr: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup3hqs`
 
 ## Presentation
--
+- [Carla Kirk-Cohen](https://github.com/carlaKC/) will present her research on [Lightning Network channel jamming and mitigation](https://delvingbitcoin.org/t/outgoing-reputation-simulation-results-and-updates/2069)
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
