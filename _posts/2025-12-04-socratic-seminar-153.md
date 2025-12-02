@@ -81,14 +81,15 @@ Follow New York BitDevs on:
 
 
 ## Network Data
--
+- [Bitcoin Network Operations Collective](https://bnoc.xyz/t/why-not-use-delvingbitcoin-org-for-bnoc/23)
 
 ## CVEs and Research
 ### Research
 -
 
 ### InfoSec
--
+- [See the business data leaking onto the dark web with Proton’s Data Breach Observatory](https://proton.me/blog/introducing-breach-observatory)
+- [Keeping the Internet fast and secure: introducing Merkle Tree Certificates](https://blog.cloudflare.com/bootstrap-mtc/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -273,4 +274,12 @@ Follow New York BitDevs on:
 -
 
 ## Miscellaneous
--
+- [How Bitkey used Chain Code Delegation to create the first private collaborative bitcoin wallet.](https://bitkey.build/not-our-keys-not-our-business/)
+- [Quantum Doomsday Clock](https://quantumdoomclock.com/)
+- [Ordiknots: magic transactions with arbitrary data, powered by Bitcoin Knots](https://github.com/taproot-wizards/ordiknots)
+- [Email your representative to eliminate capital gains on bitcoin payments under $600](https://btcismoney.xyz/)
+- [An Independent Security Audit of Bitcoin Core](https://brink.dev/blog/2025/11/19/bitcoin-core-security-audit/)
+- [Cloudflare outage on November 18, 2025](https://blog.cloudflare.com/18-november-2025-outage/)
+- [Trump Crypto Venture WLFl Sold Tokens To Entities Tied to North Korea, Iran & a Notorious Money Laundering Platform](https://accountable.us/trump-crypto-venture-wlfl-sold-tokens-to-entities-tied-to-north-korea-iran-a-notorious-money-laundering-platform/)
+- [Who is Owen Gunden? Bitcoin wizard sells off all his coins worth $1.3bn](https://www.financialexpress.com/trending/who-is-owen-gunden-bitcoin-wizard-sells-off-all-his-coins-worth-1-3bn/4051345/)
+- [Shai Hulud Launches Second Supply-Chain Attack: Zapier, ENS, AsyncAPI, PostHog, Postman Compromised](https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains?trk=public_post_comment-text)
