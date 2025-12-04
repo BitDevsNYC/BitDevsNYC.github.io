@@ -283,3 +283,4 @@ Follow New York BitDevs on:
 - [Trump Crypto Venture WLFl Sold Tokens To Entities Tied to North Korea, Iran & a Notorious Money Laundering Platform](https://accountable.us/trump-crypto-venture-wlfl-sold-tokens-to-entities-tied-to-north-korea-iran-a-notorious-money-laundering-platform/)
 - [Who is Owen Gunden? Bitcoin wizard sells off all his coins worth $1.3bn](https://www.financialexpress.com/trending/who-is-owen-gunden-bitcoin-wizard-sells-off-all-his-coins-worth-1-3bn/4051345/)
 - [Shai Hulud Launches Second Supply-Chain Attack: Zapier, ENS, AsyncAPI, PostHog, Postman Compromised](https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains?trk=public_post_comment-text)
+- [Not in The Prophecies: Practical Attacks on Nostr](https://github.com/crypto-sec-n/Artifacts)
