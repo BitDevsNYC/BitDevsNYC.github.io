@@ -72,8 +72,6 @@ Follow New York BitDevs on:
 
 
 ### Meetings
-- [Bitcoin PR Review Club](https://bitcoincore.reviews)
-
 - Bitcoin Core general developer meetings
     - [December 4](https://www.erisian.com.au/bitcoin-core-dev/log-2025-12-04.html#l-230)
     - [December 11](https://www.erisian.com.au/bitcoin-core-dev/log-2025-12-11.html#l-84)
