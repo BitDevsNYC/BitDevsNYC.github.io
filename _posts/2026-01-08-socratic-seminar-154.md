@@ -254,3 +254,4 @@ Follow New York BitDevs on:
 ## Miscellaneous
 - [Jade Security Disclosure](https://blog.blockstream.com/jade-security-disclosure/)
 - [Saylor seems to be advocating for a hard fork that forces people to move coin](https://damus.io/note1yu8qh0l4cq9gg9fpk4jclp6q0mepuyacq8ha5ljnx76ang52t9pq2npf36)
+- [Wallet Migration Failure May Delete Unrelated Wallet Files In Bitcoin Core 30.0 and 30.1](https://bitcoincore.org/en/2026/01/05/wallet-migration-bug/)
