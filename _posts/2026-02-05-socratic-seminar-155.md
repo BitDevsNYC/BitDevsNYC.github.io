@@ -17,3 +17,6 @@ Follow New York BitDevs on:
 - [Twitter](https://x.com/BitDevsNYC)
 - [BlueSky](https://bsky.app/profile/bitdevsnyc.bsky.social)
 - nostr: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup3hqs`
+
+## Presentation
+- [Antoine Poinsot](https://x.com/darosior) will give a whiteboard presentation on fixing the timewarp bug in Bitcoin's consensus code. This will be the first in a series of deep dive sessions on the [great consensus cleanup proposal.](https://github.com/bitcoin/bips/blob/master/bip-0054.md)
