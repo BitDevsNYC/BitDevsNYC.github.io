@@ -209,4 +209,4 @@ Follow New York BitDevs on:
 - [Crypto firm BitGo raises $212.8 million in US IPO](https://www.reuters.com/business/finance/bitgo-holdings-prices-us-ipo-18-bloomberg-news-reports-2026-01-22/?utm_source=chatgpt.com)
 - [ORANGE DEV TRACKER: Decoding the DNA of the most important software in financial history](https://sorukumar.github.io/orange-dev-tracker/)
 - [2016 Email from Coinbase CEO Brian Armstrong to Jeffrey Epstein](https://x.com/kyletorpey/status/2017767211272728791)
-
+- [Arkade SDK skills for agent integration](https://arkadeos.com/)
