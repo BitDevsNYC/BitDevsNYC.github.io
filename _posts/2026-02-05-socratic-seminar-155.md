@@ -71,7 +71,7 @@ Follow New York BitDevs on:
 -
 
 ### InfoSec
--
+- Practical vulnerabilities in GPG & friends [video](https://www.youtube.com/watch?v=U0ZYOTHrB7I) / [slides: gpg.fail](https://gpg.fail/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -200,4 +200,13 @@ Follow New York BitDevs on:
 -
 
 ## Miscellaneous
--
+- [Zcash Plunges Double Digits After ECC Team 'Constructively Discharged'](https://decrypt.co/353948/zcash-plunges-double-digits-after-ecc-team-constructively-discharged)
+- [Former 'bitcoin mayor' Eric Adams faces $3 million rugpull allegation after issuing NYC Token](https://www.coindesk.com/markets/2026/01/13/former-bitcoin-mayor-eric-adams-faces-usd3-million-rugpull-allegation-after-issuing-nyc-coin)
+- [The State of the Iranian Internet Blackout](https://state-of-iranblackout.whisper.security/)
+- [Spacelab: Secure Group Mesh Messaging in Realistic Protest Scenarios](https://spacelab-ccny.github.io/research/amigo/)
+- [CVE-2026-0915: GNU C Library Fixes A Security Issue Present Since 1996](https://www.phoronix.com/news/Glibc-Security-Fix-For-1996-Bug)
+- [John (Lick) caught flexing $23M in a wallet address directly tied to $90M+ in suspected thefts from the US Government in 2024](https://x.com/zachxbt/status/2014685263327351116)
+- [Crypto firm BitGo raises $212.8 million in US IPO](https://www.reuters.com/business/finance/bitgo-holdings-prices-us-ipo-18-bloomberg-news-reports-2026-01-22/?utm_source=chatgpt.com)
+- [ORANGE DEV TRACKER: Decoding the DNA of the most important software in financial history](https://sorukumar.github.io/orange-dev-tracker/)
+- [2016 Email from Coinbase CEO Brian Armstrong to Jeffrey Epstein](https://x.com/kyletorpey/status/2017767211272728791)
+
