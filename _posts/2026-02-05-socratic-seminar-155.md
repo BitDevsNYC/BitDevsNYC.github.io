@@ -200,7 +200,6 @@ Follow New York BitDevs on:
 -
 
 ## Miscellaneous
-- [Zcash Plunges Double Digits After ECC Team 'Constructively Discharged'](https://decrypt.co/353948/zcash-plunges-double-digits-after-ecc-team-constructively-discharged)
 - [Former 'bitcoin mayor' Eric Adams faces $3 million rugpull allegation after issuing NYC Token](https://www.coindesk.com/markets/2026/01/13/former-bitcoin-mayor-eric-adams-faces-usd3-million-rugpull-allegation-after-issuing-nyc-coin)
 - [The State of the Iranian Internet Blackout](https://state-of-iranblackout.whisper.security/)
 - [Spacelab: Secure Group Mesh Messaging in Realistic Protest Scenarios](https://spacelab-ccny.github.io/research/amigo/)
