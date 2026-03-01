@@ -76,14 +76,18 @@ We will be joined by our friends at [Localhost Research](https://lclhost.org/).
 
 
 ## Network Data
--
+- [OP_RETURN counts](https://dune.com/murchandamus/opreturn-counts)
+- [Bitcoin Stale Block Dataset](https://bitcoin-data.github.io/stale-blocks/)
 
 ## CVEs and Research
 ### Research
--
+- [Nested MuSig2](https://nkohen.github.io/publication/2026-02-12-nested-musig2)
+- [Binohash](https://robinlinus.com/binohash.pdf)
 
 ### InfoSec
--
+- [Apple patches decade-old iOS zero-day, possibly exploited by commercial spyware](https://www.theregister.com/2026/02/12/apple_ios_263/)
+- [Researchers discover massive Wi-Fi vulnerability affecting multiple access points](https://www.tomshardware.com/tech-industry/cyber-security/researchers-discover-massive-wi-fi-vulnerability-affecting-multiple-access-points-airsnitch-lets-attackers-on-the-same-network-intercept-data-and-launch-machine-in-the-middle-attacks)
+- [Five Eyes warn: Patch your Cisco SD-WAN or risk root takeover](https://www.theregister.com/2026/02/26/five_eyes_cisco_sdwan/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -273,7 +277,16 @@ We will be joined by our friends at [Localhost Research](https://lclhost.org/).
 -
 
 ## Mining
--
+- [FIBRE: The Fast Internet Bitcoin Relay Engine](https://bitcoinfibre.org/)
 
 ## Miscellaneous
--
+- [South Korean crypto firm accidentally sends $44 billion in bitcoin to users](https://www.cnbc.com/2026/02/07/south-korean-crypto-firm-accidentally-sends-out-44-billion-in-bitcoin.html)
+- [Script-execution cache poisoning via activation-boundary reorg in RDTS (Bitcoin Knots)](https://github.com/bitcoinknots/bitcoin/pull/238#issuecomment-3896624715)
+- [2025 Change in Bitcoin ownership](https://www.reddit.com/r/Bitcoin/comments/1r79p2b/bitcoin_ownership_change_in_2025/)
+- [BIP-110: The Temporary Softfork](https://melvin.me/public/articles/bip110.html)
+- [Turn Dependabot Off](https://words.filippo.io/dependabot/)
+- [White Noise: A secure and private messenger that’s lightning fast, scalable, and identity-free](https://www.whitenoise.chat/)
+- [Open-Source Agents Need to Get Serious About Payments](https://x.com/TheBlueMatt/status/2026667191475777727)
+- [bitcoin/bitcoin GitHub Stats](https://dergoegge.github.io/bitcoin-core-github-metadata-stats/)
+- [Proposal: Consensus rule to recover 79,956 BTC stolen from MtGox](https://bitcointalk.org/index.php?topic=5575915)
+
