@@ -21,6 +21,9 @@ Follow New York BitDevs on:
 ## Special Guests
 We will be joined by our friends at [Localhost Research](https://lclhost.org/).
 
+## Presentation
+- [Jonathan Harvey-Buschel](https://github.com/jharveyb) will present his project researching [Lightning Network Gossip](https://github.com/jharveyb/gossip_observer).
+
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
