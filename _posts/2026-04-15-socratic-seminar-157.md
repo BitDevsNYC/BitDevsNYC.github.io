@@ -84,14 +84,17 @@ Follow New York BitDevs on:
 
 
 ## Network Data
--
+- [Two block reorg at height 941880](https://bnoc.xyz/t/two-block-reorg-at-height-941880/97)
+- [Bitcoin DNS Seeder Analysis](https://willcl-ark.github.io/dnsseedrs/#sybil)
 
 ## CVEs and Research
 ### Research
--
+- [Estimated transactions per second with different hash-based signature schemes](https://x.com/n1ckler/status/2039338319603999036)
+- [Quantum frontiers may be closer than they appear](https://blog.google/innovation-and-ai/technology/safety-security/cryptography-migration-timeline/)
+- [Quantum Safe Bitcoin (QSB)](https://github.com/avihu28/Quantum-Safe-Bitcoin-Transactions/)
 
 ### InfoSec
--
+- [Age verification added to systemd](https://github.com/systemd/systemd/pull/40954)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -112,7 +115,6 @@ Follow New York BitDevs on:
 - [wallet: feebumper, fix crash when combined bump fee is unavailable](https://github.com/bitcoin/bitcoin/pull/34870)
 - [tor: enable PoW defenses for automatically created hidden services](https://github.com/bitcoin/bitcoin/pull/33414)
 - [Remove Taproot BIP 9 deployment](https://github.com/bitcoin/bitcoin/pull/26201)
-pull/34550)
 - [Policy: Report debug message why inputs are non standard](https://github.com/bitcoin/bitcoin/pull/29060)
 - [kernel: Add API getter functions for timelock fields (`nLockTime`, `nSequence`)](https://github.com/bitcoin/bitcoin/pull/34846)
 - [validation: Explicitly move blocks to validation signals](https://github.com/bitcoin/bitcoin/pull/34704)
@@ -560,7 +562,8 @@ pull/34550)
 
 
 ## New Releases
--
+- [Bitcoin TUI v0.8.3](https://github.com/janb84/bitcoin-tui/releases/tag/v0.8.3)
+- [CLN v26.04rc3 -- ](https://github.com/ElementsProject/lightning/releases/tag/v26.04rc3)
 
 ## Events and Podcasts
 -
@@ -569,4 +572,13 @@ pull/34550)
 -
 
 ## Miscellaneous
--
+- [BitRefill cyberattack](https://x.com/bitrefill/status/2033931580352221656)
+- [BitCan: DIY Bitcoin Seed Storage](https://bitcan.world/)
+- [Am I exposed? The Bitcoin privacy scanner you were afraid to run.](https://am-i.exposed/)
+- [TX Rush - mempool visualizer](https://txrush.com/)
+- [Bitcoin Devs Should Be Learning Isogeny Cryptography](https://conduition.io/cryptography/isogenies-intro/)
+- [A SHA-256 Hash That Is Also a Valid ECDSA Signature](https://github.com/RobinLinus/sha2-ecdsa)
+- [litellm 1.82.8 Supply Chain Attack on PyPI](https://futuresearch.ai/blog/litellm-pypi-supply-chain-attack/)
+- [axios Compromised on npm - Malicious Versions Drop Remote Access Trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan)
+- [Fuzzamoto: Non-Determinism](https://brink.dev/blog/2026/04/09/fuzzamoto-non-determinism/)
+- [Bruno Garcia finds two denial-of-service bugs on Floresta](https://x.com/brrrunog/status/2031479098896261237)
