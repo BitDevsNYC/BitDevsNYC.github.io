@@ -91,6 +91,7 @@ Follow New York BitDevs on:
 ### Research
 - [Estimated transactions per second with different hash-based signature schemes](https://x.com/n1ckler/status/2039338319603999036)
 - [Quantum frontiers may be closer than they appear](https://blog.google/innovation-and-ai/technology/safety-security/cryptography-migration-timeline/)
+- [Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly](https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/)
 - [Quantum Safe Bitcoin (QSB)](https://github.com/avihu28/Quantum-Safe-Bitcoin-Transactions/)
 
 ### InfoSec
@@ -439,3 +440,5 @@ Follow New York BitDevs on:
 - [axios Compromised on npm - Malicious Versions Drop Remote Access Trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan)
 - [Fuzzamoto: Non-Determinism](https://brink.dev/blog/2026/04/09/fuzzamoto-non-determinism/)
 - [Bruno Garcia finds two denial-of-service bugs on Floresta](https://x.com/brrrunog/status/2031479098896261237)
+- [Post Quantum Migration and Legacy Signature Sunset](https://www.bip361.org/)
+- [Post Quantum Bitcoin: Concepts of a Plan - A zk-STARK Escape Hatch for BIP-32 Wallets](https://x.com/roasbeef/status/2041940571720487192)
