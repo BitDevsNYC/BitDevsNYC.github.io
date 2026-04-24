@@ -32,7 +32,7 @@ As a disclaimer, BitDevs NYC has no official associations with or oversight of t
 - [London](https://londonbitdevs.org/)
 - [Los Angeles](https://bitdevsla.org/)
 - [Louisville](https://loubitdevs.org/)
-- [Lusaka](https://BitDevsZambia.org/)
+- [Lusaka](https://BitDevs.BitcoinZambia.org/)
 - [Melbourne](https://melb.bitdevs.com.au/)
 - [Mexico City](https://cdmxbitdevs.org)
 - [Miami](https://miamibitdevs.org/)
