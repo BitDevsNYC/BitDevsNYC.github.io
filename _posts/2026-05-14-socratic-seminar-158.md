@@ -111,8 +111,10 @@ Follow New York BitDevs on:
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 - [wallet: check the final BDB page LSN during migration](https://github.com/bitcoin/bitcoin/pull/35227)
+- [doc: Add my key to SECURITY.md](https://github.com/bitcoin/bitcoin/pull/35219)
 - [validation: correct lifetime of precomputed tx data](https://github.com/bitcoin/bitcoin/pull/35209)
 - [Implement BIP 370 PSBTv2](https://github.com/bitcoin/bitcoin/pull/21283)
+- [fuzz: compact block harness](https://github.com/bitcoin/bitcoin/pull/33300)
 - [kernel: Expose `CheckTransaction` consensus validation function](https://github.com/bitcoin/bitcoin/pull/33796)
 - [net: make m_nodes_mutex non-recursive](https://github.com/bitcoin/bitcoin/pull/32394)
 - [wallet: Disallow wallet names that are paths including `..` and `.` elements](https://github.com/bitcoin/bitcoin/pull/34544)
@@ -123,8 +125,10 @@ Follow New York BitDevs on:
 - [wallet: Add separate balance info for non-mempool wallet txs](https://github.com/bitcoin/bitcoin/pull/33671)
 - [tor: limit torcontrol line size that is processed to prevent OOM](https://github.com/bitcoin/bitcoin/pull/35087)
 - [coins,refactor: Reduce `getblockstats` RPC UTXO overhead estimation](https://github.com/bitcoin/bitcoin/pull/31449)
+- [kernel: align height parameters to int32_t in btck API](https://github.com/bitcoin/bitcoin/pull/35096)
 - [cli, rpc: add -rpcid option for custom request IDs](https://github.com/bitcoin/bitcoin/pull/35006)
 - [rpc, refactor: gettxoutsetinfo race condition fix follow-ups](https://github.com/bitcoin/bitcoin/pull/34908)
+- [wallet, test: Replace MockableDatabase with in-memory SQLiteDatabase](https://github.com/bitcoin/bitcoin/pull/33032)
 - [Rollback for dumptxoutset without invalidating blocks](https://github.com/bitcoin/bitcoin/pull/33477)
 - [kernel:  add serialization method for btck_BlockHeader API](https://github.com/bitcoin/bitcoin/pull/34401)
 - [validation: make `CCoinsView` a pure virtual interface](https://github.com/bitcoin/bitcoin/pull/34124)
@@ -133,6 +137,7 @@ Follow New York BitDevs on:
 
 ### [BDK](https://github.com/bitcoindevkit/bdk)
 - [fix(electrum): do not pick unindexed outputs for history lookup](https://github.com/bitcoindevkit/bdk/pull/2195)
+- [Add `SECURITY.md`](https://github.com/bitcoindevkit/bdk/pull/2171)
 - [fix(bitcoind_rpc): emit invalidated heights when start_height is above agreement point](https://github.com/bitcoindevkit/bdk/pull/2167)
 - [fix: full_scan covers revealed range before applying stop_gap](https://github.com/bitcoindevkit/bdk/pull/2182)
 - [fix(electrum): verify txid of server-returned transactions](https://github.com/bitcoindevkit/bdk/pull/2188)
@@ -145,32 +150,37 @@ Follow New York BitDevs on:
 
 
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
+- [p2p: Use `V1MessageHeaderDecoder` in `V1NetworkMessageDecoder`](https://github.com/rust-bitcoin/rust-bitcoin/pull/6093)
 - [hashes: Add non-SIMD SHA256d for 64-byte input ](https://github.com/rust-bitcoin/rust-bitcoin/pull/6129)
+- [Add with_compressedness to LegacyPublicKey](https://github.com/rust-bitcoin/rust-bitcoin/pull/6119)
 - [crypto: use constant-time equality for Poly1305 tags](https://github.com/rust-bitcoin/rust-bitcoin/pull/6125)
 - [p2p: Wrap `NetworkMessageDecoder` to check payload len](https://github.com/rust-bitcoin/rust-bitcoin/pull/6108)
-- [Release tracking PR: `bitcoin-crypto 0.2.0`](https://github.com/rust-bitcoin/rust-bitcoin/pull/6053)
+- [Introduce fuzz targets for `Encode` type roundtrips](https://github.com/rust-bitcoin/rust-bitcoin/pull/5675)
 - [Delete the `psbt` module](https://github.com/rust-bitcoin/rust-bitcoin/pull/6056)
 - [bitcoin: Witness constructor for P2WSH](https://github.com/rust-bitcoin/rust-bitcoin/pull/6027)
 - [p2p: Compute checksum when decoding v1 messages](https://github.com/rust-bitcoin/rust-bitcoin/pull/6076)
 - [hashes: Add 8-way AVX2](https://github.com/rust-bitcoin/rust-bitcoin/pull/6069)
 - [hashes: Add 4-way SSE4.1 implementation for double-sha256 for 64-byte inputs](https://github.com/rust-bitcoin/rust-bitcoin/pull/6060)
+- [taproot-primitives: Add crate externs for public API types](https://github.com/rust-bitcoin/rust-bitcoin/pull/6066)
+- [taproot-primitives: Fix alloc feature gating and add hex feature](https://github.com/rust-bitcoin/rust-bitcoin/pull/6058)
 - [p2p: Implement Consensus Encoding for V2NetworkMessage](https://github.com/rust-bitcoin/rust-bitcoin/pull/5998)
 - [Split taproot types into new taproot-primitives crate](https://github.com/rust-bitcoin/rust-bitcoin/pull/5702)
 - [Move ecdsa and parts of key and sighash to crypto crate](https://github.com/rust-bitcoin/rust-bitcoin/pull/5680)
 - [Encoder/decoder improvements](https://github.com/rust-bitcoin/rust-bitcoin/pull/6004)
+- [Add `SerializedLegacyPublicKey`](https://github.com/rust-bitcoin/rust-bitcoin/pull/6011)
+- [primitives: Re-export all the public amount error types](https://github.com/rust-bitcoin/rust-bitcoin/pull/6007)
 - [Add format traits for `Target` and `Work`](https://github.com/rust-bitcoin/rust-bitcoin/pull/5626)
+- [io: Make error module public and re-export errors no-inline](https://github.com/rust-bitcoin/rust-bitcoin/pull/6001)
 - [hashes: Add 2-way SHA-NI implementation for double-sha256 for 64-byte inputs](https://github.com/rust-bitcoin/rust-bitcoin/pull/5992)
+- [consensus_encoding: Improve the API test](https://github.com/rust-bitcoin/rust-bitcoin/pull/5933)
+- [hashes: split sha256 crypto into separate files](https://github.com/rust-bitcoin/rust-bitcoin/pull/5989)
+- [Add arbitrary psbt fuzz target](https://github.com/rust-bitcoin/rust-bitcoin/pull/5912)
 - [key: Improve secret key conversions](https://github.com/rust-bitcoin/rust-bitcoin/pull/5961)
 - [p2p: add encoding trait impls to NetworkMessage encoder/decoder](https://github.com/rust-bitcoin/rust-bitcoin/pull/5968)
 
 
 ### [libsecp](https://github.com/bitcoin-core/secp256k1)
 - [musig: always clear out secret key in `secp256k1_musig_nonce_gen_counter`](https://github.com/bitcoin-core/secp256k1/pull/1849)
-
-
-### [secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp)
-- [Upstream PRs 1846, 1848, 1849](https://github.com/BlockstreamResearch/secp256k1-zkp/pull/363)
-- [Upstream PRs 1824, 1777, 1834, 1837, 1839, 1841](https://github.com/BlockstreamResearch/secp256k1-zkp/pull/357)
 
 
 ### [dlcspecs](https://github.com/discreetlogcontracts/dlcspecs)
@@ -201,6 +211,7 @@ Follow New York BitDevs on:
 - [Add support for the official splicing protocol](https://github.com/ACINQ/eclair/pull/2887)
 - [More aggressive peer scorer idle channels management](https://github.com/ACINQ/eclair/pull/3295)
 - [Keep our closing_complete in the simple close session](https://github.com/ACINQ/eclair/pull/3289)
+- [Increase start-up ZMQ timeout](https://github.com/ACINQ/eclair/pull/3294)
 - [Add threshold for disabling `from_future_htlc`](https://github.com/ACINQ/eclair/pull/3293)
 - [Don't load network graph twice on start-up](https://github.com/ACINQ/eclair/pull/3290)
 - [Don't try reconnecting automatically to mobile wallets](https://github.com/ACINQ/eclair/pull/3287)
@@ -221,6 +232,7 @@ Follow New York BitDevs on:
 - [Validate Esplora merkle proof against the block header's merkle root](https://github.com/lightningdevkit/rust-lightning/pull/4596)
 - [Free `pending_query_count` slot when DNS proof build fails](https://github.com/lightningdevkit/rust-lightning/pull/4591)
 - [Count zero-fee-commitments channels in anchor reserve check](https://github.com/lightningdevkit/rust-lightning/pull/4592)
+- [Fix signed comparison in `ElectrumClient`](https://github.com/lightningdevkit/rust-lightning/pull/4590)
 - [Add `AvailableBalances::next_splice_out_maximum_sat`](https://github.com/lightningdevkit/rust-lightning/pull/4550)
 - [Expose current dust exposure in ChannelDetails](https://github.com/lightningdevkit/rust-lightning/pull/4470)
 - [Fix stale pre-splice `announcement_signatures` during reestablish](https://github.com/lightningdevkit/rust-lightning/pull/4577)
@@ -242,6 +254,7 @@ Follow New York BitDevs on:
 - [channeldb: tombstone closed channels on KV-SQL backends](https://github.com/lightningnetwork/lnd/pull/10780)
 - [multi: add new rbf coop close actor for RPC server fee bumps](https://github.com/lightningnetwork/lnd/pull/9821)
 - [contractcourt: make breach retribution final-taproot aware](https://github.com/lightningnetwork/lnd/pull/10768)
+- [scripts+GitHub: use bitcoind v30.0](https://github.com/lightningnetwork/lnd/pull/10689)
 - [multi: fix SIMPLE_TAPROOT_FINAL acceptor and overlay RBF auto-enable](https://github.com/lightningnetwork/lnd/pull/10763)
 - [onionmessage: drop onion messages cycling back to the sending peer](https://github.com/lightningnetwork/lnd/pull/10754)
 - [onionmessage+peer: rate-limit incoming onion messages per-peer and globally](https://github.com/lightningnetwork/lnd/pull/10713)
@@ -258,9 +271,6 @@ Follow New York BitDevs on:
 - [BIP375: Add test vectors + validator](https://github.com/bitcoin/bips/pull/2046)
 - [BIP174: Deduplicate type definitions by introducing registry file](https://github.com/bitcoin/bips/pull/2135)
 - [BIP361: Post Quantum Migration and Legacy Signature Sunset](https://github.com/bitcoin/bips/pull/1895)
-
-
-### [BLIPs](https://github.com/lightning/blips)
 
 
 
