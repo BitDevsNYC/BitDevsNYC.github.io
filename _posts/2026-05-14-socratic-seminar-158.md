@@ -16,8 +16,6 @@ Follow New York BitDevs on:
 - [BlueSky](https://bsky.app/profile/bitdevsnyc.bsky.social)
 - nostr: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup3hqs`
 
-## Presentation
--
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
@@ -74,6 +72,7 @@ Follow New York BitDevs on:
 - [Recovering pre-2015 Bitcoin stale blocks from merged-mined chains (revisiting Stifter et al. 2018)](https://bnoc.xyz/t/recovering-pre-2015-bitcoin-stale-blocks-from-merged-mined-chains-revisiting-stifter-et-al-2018)
 - [Block propagation and validation duration during slow-to-validate blocks on Signet](https://bnoc.xyz/t/block-propagation-and-validation-duration-during-slow-to-validate-blocks-on-signet)
 - [/python-bitcoinlib:0.12.2/ client getting addr-ratelimited (since 2026-04-10)](https://bnoc.xyz/t/python-bitcoinlib-0-12-2-client-getting-addr-ratelimited-since-2026-04-10)
+- [Solved: Many connections to bitproject.io nodes?](https://bnoc.xyz/t/many-connections-to-bitproject-io-nodes/40/1)
 
 
 ### Meetings
@@ -85,17 +84,13 @@ Follow New York BitDevs on:
     - [April 30](https://www.erisian.com.au/bitcoin-core-dev/log-2026-04-30.html#l-197)
 
 - Lightning Specification meeting
-    - <!--- TODO replace: [December 5th](https://github.com/lightning/bolts/issues/1046) --->
+    - [Lightning Specification Meeting 2026/05/04](https://github.com/lightning/bolts/issues/1332)
 
 ### Optech
 - [Bitcoin Optech Newsletter #404](https://bitcoinops.org/en/newsletters/2026/05/08/)
-- [Bitcoin Optech Newsletter #403](https://bitcoinops.org/en/newsletters/2026/05/01/)
-- [Bitcoin Optech Newsletter #402](https://bitcoinops.org/en/newsletters/2026/04/24/)
-- [Bitcoin Optech Newsletter #401](https://bitcoinops.org/en/newsletters/2026/04/17/)
-- [Bitcoin Optech Newsletter #403 Recap Podcast](https://bitcoinops.org/en/podcast/2026/05/05/)
-- [Bitcoin Optech Newsletter #402 Recap Podcast](https://bitcoinops.org/en/podcast/2026/04/28/)
-- [Bitcoin Optech Newsletter #401 Recap Podcast](https://bitcoinops.org/en/podcast/2026/04/21/)
-- [Bitcoin Optech Newsletter #400 Recap Podcast](https://bitcoinops.org/en/podcast/2026/04/14/)
+- [Bitcoin Optech Newsletter #403](https://bitcoinops.org/en/newsletters/2026/05/01/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2026/05/05/)
+- [Bitcoin Optech Newsletter #402](https://bitcoinops.org/en/newsletters/2026/04/24/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2026/04/28/)
+- [Bitcoin Optech Newsletter #401](https://bitcoinops.org/en/newsletters/2026/04/17/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2026/04/21/)
 
 
 ## Network Data
@@ -106,7 +101,7 @@ Follow New York BitDevs on:
 -
 
 ### InfoSec
--
+- [We found a stable Firefox identifier linking all your private Tor identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -283,7 +278,7 @@ Follow New York BitDevs on:
 
 
 ## New Releases
--
+- [Floresta 0.9.1 is out, fixing two potential DoS vectors](https://github.com/getfloresta/Floresta/releases/tag/v0.9.1)
 
 ## Events and Podcasts
 -
@@ -292,4 +287,10 @@ Follow New York BitDevs on:
 -
 
 ## Miscellaneous
--
+- [Drift Protocol - Rekt](https://rekt.news/drift-protocol-rekt)
+- [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html)
+- [Litecoin MWEB Security Incident Postmortem](https://litecoin.com/news/litecoin-mweb-security-incident-postmortem)
+- [Copy Fail is a straight-line logic flaw](https://copy.fail/)
+- [Dirty Frag: Universal Linux LPE](https://github.com/V4bel/dirtyfrag)
+- [Fountain Codes: Pruned nodes can support bootstrapping peers](https://x.com/roasbeef/status/1973914845247594840)
+- [Roulette in a Bitcoin Payment Channel](https://gist.github.com/RobinLinus/01d4f40a1d0785fd2d16f7e84f20332d)
