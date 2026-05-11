@@ -75,8 +75,9 @@ Chain Weather Report
 * [Am I exposed? — Bitcoin privacy scanner](https://am-i.exposed/)
 
 
-Tema principal: TBD
+Tema principal: Ark protocol
 --------------------
 
-## Presentaciones: TBD
+## Presentaciones: 
+- [Ark](https://bitcoinops.org/en/topics/ark/) by Javier Montoya
 
