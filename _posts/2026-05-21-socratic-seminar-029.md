@@ -30,6 +30,8 @@ meetup: https://app.evento.so/e/evt_SsGDg8vASoNwvnuR
 
 ### Aquecimento
 * [@brenorb's Freedom Skills gets HRF funding](https://hrf.org/latest/hrfs-ai-fund-supports-10-innovative-projects/)
+* [Nova aba "Outras cidades"](https://bitdevs.bsb.br/cities)
+  * PRs feitos para todos os outros Bitdevs do Brasil
 * [Nowhere, an entire website encoded in a URL hosted nowhere](https://x.com/i/status/2047480761352081919)
 * [Animated history of Bitcoin Script updates (2009-2026)](https://x.com/i/status/2055263255010988410)
 * [AI recovering lost Bitcoin wallet seed](https://x.com/cprkrn/status/2054586810475364536)
@@ -51,6 +53,7 @@ meetup: https://app.evento.so/e/evt_SsGDg8vASoNwvnuR
 * [Ark in essence](https://x.com/matthewvuk2/status/2050318807000887456?s=20)
 * [The Ark Protocol](https://x.com/i/status/2051400045103120755)
 * [Tando: 40 milhões de números M-Pesa no Quênia agora funcionam como Lightning Address](https://x.com/i/status/2054209322217808292)
+* [Roadmap da Liquid: 0-conf, BOLT 12, LNURL, BitVM e quantum readiness](https://x.com/i/status/2052172990326951958)
 
 ### Ecash
 * [Cashu em enclaves / mints nao-custodiais](https://x.com/i/status/2049952997015175479)
@@ -62,4 +65,5 @@ meetup: https://app.evento.so/e/evt_SsGDg8vASoNwvnuR
 * [Coindesk coverage on PACTs and Satoshi-era wallets](https://www.coindesk.com/tech/2026/05/02/new-bitcoin-quantum-proposal-offers-satoshi-nakamoto-a-way-to-prove-control-without-moving-btc)
 * [BIP-322 usage in PACTs for signed ownership proofs](https://www.paradigm.xyz/2026/05/pacts-protecting-your-bitcoin-from-a-quantum-sunset)
 * [OP_CHECKSHRINCS: A Hash-Based Signature Opcode for Post-Quantum Bitcoin](https://blog.blockstream.com/op_checkshrincs-a-hash-based-signature-opcode-for-post-quantum-bitcoin/)
+* [Nostr VPN: mesh VPN soberana via Nostr e FIPS](https://x.com/TFTC21/status/2056774252490317976)
 
