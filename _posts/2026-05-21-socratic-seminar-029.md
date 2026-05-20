@@ -35,6 +35,7 @@ meetup: https://app.evento.so/e/evt_SsGDg8vASoNwvnuR
 * [Nowhere, an entire website encoded in a URL hosted nowhere](https://x.com/i/status/2047480761352081919)
 * [Animated history of Bitcoin Script updates (2009-2026)](https://x.com/i/status/2055263255010988410)
 * [AI recovering lost Bitcoin wallet seed](https://x.com/cprkrn/status/2054586810475364536)
+* [Time-lock encryption oracle for delayed data access](https://x.com/Leishman/status/2056845149976621175)
 
 ### Bitcoin L1
 * [Public disclosure of one high severity Bitcoin Core advisory (CVE-2024-52911)](https://groups.google.com/g/bitcoindev/c/e1UEdViSYkU)
