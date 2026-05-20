@@ -55,6 +55,7 @@ meetup: https://app.evento.so/e/evt_SsGDg8vASoNwvnuR
 * [The Ark Protocol](https://x.com/i/status/2051400045103120755)
 * [Tando: 40 milhões de números M-Pesa no Quênia agora funcionam como Lightning Address](https://x.com/i/status/2054209322217808292)
 * [Roadmap da Liquid: 0-conf, BOLT 12, LNURL, BitVM e quantum readiness](https://x.com/i/status/2052172990326951958)
+* [Bitcoin Scaling in 2026: The Complete Layer 2 Landscape](https://www.spark.money/research/bitcoin-second-layer-scaling-landscape)
 
 ### Ecash
 * [Cashu em enclaves / mints nao-custodiais](https://x.com/i/status/2049952997015175479)
