@@ -49,6 +49,7 @@ As a disclaimer, BitDevs NYC has no official associations with or oversight of t
 - [São Paulo](https://bitdevsportugues.org)
 - [Seattle](https://github.com/reardencode/seattle_bitdevs)
 - [Sydney](https://sydney.bitdevs.com.au/)
+- [Tampa](https://www.bitcoinbay.foundation/bitdevs)
 - [Taipei](https://bitdevs.tw/)
 - [Uberlândia](https://udibitdevs.org/)
 - [Vancouver](https://bitdevs.ca/)
