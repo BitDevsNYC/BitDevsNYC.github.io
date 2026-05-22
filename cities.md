@@ -53,6 +53,7 @@ As a disclaimer, BitDevs NYC has no official associations with or oversight of t
 - [Sydney](https://sydney.bitdevs.com.au/)
 - [Taipei](https://bitdevs.tw/)
 - [Tampa](https://tampabitdevs.io/)
+- [Uberlândia](https://udibitdevs.org/)
 - [Vancouver](https://bitdevs.ca/)
 - [Victoria](https://bitdevsvictoria.org/)
 - [Washington, D.C.](https://dcbitdevs.com/)
