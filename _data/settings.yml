@@ -8,4 +8,4 @@ menu:
       url: "https://www.meetup.com/pt-BR/brasilia-bitcoin/",
       external: true,
     }
-  - { name: "Outras Cidades", url: "/cities" }
+  - { name: "Cidades", url: "/cities" }

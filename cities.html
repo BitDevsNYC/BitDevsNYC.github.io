@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Outras Cidades
+title: Cidades
+permalink: /cities/
 ---
 <div class="Home">
     <p class="Home-about">
