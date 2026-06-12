@@ -51,6 +51,8 @@ meetup: https://app.evento.so/e/evt_sLX1pH1U4RMYxshV
 * [LLM pequeno o bastante para caber em uma transação padrão de Bitcoin](https://x.com/rot13maxi/status/2061245699178598587)
 
 ### Lightning and L2
+* [The Second Ark reaches mainnet](https://blog.second.tech/bark-now-on-bitcoin-mainnet/)
+    * [Technical breakdown](https://second.tech/docs/learn/intro)
 * [Core Lightning 26.06 Release](https://github.com/ElementsProject/lightning/releases/tag/v26.06)
     * [Changelog](https://github.com/ElementsProject/lightning/blob/v26.06/CHANGELOG.md)
 * [BOLT Updates: Channel Ready for Coinbase Funding and Onion Errors](https://bitcoinops.org/en/newsletters/2026/06/05/#notable-code-and-documentation-changes)
