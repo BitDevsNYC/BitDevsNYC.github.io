@@ -99,14 +99,19 @@ Follow New York BitDevs on:
 - [Bitcoin Optech Newsletter #405 Recap Podcast](https://bitcoinops.org/en/podcast/2026/05/19/)
 - [Bitcoin Optech Newsletter #404 Recap Podcast](https://bitcoinops.org/en/podcast/2026/05/12/)
 ## Network Data
--
+- [Bitnodes — Reachable Bitcoin Nodes](https://bitnodes.io/)
+- [Observing `gunix` Match Behavior Across Bitcoin Core Versions](https://b10c.me/projects/027-bitcoind-gunix-match/)
 
 ## CVEs and Research
 ### Research
--
+- [Quantum-Safe Bitcoin Transactions — GitHub (avihu28)](https://github.com/avihu28/Quantum-Safe-Bitcoin-Transactions)
+- [ChainQuery: Quantum Exposure Tracker](https://chainquery.com/reports/quantum-exposure)
+- [Introducing Majorana 2 — Microsoft's Topological Qubit Processor](https://news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai/)
 
 ### InfoSec
--
+- [1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/)
+- [Disclosure: PrivateBroadcast IP Address Leak (Bitcoin Core)](https://bitcoincore.org/en/2026/06/06/privatebroadcast-ip-leak/)
+- [The Orchard Counterfeiting Vulnerability — and Next Steps (ECC)](https://forum.zcashcommunity.com/t/the-orchard-counterfeiting-vulnerability-and-next-steps/56015)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -327,4 +332,12 @@ Follow New York BitDevs on:
 -
 
 ## Miscellaneous
--
+- [b10c: Reproducing the Guix-built Bitcoin Core v31.0 Release Binary with Nix](https://x.com/0xB10C/status/2059666952444944605)
+- [Bitcoin Core Dev Tech Transcript (May 2026)](https://btctranscripts.com/bitcoin-core-dev-tech/2026-05)
+- [Introducing Cube — Bitcoin-Native Layer 2](https://medium.com/cube-bitcoin/introducing-cube-8b3702e470a5)
+- [Rsync Issue #929](https://github.com/RsyncProject/rsync/issues/929)
+- [A Plebslop LLM Small Enough to Fit in a Bitcoin Transaction](https://x.com/rot13maxi/status/2061245699178598587)
+- [lnd Issue #10863: Malformed HTLCs and HTLC Acceptance Safety](https://github.com/lightningnetwork/lnd/issues/10863)
+- [Cornell Bitcoin Club Research Repository](https://www.cornellbitcoinclub.org/repository)
+- [Surveillance Is Not Safety — Statement on the UK's Latest Threat to Privacy](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf)
+- [Anthropic Statement on US Government Directive to Suspend Access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
