@@ -94,15 +94,11 @@ Follow New York BitDevs on:
 
 ### Optech
 - [Bitcoin Optech Newsletter #409](https://bitcoinops.org/en/newsletters/2026/06/12/)
-- [Bitcoin Optech Newsletter #408](https://bitcoinops.org/en/newsletters/2026/06/05/)
-- [Bitcoin Optech Newsletter #408 Recap Podcast](https://bitcoinops.org/en/podcast/2026/06/09/)
-- [Bitcoin Optech Newsletter #407](https://bitcoinops.org/en/newsletters/2026/05/29/)
-- [Bitcoin Optech Newsletter #407 Recap Podcast](https://bitcoinops.org/en/podcast/2026/06/02/)
-- [Bitcoin Optech Newsletter #406](https://bitcoinops.org/en/newsletters/2026/05/22/)
-- [Bitcoin Optech Newsletter #406 Recap Podcast](https://bitcoinops.org/en/podcast/2026/05/26/)
-- [Bitcoin Optech Newsletter #405](https://bitcoinops.org/en/newsletters/2026/05/15/)
-- [Bitcoin Optech Newsletter #405 Recap Podcast](https://bitcoinops.org/en/podcast/2026/05/19/)
-- [Bitcoin Optech Newsletter #404 Recap Podcast](https://bitcoinops.org/en/podcast/2026/05/12/)
+- [Bitcoin Optech Newsletter #408](https://bitcoinops.org/en/newsletters/2026/06/05/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2026/06/09/)
+- [Bitcoin Optech Newsletter #407](https://bitcoinops.org/en/newsletters/2026/05/29/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2026/06/02/)
+- [Bitcoin Optech Newsletter #406](https://bitcoinops.org/en/newsletters/2026/05/22/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2026/05/26/)
+- [Bitcoin Optech Newsletter #405](https://bitcoinops.org/en/newsletters/2026/05/15/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2026/05/19/)
+
 ## Network Data
 - [Bitnodes — Reachable Bitcoin Nodes](https://bitnodes.io/)
 - [Observing `gunix` Match Behavior Across Bitcoin Core Versions](https://b10c.me/projects/027-bitcoind-gunix-match/)
