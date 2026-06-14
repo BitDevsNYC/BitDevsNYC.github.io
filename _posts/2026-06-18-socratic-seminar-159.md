@@ -16,9 +16,6 @@ Follow New York BitDevs on:
 - [BlueSky](https://bsky.app/profile/bitdevsnyc.bsky.social)
 - nostr: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup3hqs`
 
-## Presentation
--
-
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
@@ -79,14 +76,15 @@ Follow New York BitDevs on:
 
 
 ### Meetings
-- [Bitcoin PR Review Club](https://bitcoincore.reviews)
-
 - Bitcoin Core general developer meetings
     - [May 14](https://www.erisian.com.au/bitcoin-core-dev/log-2026-05-14.html#l-170)
     - [May 21](https://www.erisian.com.au/bitcoin-core-dev/log-2026-05-21.html#l-193)
     - [May 28](https://www.erisian.com.au/bitcoin-core-dev/log-2026-05-28.html#l-194)
     - [June 4](https://www.erisian.com.au/bitcoin-core-dev/log-2026-06-04.html#l-165)
     - [June 11](https://www.erisian.com.au/bitcoin-core-dev/log-2026-06-11.html#l-173)
+
+- Bitcoin Core Dev bi-annual meeting
+    - [Bitcoin Core Dev Tech Transcripts (May 2026)](https://btctranscripts.com/bitcoin-core-dev-tech/2026-05)
 
 - Lightning Specification meeting
     - [Lightning Specification Meeting 2026/06/29](https://github.com/lightning/bolts/issues/1342)
@@ -100,23 +98,17 @@ Follow New York BitDevs on:
 - [Bitcoin Optech Newsletter #405](https://bitcoinops.org/en/newsletters/2026/05/15/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2026/05/19/)
 
 ## Network Data
-- [Bitnodes — Reachable Bitcoin Nodes](https://bitnodes.io/)
-- [Observing `gunix` Match Behavior Across Bitcoin Core Versions](https://b10c.me/projects/027-bitcoind-gunix-match/)
+- [Bitnod.es — Reachable Bitcoin Nodes](https://bitnod.es/)
 
 ## CVEs and Research
 ### Research
-- [Quantum-Safe Bitcoin Transactions — GitHub (avihu28)](https://github.com/avihu28/Quantum-Safe-Bitcoin-Transactions)
 - [ChainQuery: Quantum Exposure Tracker](https://chainquery.com/reports/quantum-exposure)
-- [Introducing Majorana 2 — Microsoft's Topological Qubit Processor](https://news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai/)
 
 ### InfoSec
 - [1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/)
-- [Disclosure: PrivateBroadcast IP Address Leak (Bitcoin Core)](https://bitcoincore.org/en/2026/06/06/privatebroadcast-ip-leak/)
-- [The Orchard Counterfeiting Vulnerability — and Next Steps (ECC)](https://forum.zcashcommunity.com/t/the-orchard-counterfeiting-vulnerability-and-next-steps/56015)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
-- [Revert "build: exclude mptest target from compile commands"](https://github.com/bitcoin/bitcoin/pull/35523)
 - [btcsignals: delete broken scoped_connection move assignment](https://github.com/bitcoin/bitcoin/pull/35120)
 - [node: allocate index caches proportional to usage patterns](https://github.com/bitcoin/bitcoin/pull/34636)
 - [BIP 434 Support: Peer feature negotiation](https://github.com/bitcoin/bitcoin/pull/35221)
@@ -132,18 +124,14 @@ Follow New York BitDevs on:
 - [BIP 323: reserve version bits 5-28 as extra nonce space](https://github.com/bitcoin/bitcoin/pull/34779)
 - [Bugfix: GUI/Intro: Handle errors from SelectParams the same as if during InitConfig](https://github.com/bitcoin/bitcoin/pull/34767)
 - [musig: Include pubnonce in session id](https://github.com/bitcoin/bitcoin/pull/35269)
-- [wallet: unfriend LegacyDataSPKM and DescriptorScriptPubKeyMan](https://github.com/bitcoin/bitcoin/pull/35192)
 - [wallet: allow anti-fee-sniping in sendall RPC while not relying on RBF default](https://github.com/bitcoin/bitcoin/pull/35404)
 - [kernel: assert invalid buffer preconditions in `btck_*_create` functions](https://github.com/bitcoin/bitcoin/pull/35312)
-- [guix, refactor: Minor script cleanups and improvements](https://github.com/bitcoin/bitcoin/pull/35131)
 - [wallet: mark bip125-replaceable RPC key and walletrbf startup option as deprecated](https://github.com/bitcoin/bitcoin/pull/34917)
 - [cli: Replace libevent usage with simple http client](https://github.com/bitcoin/bitcoin/pull/34342)
-- [Run feature_bind_port_(discover|externalip).py in CI](https://github.com/bitcoin/bitcoin/pull/33362)
-- [crypto: disable ASan instrumentation of SSE4 SHA256 for GCC (matching Clang)](https://github.com/bitcoin/bitcoin/pull/34953)
+- [Run `feature_bind_port_(discover|externalip).py` in CI](https://github.com/bitcoin/bitcoin/pull/33362)
 - [wallet, test: optinrbf deprecation followups](https://github.com/bitcoin/bitcoin/pull/35381)
 - [wallet: Construct ScriptPubKeyMans with all data rather than loaded progressively](https://github.com/bitcoin/bitcoin/pull/28333)
 - [wallet: fix ancient wallets migration](https://github.com/bitcoin/bitcoin/pull/34198)
-- [Bump leveldb subtree](https://github.com/bitcoin/bitcoin/pull/35313)
 - [mining: add submitBlock to IPC Mining interface](https://github.com/bitcoin/bitcoin/pull/34644)
 - [validation: fix misleading VerifyDB summary log](https://github.com/bitcoin/bitcoin/pull/35145)
 - [bitcoin-cli: note -rpcclienttimeout is not implemented for IPC connections](https://github.com/bitcoin/bitcoin/pull/35015)
@@ -152,44 +140,45 @@ Follow New York BitDevs on:
 - [mempool: remove all subsequent tx in pkg on failure](https://github.com/bitcoin/bitcoin/pull/35017)
 - [musig: Reject empty pubkey list in GetMuSig2KeyAggCache](https://github.com/bitcoin/bitcoin/pull/35316)
 - [coinselection: Tiebreak SRD eviction by weight](https://github.com/bitcoin/bitcoin/pull/33223)
-- [kernel: doc: document wipe lifecycle and best entry nullability](https://github.com/bitcoin/bitcoin/pull/35304)
 - [wallet: use `outpoint` when estimating input size](https://github.com/bitcoin/bitcoin/pull/35228)
 - [kernel: Refactor process_block_header to return btck_BlockValidationState](https://github.com/bitcoin/bitcoin/pull/33856)
-- [crypto: fix incorrect variable names in SHA-256 ARM intrinsics](https://github.com/bitcoin/bitcoin/pull/34537)
-- [kernel: document validation state outputs as overwritten in-place](https://github.com/bitcoin/bitcoin/pull/35189)
 - [psbt, test: remove address type restrictions in test](https://github.com/bitcoin/bitcoin/pull/35279)
 - [ArgsManager: support command-specific options](https://github.com/bitcoin/bitcoin/pull/28802)
 - [psbt: preserve proprietary fields when combining PSBTs](https://github.com/bitcoin/bitcoin/pull/34893)
-- [i2p: clean up SESSION CREATE error logging](https://github.com/bitcoin/bitcoin/pull/35117)
 - [mining: always pad scriptSig at low heights, drop include_dummy_extranonce](https://github.com/bitcoin/bitcoin/pull/34860)
 - [refactor, key: move `CreateMuSig2{Nonce,PartialSig}` functions to `musig.{h,cpp}` module](https://github.com/bitcoin/bitcoin/pull/34225)
 - [wallet: `addhdkey` RPC to add just keys to wallets via new `unused(KEY)` descriptor](https://github.com/bitcoin/bitcoin/pull/29136)
 - [rpc: combinerawtransaction now rejects unmergeable transactions](https://github.com/bitcoin/bitcoin/pull/31298)
 - [wallet: remove outdated arguments from chain scanning methods](https://github.com/bitcoin/bitcoin/pull/35123)
-- [dbwrapper: reuse scratch `DataStream` buffers](https://github.com/bitcoin/bitcoin/pull/35156)
-
+- [guix: Split manifest into build and codesign manifests](https://github.com/bitcoin/bitcoin/pull/34948)
+- [ci: switch to warp runners](https://github.com/bitcoin/bitcoin/pull/35378)
+- [doc: Remove good_first_issue.yml, Reword "Getting started" section](https://github.com/bitcoin/bitcoin/pull/35400)
 
 ### [BDK](https://github.com/bitcoindevkit/bdk)
 - [feat(core): add skiplist to CheckPoint for faster traversal](https://github.com/bitcoindevkit/bdk/pull/2048)
 
 
-### [HWI](https://github.com/bitcoin-core/HWI)
-
-
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 - [crypto: Introduce new errors to remove `secp256k1::Error`](https://github.com/rust-bitcoin/rust-bitcoin/pull/6183)
-- [Introduce functions to decode from `Decoder` types](https://github.com/rust-bitcoin/rust-bitcoin/pull/6213)
 - [primitives: Simplify and optimize witness decoder ](https://github.com/rust-bitcoin/rust-bitcoin/pull/6321)
-- [Destructure error types in source impls](https://github.com/rust-bitcoin/rust-bitcoin/pull/6293)
-- [Sighash signing functions follow-up](https://github.com/rust-bitcoin/rust-bitcoin/pull/6252)
 - [key_expression: bip32 seed length validation follow-up](https://github.com/rust-bitcoin/rust-bitcoin/pull/6271)
 - [Change Command String to 12 byte Array](https://github.com/rust-bitcoin/rust-bitcoin/pull/6109)
 - [witness: Allocate in reserve_batch if capacity < MIN_VECTOR_ALLOCATE](https://github.com/rust-bitcoin/rust-bitcoin/pull/6241)
 - [bitcoin: validate master key seed length](https://github.com/rust-bitcoin/rust-bitcoin/pull/6212)
 - [Explicitly don't support ficticious architectures](https://github.com/rust-bitcoin/rust-bitcoin/pull/6242)
-- [Remove `act` references](https://github.com/rust-bitcoin/rust-bitcoin/pull/6218)
 - [Introduce signing functions on sighash types](https://github.com/rust-bitcoin/rust-bitcoin/pull/6176)
 - [p2p: Replace decoder definitions with `decoder_newtype` macro](https://github.com/rust-bitcoin/rust-bitcoin/pull/6050)
+- [p2p: error on `CommandString` inner nul bytes](https://github.com/rust-bitcoin/rust-bitcoin/pull/6285)
+- [crypto: Improve sighash errors](https://github.com/rust-bitcoin/rust-bitcoin/pull/6318)
+- [consensus_encoding: hex encoding/decoding support](https://github.com/rust-bitcoin/rust-bitcoin/pull/6296)
+- [primitives: Avoid allocating claimed size when decoding witness length](https://github.com/rust-bitcoin/rust-bitcoin/pull/6298)
+- [refactor(bip32): split relative and absolute bip32 derivation paths](https://github.com/rust-bitcoin/rust-bitcoin/pull/6232)
+- [primitives: add minimum allocation size](https://github.com/rust-bitcoin/rust-bitcoin/pull/6198)
+- [bip158: reject malformed filter counts](https://github.com/rust-bitcoin/rust-bitcoin/pull/6220)
+- [taproot-primitives: Remove crypto dependency](https://github.com/rust-bitcoin/rust-bitcoin/pull/6171)
+- [crypto: Remove `XOnlyPublicKey::as_inner` and make `to_inner` private for public keys](https://github.com/rust-bitcoin/rust-bitcoin/pull/5619)
+- [p2p: calculate v1 checksum on original payload](https://github.com/rust-bitcoin/rust-bitcoin/pull/6194)
+- [hashes: process multiple sha256 blocks per call](https://github.com/rust-bitcoin/rust-bitcoin/pull/6152)
 
 
 ### [libsecp](https://github.com/bitcoin-core/secp256k1)
@@ -199,17 +188,10 @@ Follow New York BitDevs on:
 
 ### [secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp)
 - [ecdsa_adaptor: make DLEQ nonce generation pluggable](https://github.com/BlockstreamResearch/secp256k1-zkp/pull/361)
-- [sync-upstream: Simplify](https://github.com/BlockstreamResearch/secp256k1-zkp/pull/360)
-- [Upstream PRs 1854](https://github.com/BlockstreamResearch/secp256k1-zkp/pull/364)
-
-
-### [dlcspecs](https://github.com/discreetlogcontracts/dlcspecs)
 
 
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
 - [lightningd: add watchman module](https://github.com/ElementsProject/lightning/pull/9202)
-- [plugins: rename bwatch output binary to cln-bwatch](https://github.com/ElementsProject/lightning/pull/9192)
-- [added one more line to the changelog file for PR9174](https://github.com/ElementsProject/lightning/pull/9183)
 - [xpay tweaks and fixes](https://github.com/ElementsProject/lightning/pull/9174)
 - [gossipd: be more robust against channel_update spamming.](https://github.com/ElementsProject/lightning/pull/9158)
 - [Fix payer proofs to match latest spec](https://github.com/ElementsProject/lightning/pull/9144)
@@ -227,6 +209,9 @@ Follow New York BitDevs on:
 - [Deprecate pay, keysend, renepay and getroute](https://github.com/ElementsProject/lightning/pull/9110)
 - [Payer proofs](https://github.com/ElementsProject/lightning/pull/9116)
 - [Askrene: Reservation leak under load](https://github.com/ElementsProject/lightning/pull/8993)
+- [contrib: add daywalker90's signing key](https://github.com/ElementsProject/lightning/pull/9190)
+- [security: remove rustcorp.com contact](https://github.com/ElementsProject/lightning/pull/9189)
+- [contrib: add Lagrang3's signing key](https://github.com/ElementsProject/lightning/pull/9186)
 
 
 ### [eclair](https://github.com/ACINQ/eclair/)
@@ -269,6 +254,10 @@ Follow New York BitDevs on:
 - [Commit to payment_metadata in inbound payment HMAC](https://github.com/lightningdevkit/rust-lightning/pull/4528)
 - [Include NegotiationFailureReason in InteractiveTxMsgError](https://github.com/lightningdevkit/rust-lightning/pull/4609)
 - [Produce FundingInfo::Contribution variants in ChannelMonitor](https://github.com/lightningdevkit/rust-lightning/pull/4498)
+- [Avoid repeated refreshes for persisted async invoices](https://github.com/lightningdevkit/rust-lightning/pull/4672)
+- [Stop using an introduction node in blinded message paths](https://github.com/lightningdevkit/rust-lightning/pull/4647)
+- [Speed up TLV serialization length accounting](https://github.com/lightningdevkit/rust-lightning/pull/4642)
+- [Don't trim HTLCs when calculating the commit tx fee including the fee spike multiple](https://github.com/lightningdevkit/rust-lightning/pull/4574)
 
 
 ### [lnd](https://github.com/lightningnetwork/lnd)
@@ -294,17 +283,10 @@ Follow New York BitDevs on:
 
 
 ### [BIPs](https://github.com/bitcoin/bips)
-- [BIP-434: Add ref impl, mark complete / CI: add version check](https://github.com/bitcoin/bips/pull/2197)
 - [BIP 77: Specify v1-fallback response mechanism](https://github.com/bitcoin/bips/pull/2186)
 - [BIP-0322: use MAJOR version for address optionality](https://github.com/bitcoin/bips/pull/2190)
 - [BIP-0322: remove address optionality for PoF](https://github.com/bitcoin/bips/pull/2188)
-- [BIP 343: change status from deployed to closed](https://github.com/bitcoin/bips/pull/2187)
-- [BIP-0127: Prune some unfinished part and mark complete](https://github.com/bitcoin/bips/pull/2168)
-- [BIP-352: sync "Version" header, add "Requires" header](https://github.com/bitcoin/bips/pull/2185)
-- [BIP-434: Various rationale edits](https://github.com/bitcoin/bips/pull/2181)
 - [BIP449: OP_TWEAKADD](https://github.com/bitcoin/bips/pull/1944)
-- [BIP 54: progress to Complete](https://github.com/bitcoin/bips/pull/2172)
-- [BIP 54: improve and deduplicate parts of rationale and motivation](https://github.com/bitcoin/bips/pull/2170)
 - [BIP450: Formosa—Seed Encoding per Themed Mnemonic Stories](https://github.com/bitcoin/bips/pull/2108)
 - [BIP 54: clarify 64-byte transactions item description and rationale](https://github.com/bitcoin/bips/pull/2159)
 - [BIP323: 24 nVersion bits for general purpose use](https://github.com/bitcoin/bips/pull/2116)
@@ -317,28 +299,19 @@ Follow New York BitDevs on:
 
 ### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
 - [bolt04: Fix requirements of failure message for final node](https://github.com/lightning/bolts/pull/1326)
-- [BOLT-4 clarifications](https://github.com/lightning/bolts/pull/1318)
 - [BOLT 2: Don't channel_ready if the miner created the funding tx using coinbase transacion](https://github.com/lightning/bolts/pull/1338)
 - [BOLT 4: remove incorrect assertion about intermediary nodes handling onion messages.](https://github.com/lightning/bolts/pull/1339)
-- [bolt07: fix indentation in spec of final reply_channel_range msg](https://github.com/lightning/bolts/pull/1325)
 
-
-## New Releases
--
-
-## Events and Podcasts
--
-
-## Mining
--
 
 ## Miscellaneous
-- [b10c: Reproducing the Guix-built Bitcoin Core v31.0 Release Binary with Nix](https://x.com/0xB10C/status/2059666952444944605)
-- [Bitcoin Core Dev Tech Transcript (May 2026)](https://btctranscripts.com/bitcoin-core-dev-tech/2026-05)
 - [Introducing Cube — Bitcoin-Native Layer 2](https://medium.com/cube-bitcoin/introducing-cube-8b3702e470a5)
-- [Rsync Issue #929](https://github.com/RsyncProject/rsync/issues/929)
+- [Please Do Not Vibe Fuck Up This Software](https://github.com/RsyncProject/rsync/issues/929)
 - [A Plebslop LLM Small Enough to Fit in a Bitcoin Transaction](https://x.com/rot13maxi/status/2061245699178598587)
-- [lnd Issue #10863: Malformed HTLCs and HTLC Acceptance Safety](https://github.com/lightningnetwork/lnd/issues/10863)
 - [Cornell Bitcoin Club Research Repository](https://www.cornellbitcoinclub.org/repository)
 - [Surveillance Is Not Safety — Statement on the UK's Latest Threat to Privacy](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf)
-- [Anthropic Statement on US Government Directive to Suspend Access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
+- [Anthropic Statement on US Government Directive to Suspend Access to Fable 5, Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
+- [Matching Hashes: Reproducing the Guix-built Bitcoin Core release binary with Nix](https://b10c.me/projects/027-bitcoind-gunix-match/)
+- [Quantum-Safe Bitcoin Transactions — GitHub (avihu28)](https://github.com/avihu28/Quantum-Safe-Bitcoin-Transactions)
+- [Introducing Majorana 2 — Microsoft's Topological Qubit Processor](https://news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai/)
+- [Disclosure: PrivateBroadcast IP Address Leak (Bitcoin Core)](https://bitcoincore.org/en/2026/06/06/privatebroadcast-ip-leak/)
+- [(ZCash) The Orchard Counterfeiting Vulnerability — and Next Steps (ECC)](https://forum.zcashcommunity.com/t/the-orchard-counterfeiting-vulnerability-and-next-steps/56015)
