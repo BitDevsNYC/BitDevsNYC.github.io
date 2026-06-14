@@ -82,6 +82,11 @@ Follow New York BitDevs on:
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
 
 - Bitcoin Core general developer meetings
+    - [May 14](https://www.erisian.com.au/bitcoin-core-dev/log-2026-05-14.html#l-170)
+    - [May 21](https://www.erisian.com.au/bitcoin-core-dev/log-2026-05-21.html#l-193)
+    - [May 28](https://www.erisian.com.au/bitcoin-core-dev/log-2026-05-28.html#l-194)
+    - [June 4](https://www.erisian.com.au/bitcoin-core-dev/log-2026-06-04.html#l-165)
+    - [June 11](https://www.erisian.com.au/bitcoin-core-dev/log-2026-06-11.html#l-173)
 
 - Lightning Specification meeting
     - [Lightning Specification Meeting 2026/06/29](https://github.com/lightning/bolts/issues/1342)
