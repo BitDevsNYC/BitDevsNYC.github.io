@@ -315,3 +315,4 @@ Follow New York BitDevs on:
 - [Introducing Majorana 2 — Microsoft's Topological Qubit Processor](https://news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai/)
 - [Disclosure: PrivateBroadcast IP Address Leak (Bitcoin Core)](https://bitcoincore.org/en/2026/06/06/privatebroadcast-ip-leak/)
 - [(ZCash) The Orchard Counterfeiting Vulnerability — and Next Steps (ECC)](https://forum.zcashcommunity.com/t/the-orchard-counterfeiting-vulnerability-and-next-steps/56015)
+- [The first public reverse-engineering of Canaan's A3197S Bitcoin mining ASIC](https://github.com/CryptoIceMLH/Nano3S)
