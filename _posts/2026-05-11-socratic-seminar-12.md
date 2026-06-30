@@ -2,7 +2,7 @@
 published: true
 layout: post
 type: socratic
-title: "Seminario Socrático #12"
+title: "Seminario Socrático #12: Ark"
 meetup: https://luma.com/l4kv9xnp
 ---
 
@@ -80,4 +80,3 @@ Tema principal: Ark protocol
 
 ## Presentaciones: 
 - [Ark](https://bitcoinops.org/en/topics/ark/) by Javier Montoya
-
