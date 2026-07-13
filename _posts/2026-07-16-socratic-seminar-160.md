@@ -25,13 +25,9 @@ Follow New York BitDevs on:
 - [The game-theory problems of PQ sunsetting modes](https://groups.google.com/g/bitcoindev/c/DEfcMWSdQRY)
 - [(Research) Bitcoin After Block Rewards: preventing miner deviation as the block rewards approaches zero](https://groups.google.com/g/bitcoindev/c/Y2oqyFLyo-U)
 - [BIP draft: Full-Aggregation of BIP 340 Signatures](https://groups.google.com/g/bitcoindev/c/TF5mPfy58RQ)
-- [Bitcoin Core v31.1 Released](https://groups.google.com/g/bitcoindev/c/btyFWdYmVhs)
 - [Giving teeth to expected EC disabling: P2XX(-T)(-ML)](https://groups.google.com/g/bitcoindev/c/aWYtPLVPZ3U)
 - [btc-verified: formalizing the Bitcoin protocol](https://groups.google.com/g/bitcoindev/c/OIml9stwbGQ)
 - [(BIP Proposal) Strict circular economy within the Bitcoin network](https://groups.google.com/g/bitcoindev/c/6UPr39RtUWI)
-- [Bitcoin Core v29.4rc1 is now available](https://groups.google.com/g/bitcoindev/c/KAZdjwHICjo)
-- [Bitcoin Core v30.3rc1 is now available](https://groups.google.com/g/bitcoindev/c/4ecik3cxnEk)
-- [Bitcoin Core v31.1rc1 is now available](https://groups.google.com/g/bitcoindev/c/HdkeNuTJ0ko)
 - [Accountable Computing On-Chain Contracts for AI Agents Supervision](https://groups.google.com/g/bitcoindev/c/S4jM2mpMrbU)
 - [State of the transaction privacy work in Bitcoin](https://groups.google.com/g/bitcoindev/c/p3vDG8z_iYc)
 
@@ -142,10 +138,6 @@ Follow New York BitDevs on:
 - [net: move cs_main up in FetchBlock to fix rpc assert crash](https://github.com/bitcoin/bitcoin/pull/35498)
 
 
-### [BDK](https://github.com/bitcoindevkit/bdk)
-- [refactor(chain,core)!: replace `CanonicalIter` with sans-IO `CanonicalTask` + `ChainQuery` trait](https://github.com/bitcoindevkit/bdk/pull/2038)
-
-
 ### [HWI](https://github.com/bitcoin-core/HWI)
 - [Fix race condition in get_free_port (#802)](https://github.com/bitcoin-core/HWI/pull/825)
 
@@ -173,7 +165,7 @@ Follow New York BitDevs on:
 - [hashes: Introduce `drain_to_hash` and `encode_to_hash`](https://github.com/rust-bitcoin/rust-bitcoin/pull/6456)
 - [consensus_encoding: Adjust ConsensusHex impl in serde_as_consensus](https://github.com/rust-bitcoin/rust-bitcoin/pull/6438)
 - [primitives: Use dedicated encoder newtypes for TxIn and TxOut encoding](https://github.com/rust-bitcoin/rust-bitcoin/pull/6436)
-- [Add ExactSizeEncoder impl for Option<T: ExactSizeEncoder>](https://github.com/rust-bitcoin/rust-bitcoin/pull/6422)
+- [Add ExactSizeEncoder impl for OptionT: ExactSizeEncoder](https://github.com/rust-bitcoin/rust-bitcoin/pull/6422)
 - [fix: InstructionIndices::nth byte position bug](https://github.com/rust-bitcoin/rust-bitcoin/pull/6382)
 - [p2p: sequence asserts](https://github.com/rust-bitcoin/rust-bitcoin/pull/6357)
 - [Remove `From<Infallible>` on inner error types](https://github.com/rust-bitcoin/rust-bitcoin/pull/6350)
@@ -207,17 +199,12 @@ Follow New York BitDevs on:
 
 
 ### [libsecp](https://github.com/bitcoin-core/secp256k1)
+- [SECURITY.md: remove Jonas Nick from trusted keys](https://github.com/bitcoin-core/secp256k1/pull/1884)
 - [scalar: correct `_scalar_get_bits_{limb32,var}` input condition docs](https://github.com/bitcoin-core/secp256k1/pull/1882)
 - [field: correct `fe_equal` magnitude bound for `b`](https://github.com/bitcoin-core/secp256k1/pull/1877)
 - [Improve checks for scalar _get_bits methods](https://github.com/bitcoin-core/secp256k1/pull/1845)
 - [field: force-inline 5x52 mul and sqr](https://github.com/bitcoin-core/secp256k1/pull/1859)
 
-
-### [secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp)
-- [Upstream PRs 1851, 1852, 1861, 1855, 1864, 1867, 1860, 1865, 1859, 1879, 1881, 1845, 1877, 1882, 1884](https://github.com/BlockstreamResearch/secp256k1-zkp/pull/366)
-
-
-### [dlcspecs](https://github.com/discreetlogcontracts/dlcspecs)
 
 
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
@@ -294,14 +281,9 @@ Follow New York BitDevs on:
 ### [BIPs](https://github.com/bitcoin/bips)
 - [BIP 54: mention recent ML discussion and 64-byte transactions limitation](https://github.com/bitcoin/bips/pull/2208)
 - [BIP95: Testnet 5](https://github.com/bitcoin/bips/pull/2196)
+- [BIP-110: advance to Complete status](https://github.com/bitcoin/bips/pull/2201)
 - [bip360: depth-zero script trees should be anyone-can-spend](https://github.com/bitcoin/bips/pull/2198)
 
-
-### [BLIPs](https://github.com/lightning/blips)
-
-
-
-### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
 
 
 ## New Releases
