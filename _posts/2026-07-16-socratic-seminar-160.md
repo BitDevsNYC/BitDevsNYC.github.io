@@ -94,14 +94,13 @@ Follow New York BitDevs on:
 
 
 ## Network Data
-- [BitDevs Map](https://www.bitdevsmap.org/)
-- [Bitcoin Battlefield: Live Buy/Sell Wall & Liquidation Map](https://newhedge.io/bitcoin/battlefield)
+- [Finding Bitcoin P2P v2 Traffic After BIP324](https://victorandre957.github.io/personal_blog/posts/bip324-passive-traffic-analysis-and-randomized-ports/)
 
 ## CVEs and Research
 ### Research
 - [Fountain Codes: a way to reduce blockchain storage costs](https://lucasdbr05.com/posts/fountain-codes/)
 - [Brink: Bedrock Deterministic Hypervisor](https://brink.dev/blog/2026/06/25/bedrock-deterministic-hypervisor/)
-- [Finding Bitcoin P2P v2 Traffic After BIP324](https://victorandre957.github.io/personal_blog/posts/bip324-passive-traffic-analysis-and-randomized-ports/)
+
 
 ### InfoSec
 - [The SecondFi Security Incident - Updates on Investigation and Recovery](https://x.com/P3b7_/status/2070121675102863721)
@@ -316,6 +315,7 @@ Follow New York BitDevs on:
 
 ## Miscellaneous
 - [Knotzi Death March](https://jlopp.github.io/knotzi-death-march/)
-- [Transaction 3c2284...](https://mempool.space/tx/3c2284977f93a1395f1b0e06fd3a843c3e8ce2277a0d770781f6655d1aadfe13)
-- [@L0RINC tweet](https://x.com/L0RINC/status/2065914808700936694)
-- [@TheBlueMatt tweet](https://x.com/TheBlueMatt/status/2070133045773103376)
+- [OP_RETURN usage before and after Bitcoin Core v30](https://x.com/L0RINC/status/2065914808700936694)
+- [First block mined with StratumV2](https://x.com/TheBlueMatt/status/2070133045773103376)
+- [BitDevs Map](https://www.bitdevsmap.org/)
+- [Bitcoin Battlefield: Live Buy/Sell Wall & Liquidation Map](https://newhedge.io/bitcoin/battlefield)
