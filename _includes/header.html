@@ -5,7 +5,20 @@
     </div>
     <nav class="Header-nav">
       {% for item in site.data.settings.menu %}
-        {% if item.external %}
+        {% if item.submenu %}
+        <details class="Header-dropdown">
+          <summary class="Header-dropdown-label">{{ item.name }}</summary>
+          <div class="Header-dropdown-menu">
+            {% for sub in item.submenu %}
+              {% if sub.external %}
+              <a href="{{ sub.url }}" target="_blank" rel="noopener nofollow">{{ sub.name }}</a>
+              {% else %}
+              <a href="{{ site.github.url }}{{ sub.url }}">{{ sub.name }}</a>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </details>
+        {% elsif item.external %}
         <a href="{{ item.url }}" target="_blank" rel="noopener nofollow">
             {{ item.name }}
         </a>

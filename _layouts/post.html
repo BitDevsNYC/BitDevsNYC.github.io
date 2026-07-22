@@ -7,10 +7,18 @@ layout: default
     <h1 class="Post-title">{{ page.title }}</h1>
     <div class="Post-info">
       <span>{{ page.date | date_to_string }}</span>
+      <span>Links for this event:</span>
       {% if page.meetup %}
         <span>
           <a href="{{ page.meetup }}" target="_blank" rel="noopener nofollow">
-            Link to Meetup
+            Meetup
+          </a>
+        </span>
+      {% endif %}
+      {% if page.luma %}
+        <span>
+          <a href="{{ page.luma }}" target="_blank" rel="noopener nofollow">
+            Luma
           </a>
         </span>
       {% endif %}
