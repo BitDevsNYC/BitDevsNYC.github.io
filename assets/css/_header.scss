@@ -25,6 +25,7 @@
   &-nav {
     display: flex;
     font-size: 1.3rem;
+    align-items: center;
 
     @media (max-width: $small-screen) {
       font-size: 1.1rem;
@@ -39,6 +40,59 @@
         color: $primary-color;
         opacity: 1;
       }
+    }
+  }
+
+  &-dropdown {
+    position: relative;
+    margin-left: 1.5rem;
+
+    &-label {
+      color: #333;
+      opacity: 0.4;
+      cursor: pointer;
+      list-style: none;
+
+      &::-webkit-details-marker { display: none; }
+
+      &::after {
+        content: ' ▾';
+        font-size: 0.8em;
+      }
+    }
+
+    &[open] &-label,
+    &:hover &-label {
+      color: $primary-color;
+      opacity: 1;
+    }
+
+    &-menu {
+      display: none;
+      position: absolute;
+      top: 100%;
+      right: 0;
+      background-color: $background-color;
+      border: 1px solid rgba(#333, 0.2);
+      padding: 0.4rem 0;
+      white-space: nowrap;
+      z-index: 100;
+
+      a {
+        display: block;
+        margin: 0;
+        padding: 0.3rem 1rem;
+        opacity: 0.4;
+
+        &:hover {
+          opacity: 1;
+        }
+      }
+    }
+
+    &[open] &-menu,
+    &:hover &-menu {
+      display: block;
     }
   }
 }

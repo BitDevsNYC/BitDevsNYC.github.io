@@ -3,6 +3,7 @@ layout: post
 type: socratic
 title: "Socratic Seminar 161"
 meetup: "https://www.meetup.com/bitdevsnyc/events/315764508/"
+luma: "https://luma.com/g8341lqj"
 ---
 
 ## Announcements
