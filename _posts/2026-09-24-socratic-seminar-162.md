@@ -20,6 +20,15 @@ Follow New York BitDevs on:
 ## Presentation
 -
 
+## 🔥 Hot Stuff 🔥
+### Liquid Network Hack
+- [Statement on the Liquid Network incident of 6 September 2026](https://sideswap.io/news/statement-on-the-liquid-network-incident-of-6-september-2026/)
+- [4000 BTC pegout, whitehat opreturn transaction](https://mempool.space/tx/83825b2135dd0abac12c9dfe17f29ab81b3427e1ae864947b0bebce5e47c3c4b?mode=details)
+- [ErgoBTC on the 4,000 BTC Liquid peg-out](https://x.com/ErgoBTC/status/2096665561392361473)
+- [stutxo on the encrypted-detail OP_RETURN](https://x.com/stutxo/status/2096724560393421307)
+- [mononautical: explanation of the Liquid Network whitehat peg-out OP_RETURN](https://x.com/mononautical/status/2096928595432374706)
+- [OP_RETURN Messenger — the Liquid saga, live](https://liquidsaga.miguelmedeiros.dev/)
+
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
@@ -89,14 +98,6 @@ Follow New York BitDevs on:
 - [Computing 256-bit elliptic curve discrete logarithms in 26 days on a fault-tolerant trapped-ion quantum computer with 20,000 qubits](https://arxiv.org/abs/2609.05625)
 - [Ledger CTO On SHRINCS & Bitcoin's Post-Quantum Migration](https://www.ledger.com/blog-shrincs-bitcoin-post-quantum-migration)
 - [Something's been bugging me // Niklas Gögge](https://www.dergoegge.de/blog/somethings-been-bugging-me.html)
-
-### InfoSec
-- [Statement on the Liquid Network incident of 6 September 2026](https://sideswap.io/news/statement-on-the-liquid-network-incident-of-6-september-2026/)
-- [mononautical: explanation of the Liquid Network whitehat peg-out OP_RETURN](https://x.com/mononautical/status/2096928595432374706)
-- [ErgoBTC on the 4,000 BTC Liquid peg-out](https://x.com/ErgoBTC/status/2096665561392361473)
-- [stutxo on the encrypted-detail OP_RETURN](https://x.com/stutxo/status/2096724560393421307)
-- [4000 BTC pegout, whitehat opreturn transaction](https://mempool.space/tx/83825b2135dd0abac12c9dfe17f29ab81b3427e1ae864947b0bebce5e47c3c4b?mode=details)
-- [OP_RETURN Messenger — the Liquid saga, live](https://liquidsaga.miguelmedeiros.dev/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
