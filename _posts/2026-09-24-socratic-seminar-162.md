@@ -86,10 +86,17 @@ Follow New York BitDevs on:
 
 ## CVEs and Research
 ### Research
--
+- [Computing 256-bit elliptic curve discrete logarithms in 26 days on a fault-tolerant trapped-ion quantum computer with 20,000 qubits](https://arxiv.org/abs/2609.05625)
+- [Ledger CTO On SHRINCS & Bitcoin's Post-Quantum Migration](https://www.ledger.com/blog-shrincs-bitcoin-post-quantum-migration)
+- [Something's been bugging me // Niklas Gögge](https://www.dergoegge.de/blog/somethings-been-bugging-me.html)
 
 ### InfoSec
--
+- [Statement on the Liquid Network incident of 6 September 2026](https://sideswap.io/news/statement-on-the-liquid-network-incident-of-6-september-2026/)
+- [mononautical: explanation of the Liquid Network whitehat peg-out OP_RETURN](https://x.com/mononautical/status/2096928595432374706)
+- [ErgoBTC on the 4,000 BTC Liquid peg-out](https://x.com/ErgoBTC/status/2096665561392361473)
+- [stutxo on the encrypted-detail OP_RETURN](https://x.com/stutxo/status/2096724560393421307)
+- [4000 BTC pegout, whitehat opreturn transaction](https://mempool.space/tx/83825b2135dd0abac12c9dfe17f29ab81b3427e1ae864947b0bebce5e47c3c4b?mode=details)
+- [OP_RETURN Messenger — the Liquid saga, live](https://liquidsaga.miguelmedeiros.dev/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -293,4 +300,11 @@ Follow New York BitDevs on:
 -
 
 ## Miscellaneous
--
+- [BIP448 Mercury Layer wallet](https://bip448.cash/)
+- [BIP 448: Taproot-native (Re)bindable Transactions (GitHub org)](https://github.com/bip448)
+- [The end of open source in Bitcoin | Nirvati](https://nirvati.eu/blog/maintainers-killing-oss)
+- [Ten AI models vs embargoed Core Lightning: A case study of AI for security auditing](https://juraj.bednar.io/en/blog-en/2026/09/18/ten-ai-models-vs-embargoed-core-lightning-a-case-study-of-ai-for-auditing/)
+- [Francisco Calderón 🫓⚡ (@negrunch) tweet](https://x.com/negrunch/status/2097763741123166576)
+- [The proposed BRCA changes are a tough pill to swallow](https://coincenter.org/the-proposed-brca-changes-are-a-tough-pill-to-swallow/)
+- [The Senate must reject the Clarity Act's ethics charade](https://www.citationneeded.news/clarity-act-ethics-charade/)
+- [African Bitcoin Directory](https://directory.bitcoiners.africa/)
