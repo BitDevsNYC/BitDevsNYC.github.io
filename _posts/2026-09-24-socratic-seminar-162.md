@@ -17,8 +17,6 @@ Follow New York BitDevs on:
 - [BlueSky](https://bsky.app/profile/bitdevsnyc.bsky.social)
 - nostr: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup3hqs`
 
-## Presentation
--
 
 ## 🔥 Hot Stuff 🔥
 ### Liquid Network Hack
@@ -89,9 +87,6 @@ Follow New York BitDevs on:
 - [Bitcoin Optech Newsletter #421](https://bitcoinops.org/en/newsletters/2026/09/04/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2026/09/08/)
 - [Bitcoin Optech Newsletter #420](https://bitcoinops.org/en/newsletters/2026/08/28/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2026/09/01/)
 
-
-## Network Data
--
 
 ## CVEs and Research
 ### Research
@@ -283,29 +278,17 @@ Follow New York BitDevs on:
 - [BIP332: Stale Tip Relay](https://github.com/bitcoin/bips/pull/2241)
 
 
-### [BLIPs](https://github.com/lightning/blips)
-
-
-
 ### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
 - [Limit attributable return fields to 32 KiB](https://github.com/lightning/bolts/pull/1349)
 
 
-## New Releases
--
-
-## Events and Podcasts
--
-
-## Mining
--
 
 ## Miscellaneous
 - [BIP448 Mercury Layer wallet](https://bip448.cash/)
 - [BIP 448: Taproot-native (Re)bindable Transactions (GitHub org)](https://github.com/bip448)
-- [The end of open source in Bitcoin | Nirvati](https://nirvati.eu/blog/maintainers-killing-oss)
+- [The end of open source in Bitcoin](https://nirvati.eu/blog/maintainers-killing-oss)
 - [Ten AI models vs embargoed Core Lightning: A case study of AI for security auditing](https://juraj.bednar.io/en/blog-en/2026/09/18/ten-ai-models-vs-embargoed-core-lightning-a-case-study-of-ai-for-auditing/)
-- [Francisco Calderón 🫓⚡ (@negrunch) tweet](https://x.com/negrunch/status/2097763741123166576)
+- [Forensics around the @lnp2pBot shutdown](https://x.com/negrunch/status/2097763741123166576)
 - [The proposed BRCA changes are a tough pill to swallow](https://coincenter.org/the-proposed-brca-changes-are-a-tough-pill-to-swallow/)
 - [The Senate must reject the Clarity Act's ethics charade](https://www.citationneeded.news/clarity-act-ethics-charade/)
 - [African Bitcoin Directory](https://directory.bitcoiners.africa/)
