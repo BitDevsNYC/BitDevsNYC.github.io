@@ -17,6 +17,9 @@ Follow New York BitDevs on:
 - [BlueSky](https://bsky.app/profile/bitdevsnyc.bsky.social)
 - nostr: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup3hqs`
 
+## Presentation
+- Clara Shikhelman from [Alloc Init](https://www.allocinit.xyz/) will present their new paper ["Shielded Bitcoin: Private Transfers on the Bitcoin L1"](https://www.allocinit.xyz/uploads/shielded-bitcoin.pdf)
+
 
 ## 🔥 Hot Stuff 🔥
 ### Liquid Network Hack
