@@ -94,6 +94,15 @@ Follow New York BitDevs on:
 - [Ledger CTO On SHRINCS & Bitcoin's Post-Quantum Migration](https://www.ledger.com/blog-shrincs-bitcoin-post-quantum-migration)
 - [Something's been bugging me // Niklas Gögge](https://www.dergoegge.de/blog/somethings-been-bugging-me.html)
 
+### InfoSec
+- [Alby Bitcoin Vulnerability Poses Serious Security Risk](https://en.cryptonomist.ch/2026/09/09/alby-bitcoin-vulnerability/)
+- [77 Firefox Extensions Linked to Crypto Wallet and Credential Theft](https://socket.dev/blog/firefox-crypto-wallet-theft)
+- [Revolut reportedly facing $3m ransom demand after hackers steal hundreds of customers' data](https://www.theguardian.com/business/2026/sep/17/revolut-reportedly-facing-3m-ransom-demand-after-hackers-steal-hundreds-of-customers-data)
+- [Lessons must be learnt from cyber attack on Revolut, experts warn](https://www.thenationalnews.com/future/technology/2026/09/21/revolut-hack-data-breach-cyber/)
+- [Trezor ShipMonk breach update: 67,000 more US customers affected](https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident)
+- [Trezor, BitBox & CoinTracking Phishing Attack: Brevo Breach Explained](https://thecybersecguru.com/news/trezor-bitbox-cointracking-brevo-phishing-attack/)
+- [White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'](https://decrypt.co/378978/white-hat-hackers-coldcard-exploit-bitcoin-recovery-trust)
+
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 - [wallet: Improve `HasWalletDescriptor` performance and other canonical descriptor string followups](https://github.com/bitcoin/bitcoin/pull/36230)
@@ -122,7 +131,6 @@ Follow New York BitDevs on:
 - [http: throttle send buffer when client stops draining](https://github.com/bitcoin/bitcoin/pull/36174)
 
 - [Update embedded asmap to 1788801420](https://github.com/bitcoin/bitcoin/pull/36201)
-- [http: throttle send buffer when client stops draining](https://github.com/bitcoin/bitcoin/pull/36174)
 - [policy: fix negative CFeeRate::ToString() formatting](https://github.com/bitcoin/bitcoin/pull/35303)
 - [wallet, descriptor: Revert `StringType::COMPAT` for Miniscript expressions and drop the concept of a Descriptor ID that can be validated](https://github.com/bitcoin/bitcoin/pull/35445)
 - [psbt: preserve sighash type when merging inputs](https://github.com/bitcoin/bitcoin/pull/36076)
@@ -283,6 +291,14 @@ Follow New York BitDevs on:
 
 
 
+## Events and Podcasts
+- [Bitcoin Self Custody in the Age of AI w/ SeedSigner & HRF | PubKey NYC](https://luma.com/pubkey-h7b7)
+- [COIN BASED: BRCA, Liquid Hack, Red Team Update | Live at PubKey NYC](https://www.youtube.com/live/om95Recdlsk)
+- [Agentic payments workshop (video, Freedom Lab NYC)](https://x.com/i/broadcasts/1qJVmyplpMVGB)
+
+## Mining
+- [DATUM Gateway: decentralized block template creation for true solo mining](https://github.com/CONVOYMining/datum_gateway)
+
 ## Miscellaneous
 - [BIP448 Mercury Layer wallet](https://bip448.cash/)
 - [BIP 448: Taproot-native (Re)bindable Transactions (GitHub org)](https://github.com/bip448)
@@ -292,3 +308,8 @@ Follow New York BitDevs on:
 - [The proposed BRCA changes are a tough pill to swallow](https://coincenter.org/the-proposed-brca-changes-are-a-tough-pill-to-swallow/)
 - [The Senate must reject the Clarity Act's ethics charade](https://www.citationneeded.news/clarity-act-ethics-charade/)
 - [African Bitcoin Directory](https://directory.bitcoiners.africa/)
+- [What Is Worth Preserving: Rupture On Remains, Decay, And The Collector's Dilemma](https://bitcoinmagazine.com/culture/what-is-worth-preserving-rupture-on-remains-decay-and-the-collectors-dilemma)
+- [Remains | BMAG exhibition](https://museum.b.tc/exhibitions/rupture-x-bmag-nftnyc)
+- [Shrike: Sparrow fork adding BLAKE2b PoW and unified opt-in sighash support](https://github.com/privkeyio/shrike)
+- [$161 Million in Decade-Old Bitcoin Has Moved in Just Two Weeks](https://decrypt.co/379006/161-million-decade-old-bitcoin-moves-two-weeks)
+- [Monero POS sale transactions on GrapheneOS under Silent Link connection](https://x.com/MonericaProject/status/2098191317562179655)
