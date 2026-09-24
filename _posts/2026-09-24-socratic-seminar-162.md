@@ -108,7 +108,6 @@ Follow New York BitDevs on:
 - [wallet: Improve `HasWalletDescriptor` performance and other canonical descriptor string followups](https://github.com/bitcoin/bitcoin/pull/36230)
 - [crypto: Fix MuHash3072 division by itself](https://github.com/bitcoin/bitcoin/pull/36286)
 - [rpc: Correct invalid OpenRPC defaults](https://github.com/bitcoin/bitcoin/pull/36297)
-
 - [wallet: Add importdescriptors interface](https://github.com/bitcoin/bitcoin/pull/34861)
 - [torcontrol: Use reconnect backoff after dropped connections](https://github.com/bitcoin/bitcoin/pull/36260)
 - [kernel: expose block header Merkle root](https://github.com/bitcoin/bitcoin/pull/36194)
@@ -119,7 +118,6 @@ Follow New York BitDevs on:
 - [init: don't suggest -reindex-chainstate for recovery on a pruned node](https://github.com/bitcoin/bitcoin/pull/35849)
 - [rpc: add bestblockhash to getmininginfo](https://github.com/bitcoin/bitcoin/pull/36081)
 - [wallet: move rescan logic into ChainScanner and wallet/scan](https://github.com/bitcoin/bitcoin/pull/34681)
-
 - [wallet: Add addHDkey interface](https://github.com/bitcoin/bitcoin/pull/35436)
 - [wallet: Fix `CWalletTx` malleated transaction metadata sync](https://github.com/bitcoin/bitcoin/pull/35975)
 - [validation: abort on DB unreadable coins instead of treating them as missing](https://github.com/bitcoin/bitcoin/pull/34931)
@@ -127,9 +125,7 @@ Follow New York BitDevs on:
 - [wallet: Avoid unnecessary wtxvariant rewrites](https://github.com/bitcoin/bitcoin/pull/35935)
 - [indexes: set prune lock to genesis before first block](https://github.com/bitcoin/bitcoin/pull/36150)
 - [asmap: Make version match externally computed hashes](https://github.com/bitcoin/bitcoin/pull/36215)
-
 - [http: throttle send buffer when client stops draining](https://github.com/bitcoin/bitcoin/pull/36174)
-
 - [Update embedded asmap to 1788801420](https://github.com/bitcoin/bitcoin/pull/36201)
 - [policy: fix negative CFeeRate::ToString() formatting](https://github.com/bitcoin/bitcoin/pull/35303)
 - [wallet, descriptor: Revert `StringType::COMPAT` for Miniscript expressions and drop the concept of a Descriptor ID that can be validated](https://github.com/bitcoin/bitcoin/pull/35445)
@@ -140,7 +136,6 @@ Follow New York BitDevs on:
 - [rpc: avoid quadratic JSON construction when keys are unique](https://github.com/bitcoin/bitcoin/pull/36096)
 - [http: throttle per-connection reads while a request is in flight](https://github.com/bitcoin/bitcoin/pull/36123)
 - [net: align v2 message type validation with v1 range](https://github.com/bitcoin/bitcoin/pull/35958)
-
 - [net: Disallow invalid HeadersSyncState due to lagging clock](https://github.com/bitcoin/bitcoin/pull/35351)
 - [rpc: bound memory for overlong Bech32 errors](https://github.com/bitcoin/bitcoin/pull/36111)
 - [test: cover OP_SUCCESSx bypassing the initial stack element size limit](https://github.com/bitcoin/bitcoin/pull/36044)
@@ -292,8 +287,8 @@ Follow New York BitDevs on:
 
 
 ## Events and Podcasts
-- [Bitcoin Self Custody in the Age of AI w/ SeedSigner & HRF | PubKey NYC](https://luma.com/pubkey-h7b7)
-- [COIN BASED: BRCA, Liquid Hack, Red Team Update | Live at PubKey NYC](https://www.youtube.com/live/om95Recdlsk)
+- [Bitcoin Self Custody in the Age of AI w/ SeedSigner & HRF, PubKey NYC](https://luma.com/pubkey-h7b7)
+- [COIN BASED: BRCA, Liquid Hack, Red Team Update, PubKey NYC](https://www.youtube.com/live/om95Recdlsk)
 - [Agentic payments workshop (video, Freedom Lab NYC)](https://x.com/i/broadcasts/1qJVmyplpMVGB)
 
 ## Mining
@@ -309,7 +304,7 @@ Follow New York BitDevs on:
 - [The Senate must reject the Clarity Act's ethics charade](https://www.citationneeded.news/clarity-act-ethics-charade/)
 - [African Bitcoin Directory](https://directory.bitcoiners.africa/)
 - [What Is Worth Preserving: Rupture On Remains, Decay, And The Collector's Dilemma](https://bitcoinmagazine.com/culture/what-is-worth-preserving-rupture-on-remains-decay-and-the-collectors-dilemma)
-- [Remains | BMAG exhibition](https://museum.b.tc/exhibitions/rupture-x-bmag-nftnyc)
+- [Remains BMAG exhibition](https://museum.b.tc/exhibitions/rupture-x-bmag-nftnyc)
 - [Shrike: Sparrow fork adding BLAKE2b PoW and unified opt-in sighash support](https://github.com/privkeyio/shrike)
 - [$161 Million in Decade-Old Bitcoin Has Moved in Just Two Weeks](https://decrypt.co/379006/161-million-decade-old-bitcoin-moves-two-weeks)
 - [Monero POS sale transactions on GrapheneOS under Silent Link connection](https://x.com/MonericaProject/status/2098191317562179655)
