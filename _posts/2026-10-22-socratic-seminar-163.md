@@ -22,6 +22,14 @@ Follow New York BitDevs on:
 ## Presentation
 -
 
+## 🔥 Hot Stuff 🔥
+
+### Ledger Spy Implant Hack
+- [Tibane Labs: Ledger Nano X implant](https://www.tibane.net/research/ledger-nano-x-implant)
+- [My spy-implanted Ledger came from Malaysia](https://x.com/MagicalTux/status/2108576506704548179)
+- [Ledger wallet-draining traced to $86M+ across chains](https://x.com/SpecterAnalyst/status/2108534068564373687)
+- [The Ledger hacker left CLAUDE.md and Claude Code sessions on his own server](https://x.com/jukan05/status/2108110513033093369)
+
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
@@ -91,10 +99,6 @@ Follow New York BitDevs on:
 - [GLASS COINS vs SHIELDED BITCOIN whiteboard session](https://x.com/robin_linus/status/2104266654226198827)
 
 ### InfoSec
-- [Tibane Labs: Ledger Nano X implant](https://www.tibane.net/research/ledger-nano-x-implant)
-- [My spy-implanted Ledger came from Malaysia](https://x.com/MagicalTux/status/2108576506704548179)
-- [Ledger wallet-draining traced to $86M+ across chains](https://x.com/SpecterAnalyst/status/2108534068564373687)
-- [The Ledger hacker left CLAUDE.md and Claude Code sessions on his own server](https://x.com/jukan05/status/2108110513033093369)
 - [Debian alert DSA-6528-1 (kernel)](https://lwn.net/Articles/1097401/)
 - [Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance](https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/)
 
