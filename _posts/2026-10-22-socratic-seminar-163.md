@@ -11,6 +11,8 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 If you can't make it to the main event please join us at [PUBKEY](https://pubkey.bar/home) around 9:30PM.
 
+Bring back the white pizza and the mushroom pizza!
+
 Follow New York BitDevs on:
 
 - [Twitter](https://x.com/BitDevsNYC)
@@ -79,14 +81,22 @@ Follow New York BitDevs on:
 
 
 ## Network Data
--
+- [Wavelength](https://wavelength.lightning.engineering/)
+- [LayerTree explained](https://layertree.tech/)
 
 ## CVEs and Research
 ### Research
--
+- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
+- [Compact Shielded CSV: Post-Quantum, Private, Lightweight Client-Side Validation Blockchain](https://arxiv.org/abs/2609.32015)
+- [GLASS COINS vs SHIELDED BITCOIN whiteboard session](https://x.com/robin_linus/status/2104266654226198827)
 
 ### InfoSec
--
+- [Tibane Labs: Ledger Nano X implant](https://www.tibane.net/research/ledger-nano-x-implant)
+- [My spy-implanted Ledger came from Malaysia](https://x.com/MagicalTux/status/2108576506704548179)
+- [Ledger wallet-draining traced to $86M+ across chains](https://x.com/SpecterAnalyst/status/2108534068564373687)
+- [The Ledger hacker left CLAUDE.md and Claude Code sessions on his own server](https://x.com/jukan05/status/2108110513033093369)
+- [Debian alert DSA-6528-1 (kernel)](https://lwn.net/Articles/1097401/)
+- [Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance](https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
