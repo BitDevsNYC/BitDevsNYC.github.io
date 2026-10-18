@@ -11,8 +11,6 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 If you can't make it to the main event please join us at [PUBKEY](https://pubkey.bar/home) around 9:30PM.
 
-Bring back the white pizza and the mushroom pizza!
-
 Follow New York BitDevs on:
 
 - [Twitter](https://x.com/BitDevsNYC)
@@ -28,7 +26,7 @@ Follow New York BitDevs on:
 - [Tibane Labs: Ledger Nano X implant](https://www.tibane.net/research/ledger-nano-x-implant)
 - [My spy-implanted Ledger came from Malaysia](https://x.com/MagicalTux/status/2108576506704548179)
 - [Ledger wallet-draining traced to $86M+ across chains](https://x.com/SpecterAnalyst/status/2108534068564373687)
-- [The Ledger hacker left CLAUDE.md and Claude Code sessions on his own server](https://x.com/jukan05/status/2108110513033093369)
+
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
@@ -36,19 +34,18 @@ Follow New York BitDevs on:
 - [Lichen: L2s In CHannels ENforced on bitcoin](https://groups.google.com/g/bitcoindev/c/yZEZ5P1lj5E)
 - [Flame: confidential transactions with Bitcoin proof-of-burn consensus](https://groups.google.com/g/bitcoindev/c/Ov92xNLvm8w)
 - [RE BIP 300: 26% censoring attack](https://groups.google.com/g/bitcoindev/c/7P0_BHRAYQI)
-- [🐴](https://groups.google.com/g/bitcoindev/c/yoL5VVMO4Qg)
+- [BIP Draft v2: Co-signer Spending Policies](https://groups.google.com/g/bitcoindev/c/yoL5VVMO4Qg)
 - [LN-GAP : Lightning governed by arbitrary programs](https://groups.google.com/g/bitcoindev/c/pjv6bL_42kg)
 - [Getting BIP54 past the finish line](https://groups.google.com/g/bitcoindev/c/TBBakeBK8_E)
 - [MHFE: memory-hard encryption of BIP39 backups into 24 words — request for review](https://groups.google.com/g/bitcoindev/c/M4CMbruVKRM)
 - [Convention for tagged hash tags in BIPs](https://groups.google.com/g/bitcoindev/c/VQVNZOR3-kg)
 - [QSAVE post-quantum solution for non-migrated coins](https://groups.google.com/g/bitcoindev/c/5G38b3JL9fA)
-- [Bitcoin Core 32.0rc2 release candidate is available](https://groups.google.com/g/bitcoindev/c/qmAyi-cryvE)
+
 
 
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
 - [Silent Payments for Multiparty Wallets](https://delvingbitcoin.org/t/silent-payments-for-multiparty-wallets)
 - [From peer-to-peer cash to elite settlement layer: is the 21M cap building a new aristocracy?](https://delvingbitcoin.org/t/from-peer-to-peer-cash-to-elite-settlement-layer-is-the-21m-cap-building-a-new-aristocracy)
-- [Bitcoin Core 32.0rc4 is now available](https://delvingbitcoin.org/t/bitcoin-core-32-0rc4-is-now-available)
 - [Open-source Bitcoin multisig coordinator: shared signing queue, hardware wallets, live signet demo](https://delvingbitcoin.org/t/open-source-bitcoin-multisig-coordinator-shared-signing-queue-hardware-wallets-live-signet-demo)
 - [(BIP Draft) Co-signer Spending Policies](https://delvingbitcoin.org/t/bip-draft-co-signer-spending-policies)
 - [Cassis, a new simple scheme for generic multi-layer multi-hop HTLC routing](https://delvingbitcoin.org/t/cassis-a-new-simple-scheme-for-generic-multi-layer-multi-hop-htlc-routing)
@@ -57,7 +54,6 @@ Follow New York BitDevs on:
 - [Is the pre-finality double-spend race intrinsic to single-owner coins?](https://delvingbitcoin.org/t/is-the-pre-finality-double-spend-race-intrinsic-to-single-owner-coins)
 - [Disclosure: DoS vulnerabilities fixed in Eclair v0.14.1](https://delvingbitcoin.org/t/disclosure-dos-vulnerabilities-fixed-in-eclair-v0-14-1)
 - [Where should wallets explain the differences between on-chain Bitcoin and Lightning?](https://delvingbitcoin.org/t/where-should-wallets-explain-the-differences-between-on-chain-bitcoin-and-lightning)
-- [Bitcoin Core 32.0rc2 is now available](https://delvingbitcoin.org/t/bitcoin-core-32-0rc2-is-now-available)
 - [Bitcoin-rs: an independent Bitcoin full node written in Rust](https://delvingbitcoin.org/t/bitcoin-rs-an-independent-bitcoin-full-node-written-in-rust)
 - [Forwardable Peerswap Incentives, And Closing Surreptitious Communications Tunnels](https://delvingbitcoin.org/t/forwardable-peerswap-incentives-and-closing-surreptitious-communications-tunnels)
 - [Disclosure: DoS vulnerabilities fixed in Eclair v0.14.0](https://delvingbitcoin.org/t/disclosure-dos-vulnerabilities-fixed-in-eclair-v0-14-0)
@@ -79,6 +75,7 @@ Follow New York BitDevs on:
     - [October 8](https://www.erisian.com.au/bitcoin-core-dev/log-2026-10-08.html#l-228)
 
 - Lightning Specification meeting
+    - [September 21](https://github.com/lightning/bolts/issues/1354)
 
 
 ### Optech
@@ -89,8 +86,7 @@ Follow New York BitDevs on:
 
 
 ## Network Data
-- [Wavelength](https://wavelength.lightning.engineering/)
-- [LayerTree explained](https://layertree.tech/)
+
 
 ## CVEs and Research
 ### Research
@@ -141,7 +137,6 @@ Follow New York BitDevs on:
 - [kernel: document that btck_WriteBytes may receive a null pointer](https://github.com/bitcoin/bitcoin/pull/36418)
 - [test: Misc fixes for pending validation events races](https://github.com/bitcoin/bitcoin/pull/36447)
 - [test: Extract and use sigterm_node in init_fd_overflow_test](https://github.com/bitcoin/bitcoin/pull/36392)
-- [util: Add util::NotNull<SmartPtrType>](https://github.com/bitcoin/bitcoin/pull/34844)
 - [wallet: show real fee_reason strings in help](https://github.com/bitcoin/bitcoin/pull/36432)
 - [test: add script_tests cases covering interpreter mutants](https://github.com/bitcoin/bitcoin/pull/36291)
 - [util: cap Sock::WaitMany timeout to fix -rpcclienttimeout=0 on macOS](https://github.com/bitcoin/bitcoin/pull/36340)
@@ -477,7 +472,9 @@ Follow New York BitDevs on:
 
 
 ## New Releases
--
+- [Bitcoin Core 32.0rc4 is now available](https://github.com/bitcoin/bitcoin/releases/tag/v32.0rc4)
+- [32.0 Release Candidate Testing Guide](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/32.0-Release-Candidate-Testing-Guide)
+
 
 ## Events and Podcasts
 -
@@ -486,4 +483,5 @@ Follow New York BitDevs on:
 -
 
 ## Miscellaneous
--
+- [Wavelength - Integrate Bitcoin in an afternoon](https://wavelength.lightning.engineering/)
+- [LayerTree - A Bitcoin scaling design](https://layertree.tech/)
