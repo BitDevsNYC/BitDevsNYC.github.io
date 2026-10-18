@@ -63,7 +63,7 @@ Follow New York BitDevs on:
 
 ### Meetings
 
-- [Bitcoin Core general developer meetings](https://gnusha.org/bitcoin-core-dev/)
+- Bitcoin Core general developer meetings
     - [September 24](https://gnusha.org/bitcoin-core-dev/2026-09-24)
     - [October 1](https://gnusha.org/bitcoin-core-dev/2026-10-01)
     - [October 8](https://gnusha.org/bitcoin-core-dev/2026-10-08)
