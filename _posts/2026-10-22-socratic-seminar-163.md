@@ -74,9 +74,9 @@ Follow New York BitDevs on:
 ### Meetings
 
 - Bitcoin Core general developer meetings
-    - [September 24](https://gnusha.org/bitcoin-core-dev/2026-09-24)
-    - [October 1](https://gnusha.org/bitcoin-core-dev/2026-10-01)
-    - [October 8](https://gnusha.org/bitcoin-core-dev/2026-10-08)
+    - [September 24](https://www.erisian.com.au/bitcoin-core-dev/log-2026-09-24.html#l-282)
+    - [October 1](https://www.erisian.com.au/bitcoin-core-dev/log-2026-10-01.html#l-182)
+    - [October 8](https://www.erisian.com.au/bitcoin-core-dev/log-2026-10-08.html#l-228)
 
 - Lightning Specification meeting
 
