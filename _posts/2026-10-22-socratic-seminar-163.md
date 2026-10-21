@@ -17,9 +17,6 @@ Follow New York BitDevs on:
 - [BlueSky](https://bsky.app/profile/bitdevsnyc.bsky.social)
 - nostr: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup3hqs`
 
-## Presentation
--
-
 ## 🔥 Hot Stuff 🔥
 
 ### Ledger Spy Implant Hack
@@ -85,14 +82,15 @@ Follow New York BitDevs on:
 - [Bitcoin Optech Newsletter #424](https://bitcoinops.org/en/newsletters/2026/09/25/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2026/09/29/)
 
 
-## Network Data
-
 
 ## CVEs and Research
 ### Research
 - [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
 - [Compact Shielded CSV: Post-Quantum, Private, Lightweight Client-Side Validation Blockchain](https://arxiv.org/abs/2609.32015)
 - [GLASS COINS vs SHIELDED BITCOIN whiteboard session](https://x.com/robin_linus/status/2104266654226198827)
+- [Argo: Leaking a Secret from an Invalid Groth16 Proof](https://eprint.iacr.org/2026/2165)
+- [Garbling Groth16 with Native Group Operations](https://eprint.iacr.org/2026/2100)
+
 
 ### InfoSec
 - [Debian alert DSA-6528-1 (kernel)](https://lwn.net/Articles/1097401/)
@@ -138,8 +136,6 @@ Follow New York BitDevs on:
 - [fix(electrum): refresh header cache with headers fetched for the chain update](https://github.com/bitcoindevkit/bdk/pull/2320)
 - [fix(chain,core): prevent serde from implicitly leaking std into no_std environments](https://github.com/bitcoindevkit/bdk/pull/2227)
 
-
-### [HWI](https://github.com/bitcoin-core/HWI)
 
 
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
@@ -200,9 +196,6 @@ Follow New York BitDevs on:
 - [generator: fix variable-time addition in pedersen_commit](https://github.com/BlockstreamResearch/secp256k1-zkp/pull/377)
 
 
-### [dlcspecs](https://github.com/discreetlogcontracts/dlcspecs)
-
-
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
 - [dualopend: handle tx_add_output with over MAX_MONEY](https://github.com/ElementsProject/lightning/pull/9493)
 - [lightningd: fix 209 "Payment failure reason unknown" for sendonion payments](https://github.com/ElementsProject/lightning/pull/9623)
@@ -236,8 +229,6 @@ Follow New York BitDevs on:
 
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
-
-
 - [Release the event queue waker mutex before waking consumers](https://git.rust-bitcoin.org/lightningdevkit/rust-lightning/pulls/5265)
 - [Use feature bits 80/81 for option_simple_taproot](https://git.rust-bitcoin.org/lightningdevkit/rust-lightning/pulls/5189)
 - [Only prune the network graph after a fresh RGS sync](https://git.rust-bitcoin.org/lightningdevkit/rust-lightning/pulls/5000)
@@ -306,23 +297,12 @@ Follow New York BitDevs on:
 - [bip-0352: do not require the optional expected argument](https://github.com/bitcoin/bips/pull/2279)
 
 
-### [BLIPs](https://github.com/lightning/blips)
-
-
-
-### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
 
 
 ## New Releases
 - [Bitcoin Core 32.0rc4 is now available](https://github.com/bitcoin/bitcoin/releases/tag/v32.0rc4)
 - [32.0 Release Candidate Testing Guide](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/32.0-Release-Candidate-Testing-Guide)
 
-
-## Events and Podcasts
--
-
-## Mining
--
 
 ## Miscellaneous
 - [Wavelength - Integrate Bitcoin in an afternoon](https://wavelength.lightning.engineering/)
