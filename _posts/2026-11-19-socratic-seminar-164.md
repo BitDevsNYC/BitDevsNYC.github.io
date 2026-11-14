@@ -87,6 +87,9 @@ Follow New York BitDevs on:
     - [November 5](https://www.erisian.com.au/bitcoin-core-dev/log-2026-11-05.html#l-449)
     - [November 12](https://www.erisian.com.au/bitcoin-core-dev/log-2026-11-12.html#l-399)
 
+- Bitcoin Core Dev Tech
+    - [October](https://btctranscripts.com/bitcoin-core-dev-tech/2026-10)
+
 - Lightning Specification meeting
     - [Lightning Specification Meeting 2026/10/19](https://github.com/lightning/bolts/issues/1365)
 
@@ -100,6 +103,33 @@ Follow New York BitDevs on:
 - [Bitcoin Optech Newsletter #428 Recap Podcast](https://bitcoinops.org/en/podcast/2026/10/27/)
 - [Bitcoin Optech Newsletter #427 Recap Podcast](https://bitcoinops.org/en/podcast/2026/10/20/)
 
+## CVEs and Research
+### Research
+- [Advancing the frontier of cryptanalysis](https://x.com/pushmeet/status/2118752095859794390)
+- [Tuliproot: Permissionless Identity](https://tuliproot.com/)
+
+### InfoSec
+- [Malicious server can replace a just-broadcast tx and try to trick user into RBF-ing it](https://github.com/spesmilo/electrum/security/advisories/GHSA-6jp4-8v48-cc5v)
+- [North Korea Responsible for $6 Billion+ Binance Attack | Federal Bureau of Investigation](https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack)
+- [Binance Hack: Tracing the $6.4 Billion Theft to North Korea](https://www.chainalysis.com/blog/binance-exploit-latest-findings-and-response/)
+- [29 October Binance Security Incident: Initial Findings and Response Update](https://x.com/binance/status/2117626126214504729)
+- [Security Incident Affecting BTCPay Server 2.4.1 and Earlier](https://blog.btcpayserver.org/btcpay-server-security-incident-2-4-1-and-earlier/)
+- [🚨 Reports of hot wallets on BTCPay Servers being swept by unauthorized attackers](https://x.com/BtcpayServer/status/2117020340815819262)
+- [Identificamos e contivemos com rapidez um incidente de segurança](https://x.com/MercadoBitcoin/status/2117239507263132056)
+- [ANNOUNCEMENT: Spam emails sent that appear to have come from official Foundation domains](https://x.com/FoundationHQ/status/2114564656199069844)
+- [Linux's October 2026 TCP Use-After-Free: CVE-2026-98432](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
+- [CVE-2025-62860: thousands of Bitcoin nodes disabled DoS protection](https://antoinep.com/posts/cve-2025-62860/)
+- [*sshole: password-less accounts open on musl OpenSSH since 2016](https://sshhole.com/)
+- [forcequitOS/worse_query: A sandbox escape for iOS 26 and 27, again](https://github.com/forcequitOS/worse_query)
+- [Paraguay seizes major digital bank linked to President Santiago Peña](https://apnews.com/article/paraguay-ueno-digital-bank-seizure-santiago-pena-9d7521ddee45a185d2618c7e09a243a3)
+- [Crypto and AI's $250 million election goes sideways](https://www.citationneeded.news/2026-election-results/)
+- [Our CryptoBilis investigation: what we found and what we've changed](https://x.com/Trezor/status/2120880182173073421)
+
+## Miscellaneous
+- [OpenBitcoin: Block Explorer, Tools and Knowledgebase](https://openbitcoin.com/)
+- [bitcoin-data: Bitcoin datasets](https://bitcoin-data.github.io/)
+- [Peer Map: a closer look at your node's peers](https://peermap.xyz/)
+- [spark.observer](https://spark.observer/)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
