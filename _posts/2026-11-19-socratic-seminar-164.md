@@ -78,7 +78,6 @@ Follow New York BitDevs on:
 - [Effect of Linux Kernel CVE-2026-99999 (CVSS 9.3, PwnScape) on the Bitcoin network](https://bnoc.xyz/t/effect-of-linux-kernel-cve-2026-99999-cvss-9-3-pwnscape-on-the-bitcoin-network)
 - [Follow-up to data request: research paper on passive, network attack](https://bnoc.xyz/t/follow-up-to-data-request-research-paper-on-passive-network-attack)
 
-
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
 
@@ -91,7 +90,6 @@ Follow New York BitDevs on:
 - Lightning Specification meeting
     - [Lightning Specification Meeting 2026/10/19](https://github.com/lightning/bolts/issues/1365)
 
-
 ### Optech
 - [Bitcoin Optech Newsletter #431](https://bitcoinops.org/en/newsletters/2026/11/13/)
 - [Bitcoin Optech Newsletter #430](https://bitcoinops.org/en/newsletters/2026/11/06/)
@@ -102,16 +100,6 @@ Follow New York BitDevs on:
 - [Bitcoin Optech Newsletter #428 Recap Podcast](https://bitcoinops.org/en/podcast/2026/10/27/)
 - [Bitcoin Optech Newsletter #427 Recap Podcast](https://bitcoinops.org/en/podcast/2026/10/20/)
 
-
-## Network Data
--
-
-## CVEs and Research
-### Research
--
-
-### InfoSec
--
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -272,7 +260,6 @@ Follow New York BitDevs on:
 - [bitcoin-tx: reject in and outscript arguments with too many separators](https://github.com/bitcoin/bitcoin/pull/36368)
 - [test: Fix intermittent issue in p2p_initial_headers_sync.py](https://github.com/bitcoin/bitcoin/pull/36545)
 
-
 ### [BDK](https://github.com/bitcoindevkit/bdk)
 - [refactor(chain): use confirmations_lower_bound](https://github.com/bitcoindevkit/bdk/pull/2450)
 - [feat(core): allow serialization of SyncResponse and FullScanResponse](https://github.com/bitcoindevkit/bdk/pull/2232)
@@ -286,7 +273,7 @@ Follow New York BitDevs on:
 - [test(chain): simplify `test_classify_locked_descriptor_timelocks`](https://github.com/bitcoindevkit/bdk/pull/2411)
 - [fix(chain)!: reject changesets that alter the genesis block](https://github.com/bitcoindevkit/bdk/pull/2380)
 - [docs(core): document hashbrown feature's fixed-key hashing](https://github.com/bitcoindevkit/bdk/pull/2354)
-- [fix(bitcoind_rpc): allow filter_iter example to compile on Windows    ](https://github.com/bitcoindevkit/bdk/pull/2401)
+- [fix(bitcoind_rpc): allow filter_iter example to compile on Windows](https://github.com/bitcoindevkit/bdk/pull/2401)
 - [chore(deps): bump actions/checkout from 6 to 7](https://github.com/bitcoindevkit/bdk/pull/2234)
 - [chore(deps): bump codecov/codecov-action from 6.0.0 to 7.0.0](https://github.com/bitcoindevkit/bdk/pull/2223)
 - [docs(esplora): explain prevout trust assumptions](https://github.com/bitcoindevkit/bdk/pull/2350)
@@ -305,10 +292,6 @@ Follow New York BitDevs on:
 - [docs(chain): document that `apply_block` trusts the given block](https://github.com/bitcoindevkit/bdk/pull/2376)
 - [fix(chain): sanitize and bound-check derivation indices near BIP32_MAX_INDEX](https://github.com/bitcoindevkit/bdk/pull/2265)
 
-
-### [HWI](https://github.com/bitcoin-core/HWI)
-
-
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 - [primitives: Fix daily Miri cron failures with measured test gating](https://github.com/rust-bitcoin/rust-bitcoin/pull/7039)
 - [Refactor/bip32 flatten error constructors](https://github.com/rust-bitcoin/rust-bitcoin/pull/7185)
@@ -316,19 +299,19 @@ Follow New York BitDevs on:
 - [p2p: add defensive check to unbounded Unknown buffering, add more error variants](https://github.com/rust-bitcoin/rust-bitcoin/pull/7159)
 - [key_expression: Reduce `alloc` gating to minimal types](https://github.com/rust-bitcoin/rust-bitcoin/pull/7127)
 - [Release tracking PR: `chacha20-poly1305` 0.3.0](https://github.com/rust-bitcoin/rust-bitcoin/pull/7172)
-- [Update local dependencies ](https://github.com/rust-bitcoin/rust-bitcoin/pull/7182)
+- [Update local dependencies](https://github.com/rust-bitcoin/rust-bitcoin/pull/7182)
 - [Automated weekly update to rustc (to nightly-2026-11-07) on master](https://github.com/rust-bitcoin/rust-bitcoin/pull/7173)
 - [build(deps): bump github/codeql-action/upload-sarif from 4.37.9 to 4.38.0](https://github.com/rust-bitcoin/rust-bitcoin/pull/7181)
 - [units: add `visit_units` in optional serde visitors](https://github.com/rust-bitcoin/rust-bitcoin/pull/7168)
 - [build(deps): bump taiki-e/install-action from 2.87.4 to 2.87.9](https://github.com/rust-bitcoin/rust-bitcoin/pull/7179)
 - [build(deps): bump cargo-bins/cargo-binstall from 1.22.0 to 1.23.0](https://github.com/rust-bitcoin/rust-bitcoin/pull/7180)
 - [ci: take commit baseline from merge parent](https://github.com/rust-bitcoin/rust-bitcoin/pull/7162)
-- [hashes: skip initial scalar step when there are no leftovers ](https://github.com/rust-bitcoin/rust-bitcoin/pull/7156)
+- [hashes: skip initial scalar step when there are no leftovers](https://github.com/rust-bitcoin/rust-bitcoin/pull/7156)
 - [primitives: Document the unusual additional `script` module](https://github.com/rust-bitcoin/rust-bitcoin/pull/7092)
 - [Automated nightly rustfmt (2026-11-08)](https://github.com/rust-bitcoin/rust-bitcoin/pull/7178)
 - [units: use `utxo_prev_block_mtp` for relative time locks](https://github.com/rust-bitcoin/rust-bitcoin/pull/7169)
 - [refactor(bip32)!: make xkey fields private and add checked parts](https://github.com/rust-bitcoin/rust-bitcoin/pull/7125)
-- [units: use checked subtraction/addition assignment for NumOpResult ](https://github.com/rust-bitcoin/rust-bitcoin/pull/7128)
+- [units: use checked subtraction/addition assignment for NumOpResult](https://github.com/rust-bitcoin/rust-bitcoin/pull/7128)
 - [bip158: Fix minor nits across the crate](https://github.com/rust-bitcoin/rust-bitcoin/pull/7158)
 - [Release tracking PR: ` crypto 0.4.0`](https://github.com/rust-bitcoin/rust-bitcoin/pull/7103)
 - [Remove the `_export` module from units and primitives](https://github.com/rust-bitcoin/rust-bitcoin/pull/7165)
@@ -397,7 +380,6 @@ Follow New York BitDevs on:
 - [primitives: Test cast_to_usize_if_valid boundary](https://github.com/rust-bitcoin/rust-bitcoin/pull/7056)
 - [pow: Fix overflow in min difficulty time check](https://github.com/rust-bitcoin/rust-bitcoin/pull/7051)
 
-
 ### [libsecp](https://github.com/bitcoin-core/secp256k1)
 - [ci: Run the Wine jobs on ubuntu-24.04](https://github.com/bitcoin-core/secp256k1/pull/1995)
 - [tests: silentpayments: deduplicate setup code](https://github.com/bitcoin-core/secp256k1/pull/1972)
@@ -413,15 +395,10 @@ Follow New York BitDevs on:
 - [util: make STATIC_ASSERT usable at file scope](https://github.com/bitcoin-core/secp256k1/pull/1952)
 - [tests: silentpayments: cover labeled output beyond the first label batch](https://github.com/bitcoin-core/secp256k1/pull/1943)
 
-
 ### [secp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp)
 - [ci: pin Wine jobs to ubuntu-24.04](https://github.com/BlockstreamResearch/secp256k1-zkp/pull/386)
 - [ci: Run upstream sync twice a month](https://github.com/BlockstreamResearch/secp256k1-zkp/pull/382)
 - [surjection: Fix test condition failures in probabilistic tests](https://github.com/BlockstreamResearch/secp256k1-zkp/pull/355)
-
-
-### [dlcspecs](https://github.com/discreetlogcontracts/dlcspecs)
-
 
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
 - [Deprecate xpay-handle-pay](https://github.com/ElementsProject/lightning/pull/9254)
@@ -453,7 +430,7 @@ Follow New York BitDevs on:
 - [Fix missing dependencies in flake for make](https://github.com/ElementsProject/lightning/pull/8950)
 - [cln-grpc: reject malformed request values instead of panicking](https://github.com/ElementsProject/lightning/pull/9664)
 - [plugin-bip353: update bitcoin-payment-instructions and replace reqwest](https://github.com/ElementsProject/lightning/pull/9676)
-- [ lightningd: replay accepted HTLCs after shutdown](https://github.com/ElementsProject/lightning/pull/9626)
+- [lightningd: replay accepted HTLCs after shutdown](https://github.com/ElementsProject/lightning/pull/9626)
 - [xpay: stop retrying a node that repeats unknown_next_peer](https://github.com/ElementsProject/lightning/pull/9592)
 - [Build fixes for nix + a rust check error](https://github.com/ElementsProject/lightning/pull/9423)
 - [Xpay limit path length](https://github.com/ElementsProject/lightning/pull/9627)
@@ -462,16 +439,15 @@ Follow New York BitDevs on:
 - [tests: bound test_gossip_throttle by what the throttle guarantees](https://github.com/ElementsProject/lightning/pull/9660)
 - [tests: opening fee and expiry for the mock LSPS2 service](https://github.com/ElementsProject/lightning/pull/9649)
 - [tests: wait for the channel_ready retransmission on the node that disconnected](https://github.com/ElementsProject/lightning/pull/9645)
-- [ tests: add a mock LSPS2 service](https://github.com/ElementsProject/lightning/pull/9638)
+- [tests: add a mock LSPS2 service](https://github.com/ElementsProject/lightning/pull/9638)
 - [tests: reserve the port in test_announce_and_connect_via_dns](https://github.com/ElementsProject/lightning/pull/9643)
 - [tests: wait for the htlc_sigs promotion in test_splice_rbf_htlc_sigs](https://github.com/ElementsProject/lightning/pull/9641)
 - [tests: wait for announcements in test_splice_rbf_htlc_sigs](https://github.com/ElementsProject/lightning/pull/9611)
 - [tests: fix test_gossip_force_broadcast_channel_msgs flake](https://github.com/ElementsProject/lightning/pull/9506)
 - [lsps: add `lsps-types` crate and switch the LSPS plugin to it](https://github.com/ElementsProject/lightning/pull/9620)
-- [ tests: wait for either OUR_HTLC_SUCCESS_TX in test_onchain_middleman_fulfill_after_fail](https://github.com/ElementsProject/lightning/pull/9567)
+- [tests: wait for either OUR_HTLC_SUCCESS_TX in test_onchain_middleman_fulfill_after_fail](https://github.com/ElementsProject/lightning/pull/9567)
 - [tests: fix races in test_channel_lease_unilat_closes](https://github.com/ElementsProject/lightning/pull/9629)
 - [CI: fix ASan shard getting killed](https://github.com/ElementsProject/lightning/pull/9615)
-
 
 ### [eclair](https://github.com/ACINQ/eclair/)
 - [Back to dev](https://github.com/ACINQ/eclair/pull/3424)
@@ -484,7 +460,6 @@ Follow New York BitDevs on:
 - [Reject onion per-hop lengths that overflow an `Int`](https://github.com/ACINQ/eclair/pull/3408)
 - [Make docker build work for release versions](https://github.com/ACINQ/eclair/pull/3406)
 - [Never relay HTLCs expiring after upstream HTLCs](https://github.com/ACINQ/eclair/pull/3409)
-
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
 - [Reject unexpected TLVs in non-final onion message payloads](https://git.rust-bitcoin.org/lightningdevkit/rust-lightning/pulls/5179)
@@ -584,7 +559,6 @@ Follow New York BitDevs on:
 - [Fix `$EXTRA_CLIPPY_ARGS` consistency](https://git.rust-bitcoin.org/lightningdevkit/rust-lightning/pulls/5301)
 - [Add an `$EXTRA_CLIPPY_ARGS` to `ci/check-lint.sh`](https://git.rust-bitcoin.org/lightningdevkit/rust-lightning/pulls/5300)
 
-
 ### [lnd](https://github.com/lightningnetwork/lnd)
 - [multi: allow partial channel policy updates](https://github.com/lightningnetwork/lnd/pull/11528)
 - [sweep: isolate bad inputs on mempool rejection](https://github.com/lightningnetwork/lnd/pull/10842)
@@ -664,7 +638,6 @@ Follow New York BitDevs on:
 - [tlv: avoid eager allocations for declared record lengths](https://github.com/lightningnetwork/lnd/pull/11351)
 - [scripts: require release notes in a fragment](https://github.com/lightningnetwork/lnd/pull/11341)
 
-
 ### [BIPs](https://github.com/bitcoin/bips)
 - [bip-0375: replace bare OP_2 vector with an in-progress PSBT](https://github.com/bitcoin/bips/pull/2315)
 - [process: include deputies in README Owner entries](https://github.com/bitcoin/bips/pull/2350)
@@ -694,26 +667,9 @@ Follow New York BitDevs on:
 - [BIP374: clarify why G is an input and fix wording nits](https://github.com/bitcoin/bips/pull/2334)
 - [bip3: update discussion headers to bip3 format](https://github.com/bitcoin/bips/pull/2332)
 
-
-### [BLIPs](https://github.com/lightning/blips)
-
-
-
 ### [BOLTs](https://github.com/lightningnetwork/lightning-rfc)
 - [Ban unicode control characters from utf8 fields](https://github.com/lightning/bolts/pull/1341)
 - [bolt11: reject duplicate payment hashes in invoices](https://github.com/lightning/bolts/pull/1357)
 - [Fix broken intra-spec links](https://github.com/lightning/bolts/pull/1364)
 - [bolt-simple-taproot: fix the output key derivations, signature rules and test vectors](https://github.com/lightning/bolts/pull/1352)
 
-
-## New Releases
--
-
-## Events and Podcasts
--
-
-## Mining
--
-
-## Miscellaneous
--
