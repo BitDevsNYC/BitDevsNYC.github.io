@@ -30,7 +30,7 @@ Follow New York BitDevs on:
 - [(BIP Proposal) Stale Tip Relay](https://groups.google.com/g/bitcoindev/c/AwOPNxF15mU)
 - [Three Bitcoin Core security advisories](https://groups.google.com/g/bitcoindev/c/tOLTRSOz87k)
 - [Testnet 5 launch](https://groups.google.com/g/bitcoindev/c/DmFiHeo-xRw)
-- [](https://groups.google.com/g/bitcoindev/c/yoL5VVMO4Qg)
+- [(BIP Draft) Co-signer spending policies](https://groups.google.com/g/bitcoindev/c/yoL5VVMO4Qg)
 - [(Proposal) Tapleaf 0xc2: An overview of the Great Script Restoration (GSR)](https://groups.google.com/g/bitcoindev/c/wTUXHpzpV60)
 - [Draft BIPs: anti-exfil signing for BIP340 and ECDSA, with PSBT fields](https://groups.google.com/g/bitcoindev/c/cB37_jChkEI)
 - [Quantum Landmines and Vulnerable Coin Auctions](https://groups.google.com/g/bitcoindev/c/ARMwWdWcz9A)
