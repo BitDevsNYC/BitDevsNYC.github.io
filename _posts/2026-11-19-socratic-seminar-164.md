@@ -17,8 +17,13 @@ Follow New York BitDevs on:
 - [BlueSky](https://bsky.app/profile/bitdevsnyc.bsky.social)
 - nostr: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup3hqs`
 
-## Presentation
--
+
+## 🔥 Hot Stuff 🔥
+
+### Binance Hack
+- [FBI: North Korea Responsible for $6 Billion+ Binance Attack](https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack)
+- [Binance Hack: Tracing the $6.4 Billion Theft to North Korea](https://www.chainalysis.com/blog/binance-exploit-latest-findings-and-response/)
+- [29 October Binance Security Incident: Initial Findings and Response Update](https://x.com/binance/status/2117626126214504729)
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
@@ -55,7 +60,6 @@ Follow New York BitDevs on:
 - [Disclosure: Memory-exhaustion DoS in Eclair 0.14.0](https://delvingbitcoin.org/t/disclosure-memory-exhaustion-dos-in-eclair-0-14-0)
 - [Should wallets default to Taproot or SegWit receive addresses while some services still reject bc1p?](https://delvingbitcoin.org/t/should-wallets-default-to-taproot-or-segwit-receive-addresses-while-some-services-still-reject-bc1p)
 - [TULIP: Permissionless Decentralized Identity](https://delvingbitcoin.org/t/tulip-permissionless-decentralized-identity)
-- [Direct Messages (DMs)](https://delvingbitcoin.org/t/direct-messages-dms)
 - [Full OP_RETURN value pruning](https://delvingbitcoin.org/t/full-op-return-value-pruning)
 - [Machine-checked soundness of BIP340 batch verification with 128-bit derived randomizers](https://delvingbitcoin.org/t/machine-checked-soundness-of-bip340-batch-verification-with-128-bit-derived-randomizers)
 - [Snowball to Snowstorm](https://delvingbitcoin.org/t/snowball-to-snowstorm)
@@ -95,13 +99,9 @@ Follow New York BitDevs on:
 
 ### Optech
 - [Bitcoin Optech Newsletter #431](https://bitcoinops.org/en/newsletters/2026/11/13/)
-- [Bitcoin Optech Newsletter #430](https://bitcoinops.org/en/newsletters/2026/11/06/)
-- [Bitcoin Optech Newsletter #429](https://bitcoinops.org/en/newsletters/2026/10/30/)
-- [Bitcoin Optech Newsletter #428](https://bitcoinops.org/en/newsletters/2026/10/23/)
-- [Bitcoin Optech Newsletter #430 Recap Podcast](https://bitcoinops.org/en/podcast/2026/11/10/)
-- [Bitcoin Optech Newsletter #429 Recap Podcast](https://bitcoinops.org/en/podcast/2026/11/03/)
-- [Bitcoin Optech Newsletter #428 Recap Podcast](https://bitcoinops.org/en/podcast/2026/10/27/)
-- [Bitcoin Optech Newsletter #427 Recap Podcast](https://bitcoinops.org/en/podcast/2026/10/20/)
+- [Bitcoin Optech Newsletter #430](https://bitcoinops.org/en/newsletters/2026/11/06/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2026/11/10/)
+- [Bitcoin Optech Newsletter #429](https://bitcoinops.org/en/newsletters/2026/10/30/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2026/11/03/)
+- [Bitcoin Optech Newsletter #428](https://bitcoinops.org/en/newsletters/2026/10/23/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2026/10/27/)
 
 ## CVEs and Research
 ### Research
@@ -110,12 +110,9 @@ Follow New York BitDevs on:
 
 ### InfoSec
 - [Malicious server can replace a just-broadcast tx and try to trick user into RBF-ing it](https://github.com/spesmilo/electrum/security/advisories/GHSA-6jp4-8v48-cc5v)
-- [North Korea Responsible for $6 Billion+ Binance Attack | Federal Bureau of Investigation](https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack)
-- [Binance Hack: Tracing the $6.4 Billion Theft to North Korea](https://www.chainalysis.com/blog/binance-exploit-latest-findings-and-response/)
-- [29 October Binance Security Incident: Initial Findings and Response Update](https://x.com/binance/status/2117626126214504729)
 - [Security Incident Affecting BTCPay Server 2.4.1 and Earlier](https://blog.btcpayserver.org/btcpay-server-security-incident-2-4-1-and-earlier/)
-- [🚨 Reports of hot wallets on BTCPay Servers being swept by unauthorized attackers](https://x.com/BtcpayServer/status/2117020340815819262)
-- [Identificamos e contivemos com rapidez um incidente de segurança](https://x.com/MercadoBitcoin/status/2117239507263132056)
+- [Reports of hot wallets on BTCPay Servers being swept by unauthorized attackers](https://x.com/BtcpayServer/status/2117020340815819262)
+- [Mercado Bitcoin security incident](https://x.com/MercadoBitcoin/status/2117239507263132056)
 - [ANNOUNCEMENT: Spam emails sent that appear to have come from official Foundation domains](https://x.com/FoundationHQ/status/2114564656199069844)
 - [Linux's October 2026 TCP Use-After-Free: CVE-2026-98432](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
 - [CVE-2025-62860: thousands of Bitcoin nodes disabled DoS protection](https://antoinep.com/posts/cve-2025-62860/)
@@ -143,7 +140,7 @@ Follow New York BitDevs on:
 - [net_processing: always disconnect for SENDTXRCNCL after VERACK](https://github.com/bitcoin/bitcoin/pull/36752)
 - [rpc: Properly throw on internal I/O errors in GetTransaction](https://github.com/bitcoin/bitcoin/pull/35728)
 - [wallet: Delete `removeprunedfunds` RPC](https://github.com/bitcoin/bitcoin/pull/36333)
-- [rpc: Use self.Arg<_>(name) helper over manual and duplicate parsing](https://github.com/bitcoin/bitcoin/pull/36384)
+- [rpc: Use self.Arg helper over manual and duplicate parsing](https://github.com/bitcoin/bitcoin/pull/36384)
 - [wallet: rpc: Add snake_case aliases for wallet funding options](https://github.com/bitcoin/bitcoin/pull/36489)
 - [net: validate Tor onion service replies and cached keys](https://github.com/bitcoin/bitcoin/pull/36142)
 - [gui: Use PSBT v0](https://github.com/bitcoin/bitcoin/pull/36539)
@@ -193,9 +190,9 @@ Follow New York BitDevs on:
 - [fix(chain)!: reject changesets that alter the genesis block](https://github.com/bitcoindevkit/bdk/pull/2380)
 - [fix(bitcoind_rpc): allow filter_iter example to compile on Windows](https://github.com/bitcoindevkit/bdk/pull/2401)
 - [feat(core): add non-consuming SyncRequest iterators](https://github.com/bitcoindevkit/bdk/pull/2236)
-- [feat(chain)!: classify timelocked outputs as `Immature`](https://github.com/bitcoindevkit/bdk/pull/2321)
-- [Add `verify-standalone` and `verify-standalone-all` recipes](https://github.com/bitcoindevkit/bdk/pull/2031)
-- [fix(esplora,electrum): treat `parallel_requests`/`batch_size` of 0 as 1](https://github.com/bitcoindevkit/bdk/pull/2360)
+- [feat(chain)!: classify timelocked outputs as Immature](https://github.com/bitcoindevkit/bdk/pull/2321)
+- [Add verify-standalone and verify-standalone-all recipes](https://github.com/bitcoindevkit/bdk/pull/2031)
+- [fix(esplora,electrum): treat parallel_requests/batch_size of 0 as 1](https://github.com/bitcoindevkit/bdk/pull/2360)
 - [fix(electrum): return error when tip height overflows u32](https://github.com/bitcoindevkit/bdk/pull/2349)
 - [fix(electrum): error on batch response length mismatch](https://github.com/bitcoindevkit/bdk/pull/2334)
 - [fix(esplora): stop paging when the server does not advance the cursor](https://github.com/bitcoindevkit/bdk/pull/2361)
