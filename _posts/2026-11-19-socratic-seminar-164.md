@@ -121,12 +121,14 @@ Follow New York BitDevs on:
 - [Paraguay seizes major digital bank linked to President Santiago Peña](https://apnews.com/article/paraguay-ueno-digital-bank-seizure-santiago-pena-9d7521ddee45a185d2618c7e09a243a3)
 - [Crypto and AI's $250 million election goes sideways](https://www.citationneeded.news/2026-election-results/)
 - [Our CryptoBilis investigation: what we found and what we've changed](https://x.com/Trezor/status/2120880182173073421)
+- [BIP77 Key Tagging](https://gist.github.com/arminsabouri/dd8bd45f31346093d52b635cf5e679bc)
 
 ## Miscellaneous
 - [OpenBitcoin: Block Explorer, Tools and Knowledgebase](https://openbitcoin.com/)
 - [bitcoin-data: Bitcoin datasets](https://bitcoin-data.github.io/)
 - [Peer Map: a closer look at your node's peers](https://peermap.xyz/)
 - [spark.observer](https://spark.observer/)
+- [Hash Based Signature Parameter Explorer](https://arminsabouri.github.io/Hash-based-signature-parameter-explorer)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
